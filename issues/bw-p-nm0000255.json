@@ -11,8 +11,15 @@
     "era:multi",
     "privacy:public_record"
   ],
+  "comments": [
+    {
+      "text": "[news-id:553f80ca805c] [scout] news match 2026-05-10: \"Ben Affleck and Matt Damon sued by Miami cops for defamation over portrayal in their movie The Rip - Entertainment Weekly\"\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxPUjlDYTNxelNha2Z6NGJXSXZLRTA0RkY4ZjRFQWQzV2ZSMzNnMG5tU29iZVRfQjJ3N2NLTnViRVlLa2NWV3pybzc0T192UUZwLXdtN3I5UlpYOVVEREJIVnJ5bkNCN3lyeG1XcTgzdXd0UWYxcUJkYjBDZE1DeGVtMXBnclRTSEpYbWw5d2dSaFpTa2hHOVBtZjBQOGRQanpE?oc=5\nSummary: Ben Affleck and Matt Damon sued by Miami cops for defamation over portrayal in their movie The Rip Entertainment Weekly Netflix film depicting Miami Lakes drug bust damaged reputation of MDSO deputies, lawsuit alleges WSVN Matt Damon, Ben A",
+      "timestamp": "2026-05-11T05:39:00Z"
+    }
+  ],
   "priority": 2,
   "status": "open",
   "title": "Ben Affleck",
-  "type": "task"
+  "type": "task",
+  "updated_at": "2026-05-11T05:39:00Z"
 }
