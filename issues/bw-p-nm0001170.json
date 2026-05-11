@@ -12,8 +12,15 @@
     "is:deceased",
     "privacy:public_record"
   ],
+  "comments": [
+    {
+      "text": "[news-id:08b6a07c9a72] [scout] news match 2026-05-10: \"The Sheep Detectives Earns Hugh Jackman's Biggest Non-Marvel Box Office Debut In 13 Years - ScreenRant\"\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxPMlFqZmgxZjgzU3VwakN2RjBnS2ppcHU2OEx0WGFlWkJmR0RfTWNyZFAwSnpDMnpBMkJ3MmFRWFB3SzBoYmduaG8zSlk4bG1BS2xDRkFBemFFS190S3lSa05TVnZzb3U2QUc1aFR4RkNITEZwd1FIbnhKbzFJR1B2ZXJXZ2ZVZl9XSXBZWTBQY0JmRDZtZnA2ekJB?oc=5\nSummary: The Sheep Detectives Earns Hugh Jackman's Biggest Non-Marvel Box Office Debut In 13 Years ScreenRant ‘The Sheep Detectives’ Review: A Murder Most Fleecy The New York Times Is 'The Sheep Detectives' movie OK for kids? What parents need to kn",
+      "timestamp": "2026-05-11T05:37:26Z"
+    }
+  ],
   "priority": 2,
   "status": "open",
   "title": "Roger Ebert",
-  "type": "task"
+  "type": "task",
+  "updated_at": "2026-05-11T05:37:26Z"
 }
