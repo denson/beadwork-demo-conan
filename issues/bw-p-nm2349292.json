@@ -11,8 +11,15 @@
     "era:conan_tbs",
     "privacy:public_record"
   ],
+  "comments": [
+    {
+      "text": "[news-id:caf3614a3da7] [scout] news match 2026-05-10: \"Dave Chappelle \u0026 Michelle Obama Joke That White People Are 'Not Good' At Being President On Her Podcast - Yahoo\"\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxOOVd3TDdiVEYyaFRpQUNTaEFQZG9SWVhHY3NkbXpkOTc5ZXpwc1RtRXJZYjZYdHFvV0pwdUEzYXhoaHAxT2d1aTFVSEFKMzY0aEZsNmRUTjU1M3NGMWZQV1pzSVlwaG4wS2lmeWRsSUhDM0tfeWVXdVNGQ0hqTWxkT3g4MExLWXl4TG1GX2xzcGVzd2tXNGE0ZTVvckZORlQzcmR3QVNWQQ?oc=5\nSummary: Dave Chappelle \u0026 Michelle Obama Joke That White People Are 'Not Good' At Being President On Her Podcast Yahoo Dave Chappelle tells Michelle Obama: ‘It’s insufferable what’s happening right now’ The Hill Michelle Obama Joins Dave Chappelle i",
+      "timestamp": "2026-05-11T05:41:09Z"
+    }
+  ],
   "priority": 2,
   "status": "open",
   "title": "Michelle Obama",
-  "type": "task"
+  "type": "task",
+  "updated_at": "2026-05-11T05:41:09Z"
 }
