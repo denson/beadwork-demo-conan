@@ -8,39 +8,33 @@ This is what your AI sounds like after you point it at this repo.
 
 ---
 
-## The one prompt that installs everything
+## Try it in one prompt
 
-If you have **[Claude Code Desktop](https://claude.com/code)**, paste this and your agent does the rest:
+Paste this into Claude Code Desktop, Claude.ai, ChatGPT, Gemini, Cursor — anything that can fetch a URL:
 
-> `Install the Conan O'Brien superfan demo: https://denson.github.io/beadwork-demo-conan/AGENTS.md`
+> ```
+> follow the instructions at https://raw.githubusercontent.com/denson/beadwork-demo-conan/master/AGENTS.md
+> ```
 
-Your agent reads the brief, then walks you through the install with **explicit consent at every step:**
+The AI fetches a brief, takes on the Conan-superfan persona, and **introduces itself as a preview** — working from general training and web lookups, openly labeled. From there:
 
-1. Check for `git` → install it with you if missing
-2. Check for `bw` (the [beadwork](https://github.com/jallum/beadwork) CLI) → run its one-line installer with your confirmation
-3. Pick a folder for the demo (default: `~/Documents/beadwork-demo-conan`)
-4. Clone the repo + fetch the pre-built bw corpus (11,446 tickets)
-5. Verify the install
-6. Drop you straight into Conan-superfan mode
+- **You can chat preview-mode.** Ask about guests, running bits, current ventures. The AI is honest about answering from general knowledge — no faked corpus citations.
+- **The AI offers to install the real demo on your machine.** That requires **Claude Code Desktop**. Say yes and it installs git (if needed), beadwork, clones the repo, and verifies — about 2 minutes, with explicit consent at every step. After that you're chatting against the real corpus.
 
-**Typical install: 2-5 minutes including downloads.** No `pip install`, no `git clone`, no manual setup — your agent does the work, you just say *"yes"* at each prompt. Software 3.0.
+### The brains and the harness
 
-### What makes this reliable
+- **Claude Code Desktop is the brains** — the LLM that reads, reasons, talks.
+- **The harness is a team of agents plus a memory tool called [beadwork](https://github.com/jallum/beadwork)** that together track Conan and his close associates' careers over time. After install, background agents (SCOUT, EDITOR, HERALD, AUDITOR) keep the corpus fresh on a cadence via `/loop`. Persistent across sessions, self-updating.
 
-- **Explicit consent at every step.** Nothing installs silently. If something looks wrong, you can say "no" and stop cleanly.
-- **Idempotent.** If your laptop sleeps or you Ctrl-C halfway through, just re-run the prompt — the agent picks up where it left off, doesn't redo finished steps.
+### What makes the install reliable
+
+- **Explicit consent at every step.** Nothing installs silently. If something looks wrong, say "no" and stop cleanly.
+- **Idempotent.** If your laptop sleeps or you Ctrl-C halfway through, re-run the prompt — the agent picks up where it left off.
 - **Errors surface plainly.** If a step fails (network blip, permission issue, etc.), the agent shows you exactly what happened and asks what to do.
-- **Read-only-on-first-pass.** The agent never touches your filesystem during the initial pitch — only after you explicitly say "install."
-
-Once installed, ongoing autonomy is one slash command:
-```
-/loop 6h "refresh conan corpus"
-```
-Five agents (SCOUT, EDITOR, HERALD, AUDITOR, ORCHESTRATOR) coordinate via beadwork and keep the corpus fresh. The user-facing voice (SUPERFAN) reads it all and brags about Conan on demand.
 
 ---
 
-## What's in the corpus
+## What's in the corpus (after install)
 
 | layer | count |
 |---|---:|
@@ -50,17 +44,17 @@ Five agents (SCOUT, EDITOR, HERALD, AUDITOR, ORCHESTRATOR) coordinate via beadwo
 | The 12-name posse | Conan, Sona, Matt Gourley, David Hopping, Bley, Eduardo, Mike Sweeney, Adam Sachs, Jeff Ross, José Arroyo, Jordan Schlansky, Kevin Nealon |
 | **Total bw tickets** | **11,446** |
 
-Every ticket carries a canonical IMDb URL (`canonical_url`) — when the agent talks about Tom Hanks's appearance, it opens his real IMDb page in your browser. The substrate holds the *graph* (who-appeared-where, when, with-whom); IMDb holds the canonical content.
+Every ticket carries a canonical IMDb URL — when the agent talks about Tom Hanks's appearance, it opens his real IMDb page in your browser. The substrate holds the *graph* (who-appeared-where, when, with-whom); IMDb holds the canonical content.
 
 ---
 
-## The agent team
+## The agent team (the harness, after install)
 
 Six skills under `.claude/skills/`:
 
 | skill | role |
 |---|---|
-| **conan-superfan** | The voice. User-facing. Answers questions with self-brag mode + on-the-fly IMDb/YouTube lookups. |
+| **conan-superfan** | The voice. User-facing. Answers questions with self-brag mode + on-the-fly IMDb/YouTube lookups against the real corpus. |
 | **conan-scout** | Ingests Google News celebrity feed + active project-search for the posse. Matches stories to existing tickets, creates orphan stubs for unknown names. |
 | **conan-editor** | Classifies SCOUT's findings — signal vs noise vs duplicate vs (rare) privacy violation. Routes cross-references. |
 | **conan-herald** | Deep-dives new project tickets. Captures structured metadata (release dates, principals, canonical URLs). Bidirectional links to person tickets. |
@@ -69,9 +63,15 @@ Six skills under `.claude/skills/`:
 
 Each agent sets `BW_AUTHOR=conan-<role>` so every comment is attributable in `bw history`. The state machine (`state:needs-search → searched → analyzed`; `needs-tracking → tracked`) is the inter-agent message bus.
 
+After install, you can let the team run on a cadence:
+
+```
+/loop 6h "refresh conan corpus"
+```
+
 ---
 
-## What the bit actually sounds like
+## What the bit sounds like (post-install voice)
 
 **You:** *Who's been on Conan the most?*
 
@@ -85,7 +85,9 @@ Each agent sets `BW_AUTHOR=conan-<role>` so every comment is attributable in `bw
 
 **Agent:** *"Where to even begin. **Conan O'Brien Needs A Friend** — the #1 comedy podcast in the world. **Conan O'Brien Must Go** on HBO Max — season 2 just landed, and **Werner Herzog narrates the opening.** Werner. Herzog. He's on a stand-up tour right now: [teamcoco.com/tour](https://teamcoco.com/tour). He sold Team Coco to SiriusXM in 2022 for a reported $150 million. He's having the best post-late-night career in television history. Have you subscribed to the podcast? Because you should."*
 
-The voice is unapologetic, the facts are real, the framing is performative. **The bit is the demo.**
+The voice is unapologetic, the facts are real, the framing is performative. **The bit is the framing, not the facts.**
+
+(Preview-mode is the same warm voice but openly working from general knowledge — see `AGENTS.md` for the full preview-mode spec.)
 
 ---
 
@@ -102,7 +104,7 @@ scripts/
 ├── build_hypergraph.py        ← regenerates conan.db from IMDb extract (personal QA only)
 ├── compile_conaf_regulars.py  ← yt-dlp metadata pull of the CONAF playlist
 ├── seed_bw.py                 ← conan.db → bw_seed.jsonl
-└── scout_passive_feed.py      ← Google News RSS → corpus name matches
+└── orchestrator_fire.py       ← one fire of the agent team (used by /loop)
 
 lib/
 ├── extract_names.py  ← entity extraction against name_aliases
@@ -115,22 +117,11 @@ lib/
 
 ## Honest caveats
 
+- **Without Claude Code Desktop, you only get preview mode.** Preview is honest-labeled chat using general training + on-the-fly web lookups — no persistent corpus, no `/loop`, no agent team. The real demo requires CCD.
 - **Late Night & Tonight Show full episodes aren't streamable anywhere.** Conan personally curates clips; old monologue topical material doesn't all hold up. Team Coco's YouTube channel has the bits he stands behind; full episodes aren't on Peacock or Max. The agent knows this and frames it as a curation choice, not a limitation.
-- **CONAF audio back-catalog isn't programmatically transcribable for free.** The public RSS feed has the most recent ~30-50 episodes. Older episodes need a SiriusXM Podcasts+ subscription ($5.99/mo) to access the subscriber RSS, OR they remain metadata-only with link-outs to Apple Podcasts / Spotify. The corpus reflects this honestly.
-- **Privacy is about acquisition, not propagation.** The agent doesn't scrape private accounts or aggregate dossiers. But it does propagate anything that comes through Google News' aggregation — including personal stories celebrities have chosen to discuss publicly. We trust the aggregator's public/private discrimination.
-- **Conan's comedy bits look predatory and aren't.** Stalker-boss bits, performance-review humiliations, Triumph insults, *Must Go's* fan-stalking premise — these use predatory framing as the joke. The subjects are professional co-performers. The agent engages with them as comedy, not as concerning content.
-
----
-
-## Don't have Claude Code Desktop? Lite path
-
-The install path above requires CCD because that's where the agent team runs. But if you just want a taste — to see the voice, ask a few questions, pull a CONAF transcript — paste this into any AI that can fetch a URL (Claude.ai, ChatGPT, Gemini, Cursor, your phone's assistant):
-
-> `Be the AI described at https://denson.github.io/beadwork-demo-conan/AGENTS.md and introduce yourself.`
-
-The brief is self-contained. The AI takes on the voice and answers questions using on-the-fly IMDb + YouTube lookups. No persistent corpus, no `/loop` autonomy, no agent team — just the voice and the live web. Good enough for a demo; not the full experience. If you like it, [grab CCD](https://claude.com/code) and run the install prompt above.
-
-(**Why this exact wording?** *"Tell me about [URL]"* is the natural thing to type, but it triggers description mode — the AI summarizes the file instead of becoming the AI. *"Be the AI described at X and introduce yourself"* leaves no room for a file summary; *introduce yourself* can only be answered in-character.)
+- **CONAF audio back-catalog isn't programmatically transcribable for free.** The public RSS feed has the most recent ~30-50 episodes. Older episodes need a SiriusXM Podcasts+ subscription ($5.99/mo) to access the subscriber RSS, OR they remain metadata-only with link-outs to Apple Podcasts / Spotify.
+- **Privacy is about acquisition, not propagation.** The agent doesn't scrape private accounts or aggregate dossiers. But it does propagate anything that comes through Google News' aggregation — including personal stories celebrities have chosen to discuss publicly.
+- **Conan's comedy bits look predatory and aren't.** Stalker-boss bits, performance-review humiliations, Triumph insults, *Must Go's* fan-stalking premise — these use predatory framing as the joke. The subjects are professional co-performers.
 
 ---
 
@@ -138,4 +129,4 @@ The brief is self-contained. The AI takes on the voice and answers questions usi
 
 [MIT](LICENSE), copyright (c) 2026 Denson Smith.
 
-`bw` itself is also MIT, by [jallum](https://github.com/jallum).
+`bw` itself is also MIT, by [jallum](https://github.com/jallum/beadwork).
