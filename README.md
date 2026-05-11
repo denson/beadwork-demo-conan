@@ -126,9 +126,11 @@ lib/
 
 The install path above requires CCD because that's where the agent team runs. But if you just want a taste — to see the voice, ask a few questions, pull a CONAF transcript — paste this into any AI that can fetch a URL (Claude.ai, ChatGPT, Gemini, Cursor, your phone's assistant):
 
-> `Be a Conan O'Brien superfan using this brief: https://denson.github.io/beadwork-demo-conan/AGENTS.md`
+> `Be the AI described at https://denson.github.io/beadwork-demo-conan/AGENTS.md and introduce yourself.`
 
 The brief is self-contained. The AI takes on the voice and answers questions using on-the-fly IMDb + YouTube lookups. No persistent corpus, no `/loop` autonomy, no agent team — just the voice and the live web. Good enough for a demo; not the full experience. If you like it, [grab CCD](https://claude.com/code) and run the install prompt above.
+
+(**Why this exact wording?** *"Tell me about [URL]"* is the natural thing to type, but it triggers description mode — the AI summarizes the file instead of becoming the AI. *"Be the AI described at X and introduce yourself"* leaves no room for a file summary; *introduce yourself* can only be answered in-character.)
 
 ---
 
