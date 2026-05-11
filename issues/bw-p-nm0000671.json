@@ -12,8 +12,15 @@
     "is:regular_tv_guest",
     "privacy:public_record"
   ],
+  "comments": [
+    {
+      "text": "[news-id:347308034060] [scout] news match 2026-05-10: \"Billy Bob Thornton Opens Up About Rare Health Condition, Talks His Restrictive Diet - Just Jared\"\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxOZkxWZEppQjBVaEU0d3J0YV80T1U1MWNJdi14Mmh1S3JEZHFwOWpacC1XRi1GeUNCTlBxdUJfeXVlRWtVWW9rVmNsZVNxM01NM2NKek1FWTBSQ1lTOUMwQ3hSMEdUZEVhb0szQlJvbGRsaGhPQ2hKMnB2NlFzdWltSmFIVE9fUFNRVmpfdjF1MWZubnBaYnRObGF5N0NOM2FfeVRkUWZhSnh5bXZMQVNERGpobkJWUGl2VElwRw?oc=5\nSummary: Billy Bob Thornton Opens Up About Rare Health Condition, Talks His Restrictive Diet Just Jared Billy Bob Thornton reveals the lifelong health battle behind his extreme diet Fox News Billy Bob Thornton on Rare Health Condition That Led to Hi",
+      "timestamp": "2026-05-11T05:39:30Z"
+    }
+  ],
   "priority": 2,
   "status": "open",
   "title": "Billy Bob Thornton",
-  "type": "task"
+  "type": "task",
+  "updated_at": "2026-05-11T05:39:30Z"
 }
