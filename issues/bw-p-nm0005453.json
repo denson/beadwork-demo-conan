@@ -11,8 +11,15 @@
     "era:late_night",
     "privacy:public_record"
   ],
+  "comments": [
+    {
+      "text": "[news-id:c6df33017da9] [scout] news match 2026-05-10: \"Britney Spears opens up about ‘spiritual journey’ following reckless driving guilty plea - NBC News\"\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxPWmtReDl5aE5QcFV2ZVFERk9USVlYNU9lck5rTXpDRWxhemlCR0Q1V1hTdERYNF85dlJCUjZfbGs4NFUycTFOcURQaXFtR0t1YjBhbnBnZGxOR2dpVEhCWml0LW1wNVg0d2dZa1lXdzZxc0JUeERVYnNqZU54ckJXd2hlVHc2c0FKYjZ3TEZDR29sLTFnVGNLNDBKc2NscWtaeE5teDg1a080MHhOOVV6UENsc294YUZMSUE?oc=5\nSummary: Britney Spears opens up about ‘spiritual journey’ following reckless driving guilty plea NBC News Britney Spears says she’s on a spiritual journey after pleading guilty in DUI case: ‘Blessing in disguise’ Page Six Britney Spears breaks sile",
+      "timestamp": "2026-05-11T05:40:02Z"
+    }
+  ],
   "priority": 2,
   "status": "open",
   "title": "Britney Spears",
-  "type": "task"
+  "type": "task",
+  "updated_at": "2026-05-11T05:40:02Z"
 }
