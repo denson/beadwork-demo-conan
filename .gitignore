@@ -17,4 +17,5 @@ Thumbs.db
 # Local artifacts (the IMDb-cached filmography stays personal-only)
 data/extend.log
 data/conan_full.db
+data/.tmp/
 *.tmp
