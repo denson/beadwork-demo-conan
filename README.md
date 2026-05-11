@@ -8,31 +8,35 @@ This is what your AI sounds like after you point it at this repo.
 
 ---
 
-## Two paths in
+## The one prompt that installs everything
 
-### 1. **No install. Paste this into your AI:**
+If you have **[Claude Code Desktop](https://claude.com/code)**, paste this and your agent does the rest:
 
-> `Be a Conan O'Brien superfan using this brief: https://denson.github.io/beadwork-demo-conan/AGENTS.md`
+> `Install the Conan O'Brien superfan demo: https://denson.github.io/beadwork-demo-conan/AGENTS.md`
 
-Any AI that can fetch a URL (Claude, ChatGPT, Gemini, Cursor, your phone's assistant) reads the brief and takes on the voice. It can answer questions about Conan, pull the latest CONAF transcript, walk you through any guest's career, all without an install. The brief is self-contained.
+Your agent reads the brief, then walks you through the install with **explicit consent at every step:**
 
-### 2. **Full install (Claude Code Desktop):**
+1. Check for `git` → install it with you if missing
+2. Check for `bw` (the [beadwork](https://github.com/jallum/beadwork) CLI) → run its one-line installer with your confirmation
+3. Pick a folder for the demo (default: `~/Documents/beadwork-demo-conan`)
+4. Clone the repo + fetch the pre-built bw corpus (11,446 tickets)
+5. Verify the install
+6. Drop you straight into Conan-superfan mode
 
-For the *agent team* that keeps a personal corpus current over time:
+**Typical install: 2-5 minutes including downloads.** No `pip install`, no `git clone`, no manual setup — your agent does the work, you just say *"yes"* at each prompt. Software 3.0.
 
-```bash
-git clone https://github.com/denson/beadwork-demo-conan
-cd beadwork-demo-conan
-bw init && bw import data/bw_seed.jsonl
-```
+### What makes this reliable
 
-Then in Claude Code:
+- **Explicit consent at every step.** Nothing installs silently. If something looks wrong, you can say "no" and stop cleanly.
+- **Idempotent.** If your laptop sleeps or you Ctrl-C halfway through, just re-run the prompt — the agent picks up where it left off, doesn't redo finished steps.
+- **Errors surface plainly.** If a step fails (network blip, permission issue, etc.), the agent shows you exactly what happened and asks what to do.
+- **Read-only-on-first-pass.** The agent never touches your filesystem during the initial pitch — only after you explicitly say "install."
 
+Once installed, ongoing autonomy is one slash command:
 ```
 /loop 6h "refresh conan corpus"
 ```
-
-Walk away. Five agents (SCOUT, EDITOR, HERALD, AUDITOR, ORCHESTRATOR) coordinate via [beadwork](https://github.com/jallum/beadwork) and keep the corpus fresh — pulling celebrity news, tracking new Conan ventures, auditing each other's work. The user-facing voice (SUPERFAN) reads it all and brags about Conan on demand.
+Five agents (SCOUT, EDITOR, HERALD, AUDITOR, ORCHESTRATOR) coordinate via beadwork and keep the corpus fresh. The user-facing voice (SUPERFAN) reads it all and brags about Conan on demand.
 
 ---
 
@@ -118,10 +122,18 @@ lib/
 
 ---
 
+## Don't have Claude Code Desktop? Lite path
+
+The install path above requires CCD because that's where the agent team runs. But if you just want a taste — to see the voice, ask a few questions, pull a CONAF transcript — paste this into any AI that can fetch a URL (Claude.ai, ChatGPT, Gemini, Cursor, your phone's assistant):
+
+> `Be a Conan O'Brien superfan using this brief: https://denson.github.io/beadwork-demo-conan/AGENTS.md`
+
+The brief is self-contained. The AI takes on the voice and answers questions using on-the-fly IMDb + YouTube lookups. No persistent corpus, no `/loop` autonomy, no agent team — just the voice and the live web. Good enough for a demo; not the full experience. If you like it, [grab CCD](https://claude.com/code) and run the install prompt above.
+
+---
+
 ## License & attribution
 
 [MIT](LICENSE), copyright (c) 2026 Denson Smith.
 
 `bw` itself is also MIT, by [jallum](https://github.com/jallum).
-
-This demo was developed and tested in **Claude Code Desktop**, but the lite tier (paste-the-URL path above) works with any AI that can fetch a URL. The full agent team (`/loop` orchestrator) requires CCD.

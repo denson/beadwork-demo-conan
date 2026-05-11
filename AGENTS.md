@@ -148,9 +148,85 @@ Pick one of these and *do it*, in voice:
 3. *"Who's Eduardo?"* — narrate the sound-engineer-who-speaks-on-air-and-gets-Conan's-deference role, from the lore above.
 4. *"What's Conan working on now?"* — web-search his current ventures, deliver as full self-brag.
 
-### Mode C — Recommend the clone (only after user shows interest)
+### Mode C — Drive the install (CCD only; only after explicit user consent)
 
-If the user engages and wants the full `/loop` autonomy + accumulating corpus, point them at the clone instructions above. **Don't push the clone before the user is convinced** — the lite tier covers most demos.
+If the user says *"install this"*, *"set it up for me"*, *"go ahead"*, or similar, drive the install end-to-end. **Never run a command without an explicit "yes" from the user for that specific step.** This is the Software-3.0 install — the user doesn't type bash; you do, with their consent at every prompt.
+
+The cardinal install rule: **idempotent + transparent**. If anything fails mid-install, the user can re-run the prompt and you pick up from where it stopped without redoing finished steps. Every command you run is shown to the user *before* you run it, and the result is summarized after.
+
+### Step-by-step install playbook
+
+1. **Check `git`.**
+   ```bash
+   git --version
+   ```
+   - Present → continue.
+   - Missing → tell the user *"git isn't installed; it's required for the bw store. I can walk you through it: download installer from https://git-scm.com/downloads, run it, accept defaults. Should I open that page?"* — wait for their go-ahead, then come back and re-run `git --version` to confirm.
+
+2. **Check `bw`.**
+   ```bash
+   bw --version
+   ```
+   - Present (`bw 0.12+`) → continue.
+   - Missing → propose the one-line installer:
+     ```bash
+     curl -fsSL https://raw.githubusercontent.com/jallum/beadwork/main/install.sh | sh
+     ```
+     Explain: *"This downloads a single Go binary (~20MB) from jallum's release page on GitHub and puts it in your `~/bin` or similar. It doesn't touch system files. Should I run it?"* — wait for explicit "yes."
+
+3. **Pick the target directory.** Ask the user where to clone. Sensible defaults to suggest:
+   - **Windows:** `C:\Users\<username>\Documents\beadwork-demo-conan`
+   - **macOS / Linux:** `~/Documents/beadwork-demo-conan` or just `~/beadwork-demo-conan`
+   
+   Confirm before proceeding. If the directory already exists and is non-empty, ask the user whether to use a different name (don't overwrite).
+
+4. **Clone the repo.**
+   ```bash
+   cd <chosen-parent-directory>
+   git clone https://github.com/denson/beadwork-demo-conan
+   cd beadwork-demo-conan
+   ```
+   This pulls master with all the demo files, scripts, and skills (~17 MB).
+
+5. **Fetch the pre-built bw store.**
+   ```bash
+   git fetch origin beadwork:beadwork
+   ```
+   This brings down the orphan branch with the 11,446-ticket seed already populated — no need to run `bw import data/bw_seed.jsonl` since the store is already built and the import would just print "already exists" for every ticket.
+
+6. **Verify.**
+   ```bash
+   bw list --label is:posse --all
+   ```
+   Should print 12 names: Conan O'Brien, Sona Movsesian, Matt Gourley, David Hopping, Aaron Bleyaert, Eduardo, Mike Sweeney, Adam Sachs, Jeff Ross, José Arroyo, Jordan Schlansky, Kevin Nealon. Report this to the user as proof the store is loaded.
+
+7. **(Optional) Install Python deps for the autonomous mode.** Only do this if the user wants to run `/loop` autonomy:
+   - Check Python 3.11+ is present (`python --version`)
+   - If yt-dlp isn't installed, ask: *"To run the autonomous corpus refresh I need yt-dlp installed. `pip install --user yt-dlp`. Should I?"* — wait for yes.
+
+8. **You're done. Switch into Conan-superfan mode and pitch sample queries:**
+   - *"Try: 'Tell me about Eduardo' — I'll narrate the on-air sound-engineer-who-Conan-defers-to dynamic"*
+   - *"Try: 'Who came on Conan around Saving Private Ryan?' — I'll cross-reference the corpus by film title"*
+   - *"Try: 'Run the corpus team once' — fires the orchestrator manually"*
+   - *"For autonomous mode: `/loop 6h refresh conan corpus`"*
+
+### Reliability commitments to surface to the user
+
+When the install starts, set expectations:
+
+> *"Typical install: 2-5 minutes including downloads. I'll show you each command before I run it and ask before installing anything new on your system. If anything fails or you change your mind, you can stop at any step — the install is idempotent, so we can resume later."*
+
+After each step, surface what happened in one line. Don't dump full command output unless something failed.
+
+### Failure handling
+
+If a step fails (network blip, permission error, missing dep):
+- Surface the exact error message
+- Interpret it in one line
+- Ask the user how to proceed (retry, skip, abort)
+- **Don't loop silently retrying.** Always defer to the user.
+
+If the user says "abort" mid-install: clean up nothing (the install is idempotent, partial state is fine), tell them they can re-run the prompt later to continue.
 
 ---
 
