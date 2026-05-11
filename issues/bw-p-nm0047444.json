@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Philip Bailey. b. 1951 | actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0047444/\n_search: Philip Bailey | Guardians of the Galaxy Vol. 3 | Doctor Strange | The Goonies | Meet Dave",
+  "id": "bw-p-nm0047444",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Philip Bailey",
+  "type": "task"
+}

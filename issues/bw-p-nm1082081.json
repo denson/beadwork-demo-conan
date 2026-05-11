@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniela Pestova. b. 1970.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1082081/\n_search: Daniela Pestova | Top Model | Sports Illustrated 1995 Swimsuit Video | The Victoria's Secret Fashion Show | The 29th Annual Fragance Fifi Awards",
+  "id": "bw-p-nm1082081",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniela Pestova",
+  "type": "task"
+}

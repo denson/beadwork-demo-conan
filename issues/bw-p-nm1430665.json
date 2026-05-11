@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Watkins. b. 1970 | editor, editorial_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1430665/\n_search: Jason Watkins | Saturday Night Live | Scar | Blue Gold: American Jeans | Relative Evil",
+  "id": "bw-p-nm1430665",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Watkins",
+  "type": "task"
+}

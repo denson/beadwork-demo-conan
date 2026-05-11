@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taron Egerton. b. 1989 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5473782/\n_search: Taron Egerton | Kingsman: The Secret Service | Rocketman | Kingsman: The Golden Circle | Eddie the Eagle",
+  "id": "bw-p-nm5473782",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taron Egerton",
+  "type": "task"
+}

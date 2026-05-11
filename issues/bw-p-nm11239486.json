@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kuami Eugene. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11239486/\n_search: Kuami Eugene | The Brit Awards 2022",
+  "id": "bw-p-nm11239486",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kuami Eugene",
+  "type": "task"
+}

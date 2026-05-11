@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emeril Lagasse. b. 1959 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0991849/\n_search: Emeril Lagasse | Last Holiday | The Princess and the Frog | Emeril | Eat the World with Emeril Lagasse",
+  "id": "bw-p-nm0991849",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emeril Lagasse",
+  "type": "task"
+}

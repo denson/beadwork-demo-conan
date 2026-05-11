@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Earl Jones. 1931–2024 | actor, soundtrack, archive_footage.\nDECEASED (1931–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000469/\n_search: James Earl Jones | Rogue One: A Star Wars Story | The Lion King | Field of Dreams | The Hunt for Red October",
+  "id": "bw-p-nm0000469",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Earl Jones",
+  "type": "task"
+}

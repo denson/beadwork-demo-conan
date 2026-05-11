@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Kiehl. actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0452415/\n_search: Amy Kiehl | You're Killing Me... | Fixing Frank | Tanto tiempo | Ingrid Michaelson's Girls Chase Boys",
+  "id": "bw-p-nm0452415",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Kiehl",
+  "type": "task"
+}

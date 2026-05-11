@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Freddie Wong. b. 1985 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3087799/\n_search: Freddie Wong | Video Game High School | Anime Crimes Division | RocketJump: The Show | We're All Gonna Die",
+  "id": "bw-p-nm3087799",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Freddie Wong",
+  "type": "task"
+}

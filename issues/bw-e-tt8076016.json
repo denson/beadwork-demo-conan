@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Hart/Nash Edgerton. conan_tbs, S8E42, 2018.\nRuntime: 42 min.\nIMDb rating: 4.4.\nIMDb: https://www.imdb.com/title/tt8076016/\n_search: Kevin Hart/Nash Edgerton | 2018 | S8E42",
+  "id": "bw-e-tt8076016",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Hart/Nash Edgerton",
+  "type": "task"
+}

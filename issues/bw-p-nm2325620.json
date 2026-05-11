@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Todd. b. 1972 | writer, actor, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2325620/\n_search: Chuck Todd | Heads of State | NBC Nightly News with Tom Llamas | Meet the Press NOW | Meet the Press Reports",
+  "id": "bw-p-nm2325620",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Todd",
+  "type": "task"
+}

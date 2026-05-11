@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "RZA. b. 1969 | actor, writer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0753526/\n_search: RZA | The Man with the Iron Fists | American Gangster | Brick Mansions | Repo Men",
+  "id": "bw-p-nm0753526",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "RZA",
+  "type": "task"
+}

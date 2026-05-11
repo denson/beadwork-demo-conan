@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samuel Comroe. writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3822232/\n_search: Samuel Comroe | Don´t Blink | Real Husbands of Hollywood | Detroit International Comedy Festival | Normal Behavior",
+  "id": "bw-p-nm3822232",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samuel Comroe",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rip Torn. 1931–2019 | actor, director, producer.\nDECEASED (1931–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001800/\n_search: Rip Torn | Men in Black | Freddy Got Fingered | The Larry Sanders Show | The Man Who Fell to Earth",
+  "id": "bw-p-nm0001800",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rip Torn",
+  "type": "task"
+}

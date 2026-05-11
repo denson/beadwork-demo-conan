@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Paul/Bert Kreischer/Colony House. conan_tbs, S7E35, 2017.\nRuntime: 42 min.\nIMDb rating: 6.1.\nIMDb: https://www.imdb.com/title/tt6451056/\n_search: Aaron Paul/Bert Kreischer/Colony House | 2017 | S7E35",
+  "id": "bw-e-tt6451056",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Paul/Bert Kreischer/Colony House",
+  "type": "task"
+}

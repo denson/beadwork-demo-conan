@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Centeio. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm18195774/\n_search: George Centeio",
+  "id": "bw-p-nm18195774",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Centeio",
+  "type": "task"
+}

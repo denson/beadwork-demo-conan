@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mr. Lordi. b. 1974 | actor, art_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1073511/\n_search: Mr. Lordi | Dark Floors | Spy Games | The Tough Ones | In the Nick of Time",
+  "id": "bw-p-nm1073511",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mr. Lordi",
+  "type": "task"
+}

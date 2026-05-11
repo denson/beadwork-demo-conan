@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jodie Foster/Flula Borg/Neko Case. conan_tbs, S8E83, 2018.\nRuntime: 42 min.\nIMDb rating: 5.3.\nIMDb: https://www.imdb.com/title/tt8496066/\n_search: Jodie Foster/Flula Borg/Neko Case | 2018 | S8E83",
+  "id": "bw-e-tt8496066",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jodie Foster/Flula Borg/Neko Case",
+  "type": "task"
+}

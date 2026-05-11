@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fred Savage/Paula Patton/Shane Torres. conan_tbs, S7E128, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt7353970/\n_search: Fred Savage/Paula Patton/Shane Torres | 2017 | S7E128",
+  "id": "bw-e-tt7353970",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fred Savage/Paula Patton/Shane Torres",
+  "type": "task"
+}

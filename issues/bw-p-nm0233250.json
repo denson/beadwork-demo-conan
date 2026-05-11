@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Simon Doonan. b. 1953 | miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0233250/\n_search: Simon Doonan | Beverly Hills Cop | Intern | Steven Arnold: Heavenly Bodies | Gossip Girl",
+  "id": "bw-p-nm0233250",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Simon Doonan",
+  "type": "task"
+}

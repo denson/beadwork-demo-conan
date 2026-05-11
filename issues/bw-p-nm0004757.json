@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Selma Blair. b. 1972 | actress, archive_footage.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0004757/\n_search: Selma Blair | Cruel Intentions | Hellboy | The Sweetest Thing | Hellboy II: The Golden Army",
+  "id": "bw-p-nm0004757",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Selma Blair",
+  "type": "task"
+}

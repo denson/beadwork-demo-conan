@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Sander. b. 1969 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1511197/\n_search: Ben Sander | 2 Minutes Later | RuPaul's Drag Race | The Brini Maxwell Show | Club Cumming",
+  "id": "bw-p-nm1511197",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Sander",
+  "type": "task"
+}

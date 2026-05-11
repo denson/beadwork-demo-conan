@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tenacious D. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1627732/\n_search: Tenacious D | Tenacious D in the Pick of Destiny | Bio-Dome | Tenacious D: Post-Apocalypto | The Croods: A New Age",
+  "id": "bw-p-nm1627732",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tenacious D",
+  "type": "task"
+}

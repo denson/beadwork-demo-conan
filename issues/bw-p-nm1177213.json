@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jai Rodriguez. b. 1979 | actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1177213/\n_search: Jai Rodriguez | The Producers | Bros | Kiss Me, Kill Me | The New Guy",
+  "id": "bw-p-nm1177213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jai Rodriguez",
+  "type": "task"
+}

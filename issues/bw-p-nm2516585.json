@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joshua Radin. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2516585/\n_search: Joshua Radin | Dear John | Adam | The Lucky One | Catch and Release",
+  "id": "bw-p-nm2516585",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joshua Radin",
+  "type": "task"
+}

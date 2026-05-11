@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gore Vidal. 1925–2012 | writer, actor, archive_footage.\nDECEASED (1925–2012). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000683/\n_search: Gore Vidal | Gattaca | With Honors | Caligula | Suspense",
+  "id": "bw-p-nm0000683",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gore Vidal",
+  "type": "task"
+}

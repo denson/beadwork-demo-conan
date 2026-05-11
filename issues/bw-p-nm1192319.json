@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laura Maxwell. actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1192319/\n_search: Laura Maxwell | Enter the Dangerous Mind | Last Comic Standing | First | Chelsea Walls",
+  "id": "bw-p-nm1192319",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laura Maxwell",
+  "type": "task"
+}

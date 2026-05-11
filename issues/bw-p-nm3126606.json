@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Palin. b. 1964 | producer, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3126606/\n_search: Sarah Palin | The Undefeated | Big Miracle | The Corrupt Bastards Club | Who Is America?",
+  "id": "bw-p-nm3126606",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Palin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Galeit Sehayek. b. 1980 | production_department, actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1466865/\n_search: Galeit Sehayek | United States of Tara | Stalker Chronicles | The Stairwell | Stabbing at Leia's 22nd Birthday",
+  "id": "bw-p-nm1466865",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Galeit Sehayek",
+  "type": "task"
+}

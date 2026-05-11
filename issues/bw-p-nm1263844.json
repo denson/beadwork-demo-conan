@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Moore. writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1263844/\n_search: Hugh Moore | Government Cheese | Poppa's House | Survival of the Thickest | Vacation Friends",
+  "id": "bw-p-nm1263844",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Moore",
+  "type": "task"
+}

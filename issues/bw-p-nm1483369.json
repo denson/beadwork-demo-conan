@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris O'Dowd. b. 1979 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1483369/\n_search: Chris O'Dowd | Bridesmaids | Frequently Asked Questions About Time Travel | The Sapphires | Moone Boy",
+  "id": "bw-p-nm1483369",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris O'Dowd",
+  "type": "task"
+}

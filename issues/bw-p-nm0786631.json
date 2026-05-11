@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Sexton. b. 1968 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0786631/\n_search: Charlie Sexton | Boyhood | True Romance | Air America | Thelma \u0026 Louise",
+  "id": "bw-p-nm0786631",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Sexton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Salinger. b. 1960 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0758413/\n_search: Matt Salinger | Revenge of the Nerds | Captain America | Under the Tuscan Sun | The Ice Road",
+  "id": "bw-p-nm0758413",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Salinger",
+  "type": "task"
+}

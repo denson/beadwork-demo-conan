@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Day the Proofradar Quit. conan_tbs, S1E148, 2011.\nIMDb rating: 6.8.\nIMDb: https://www.imdb.com/title/tt2064056/\n_search: The Day the Proofradar Quit | 2011 | S1E148",
+  "id": "bw-e-tt2064056",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Day the Proofradar Quit",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Channing. 1921–2019 | actress, soundtrack, archive_footage.\nDECEASED (1921–2019). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0151919/\n_search: Carol Channing | Thoroughly Modern Millie | Sgt. Pepper's Lonely Hearts Club Band | Alice in Wonderland | Skidoo",
+  "id": "bw-p-nm0151919",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Channing",
+  "type": "task"
+}

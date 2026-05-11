@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bamboo Shoots. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2817721/\n_search: Bamboo Shoots",
+  "id": "bw-p-nm2817721",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bamboo Shoots",
+  "type": "task"
+}

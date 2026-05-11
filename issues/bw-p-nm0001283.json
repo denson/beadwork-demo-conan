@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Louis Gossett Jr.. 1936–2024 | actor, producer, director.\nDECEASED (1936–2024). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001283/\n_search: Louis Gossett Jr. | An Officer and a Gentleman | Enemy Mine | Jaws 3-D | Toy Soldiers",
+  "id": "bw-p-nm0001283",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Louis Gossett Jr.",
+  "type": "task"
+}

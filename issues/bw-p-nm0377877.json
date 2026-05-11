@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Henry. b. 1960 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0377877/\n_search: Joe Henry | Red State | Piranha 3DD | Baywatch | I'm Not There",
+  "id": "bw-p-nm0377877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Henry",
+  "type": "task"
+}

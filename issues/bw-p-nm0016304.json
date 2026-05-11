@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lou Albano. 1933–2009 | actor, soundtrack, archive_footage.\nDECEASED (1933–2009). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0016304/\n_search: Lou Albano | Wise Guys | The Super Mario Bros. Super Show! | Stay Tuned | WWF on MSG Network",
+  "id": "bw-p-nm0016304",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lou Albano",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Landry Miller. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8009326/\n_search: Landry Miller | Bluff | Terrible People | Hitters",
+  "id": "bw-p-nm8009326",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Landry Miller",
+  "type": "task"
+}

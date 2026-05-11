@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Weiss. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6307588/\n_search: Eric Weiss",
+  "id": "bw-p-nm6307588",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Weiss",
+  "type": "task"
+}

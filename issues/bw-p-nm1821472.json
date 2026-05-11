@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fareed Zakaria. b. 1964 | producer, writer, editorial_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1821472/\n_search: Fareed Zakaria | GPS Fareed Zakaria | Vice | Vice Special Report: A House Divided | Extraordinary with Fareed Zakaria",
+  "id": "bw-p-nm1821472",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fareed Zakaria",
+  "type": "task"
+}

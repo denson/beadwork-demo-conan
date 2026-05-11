@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Taibbi. b. 1970 | archive_footage, archive_sound.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1976365/\n_search: Matt Taibbi | Scared to Debt: America's Student Loan Scam | 99%: The Occupy Wall Street Collaborative Film | All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone | Abacus: Small Enough to Jail",
+  "id": "bw-p-nm1976365",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Taibbi",
+  "type": "task"
+}

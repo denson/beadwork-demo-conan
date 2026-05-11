@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lysette Anthony. b. 1963 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000771/\n_search: Lysette Anthony | Dracula: Dead and Loving It | Krull | Husbands and Wives | Hollyoaks",
+  "id": "bw-p-nm0000771",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lysette Anthony",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dermot Mulroney. b. 1963 | actor, music_department, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000551/\n_search: Dermot Mulroney | My Best Friend's Wedding | August: Osage County | Young Guns | The Wedding Date",
+  "id": "bw-p-nm0000551",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dermot Mulroney",
+  "type": "task"
+}

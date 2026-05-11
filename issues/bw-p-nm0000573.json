@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dolly Parton. b. 1946 | music_artist, music_department, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000573/\n_search: Dolly Parton | The Porter Wagoner Show | Dolly | Dolly | 9 to 5",
+  "id": "bw-p-nm0000573",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dolly Parton",
+  "type": "task"
+}

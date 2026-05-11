@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim McMullan. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1503754/\n_search: Jim McMullan | Camp Jim | The Sharon Osbourne Show",
+  "id": "bw-p-nm1503754",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim McMullan",
+  "type": "task"
+}

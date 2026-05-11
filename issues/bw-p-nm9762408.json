@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Superorganism. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9762408/\n_search: Superorganism | The Lego Movie 2: The Second Part | Legion | Someone Great | One of Us Is Lying",
+  "id": "bw-p-nm9762408",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Superorganism",
+  "type": "task"
+}

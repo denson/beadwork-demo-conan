@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Winslet. b. 1975 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000701/\n_search: Kate Winslet | Eternal Sunshine of the Spotless Mind | Titanic | Revolutionary Road | The Reader",
+  "id": "bw-p-nm0000701",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Winslet",
+  "type": "task"
+}

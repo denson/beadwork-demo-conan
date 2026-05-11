@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anne McDaniels. 1977–2024 | actress, producer, production_department.\nDECEASED (1977–2024). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1938310/\n_search: Anne McDaniels | The Unknown Trilogy | Attack of the 50 Foot Cheerleader | Apocalypse, CA | Chop Shop",
+  "id": "bw-p-nm1938310",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anne McDaniels",
+  "type": "task"
+}

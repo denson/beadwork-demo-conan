@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Goldblum/Jerrod Carmichael/Marina Franklin. conan_tbs, S5E132, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt4963192/\n_search: Jeff Goldblum/Jerrod Carmichael/Marina Franklin | 2015 | S5E132",
+  "id": "bw-e-tt4963192",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Goldblum/Jerrod Carmichael/Marina Franklin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Lee. actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3540101/\n_search: Kevin Lee | The Smurfs 2 | Check It Out! with Dr. Steve Brule | Kendra | Brides of Beverly Hills",
+  "id": "bw-p-nm3540101",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Lee",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Izabel Goulart. b. 1984 | actress.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2141112/\n_search: Izabel Goulart | Baywatch | Entourage | Formula 1 | French Open",
+  "id": "bw-p-nm2141112",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Izabel Goulart",
+  "type": "task"
+}

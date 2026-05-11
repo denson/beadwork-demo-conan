@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Annie Potts. b. 1952 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001633/\n_search: Annie Potts | Ghostbusters | Toy Story 4 | Pretty in Pink | Designing Women",
+  "id": "bw-p-nm0001633",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Annie Potts",
+  "type": "task"
+}

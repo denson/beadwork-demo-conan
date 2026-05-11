@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brooke Peoples. actress, cinematographer, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3494782/\n_search: Brooke Peoples | Insidious: Chapter 2 | Munger Road | Mistresses | Friday Night Lights",
+  "id": "bw-p-nm3494782",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brooke Peoples",
+  "type": "task"
+}

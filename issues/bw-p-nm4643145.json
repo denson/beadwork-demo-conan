@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay R. Adams. stunts, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4643145/\n_search: Jay R. Adams | Tulsa King | Ray Donovan | Outsiders | Batman v Superman: Dawn of Justice",
+  "id": "bw-p-nm4643145",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay R. Adams",
+  "type": "task"
+}

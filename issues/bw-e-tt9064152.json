@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Faris/Kyle Kinane/Nick Lowe and Los Straitjackets. conan_tbs, S8E113, 2018.\nRuntime: 42 min.\nIMDb rating: 8.5.\nIMDb: https://www.imdb.com/title/tt9064152/\n_search: Anna Faris/Kyle Kinane/Nick Lowe and Los Straitjackets | 2018 | S8E113",
+  "id": "bw-e-tt9064152",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Faris/Kyle Kinane/Nick Lowe and Los Straitjackets",
+  "type": "task"
+}

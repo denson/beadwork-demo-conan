@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sigourney Weaver/Frank Gorshin/Garth Brooks. late_night, S5E40, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627051/\n_search: Sigourney Weaver/Frank Gorshin/Garth Brooks | 1997 | S5E40",
+  "id": "bw-e-tt0627051",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sigourney Weaver/Frank Gorshin/Garth Brooks",
+  "type": "task"
+}

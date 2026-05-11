@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Norris. 1940–2026 | actor, music_department, producer.\nDECEASED (1940–2026). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001569/\n_search: Chuck Norris | Walker, Texas Ranger | The Expendables 2 | The Way of the Dragon | Invasion U.S.A.",
+  "id": "bw-p-nm0001569",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Norris",
+  "type": "task"
+}

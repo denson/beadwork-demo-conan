@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ninja Sex Party. writer, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10137324/\n_search: Ninja Sex Party | The Sacred Chalice with Ninja Sex Party | The Mythical Show",
+  "id": "bw-p-nm10137324",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ninja Sex Party",
+  "type": "task"
+}

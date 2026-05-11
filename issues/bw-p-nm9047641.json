@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brent Cobb. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9047641/\n_search: Brent Cobb | Front and Center | On the Trail of Americana Music | DittyTV's Eleven",
+  "id": "bw-p-nm9047641",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brent Cobb",
+  "type": "task"
+}

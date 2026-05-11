@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Elliott. b. 1944 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000385/\n_search: Sam Elliott | A Star Is Born | The Hero | Hulk | The Contender",
+  "id": "bw-p-nm0000385",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Elliott",
+  "type": "task"
+}

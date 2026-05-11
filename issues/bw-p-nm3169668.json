@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Black Angels. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3169668/\n_search: The Black Angels | Assassin's Creed | The Twilight Saga: Eclipse | In the Shadow of the Moon | Kill the Messenger",
+  "id": "bw-p-nm3169668",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Black Angels",
+  "type": "task"
+}

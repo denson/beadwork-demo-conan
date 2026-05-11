@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shelley Winters. 1920–2006 | actress, producer, soundtrack.\nDECEASED (1920–2006). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001859/\n_search: Shelley Winters | The Poseidon Adventure | Lolita | A Place in the Sun | A Patch of Blue",
+  "id": "bw-p-nm0001859",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shelley Winters",
+  "type": "task"
+}

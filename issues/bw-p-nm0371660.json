@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dennis Haysbert. b. 1954 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0371660/\n_search: Dennis Haysbert | Far from Heaven | 24 | The Thirteenth Floor | Major League",
+  "id": "bw-p-nm0371660",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dennis Haysbert",
+  "type": "task"
+}

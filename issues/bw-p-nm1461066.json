@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Staind. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1461066/\n_search: Staind | Transformers: Revenge of the Fallen | Lost | The 4400 | Cold Case",
+  "id": "bw-p-nm1461066",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Staind",
+  "type": "task"
+}

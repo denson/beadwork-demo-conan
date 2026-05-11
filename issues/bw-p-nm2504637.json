@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cold War Kids. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2504637/\n_search: Cold War Kids | Cirque du Freak: The Vampire's Assistant | Bill \u0026 Ted Face the Music | Camp | Premature",
+  "id": "bw-p-nm2504637",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cold War Kids",
+  "type": "task"
+}

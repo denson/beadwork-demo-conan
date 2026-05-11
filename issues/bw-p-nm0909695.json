@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Walsh. b. 1947 | actor, music_department, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0909695/\n_search: Joe Walsh | The Warriors | Spy Game | Fast Times at Ridgemont High | The Skulls",
+  "id": "bw-p-nm0909695",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Walsh",
+  "type": "task"
+}

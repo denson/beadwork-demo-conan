@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark McConville. director, casting_director, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2492694/\n_search: Mark McConville | Blindspot | Superego | Talking Tom \u0026 Friends",
+  "id": "bw-p-nm2492694",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark McConville",
+  "type": "task"
+}

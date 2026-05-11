@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leon Mobley. b. 1961 | actor, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0595035/\n_search: Leon Mobley | NCIS: Hawai'i | Northern Exposure | Strapped | Superheavy",
+  "id": "bw-p-nm0595035",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leon Mobley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diane Sawyer. b. 1945 | writer, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0768154/\n_search: Diane Sawyer | World News Tonight with David Muir | 20/20 | Primetime | Good Morning America",
+  "id": "bw-p-nm0768154",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diane Sawyer",
+  "type": "task"
+}

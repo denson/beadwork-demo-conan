@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry Brown. b. 1949 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0114050/\n_search: Larry Brown | Fighting Back: The Story of Rocky Bleier | NFL Monday Night Football | The NFL on NBC | Super Bowl X",
+  "id": "bw-p-nm0114050",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry Brown",
+  "type": "task"
+}

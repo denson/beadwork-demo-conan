@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Shales. 1944–2024 | actor, writer.\nDECEASED (1944–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1143576/\n_search: Tom Shales | ESPN: Those Guys Have All the Fun | The Larry Sanders Show | This Is MST3K | Frontline",
+  "id": "bw-p-nm1143576",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Shales",
+  "type": "task"
+}

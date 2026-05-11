@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teddy Thompson. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2031884/\n_search: Teddy Thompson | Brokeback Mountain | 40 Days and 40 Nights | My Best Friend's Girl | Gangs of New York",
+  "id": "bw-p-nm2031884",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teddy Thompson",
+  "type": "task"
+}

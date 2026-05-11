@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The 1975. music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5816619/\n_search: The 1975 | Love, Simon | Me Before You | Love, Rosie | The Edge of Seventeen",
+  "id": "bw-p-nm5816619",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The 1975",
+  "type": "task"
+}

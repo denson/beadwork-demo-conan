@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roy Blount Jr.. b. 1941 | actor, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0089397/\n_search: Roy Blount Jr. | The Manchurian Candidate | Michael | Married to the Mob | Happily Ever After: Fairy Tales for Every Child",
+  "id": "bw-p-nm0089397",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roy Blount Jr.",
+  "type": "task"
+}

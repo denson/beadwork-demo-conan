@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Esposito. b. 1973 | actress, director, writer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0261170/\n_search: Jennifer Esposito | Fresh Kills | Crash | Taxi | Summer of Sam",
+  "id": "bw-p-nm0261170",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Esposito",
+  "type": "task"
+}

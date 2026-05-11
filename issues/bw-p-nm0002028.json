@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sheryl Crow. b. 1962 | music_artist, actress, composer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0002028/\n_search: Sheryl Crow | Tomorrow Never Dies | Phenomenon | Everest | K-PAX",
+  "id": "bw-p-nm0002028",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sheryl Crow",
+  "type": "task"
+}

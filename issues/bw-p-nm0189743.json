@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Crowley. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0189743/\n_search: Jerry Crowley | Pitch People",
+  "id": "bw-p-nm0189743",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Crowley",
+  "type": "task"
+}

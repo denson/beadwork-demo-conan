@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gus Unger-Hamilton. music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5512066/\n_search: Gus Unger-Hamilton | The Discovery | Captain America: Civil War | Bright | Silver Linings Playbook",
+  "id": "bw-p-nm5512066",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gus Unger-Hamilton",
+  "type": "task"
+}

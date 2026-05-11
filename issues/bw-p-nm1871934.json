@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Lee Murphy. b. 1959 | actor, composer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1871934/\n_search: David Lee Murphy | Black Dog | Swing Vote | Arizona Seaside | 8 Seconds",
+  "id": "bw-p-nm1871934",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Lee Murphy",
+  "type": "task"
+}

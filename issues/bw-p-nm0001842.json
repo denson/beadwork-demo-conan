@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam West. 1928–2017 | actor, director, miscellaneous.\nDECEASED (1928–2017). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001842/\n_search: Adam West | Batman | Batman: The Movie | Chicken Little | Drop Dead Gorgeous",
+  "id": "bw-p-nm0001842",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam West",
+  "type": "task"
+}

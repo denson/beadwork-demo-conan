@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sammy Obeid. writer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4834963/\n_search: Sammy Obeid | Pemdas | SO Happy Hour | Almost Americans | Rocking Horses",
+  "id": "bw-p-nm4834963",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sammy Obeid",
+  "type": "task"
+}

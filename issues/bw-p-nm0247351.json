@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Earle. b. 1955 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0247351/\n_search: Steve Earle | The Wire | Leaves of Grass | Planes, Trains \u0026 Automobiles | Brokeback Mountain",
+  "id": "bw-p-nm0247351",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Earle",
+  "type": "task"
+}

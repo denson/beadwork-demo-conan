@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daveed Diggs. b. 1982 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4377526/\n_search: Daveed Diggs | Blindspotting | Hamilton | Wonder | The Little Mermaid",
+  "id": "bw-p-nm4377526",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daveed Diggs",
+  "type": "task"
+}

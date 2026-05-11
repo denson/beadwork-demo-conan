@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harvey Keitel. b. 1939 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000172/\n_search: Harvey Keitel | Reservoir Dogs | Bad Lieutenant | Pulp Fiction | The Grand Budapest Hotel",
+  "id": "bw-p-nm0000172",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harvey Keitel",
+  "type": "task"
+}

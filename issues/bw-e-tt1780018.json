@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Prayer for Dick Butkus. conan_tbs, S1E9, 2010.\nRuntime: 60 min.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt1780018/\n_search: A Prayer for Dick Butkus | 2010 | S1E9",
+  "id": "bw-e-tt1780018",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Prayer for Dick Butkus",
+  "type": "task"
+}

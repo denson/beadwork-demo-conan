@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennie Garth. b. 1972 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001259/\n_search: Jennie Garth | Beverly Hills, 90210 | What I Like About You | Secret Santa | Girl, Positive",
+  "id": "bw-p-nm0001259",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennie Garth",
+  "type": "task"
+}

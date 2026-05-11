@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Franklin. 1926–2015 | actor, miscellaneous, producer.\nDECEASED (1926–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0291460/\n_search: Joe Franklin | Ghostbusters | Broadway Danny Rose | The Mercy Man | The Boys Behind the Desk",
+  "id": "bw-p-nm0291460",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Franklin",
+  "type": "task"
+}

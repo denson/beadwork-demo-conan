@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rick Moranis. b. 1953 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001548/\n_search: Rick Moranis | Parenthood | Little Shop of Horrors | Spaceballs | Ghostbusters",
+  "id": "bw-p-nm0001548",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rick Moranis",
+  "type": "task"
+}

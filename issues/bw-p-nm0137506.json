@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Carlin. 1937–2008 | actor, writer, producer.\nDECEASED (1937–2008). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0137506/\n_search: George Carlin | Bill \u0026 Ted's Excellent Adventure | Dogma | George Carlin: Jammin' in New York | Jersey Girl",
+  "id": "bw-p-nm0137506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Carlin",
+  "type": "task"
+}

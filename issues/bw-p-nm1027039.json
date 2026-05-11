@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shaun White. b. 1986 | actor, miscellaneous, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1027039/\n_search: Shaun White | Stretch | Friends with Benefits | The Smurfs 2 | PyeongChang 2018: XXIII Olympic Winter Games",
+  "id": "bw-p-nm1027039",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shaun White",
+  "type": "task"
+}

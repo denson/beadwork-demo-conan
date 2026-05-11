@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pedro Almodóvar. b. 1949 | writer, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000264/\n_search: Pedro Almodóvar | Talk to Her | The Skin I Live In | Tie Me Up! Tie Me Down! | Matador",
+  "id": "bw-p-nm0000264",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pedro Almodóvar",
+  "type": "task"
+}

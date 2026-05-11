@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael C. Hall. b. 1971 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0355910/\n_search: Michael C. Hall | Dexter | Gamer | Six Feet Under | Paycheck",
+  "id": "bw-p-nm0355910",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael C. Hall",
+  "type": "task"
+}

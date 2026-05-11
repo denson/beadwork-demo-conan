@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Chevin. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5246832/\n_search: The Chevin | Hector and the Search for Happiness | Be Here Now | The Middle",
+  "id": "bw-p-nm5246832",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Chevin",
+  "type": "task"
+}

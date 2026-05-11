@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Darius Rucker. b. 1966 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0748519/\n_search: Darius Rucker | A Working Man | Message in a Bottle | Monte Carlo | Ted",
+  "id": "bw-p-nm0748519",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Darius Rucker",
+  "type": "task"
+}

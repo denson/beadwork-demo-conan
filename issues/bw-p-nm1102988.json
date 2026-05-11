@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Venus Williams. b. 1980 | producer, actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1102988/\n_search: Venus Williams | King Richard | Untitled the Match Project | En Garde | Behind the Racquet: Everyone Has A Story",
+  "id": "bw-p-nm1102988",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Venus Williams",
+  "type": "task"
+}

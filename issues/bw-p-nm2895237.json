@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bop. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2895237/\n_search: Bop | Forza Horizon 3 | Try Before You Die",
+  "id": "bw-p-nm2895237",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bop",
+  "type": "task"
+}

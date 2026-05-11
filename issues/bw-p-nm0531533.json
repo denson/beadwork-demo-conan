@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kirsty MacColl. 1959–2000 | music_artist, composer, actress.\nDECEASED (1959–2000). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0531533/\n_search: Kirsty MacColl | Run All Night | P.S. I Love You | Adore | The End of the Tour",
+  "id": "bw-p-nm0531533",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kirsty MacColl",
+  "type": "task"
+}

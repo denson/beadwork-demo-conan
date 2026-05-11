@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Spacey. b. 1959 | actor, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000228/\n_search: Kevin Spacey | The Usual Suspects | L.A. Confidential | American Beauty | Seven",
+  "id": "bw-p-nm0000228",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Spacey",
+  "type": "task"
+}

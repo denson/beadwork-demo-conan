@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mario Joyner. b. 1961 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0431660/\n_search: Mario Joyner | Bee Movie | Pootie Tang | Just Go with It | Three Men and a Baby",
+  "id": "bw-p-nm0431660",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mario Joyner",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cory Booker. b. 1969 | actor, archive_footage, archive_sound.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2490944/\n_search: Cory Booker | Being Mary Jane | Parks and Recreation | Boundless | Voices of Hope ~ Words of Wisdom by Dr. Jane Goodall",
+  "id": "bw-p-nm2490944",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cory Booker",
+  "type": "task"
+}

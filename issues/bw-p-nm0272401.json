@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Craig Ferguson. b. 1962 | writer, music_department, actor.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0272401/\n_search: Craig Ferguson | I'll Be There | How to Train Your Dragon 2 | Winnie the Pooh | Saving Grace",
+  "id": "bw-p-nm0272401",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Craig Ferguson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erick O. Perez. b. 1990 | miscellaneous, production_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5655066/\n_search: Erick O. Perez | Guardians of the Galaxy Vol. 3 | The Guardians of the Galaxy Holiday Special | Black Panther: Wakanda Forever",
+  "id": "bw-p-nm5655066",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erick O. Perez",
+  "type": "task"
+}

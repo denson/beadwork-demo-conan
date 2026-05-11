@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Haynes. b. 1982 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3451332/\n_search: Andy Haynes | Vanoss Superhero School | Steel of Fire Warriors 2010 A.D. | Josh Weller - Live at the Bill Murray | Ground Floor",
+  "id": "bw-p-nm3451332",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Haynes",
+  "type": "task"
+}

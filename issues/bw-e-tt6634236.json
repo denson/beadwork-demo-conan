@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carl Reiner/Lauren Lapkus/Hurray for the Riff Raff. conan_tbs, S7E58, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6634236/\n_search: Carl Reiner/Lauren Lapkus/Hurray for the Riff Raff | 2017 | S7E58",
+  "id": "bw-e-tt6634236",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carl Reiner/Lauren Lapkus/Hurray for the Riff Raff",
+  "type": "task"
+}

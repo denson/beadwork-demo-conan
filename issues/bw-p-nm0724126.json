@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J.R. Richards. b. 1972 | composer, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0724126/\n_search: J.R. Richards | American Pie | Morning",
+  "id": "bw-p-nm0724126",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J.R. Richards",
+  "type": "task"
+}

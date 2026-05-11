@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Levine/Chuck Todd/Sylvan Esso. conan_tbs, S5E8, 2014.\nIMDb: https://www.imdb.com/title/tt4418284/\n_search: Adam Levine/Chuck Todd/Sylvan Esso | 2014 | S5E8",
+  "id": "bw-e-tt4418284",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Levine/Chuck Todd/Sylvan Esso",
+  "type": "task"
+}

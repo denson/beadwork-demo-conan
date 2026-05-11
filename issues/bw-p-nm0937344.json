@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter F. Woeste. cinematographer, camera_department, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0937344/\n_search: Peter F. Woeste | Stargate SG-1 | The Accused | Final Destination 5 | Cool Runnings",
+  "id": "bw-p-nm0937344",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter F. Woeste",
+  "type": "task"
+}

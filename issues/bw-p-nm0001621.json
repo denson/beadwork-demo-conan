@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bronson Pinchot. b. 1959 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001621/\n_search: Bronson Pinchot | Beverly Hills Cop | True Romance | Risky Business | Beverly Hills Cop III",
+  "id": "bw-p-nm0001621",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bronson Pinchot",
+  "type": "task"
+}

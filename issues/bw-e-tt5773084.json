@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John C. Reilly/Lucy Hale/Tom Papa. conan_tbs, S6E92, 2016.\nRuntime: 43 min.\nIMDb: https://www.imdb.com/title/tt5773084/\n_search: John C. Reilly/Lucy Hale/Tom Papa | 2016 | S6E92",
+  "id": "bw-e-tt5773084",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John C. Reilly/Lucy Hale/Tom Papa",
+  "type": "task"
+}

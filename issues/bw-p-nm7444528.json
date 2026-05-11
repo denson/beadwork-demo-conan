@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sebastian Masuda. b. 1970 | art_director, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7444528/\n_search: Sebastian Masuda | The Nutcracker 3D | Kawaii International | Music Voyager",
+  "id": "bw-p-nm7444528",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sebastian Masuda",
+  "type": "task"
+}

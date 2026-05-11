@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brent Sullivan. actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3661962/\n_search: Brent Sullivan | Gay Skit Happens | Untitled Ali Abouomar Project | Profiles in Cowardice | Aids Test",
+  "id": "bw-p-nm3661962",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brent Sullivan",
+  "type": "task"
+}

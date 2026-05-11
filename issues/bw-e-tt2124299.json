@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Armageddon Comes to Quiznos. conan_tbs, S2E16, 2011.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt2124299/\n_search: Armageddon Comes to Quiznos | 2011 | S2E16",
+  "id": "bw-e-tt2124299",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Armageddon Comes to Quiznos",
+  "type": "task"
+}

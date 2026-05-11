@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joaquin Phoenix/Jim Gaffigan/Paramore. late_night, S15E25, 2007.\nRuntime: 57 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt1123135/\n_search: Joaquin Phoenix/Jim Gaffigan/Paramore | 2007 | S15E25",
+  "id": "bw-e-tt1123135",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joaquin Phoenix/Jim Gaffigan/Paramore",
+  "type": "task"
+}

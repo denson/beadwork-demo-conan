@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ryan Hansen. b. 1981 | actor, producer, cinematographer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1218621/\n_search: Ryan Hansen | Superhero Movie | Veronica Mars | Friday the 13th | Central Intelligence",
+  "id": "bw-p-nm1218621",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ryan Hansen",
+  "type": "task"
+}

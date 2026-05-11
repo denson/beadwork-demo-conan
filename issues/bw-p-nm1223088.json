@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ian Ball. music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1223088/\n_search: Ian Ball | Gone in 60 Seconds | American Beauty | The Hitcher | Forces of Nature",
+  "id": "bw-p-nm1223088",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ian Ball",
+  "type": "task"
+}

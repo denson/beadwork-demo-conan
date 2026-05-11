@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mavis Staples. b. 1939 | actress, music_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0822918/\n_search: Mavis Staples | My Blueberry Nights | The Help | Dumplin' | National Lampoon's Christmas Vacation",
+  "id": "bw-p-nm0822918",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mavis Staples",
+  "type": "task"
+}

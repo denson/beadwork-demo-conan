@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ray Harrington. director, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7399265/\n_search: Ray Harrington | Undependent | Be a Man | No Rest for the Weekend",
+  "id": "bw-p-nm7399265",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ray Harrington",
+  "type": "task"
+}

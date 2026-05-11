@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ricky Gervais/Gillian Jacobs/Goo Goo Dolls. conan_tbs, S4E61, 2014.\nIMDb: https://www.imdb.com/title/tt3590020/\n_search: Ricky Gervais/Gillian Jacobs/Goo Goo Dolls | 2014 | S4E61",
+  "id": "bw-e-tt3590020",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ricky Gervais/Gillian Jacobs/Goo Goo Dolls",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leah Remini. b. 1970 | actress, producer, editor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0718957/\n_search: Leah Remini | The King of Queens | Leah Remini: Scientology and the Aftermath | Leah Remini: It's All Relative | People Puzzler",
+  "id": "bw-p-nm0718957",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leah Remini",
+  "type": "task"
+}

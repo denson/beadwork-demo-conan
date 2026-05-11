@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Los Angeles Children's Chorus. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3553811/\n_search: The Los Angeles Children's Chorus | Hero | Happier Than Ever: A Love Letter to Los Angeles | Dream Requiem",
+  "id": "bw-p-nm3553811",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Los Angeles Children's Chorus",
+  "type": "task"
+}

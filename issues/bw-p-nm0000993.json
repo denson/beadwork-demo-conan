@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Burnett. b. 1933 | actress, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000993/\n_search: Carol Burnett | The Carol Burnett Show | Annie | Noises Off... | The Four Seasons",
+  "id": "bw-p-nm0000993",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Burnett",
+  "type": "task"
+}

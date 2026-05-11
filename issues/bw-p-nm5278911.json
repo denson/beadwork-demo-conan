@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zeke Nicholson. b. 1989 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5278911/\n_search: Zeke Nicholson | Wonder Man | Loot | A.P. Bio | The Good Place",
+  "id": "bw-p-nm5278911",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zeke Nicholson",
+  "type": "task"
+}

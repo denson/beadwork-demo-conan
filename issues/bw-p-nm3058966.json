@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Tribe Called Quest. music_department, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3058966/\n_search: A Tribe Called Quest | The Wackness | Tag | Dope | Bad Boys II",
+  "id": "bw-p-nm3058966",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Tribe Called Quest",
+  "type": "task"
+}

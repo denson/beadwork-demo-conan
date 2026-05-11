@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Slip. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2550609/\n_search: The Slip | Grey's Anatomy",
+  "id": "bw-p-nm2550609",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Slip",
+  "type": "task"
+}

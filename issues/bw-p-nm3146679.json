@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hepcat. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3146679/\n_search: Hepcat | Deuce Bigalow: Male Gigolo | Glory Daze | Meet the Deedles | Late Last Night",
+  "id": "bw-p-nm3146679",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hepcat",
+  "type": "task"
+}

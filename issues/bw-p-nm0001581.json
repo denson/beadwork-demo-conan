@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary-Kate Olsen. b. 1986 | actress, producer, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001581/\n_search: Mary-Kate Olsen | It Takes Two | New York Minute | Beastly | The Wackness",
+  "id": "bw-p-nm0001581",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary-Kate Olsen",
+  "type": "task"
+}

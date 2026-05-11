@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Kudrow/Tom Papa/Jukebox the Ghost. conan_tbs, S8E88, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8530728/\n_search: Lisa Kudrow/Tom Papa/Jukebox the Ghost | 2018 | S8E88",
+  "id": "bw-e-tt8530728",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Kudrow/Tom Papa/Jukebox the Ghost",
+  "type": "task"
+}

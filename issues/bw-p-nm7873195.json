@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Tichenor. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7873195/\n_search: Daniel Tichenor | The Bounty Hunter | The Edge of Seventeen | Hubie Halloween | Mike and Dave Need Wedding Dates",
+  "id": "bw-p-nm7873195",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Tichenor",
+  "type": "task"
+}

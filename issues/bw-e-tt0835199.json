@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Uma Thurman/Kevin Smith/New York Dolls. late_night, S13E151, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0835199/\n_search: Uma Thurman/Kevin Smith/New York Dolls | 2006 | S13E151",
+  "id": "bw-e-tt0835199",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Uma Thurman/Kevin Smith/New York Dolls",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lilan Bowden. b. 1985 | actress, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3140738/\n_search: Lilan Bowden | Andi Mack | Parks and Recreation | I Am Watching You | The Pete Holmes Show",
+  "id": "bw-p-nm3140738",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lilan Bowden",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sandra Bernhard. b. 1955 | actress, writer, music_department.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000928/\n_search: Sandra Bernhard | The King of Comedy | Hudson Hawk | Without You I'm Nothing | Marty Supreme",
+  "id": "bw-p-nm0000928",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sandra Bernhard",
+  "type": "task"
+}

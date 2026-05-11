@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ronald Isley. b. 1941 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1172359/\n_search: Ronald Isley | Okja | Kill Bill: Vol. 1 | Thunder Force | Out of Sight",
+  "id": "bw-p-nm1172359",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ronald Isley",
+  "type": "task"
+}

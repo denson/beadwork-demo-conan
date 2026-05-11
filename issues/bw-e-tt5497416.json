@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Cast of 'The Big Bang Theory'. conan_tbs, S6E47, 2016.\nRuntime: 41 min.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt5497416/\n_search: The Cast of 'The Big Bang Theory' | 2016 | S6E47",
+  "id": "bw-e-tt5497416",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Cast of 'The Big Bang Theory'",
+  "type": "task"
+}

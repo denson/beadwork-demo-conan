@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Katie Couric/Mel Harris/Solomon Burke. late_night, S1E59, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1742823/\n_search: Katie Couric/Mel Harris/Solomon Burke | 1993 | S1E59",
+  "id": "bw-e-tt1742823",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Katie Couric/Mel Harris/Solomon Burke",
+  "type": "task"
+}

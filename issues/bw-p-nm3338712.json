@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patty Chong. miscellaneous, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3338712/\n_search: Patty Chong | Sweet Ninja Brown | Bubblegum \u0026 Broken Fingers | Resurrection | The Vegas Show with Sheena Easton \u0026 Brian McKnight",
+  "id": "bw-p-nm3338712",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patty Chong",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marina. b. 1985 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3602370/\n_search: Marina | To All the Boys: P.S. I Still Love You | Runaways | The Moth Diaries | Waterloo Road",
+  "id": "bw-p-nm3602370",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marina",
+  "type": "task"
+}

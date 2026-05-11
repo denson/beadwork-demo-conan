@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Beck. 1944–2023 | music_artist, actor, composer.\nDECEASED (1944–2023). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0065169/\n_search: Jeff Beck | Pirate Radio | Blow-Up | Observe and Report | Across the Universe",
+  "id": "bw-p-nm0065169",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Beck",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norman Reedus/H. Jon Benjamin/Brandi Carlile. conan_tbs, S5E55, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt4508962/\n_search: Norman Reedus/H. Jon Benjamin/Brandi Carlile | 2015 | S5E55",
+  "id": "bw-e-tt4508962",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norman Reedus/H. Jon Benjamin/Brandi Carlile",
+  "type": "task"
+}

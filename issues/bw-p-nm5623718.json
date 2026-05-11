@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Keith Jeffery. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5623718/\n_search: Keith Jeffery | Project Almanac | Into the Storm | Boyhood | Midnight Sun",
+  "id": "bw-p-nm5623718",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Keith Jeffery",
+  "type": "task"
+}

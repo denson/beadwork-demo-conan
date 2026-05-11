@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Devendra Banhart. b. 1981 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1750366/\n_search: Devendra Banhart | Hardcore Henry | Youth in Revolt | That Awkward Moment | Nick and Norah's Infinite Playlist",
+  "id": "bw-p-nm1750366",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Devendra Banhart",
+  "type": "task"
+}

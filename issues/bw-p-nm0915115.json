@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Watts. 1941–2021 | actor, producer, music_department.\nDECEASED (1941–2021). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0915115/\n_search: Charlie Watts | Blue Ice | Shine a Light | Just a Kiss | Supernatural",
+  "id": "bw-p-nm0915115",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Watts",
+  "type": "task"
+}

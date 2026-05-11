@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonah Ray. b. 1982 | actor, writer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2370462/\n_search: Jonah Ray | Mystery Science Theater 3000 | Satanic Hispanics | Better Things | Weird: The Al Yankovic Story",
+  "id": "bw-p-nm2370462",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonah Ray",
+  "type": "task"
+}

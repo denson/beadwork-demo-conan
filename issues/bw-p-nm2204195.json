@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark David Christenson. b. 1983 | actor, sound_department, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2204195/\n_search: Mark David Christenson | I Am Watching You | Frosty the Regular Adult Man | Good Morning, Superman",
+  "id": "bw-p-nm2204195",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark David Christenson",
+  "type": "task"
+}

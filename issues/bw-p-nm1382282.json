@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Baldes. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1382282/\n_search: Kevin Baldes | Mr. Deeds | Crossroads | Central Intelligence | The Replacements",
+  "id": "bw-p-nm1382282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Baldes",
+  "type": "task"
+}

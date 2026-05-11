@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianne Phillips. b. 1960 | actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0680541/\n_search: Julianne Phillips | Skin Deep | Fletch Lives | Big Bully | Sisters",
+  "id": "bw-p-nm0680541",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianne Phillips",
+  "type": "task"
+}

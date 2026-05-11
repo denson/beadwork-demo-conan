@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ian Edwards. producer, writer, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0250049/\n_search: Ian Edwards | Tangerine | Survival of the Thickest | Black Dynamite | Crashing",
+  "id": "bw-p-nm0250049",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ian Edwards",
+  "type": "task"
+}

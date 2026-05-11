@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bertram Weinberg. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm15022463/\n_search: Bertram Weinberg",
+  "id": "bw-p-nm15022463",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bertram Weinberg",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "If It Looks Like a Duck and Quacks Like a Duck, It's a Little Person Dressed as a Duck. conan_tbs, S2E58, 2012.\nIMDb rating: 8.3.\nIMDb: https://www.imdb.com/title/tt2288453/\n_search: If It Looks Like a Duck and Quacks Like a Duck, It's a Little Person Dressed as a Duck | 2012 | S2E58",
+  "id": "bw-e-tt2288453",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "If It Looks Like a Duck and Quacks Like a Duck, It's a Little Person Dressed as a Duck",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Highasakite. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7521079/\n_search: Highasakite | The Tunnel | Skam | Acquitted | Ari og kunsten",
+  "id": "bw-p-nm7521079",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Highasakite",
+  "type": "task"
+}

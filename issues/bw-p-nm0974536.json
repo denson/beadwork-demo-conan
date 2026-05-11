@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Rakoff. 1964–2012 | actor, writer.\nDECEASED (1964–2012). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0974536/\n_search: David Rakoff | Capote | The Watermelon Woman | Strangers with Candy | The New Tenants",
+  "id": "bw-p-nm0974536",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Rakoff",
+  "type": "task"
+}

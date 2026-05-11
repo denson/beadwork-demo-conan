@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Corrs. music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2052151/\n_search: The Corrs | America's Sweethearts | The Wedding Date | Where the Heart Is | Say It Isn't So",
+  "id": "bw-p-nm2052151",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Corrs",
+  "type": "task"
+}

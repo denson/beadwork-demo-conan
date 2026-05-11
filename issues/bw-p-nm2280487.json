@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hot Chip. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2280487/\n_search: Hot Chip | Boy A | Sound of My Voice | Paragraph 78 | Misfits",
+  "id": "bw-p-nm2280487",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hot Chip",
+  "type": "task"
+}

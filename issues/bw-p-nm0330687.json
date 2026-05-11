@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joseph Gordon-Levitt. b. 1981 | actor, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0330687/\n_search: Joseph Gordon-Levitt | Inception | Looper | Don Jon | 50/50",
+  "id": "bw-p-nm0330687",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joseph Gordon-Levitt",
+  "type": "task"
+}

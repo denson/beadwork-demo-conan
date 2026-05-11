@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Rowland. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1688702/\n_search: Hugh Rowland | Ice Road Truckers | IRT: Deadliest Roads | Ice Road Truckers Canada | Jimmy Kimmel Live!",
+  "id": "bw-p-nm1688702",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Rowland",
+  "type": "task"
+}

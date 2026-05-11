@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barry Crimmins. 1953–2018 | actor, writer, miscellaneous.\nDECEASED (1953–2018). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1049676/\n_search: Barry Crimmins | Call Me Lucky | The New Adventures of Beans Baxter | Lenny Clarke's Late Show | Saturday Live",
+  "id": "bw-p-nm1049676",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barry Crimmins",
+  "type": "task"
+}

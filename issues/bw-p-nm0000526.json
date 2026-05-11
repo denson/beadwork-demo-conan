@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samantha Mathis. b. 1970 | actress, executive, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000526/\n_search: Samantha Mathis | Broken Arrow | American Psycho | Super Mario Bros. | Pump Up the Volume",
+  "id": "bw-p-nm0000526",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samantha Mathis",
+  "type": "task"
+}

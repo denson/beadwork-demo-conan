@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Michelle Gellar/Garth Brooks. late_night, S7E13, 1999.\nRuntime: 57 min.\nIMDb rating: 1.7.\nIMDb: https://www.imdb.com/title/tt0627271/\n_search: Sarah Michelle Gellar/Garth Brooks | 1999 | S7E13",
+  "id": "bw-e-tt0627271",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Michelle Gellar/Garth Brooks",
+  "type": "task"
+}

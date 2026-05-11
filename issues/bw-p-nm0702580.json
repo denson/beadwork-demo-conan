@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Q-Tip. b. 1970 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0702580/\n_search: Q-Tip | The Great Gatsby | Charlie's Angels | Taxi | Get Carter",
+  "id": "bw-p-nm0702580",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Q-Tip",
+  "type": "task"
+}

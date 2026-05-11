@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Corinne Bailey Rae. b. 1979 | composer, music_department, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2066164/\n_search: Corinne Bailey Rae | He's Just Not That Into You | Perfect Stranger | No Strings Attached | 27 Dresses",
+  "id": "bw-p-nm2066164",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Corinne Bailey Rae",
+  "type": "task"
+}

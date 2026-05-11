@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joshua Jackson. b. 1978 | actor, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0005045/\n_search: Joshua Jackson | Fatal Attraction | The Affair | Dawson's Creek | D2: The Mighty Ducks",
+  "id": "bw-p-nm0005045",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joshua Jackson",
+  "type": "task"
+}

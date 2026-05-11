@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dolph Lundgren. b. 1957 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000185/\n_search: Dolph Lundgren | Rocky IV | Masters of the Universe | The Punisher | Universal Soldier",
+  "id": "bw-p-nm0000185",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dolph Lundgren",
+  "type": "task"
+}

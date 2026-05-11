@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Black Eyed Peas. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0272334/\n_search: The Black Eyed Peas | G.I. Joe: The Rise of Cobra | The Rundown | Taxi | Knight and Day",
+  "id": "bw-p-nm0272334",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Black Eyed Peas",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Craig David. b. 1981 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0202853/\n_search: Craig David | About Time | Osmosis Jones | Bridget Jones's Diary | Sex and the City",
+  "id": "bw-p-nm0202853",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Craig David",
+  "type": "task"
+}

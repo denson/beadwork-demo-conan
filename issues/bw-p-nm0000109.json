@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yasmine Bleeth. b. 1968 | actress, archive_footage.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0000109/\n_search: Yasmine Bleeth | BASEketball | Baywatch: Hawaiian Wedding | Nash Bridges | Baywatch",
+  "id": "bw-p-nm0000109",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yasmine Bleeth",
+  "type": "task"
+}

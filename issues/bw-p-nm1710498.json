@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vertical Horizon. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1710498/\n_search: Vertical Horizon | Driven | The New Guy | Bruce Almighty | Boys and Girls",
+  "id": "bw-p-nm1710498",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vertical Horizon",
+  "type": "task"
+}

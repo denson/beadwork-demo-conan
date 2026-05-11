@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Janson. b. 1986 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4522426/\n_search: Chris Janson | Neil Young: Heart of Gold | CMT Summer Sessions | Grand Ole Opry | CMT Crossroads",
+  "id": "bw-p-nm4522426",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Janson",
+  "type": "task"
+}

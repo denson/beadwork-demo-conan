@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dixie Carter. 1939–2010 | actress, producer, miscellaneous.\nDECEASED (1939–2010). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0141581/\n_search: Dixie Carter | Designing Women | Desperate Housewives | Filthy Rich | That Evening Sun",
+  "id": "bw-p-nm0141581",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dixie Carter",
+  "type": "task"
+}

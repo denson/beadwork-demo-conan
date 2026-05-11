@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Winnie Grober. b. 2006 | actress, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5415519/\n_search: Winnie Grober | Hart of Dixie | Bleecker | Off Weeks | Don't Say Good Luck",
+  "id": "bw-p-nm5415519",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Winnie Grober",
+  "type": "task"
+}

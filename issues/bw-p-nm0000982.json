@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Brolin. b. 1968 | actor, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000982/\n_search: Josh Brolin | No Country for Old Men | Avengers: Endgame | Avengers: Infinity War | Inherent Vice",
+  "id": "bw-p-nm0000982",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Brolin",
+  "type": "task"
+}

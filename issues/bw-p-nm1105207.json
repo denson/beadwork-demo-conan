@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paulina Gerzon. b. 1995 | actress, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1105207/\n_search: Paulina Gerzon | Definitely, Maybe | Law \u0026 Order: Special Victims Unit | Made in New York | The Sopranos",
+  "id": "bw-p-nm1105207",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paulina Gerzon",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ed Hinch. editorial_department, camera_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0385459/\n_search: Ed Hinch | Saturday Night Live | 3-2-1 Contact | The Best of Eddie Murphy: Saturday Night Live | Goodnight, Sweet Prince",
+  "id": "bw-p-nm0385459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ed Hinch",
+  "type": "task"
+}

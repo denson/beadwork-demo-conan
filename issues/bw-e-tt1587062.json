@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Scorsese/Colin Firth/Kooza from Cirque du Soleil. tonight_show, S1E141, 2010.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt1587062/\n_search: Martin Scorsese/Colin Firth/Kooza from Cirque du Soleil | 2010 | S1E141",
+  "id": "bw-e-tt1587062",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Scorsese/Colin Firth/Kooza from Cirque du Soleil",
+  "type": "task"
+}

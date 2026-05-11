@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hanson. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1642001/\n_search: Hanson | Trust | Finding Forrester | The Hangover Part III | The Princess Diaries",
+  "id": "bw-p-nm1642001",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hanson",
+  "type": "task"
+}

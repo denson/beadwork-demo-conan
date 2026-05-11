@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Wendt/Jack Ford/Indigo Girls. late_night, S1E162, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2704770/\n_search: George Wendt/Jack Ford/Indigo Girls | 1994 | S1E162",
+  "id": "bw-e-tt2704770",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Wendt/Jack Ford/Indigo Girls",
+  "type": "task"
+}

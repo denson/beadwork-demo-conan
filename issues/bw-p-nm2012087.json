@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thirty Seconds to Mars. music_artist, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2012087/\n_search: Thirty Seconds to Mars | The Core | Skyline | The Ward | Two Rabbits",
+  "id": "bw-p-nm2012087",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thirty Seconds to Mars",
+  "type": "task"
+}

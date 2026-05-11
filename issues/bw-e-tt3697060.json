@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Green/Dave Attell/O.A.R.. conan_tbs, S4E79, 2014.\nIMDb: https://www.imdb.com/title/tt3697060/\n_search: Seth Green/Dave Attell/O.A.R. | 2014 | S4E79",
+  "id": "bw-e-tt3697060",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Green/Dave Attell/O.A.R.",
+  "type": "task"
+}

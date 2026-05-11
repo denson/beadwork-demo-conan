@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Ghost of Paul Revere. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9580000/\n_search: The Ghost of Paul Revere",
+  "id": "bw-p-nm9580000",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Ghost of Paul Revere",
+  "type": "task"
+}

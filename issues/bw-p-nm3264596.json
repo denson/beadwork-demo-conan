@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kid Cudi. b. 1984 | music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3264596/\n_search: Kid Cudi | The Harder They Fall | Need for Speed | Don't Look Up | X",
+  "id": "bw-p-nm3264596",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kid Cudi",
+  "type": "task"
+}

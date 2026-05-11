@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pablo Lyle. b. 1986 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3299972/\n_search: Pablo Lyle | Shadows of the Past | Una familia con suerte | Cachito de cielo | Forever Yours",
+  "id": "bw-p-nm3299972",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pablo Lyle",
+  "type": "task"
+}

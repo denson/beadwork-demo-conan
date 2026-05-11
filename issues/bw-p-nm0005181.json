@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aimee Mann. b. 1960 | actress, music_department, composer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005181/\n_search: Aimee Mann | Magnolia | The Big Lebowski | El Camino | Jerry Maguire",
+  "id": "bw-p-nm0005181",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aimee Mann",
+  "type": "task"
+}

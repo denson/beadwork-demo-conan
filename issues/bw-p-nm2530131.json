@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alim Kouliev. actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2530131/\n_search: Alim Kouliev | The Americans | Taxi Dance | El Freeman | A Glimpse Inside the Mind of Charles Swan III",
+  "id": "bw-p-nm2530131",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alim Kouliev",
+  "type": "task"
+}

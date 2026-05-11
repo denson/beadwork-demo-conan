@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sophie Turner. b. 1996 | actress, producer, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm3849842/\n_search: Sophie Turner | Game of Thrones | X-Men: Dark Phoenix | X-Men: Apocalypse | Barely Lethal",
+  "id": "bw-p-nm3849842",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sophie Turner",
+  "type": "task"
+}

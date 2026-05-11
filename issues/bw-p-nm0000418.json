@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Danny Glover. b. 1946 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000418/\n_search: Danny Glover | Lethal Weapon | Lethal Weapon 3 | Lethal Weapon 4 | Lethal Weapon 2",
+  "id": "bw-p-nm0000418",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Danny Glover",
+  "type": "task"
+}

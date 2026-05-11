@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Kramer. miscellaneous, music_department, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4186673/\n_search: Matt Kramer | Walmart+: Who Knew? | Late Show with David Letterman | Vh1 Top 40 Hair Bands",
+  "id": "bw-p-nm4186673",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Kramer",
+  "type": "task"
+}

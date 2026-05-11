@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fredericka Meek. actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2022705/\n_search: Fredericka Meek | All American: Homecoming | Always | Mommies: An American Parody | General Hospital",
+  "id": "bw-p-nm2022705",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fredericka Meek",
+  "type": "task"
+}

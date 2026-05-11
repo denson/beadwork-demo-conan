@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Caleb Carr. 1955–2024 | writer, producer, script_department.\nDECEASED (1955–2024). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0139627/\n_search: Caleb Carr | Exorcist: The Beginning | The Devil Soldier | The Alienist | Dominion: Prequel to the Exorcist",
+  "id": "bw-p-nm0139627",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Caleb Carr",
+  "type": "task"
+}

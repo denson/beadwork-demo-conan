@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Skylar Astin. b. 1987 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2799457/\n_search: Skylar Astin | Pitch Perfect | Wreck-It Ralph | 21 \u0026 Over | Pitch Perfect 2",
+  "id": "bw-p-nm2799457",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Skylar Astin",
+  "type": "task"
+}

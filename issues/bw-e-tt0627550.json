@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Moore/Patton Oswalt/Ozomatli. late_night, S11E133, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627550/\n_search: Michael Moore/Patton Oswalt/Ozomatli | 2004 | S11E133",
+  "id": "bw-e-tt0627550",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Moore/Patton Oswalt/Ozomatli",
+  "type": "task"
+}

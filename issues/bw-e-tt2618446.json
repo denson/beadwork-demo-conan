@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Larroquette/Henry Alford/NRBQ. late_night, S1E117, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2618446/\n_search: John Larroquette/Henry Alford/NRBQ | 1994 | S1E117",
+  "id": "bw-e-tt2618446",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Larroquette/Henry Alford/NRBQ",
+  "type": "task"
+}

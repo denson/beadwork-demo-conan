@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Wolf. b. 1968 | actor, director, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0937930/\n_search: Scott Wolf | Doc | Nancy Drew | The Night Shift | Party of Five",
+  "id": "bw-p-nm0937930",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Wolf",
+  "type": "task"
+}

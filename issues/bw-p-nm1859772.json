@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Madeleine Peyroux. b. 1973 | actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1859772/\n_search: Madeleine Peyroux | From Paris with Love | Definitely, Maybe | Failure to Launch | The Shape of Water",
+  "id": "bw-p-nm1859772",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Madeleine Peyroux",
+  "type": "task"
+}

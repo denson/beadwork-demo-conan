@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Fairbanks. actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1731812/\n_search: Chris Fairbanks | Punching the Clown | Punching Henry | One-Headed Beast | 10 Things",
+  "id": "bw-p-nm1731812",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Fairbanks",
+  "type": "task"
+}

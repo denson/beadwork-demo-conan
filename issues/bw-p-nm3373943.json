@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beirut. music_department, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3373943/\n_search: Beirut | The Counselor | Danny Collins | The Three Stooges | The Myth of the American Sleepover",
+  "id": "bw-p-nm3373943",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beirut",
+  "type": "task"
+}

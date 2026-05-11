@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Ferrell. b. 1967 | producer, actor, writer.\nConan-show appearances: 32\nIMDb: https://www.imdb.com/name/nm0002071/\n_search: Will Ferrell | Talladega Nights: The Ballad of Ricky Bobby | Anchorman 2: The Legend Continues | Blades of Glory | Anchorman: The Legend of Ron Burgundy",
+  "id": "bw-p-nm0002071",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Ferrell",
+  "type": "task"
+}

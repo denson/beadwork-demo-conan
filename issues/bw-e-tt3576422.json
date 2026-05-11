@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chazz Palminteri/Angie Everhart/Cracker. late_night, S3E127, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3576422/\n_search: Chazz Palminteri/Angie Everhart/Cracker | 1996 | S3E127",
+  "id": "bw-e-tt3576422",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chazz Palminteri/Angie Everhart/Cracker",
+  "type": "task"
+}

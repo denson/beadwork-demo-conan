@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Rudnitsky. b. 1989 | actor, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4339544/\n_search: Jon Rudnitsky | Home Again | Saturday Night Live",
+  "id": "bw-p-nm4339544",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Rudnitsky",
+  "type": "task"
+}

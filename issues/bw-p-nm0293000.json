@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lars Frederiksen. b. 1971 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0293000/\n_search: Lars Frederiksen | Idle Hands | The Wedding Ringer | Beavis and Butt-Head Do America | Fun with Dick and Jane",
+  "id": "bw-p-nm0293000",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lars Frederiksen",
+  "type": "task"
+}

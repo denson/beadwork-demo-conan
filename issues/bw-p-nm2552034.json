@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Melissa Benoist. b. 1988 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2552034/\n_search: Melissa Benoist | Supergirl | Whiplash | Patriots Day | Jay and Silent Bob Reboot",
+  "id": "bw-p-nm2552034",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Melissa Benoist",
+  "type": "task"
+}

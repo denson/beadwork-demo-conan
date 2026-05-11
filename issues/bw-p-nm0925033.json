@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie White. b. 1961 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0925033/\n_search: Julie White | Transformers: Revenge of the Fallen | Transformers: Dark of the Moon | Transformers | The Nanny Diaries",
+  "id": "bw-p-nm0925033",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie White",
+  "type": "task"
+}

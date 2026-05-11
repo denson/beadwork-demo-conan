@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elle Macpherson. b. 1964 | producer, actress, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000512/\n_search: Elle Macpherson | The Edge | Batman \u0026 Robin | Friends | Sirens",
+  "id": "bw-p-nm0000512",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elle Macpherson",
+  "type": "task"
+}

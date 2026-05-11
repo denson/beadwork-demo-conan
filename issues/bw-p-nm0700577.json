@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucy Punch. b. 1977 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0700577/\n_search: Lucy Punch | Into the Woods | Bad Teacher | Dinner for Schmucks | Ella Enchanted",
+  "id": "bw-p-nm0700577",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucy Punch",
+  "type": "task"
+}

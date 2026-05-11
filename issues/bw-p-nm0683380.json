@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicholas Pileggi. b. 1933 | writer, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0683380/\n_search: Nicholas Pileggi | GoodFellas | Casino | The Irishman | American Gangster",
+  "id": "bw-p-nm0683380",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicholas Pileggi",
+  "type": "task"
+}

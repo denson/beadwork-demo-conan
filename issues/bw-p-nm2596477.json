@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonny Lives!. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2596477/\n_search: Jonny Lives! | The Rocker | Van Wilder: The Rise of Taj | Backstage Pass | Down \u0026 Dirty",
+  "id": "bw-p-nm2596477",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonny Lives!",
+  "type": "task"
+}

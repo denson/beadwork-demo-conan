@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Boreanaz. b. 1969 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0004770/\n_search: David Boreanaz | Angel | Bones | Valentine | Buffy the Vampire Slayer",
+  "id": "bw-p-nm0004770",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Boreanaz",
+  "type": "task"
+}

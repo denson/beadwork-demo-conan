@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob McElhenney/Sam Morril. conan_tbs, S10E22, 2020.\nRuntime: 21 min.\nIMDb rating: 6.9.\nIMDb: https://www.imdb.com/title/tt11866968/\n_search: Rob McElhenney/Sam Morril | 2020 | S10E22",
+  "id": "bw-e-tt11866968",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob McElhenney/Sam Morril",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dick Clark/Marisa Berenson/Teenage Fanclub. late_night, S1E104, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2611248/\n_search: Dick Clark/Marisa Berenson/Teenage Fanclub | 1994 | S1E104",
+  "id": "bw-e-tt2611248",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dick Clark/Marisa Berenson/Teenage Fanclub",
+  "type": "task"
+}

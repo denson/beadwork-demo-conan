@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Bethea. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1978314/\n_search: Ken Bethea | The Break-Up | Otherhood | Killer Bud | FUBAR",
+  "id": "bw-p-nm1978314",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Bethea",
+  "type": "task"
+}

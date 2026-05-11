@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Costas/Pamela Adlon/Mary Mack. conan_tbs, S6E130, 2016.\nRuntime: 43 min.\nIMDb: https://www.imdb.com/title/tt6051350/\n_search: Bob Costas/Pamela Adlon/Mary Mack | 2016 | S6E130",
+  "id": "bw-e-tt6051350",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Costas/Pamela Adlon/Mary Mack",
+  "type": "task"
+}

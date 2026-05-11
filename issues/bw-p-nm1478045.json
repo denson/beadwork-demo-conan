@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Percy Daggs III. actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1478045/\n_search: Percy Daggs III | Veronica Mars | Veronica Mars | iZombie | The New Adventures of Peter and Wendy",
+  "id": "bw-p-nm1478045",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Percy Daggs III",
+  "type": "task"
+}

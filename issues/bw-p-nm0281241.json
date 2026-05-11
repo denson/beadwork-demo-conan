@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Flansburgh. b. 1960 | actor, music_department, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0281241/\n_search: John Flansburgh | Mighty Morphin Power Rangers: The Movie | Yes Man | Malcolm in the Middle | A Very Harold \u0026 Kumar Christmas",
+  "id": "bw-p-nm0281241",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Flansburgh",
+  "type": "task"
+}

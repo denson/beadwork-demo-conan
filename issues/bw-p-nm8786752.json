@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harry Day. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8786752/\n_search: Harry Day | Paper Dolls",
+  "id": "bw-p-nm8786752",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harry Day",
+  "type": "task"
+}

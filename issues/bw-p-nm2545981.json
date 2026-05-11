@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nermin Zajic. camera_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2545981/\n_search: Nermin Zajic | Resurrection Mary | Hell Girl | Cat Dexx: Inkosi | The Gorgeous",
+  "id": "bw-p-nm2545981",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nermin Zajic",
+  "type": "task"
+}

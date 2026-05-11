@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chelsea Handler/Scott Eastwood/The Regrettes. conan_tbs, S7E69, 2017.\nRuntime: 43 min.\nIMDb rating: 5.0.\nIMDb: https://www.imdb.com/title/tt6761448/\n_search: Chelsea Handler/Scott Eastwood/The Regrettes | 2017 | S7E69",
+  "id": "bw-e-tt6761448",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chelsea Handler/Scott Eastwood/The Regrettes",
+  "type": "task"
+}

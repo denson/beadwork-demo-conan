@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tommy Lee. b. 1962 | actor, composer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005136/\n_search: Tommy Lee | Barb Wire | The Dirt | Vanilla Sky | Friday Night Lights",
+  "id": "bw-p-nm0005136",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tommy Lee",
+  "type": "task"
+}

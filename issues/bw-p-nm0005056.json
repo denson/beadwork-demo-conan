@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elton John. b. 1947 | music_artist, actor, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005056/\n_search: Elton John | Kingsman: The Golden Circle | Rocketman | The Lion King | Gnomeo \u0026 Juliet",
+  "id": "bw-p-nm0005056",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elton John",
+  "type": "task"
+}

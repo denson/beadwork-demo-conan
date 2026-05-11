@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zero on the Richter Scale. conan_tbs, S3E111, 2013.\nIMDb: https://www.imdb.com/title/tt3059132/\n_search: Zero on the Richter Scale | 2013 | S3E111",
+  "id": "bw-e-tt3059132",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zero on the Richter Scale",
+  "type": "task"
+}

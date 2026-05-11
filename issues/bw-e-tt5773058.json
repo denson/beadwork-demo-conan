@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Arnett/Jeb Corliss/The Kills. conan_tbs, S6E89, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5773058/\n_search: Will Arnett/Jeb Corliss/The Kills | 2016 | S6E89",
+  "id": "bw-e-tt5773058",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Arnett/Jeb Corliss/The Kills",
+  "type": "task"
+}

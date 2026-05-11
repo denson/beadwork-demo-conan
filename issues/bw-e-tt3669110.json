@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mindy Kaling/Colin Hanks/MGMT. conan_tbs, S4E73, 2014.\nIMDb: https://www.imdb.com/title/tt3669110/\n_search: Mindy Kaling/Colin Hanks/MGMT | 2014 | S4E73",
+  "id": "bw-e-tt3669110",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mindy Kaling/Colin Hanks/MGMT",
+  "type": "task"
+}

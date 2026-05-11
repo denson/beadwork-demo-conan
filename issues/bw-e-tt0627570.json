@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paris Hilton/Stuart Townsend/Scissor Sisters. late_night, S12E8, 2004.\nRuntime: 57 min.\nIMDb rating: 2.6.\nIMDb: https://www.imdb.com/title/tt0627570/\n_search: Paris Hilton/Stuart Townsend/Scissor Sisters | 2004 | S12E8",
+  "id": "bw-e-tt0627570",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paris Hilton/Stuart Townsend/Scissor Sisters",
+  "type": "task"
+}

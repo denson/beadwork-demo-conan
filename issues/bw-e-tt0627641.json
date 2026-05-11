@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Willis/Jaime King/Regina Spektor. late_night, S12E93, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627641/\n_search: Bruce Willis/Jaime King/Regina Spektor | 2005 | S12E93",
+  "id": "bw-e-tt0627641",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Willis/Jaime King/Regina Spektor",
+  "type": "task"
+}

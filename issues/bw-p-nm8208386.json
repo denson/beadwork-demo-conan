@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barns Courtney. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8208386/\n_search: Barns Courtney | Burnt | Cloak \u0026 Dagger | American Satan | Squared Love",
+  "id": "bw-p-nm8208386",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barns Courtney",
+  "type": "task"
+}

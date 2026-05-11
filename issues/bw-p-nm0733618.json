@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mo Rocca. b. 1969 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0733618/\n_search: Mo Rocca | The 64th Annual Tony Awards | Bewitched | Wishbone | The Good Wife",
+  "id": "bw-p-nm0733618",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mo Rocca",
+  "type": "task"
+}

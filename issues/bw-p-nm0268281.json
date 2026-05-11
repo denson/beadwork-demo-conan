@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marypat Farrell. actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0268281/\n_search: Marypat Farrell | Night Court | 9-1-1 | It's Always Sunny in Philadelphia",
+  "id": "bw-p-nm0268281",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marypat Farrell",
+  "type": "task"
+}

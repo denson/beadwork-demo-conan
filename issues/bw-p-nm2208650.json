@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Mizejewski. actor.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm2208650/\n_search: David Mizejewski | RuPaul's Drag Race | The Weather Channel | Pattrn | Mutual of Omaha's Wild Kingdom Protecting the Wild",
+  "id": "bw-p-nm2208650",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Mizejewski",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "U2. music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1277752/\n_search: U2 | Morning Joe | Lara Croft: Tomb Raider | Brothers | Batman Forever",
+  "id": "bw-p-nm1277752",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "U2",
+  "type": "task"
+}

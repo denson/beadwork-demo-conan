@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Salmoni. b. 1975 | miscellaneous, producer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2411786/\n_search: Dave Salmoni | The Trapper and the Amazon | After the Attack | Zoboomafoo | Rescuers: Stories of Courage: Two Families",
+  "id": "bw-p-nm2411786",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Salmoni",
+  "type": "task"
+}

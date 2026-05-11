@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Austin. b. 1964 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0042524/\n_search: Steve Austin | The Longest Yard | The Condemned | The Expendables | Tactical Force",
+  "id": "bw-p-nm0042524",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Austin",
+  "type": "task"
+}

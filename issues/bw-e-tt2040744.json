@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tinker, Tailor, Soldier, Rabbi. conan_tbs, S1E135, 2011.\nRuntime: 60 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt2040744/\n_search: Tinker, Tailor, Soldier, Rabbi | 2011 | S1E135",
+  "id": "bw-e-tt2040744",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tinker, Tailor, Soldier, Rabbi",
+  "type": "task"
+}

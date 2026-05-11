@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil Robertson. 1946–2025 | producer, writer, director.\nDECEASED (1946–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5001500/\n_search: Phil Robertson | Duck Dynasty | In the Woods with Phil | Duck Commander | Icons of Faith with Greg Laurie",
+  "id": "bw-p-nm5001500",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil Robertson",
+  "type": "task"
+}

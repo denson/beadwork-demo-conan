@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marc Alan Austen. b. 1938 | actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1819733/\n_search: Marc Alan Austen | The Rebound | Be Kind Rewind | Angelica | Joe Gould's Secret",
+  "id": "bw-p-nm1819733",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marc Alan Austen",
+  "type": "task"
+}

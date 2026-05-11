@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carson Daly/Sarah Vowell/Joan Osborne. late_night, S10E6, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1236739/\n_search: Carson Daly/Sarah Vowell/Joan Osborne | 2002 | S10E6",
+  "id": "bw-e-tt1236739",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carson Daly/Sarah Vowell/Joan Osborne",
+  "type": "task"
+}

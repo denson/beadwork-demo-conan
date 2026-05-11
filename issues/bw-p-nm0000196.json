@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Myers. b. 1963 | actor, writer, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0000196/\n_search: Mike Myers | Austin Powers in Goldmember | Austin Powers: The Spy Who Shagged Me | Austin Powers: International Man of Mystery | The Love Guru",
+  "id": "bw-p-nm0000196",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Myers",
+  "type": "task"
+}

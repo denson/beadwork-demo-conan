@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maia Mitchell. b. 1993 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2314596/\n_search: Maia Mitchell | Teen Beach 2 | The Last Summer | The Fosters | Never Goin' Back",
+  "id": "bw-p-nm2314596",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maia Mitchell",
+  "type": "task"
+}

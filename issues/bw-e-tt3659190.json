@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norm Macdonald/Christopher Guest/Sleeping Giants. late_night, S4E77, 1997.\nRuntime: 57 min.\nIMDb rating: 9.2.\nIMDb: https://www.imdb.com/title/tt3659190/\n_search: Norm Macdonald/Christopher Guest/Sleeping Giants | 1997 | S4E77",
+  "id": "bw-e-tt3659190",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norm Macdonald/Christopher Guest/Sleeping Giants",
+  "type": "task"
+}

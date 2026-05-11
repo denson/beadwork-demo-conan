@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Robinson. b. 1966 | actor, composer, art_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1215300/\n_search: Chris Robinson | Ladder 49 | He's Just Not That Into You | Raising Helen | The Banger Sisters",
+  "id": "bw-p-nm1215300",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Robinson",
+  "type": "task"
+}

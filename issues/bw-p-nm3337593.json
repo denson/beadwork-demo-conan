@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Heavy. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3337593/\n_search: The Heavy | The Losers | G.I. Joe: Retaliation | The Equalizer | Contraband",
+  "id": "bw-p-nm3337593",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Heavy",
+  "type": "task"
+}

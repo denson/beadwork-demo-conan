@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Channing Tatum Ultimatum. conan_tbs, S2E93, 2012.\nIMDb rating: 5.0.\nIMDb: https://www.imdb.com/title/tt2167810/\n_search: The Channing Tatum Ultimatum | 2012 | S2E93",
+  "id": "bw-e-tt2167810",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Channing Tatum Ultimatum",
+  "type": "task"
+}

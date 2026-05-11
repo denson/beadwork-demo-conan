@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Little Milton. 1933–2005 | music_department, soundtrack, archive_footage.\nDECEASED (1933–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0590688/\n_search: Little Milton | Ride Along | Deuces Wild | To Sleep with Anger | Chooch",
+  "id": "bw-p-nm0590688",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Little Milton",
+  "type": "task"
+}

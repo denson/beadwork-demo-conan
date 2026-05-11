@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Capling. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2423571/\n_search: Ken Capling",
+  "id": "bw-p-nm2423571",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Capling",
+  "type": "task"
+}

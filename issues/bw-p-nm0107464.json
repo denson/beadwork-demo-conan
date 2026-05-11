@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Brenner. 1936–2014 | actor, writer, producer.\nDECEASED (1936–2014). Conan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0107464/\n_search: David Brenner | Worth Winning | Modern Family | Snip | Canadian Idol",
+  "id": "bw-p-nm0107464",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Brenner",
+  "type": "task"
+}

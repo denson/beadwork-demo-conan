@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth MacFarlane/Carlos Mencia/MGMT. late_night, S15E115, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1228386/\n_search: Seth MacFarlane/Carlos Mencia/MGMT | 2008 | S15E115",
+  "id": "bw-e-tt1228386",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth MacFarlane/Carlos Mencia/MGMT",
+  "type": "task"
+}

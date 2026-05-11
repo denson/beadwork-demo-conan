@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike McColgan. soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1594453/\n_search: Mike McColgan | Hellfest | American Streetpunk and Oi | Punk's Not Dead",
+  "id": "bw-p-nm1594453",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike McColgan",
+  "type": "task"
+}

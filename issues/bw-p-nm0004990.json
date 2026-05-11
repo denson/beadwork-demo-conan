@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Angie Harmon. b. 1972 | actress, director, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0004990/\n_search: Angie Harmon | Agent Cody Banks | Rizzoli \u0026 Isles | Law \u0026 Order | Seraphim Falls",
+  "id": "bw-p-nm0004990",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Angie Harmon",
+  "type": "task"
+}

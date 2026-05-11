@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erin Foley. b. 1978 | writer, actress, camera_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0284132/\n_search: Erin Foley | Almost Famous | That '90s Show | One Day at a Time | Sophomore",
+  "id": "bw-p-nm0284132",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erin Foley",
+  "type": "task"
+}

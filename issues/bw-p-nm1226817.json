@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Devon Aoki. b. 1982 | actress, producer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1226817/\n_search: Devon Aoki | DOA: Dead or Alive | 2 Fast 2 Furious | Sin City | Mutant Chronicles",
+  "id": "bw-p-nm1226817",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Devon Aoki",
+  "type": "task"
+}

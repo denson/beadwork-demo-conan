@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Affleck. b. 1972 | producer, actor, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000255/\n_search: Ben Affleck | Argo | Gone Girl | The Town | Good Will Hunting",
+  "id": "bw-p-nm0000255",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Affleck",
+  "type": "task"
+}

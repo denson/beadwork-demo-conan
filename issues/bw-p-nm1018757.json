@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Smashing Pumpkins. music_artist, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1018757/\n_search: The Smashing Pumpkins | The Saint | Transformers | Rampage | Batman \u0026 Robin",
+  "id": "bw-p-nm1018757",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Smashing Pumpkins",
+  "type": "task"
+}

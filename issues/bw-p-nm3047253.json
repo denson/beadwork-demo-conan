@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke Russert. b. 1985 | talent_agent, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3047253/\n_search: Luke Russert | Dateline NBC | NBC News Decision 2010 | Martin Bashir | The Cycle",
+  "id": "bw-p-nm3047253",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke Russert",
+  "type": "task"
+}

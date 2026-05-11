@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Oprah Winfrey. b. 1954 | producer, actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001856/\n_search: Oprah Winfrey | The Oprah Winfrey Show | The Butler | The Color Purple | A Wrinkle in Time",
+  "id": "bw-p-nm0001856",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Oprah Winfrey",
+  "type": "task"
+}

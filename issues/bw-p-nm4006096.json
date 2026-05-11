@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Tribbett. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4006096/\n_search: Greg Tribbett | Saw II | Mudvayne: Nexus.Life.Death. | Mudvayne: L(ive) D(osage) 50 - Live in Peoria | Hellyeah, Stampede: Live from Dallas",
+  "id": "bw-p-nm4006096",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Tribbett",
+  "type": "task"
+}

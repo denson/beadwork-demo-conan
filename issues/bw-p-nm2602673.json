@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scala and Kolacny Brothers. music_department, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2602673/\n_search: Scala and Kolacny Brothers | The Gambler | Criminal Minds | Rabid Dogs | Blood of My Blood",
+  "id": "bw-p-nm2602673",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scala and Kolacny Brothers",
+  "type": "task"
+}

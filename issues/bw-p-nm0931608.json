@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roshumba Williams. b. 1968 | actress.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0931608/\n_search: Roshumba Williams | Mortal Kombat: Conquest | Fastlane | Hair Show | Ally McBeal",
+  "id": "bw-p-nm0931608",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roshumba Williams",
+  "type": "task"
+}

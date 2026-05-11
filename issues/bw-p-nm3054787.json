@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Antonoff. b. 1984 | composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3054787/\n_search: Jack Antonoff | Love, Simon | Fifty Shades Darker | Minions: The Rise of Gru | The Final Girls",
+  "id": "bw-p-nm3054787",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Antonoff",
+  "type": "task"
+}

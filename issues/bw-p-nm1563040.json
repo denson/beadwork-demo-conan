@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trevor Boris. producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1563040/\n_search: Trevor Boris | Canada's Drag Race | Canada's Drag Race: Canada vs the World | Big Brother Canada | Never Ever Do This at Home",
+  "id": "bw-p-nm1563040",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trevor Boris",
+  "type": "task"
+}

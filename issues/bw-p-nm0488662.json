@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Larroquette. b. 1947 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0488662/\n_search: John Larroquette | Night Court | Stripes | The Librarians | Blind Date",
+  "id": "bw-p-nm0488662",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Larroquette",
+  "type": "task"
+}

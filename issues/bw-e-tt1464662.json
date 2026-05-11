@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Lee Curtis/Richard Linklater/The Indians. late_night, S1E20, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1464662/\n_search: Jamie Lee Curtis/Richard Linklater/The Indians | 1993 | S1E20",
+  "id": "bw-e-tt1464662",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Lee Curtis/Richard Linklater/The Indians",
+  "type": "task"
+}

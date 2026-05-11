@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lou Reed. 1942–2013 | music_artist, actor, composer.\nDECEASED (1942–2013). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0715563/\n_search: Lou Reed | V for Vendetta | RocknRolla | Blue in the Face | Lost Highway",
+  "id": "bw-p-nm0715563",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lou Reed",
+  "type": "task"
+}

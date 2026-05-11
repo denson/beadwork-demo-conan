@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roy Jones Jr.. b. 1969 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1035578/\n_search: Roy Jones Jr. | The Matrix Reloaded | Little Fockers | Enter the Matrix | Universal Soldier: Day of Reckoning",
+  "id": "bw-p-nm1035578",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roy Jones Jr.",
+  "type": "task"
+}

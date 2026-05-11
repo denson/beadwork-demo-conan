@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marcy McGuigan. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3009426/\n_search: Marcy McGuigan | Grand Theft Auto IV | Humor Me | Ghost Stories | Inside Amy Schumer",
+  "id": "bw-p-nm3009426",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marcy McGuigan",
+  "type": "task"
+}

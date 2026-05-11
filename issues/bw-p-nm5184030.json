@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ford Bailey. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5184030/\n_search: Ford Bailey",
+  "id": "bw-p-nm5184030",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ford Bailey",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Lawrence/Eliza Dushku/Soweto Gospel Choir. late_night, S13E68, 2006.\nRuntime: 57 min.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt0627787/\n_search: Martin Lawrence/Eliza Dushku/Soweto Gospel Choir | 2006 | S13E68",
+  "id": "bw-e-tt0627787",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Lawrence/Eliza Dushku/Soweto Gospel Choir",
+  "type": "task"
+}

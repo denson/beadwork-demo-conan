@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Ferguson. b. 1959 | writer, producer, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0272601/\n_search: Sarah Ferguson | The Young Victoria | The Vicar of Dibley | Budgie the Little Helicopter | Friends",
+  "id": "bw-p-nm0272601",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Ferguson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Island of Misfit Roys: Scheider Edition. conan_tbs, S2E20, 2011.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt2147825/\n_search: The Island of Misfit Roys: Scheider Edition | 2011 | S2E20",
+  "id": "bw-e-tt2147825",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Island of Misfit Roys: Scheider Edition",
+  "type": "task"
+}

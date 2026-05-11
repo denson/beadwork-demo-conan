@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Short/Lauren Ash/5 Seconds of Summer. conan_tbs, S6E21, 2016.\nRuntime: 42 min.\nIMDb rating: 8.6.\nIMDb: https://www.imdb.com/title/tt5307914/\n_search: Martin Short/Lauren Ash/5 Seconds of Summer | 2016 | S6E21",
+  "id": "bw-e-tt5307914",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Short/Lauren Ash/5 Seconds of Summer",
+  "type": "task"
+}

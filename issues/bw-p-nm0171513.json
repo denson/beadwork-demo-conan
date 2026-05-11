@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Margaret Colin. b. 1958 | actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0171513/\n_search: Margaret Colin | Independence Day | Unfaithful | Now and Again | Something Wild",
+  "id": "bw-p-nm0171513",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Margaret Colin",
+  "type": "task"
+}

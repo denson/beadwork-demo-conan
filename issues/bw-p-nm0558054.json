@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Matalin. b. 1953 | actress, producer, archive_sound.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0558054/\n_search: Mary Matalin | The Adjustment Bureau | K Street | Mad About You | The War Room",
+  "id": "bw-p-nm0558054",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Matalin",
+  "type": "task"
+}

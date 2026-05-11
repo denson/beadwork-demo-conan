@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "JD McPherson. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5004042/\n_search: JD McPherson | Second Act | Vacation | The Bag Man | Resident Alien",
+  "id": "bw-p-nm5004042",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "JD McPherson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jenny Brunt. actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2649238/\n_search: Jenny Brunt | Inferno!",
+  "id": "bw-p-nm2649238",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jenny Brunt",
+  "type": "task"
+}

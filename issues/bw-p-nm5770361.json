@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Isabella Bazler. b. 2004 | actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5770361/\n_search: Isabella Bazler | Geo-Disaster | The Anomalyst | Manny's Garage Sale: A Hitchcock Knot | Milvio",
+  "id": "bw-p-nm5770361",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Isabella Bazler",
+  "type": "task"
+}

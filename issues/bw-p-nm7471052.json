@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Word. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7471052/\n_search: The Word",
+  "id": "bw-p-nm7471052",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Word",
+  "type": "task"
+}

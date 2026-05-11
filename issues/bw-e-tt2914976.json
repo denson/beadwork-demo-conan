@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ringo Starr/Cheryl Tiegs/Brian Kiley. late_night, S2E192, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2914976/\n_search: Ringo Starr/Cheryl Tiegs/Brian Kiley | 1995 | S2E192",
+  "id": "bw-e-tt2914976",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ringo Starr/Cheryl Tiegs/Brian Kiley",
+  "type": "task"
+}

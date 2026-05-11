@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Lou Retton. b. 1968 | actress, producer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0720574/\n_search: Mary Lou Retton | Scrooged | Naked Gun 33 1/3: The Final Insult | Baywatch | Guiding Light",
+  "id": "bw-p-nm0720574",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Lou Retton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jordana Brewster. b. 1980 | actress, producer, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0108287/\n_search: Jordana Brewster | Furious 7 | The Texas Chainsaw Massacre: The Beginning | The Fast and the Furious | Fast \u0026 Furious",
+  "id": "bw-p-nm0108287",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jordana Brewster",
+  "type": "task"
+}

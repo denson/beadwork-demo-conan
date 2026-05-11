@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Goor. b. 1975 | writer, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0329634/\n_search: Dan Goor | Parks and Recreation | Killing It | Brooklyn Nine-Nine",
+  "id": "bw-p-nm0329634",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Goor",
+  "type": "task"
+}

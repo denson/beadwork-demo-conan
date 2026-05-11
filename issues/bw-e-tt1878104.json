@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "As Time Goes Bi-Curious. conan_tbs, S1E74, 2011.\nRuntime: 60 min.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt1878104/\n_search: As Time Goes Bi-Curious | 2011 | S1E74",
+  "id": "bw-e-tt1878104",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "As Time Goes Bi-Curious",
+  "type": "task"
+}

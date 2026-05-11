@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eva Mendes. b. 1974 | actress, director, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0578949/\n_search: Eva Mendes | Hitch | The Place Beyond the Pines | The Other Guys | Ghost Rider",
+  "id": "bw-p-nm0578949",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eva Mendes",
+  "type": "task"
+}

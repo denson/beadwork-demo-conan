@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Junior Brown. b. 1952 | actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0113943/\n_search: Junior Brown | The Dukes of Hazzard | Me, Myself \u0026 Irene | Still Breathing | Trespass",
+  "id": "bw-p-nm0113943",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Junior Brown",
+  "type": "task"
+}

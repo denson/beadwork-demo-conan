@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Goldsmith. b. 1969 | camera_department, actor, visual_effects.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0326059/\n_search: David Goldsmith | Meet Dave | Ad Astra | The Losers | S.W.A.T.",
+  "id": "bw-p-nm0326059",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Goldsmith",
+  "type": "task"
+}

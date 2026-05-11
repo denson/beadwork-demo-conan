@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susanna Hoffs. b. 1959 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005015/\n_search: Susanna Hoffs | Austin Powers in Goldmember | Buffy the Vampire Slayer | Pitch Perfect | Austin Powers: The Spy Who Shagged Me",
+  "id": "bw-p-nm0005015",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susanna Hoffs",
+  "type": "task"
+}

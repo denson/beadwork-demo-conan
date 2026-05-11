@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Avidan. b. 1979 | music_department, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4176291/\n_search: Dan Avidan | The Sacred Chalice with Ninja Sex Party | Dick Figures: The Movie | The Mythical Show | Breaking Bad: The Middle School Musical",
+  "id": "bw-p-nm4176291",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Avidan",
+  "type": "task"
+}

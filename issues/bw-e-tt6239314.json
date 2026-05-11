@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lin-Manuel Miranda/John Early/The Head and the Heart. conan_tbs, S7E7, 2016.\nRuntime: 42 min.\nIMDb rating: 5.0.\nIMDb: https://www.imdb.com/title/tt6239314/\n_search: Lin-Manuel Miranda/John Early/The Head and the Heart | 2016 | S7E7",
+  "id": "bw-e-tt6239314",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lin-Manuel Miranda/John Early/The Head and the Heart",
+  "type": "task"
+}

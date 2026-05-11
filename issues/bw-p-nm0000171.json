@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ashley Judd. b. 1968 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000171/\n_search: Ashley Judd | Double Jeopardy | Bug | Kiss the Girls | Someone Like You",
+  "id": "bw-p-nm0000171",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ashley Judd",
+  "type": "task"
+}

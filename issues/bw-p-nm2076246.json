@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cowboy Junkies. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2076246/\n_search: Cowboy Junkies | Dante's Peak | Natural Born Killers | The Girl on the Train | Flight",
+  "id": "bw-p-nm2076246",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cowboy Junkies",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sixpence None the Richer. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1599440/\n_search: Sixpence None the Richer | After the Sunset | You Again | Not Another Teen Movie | View from the Top",
+  "id": "bw-p-nm1599440",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sixpence None the Richer",
+  "type": "task"
+}

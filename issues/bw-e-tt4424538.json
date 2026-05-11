@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosario Dawson/Joel Edgerton/Bahamas. conan_tbs, S5E20, 2014.\nIMDb: https://www.imdb.com/title/tt4424538/\n_search: Rosario Dawson/Joel Edgerton/Bahamas | 2014 | S5E20",
+  "id": "bw-e-tt4424538",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosario Dawson/Joel Edgerton/Bahamas",
+  "type": "task"
+}

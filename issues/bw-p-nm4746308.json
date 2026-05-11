@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Awolnation. music_department, production_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4746308/\n_search: Awolnation | Iron Man 3 | 6 Underground | Fifty Shades of Grey | Always Be My Maybe",
+  "id": "bw-p-nm4746308",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Awolnation",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Large Band. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3999547/\n_search: The Large Band | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm3999547",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Large Band",
+  "type": "task"
+}

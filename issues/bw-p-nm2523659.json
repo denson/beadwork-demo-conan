@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gym Class Heroes. music_artist, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2523659/\n_search: Gym Class Heroes | Snakes on a Plane | Never Back Down | The Last House on the Left | I Love You, Beth Cooper",
+  "id": "bw-p-nm2523659",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gym Class Heroes",
+  "type": "task"
+}

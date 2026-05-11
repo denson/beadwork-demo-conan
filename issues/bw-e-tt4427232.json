@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Orlando Bloom/John C. McGinley/Sebastian Maniscalco. conan_tbs, S5E24, 2014.\nIMDb: https://www.imdb.com/title/tt4427232/\n_search: Orlando Bloom/John C. McGinley/Sebastian Maniscalco | 2014 | S5E24",
+  "id": "bw-e-tt4427232",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Orlando Bloom/John C. McGinley/Sebastian Maniscalco",
+  "type": "task"
+}

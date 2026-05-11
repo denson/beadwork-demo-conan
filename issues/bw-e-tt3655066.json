@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Mackie/Kumail Nanjiani/Bad Suns. conan_tbs, S4E71, 2014.\nIMDb: https://www.imdb.com/title/tt3655066/\n_search: Anthony Mackie/Kumail Nanjiani/Bad Suns | 2014 | S4E71",
+  "id": "bw-e-tt3655066",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Mackie/Kumail Nanjiani/Bad Suns",
+  "type": "task"
+}

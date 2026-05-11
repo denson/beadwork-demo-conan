@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Macklemore \u0026 Ryan Lewis. music_artist, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8548010/\n_search: Macklemore \u0026 Ryan Lewis | Tammy | Horrible Bosses 2 | He's All That | Songs My Brothers Taught Me",
+  "id": "bw-p-nm8548010",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Macklemore \u0026 Ryan Lewis",
+  "type": "task"
+}

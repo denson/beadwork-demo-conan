@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "D.A. Pennebaker. 1925–2019 | director, cinematographer, editor.\nDECEASED (1925–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0672060/\n_search: D.A. Pennebaker | Bob Dylan: Dont Look Back | The War Room | Unlocking the Cage | Only the Strong Survive",
+  "id": "bw-p-nm0672060",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "D.A. Pennebaker",
+  "type": "task"
+}

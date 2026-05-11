@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Hoskins. 1942–2014 | actor, director, producer.\nDECEASED (1942–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001364/\n_search: Bob Hoskins | The Long Good Friday | Mona Lisa | Who Framed Roger Rabbit | Super Mario Bros.",
+  "id": "bw-p-nm0001364",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Hoskins",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Cooper. actor, music_department, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6532861/\n_search: John Cooper | Transformers: Dark of the Moon | The Shack | Grave Encounters 2 | WWE SmackDown vs. RAW 2010",
+  "id": "bw-p-nm6532861",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Cooper",
+  "type": "task"
+}

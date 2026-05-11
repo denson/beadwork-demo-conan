@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Channing Tatum/Jonah Hill/Grouplove. conan_tbs, S4E95, 2014.\nIMDb: https://www.imdb.com/title/tt3790746/\n_search: Channing Tatum/Jonah Hill/Grouplove | 2014 | S4E95",
+  "id": "bw-e-tt3790746",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Channing Tatum/Jonah Hill/Grouplove",
+  "type": "task"
+}

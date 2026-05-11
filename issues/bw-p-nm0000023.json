@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judy Garland. 1922–1969 | actress, music_department, soundtrack.\nDECEASED (1922–1969). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0000023/\n_search: Judy Garland | The Wizard of Oz | Meet Me in St. Louis | A Star Is Born | Judgment at Nuremberg",
+  "id": "bw-p-nm0000023",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judy Garland",
+  "type": "task"
+}

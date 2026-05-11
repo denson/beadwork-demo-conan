@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan Without Borders: Japan. conan_tbs, S8E117, 2018.\nRuntime: 42 min.\nIMDb rating: 8.5.\nIMDb: https://www.imdb.com/title/tt9362278/\n_search: Conan Without Borders: Japan | 2018 | S8E117",
+  "id": "bw-e-tt9362278",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan Without Borders: Japan",
+  "type": "task"
+}

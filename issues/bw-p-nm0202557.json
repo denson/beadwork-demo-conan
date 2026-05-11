@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gregory Daven. production_department, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0202557/\n_search: Gregory Daven | The Swan Princess | Error in Judgment | The Trumpet of the Swan | The Scarecrow",
+  "id": "bw-p-nm0202557",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gregory Daven",
+  "type": "task"
+}

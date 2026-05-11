@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicolas Cage. b. 1964 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000115/\n_search: Nicolas Cage | Face/Off | Leaving Las Vegas | Next | The Rock",
+  "id": "bw-p-nm0000115",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicolas Cage",
+  "type": "task"
+}

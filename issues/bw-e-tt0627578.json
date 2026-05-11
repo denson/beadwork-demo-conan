@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Lowe/Jill Hennessy/Elvis Costello. late_night, S12E16, 2004.\nRuntime: 57 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt0627578/\n_search: Rob Lowe/Jill Hennessy/Elvis Costello | 2004 | S12E16",
+  "id": "bw-e-tt0627578",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Lowe/Jill Hennessy/Elvis Costello",
+  "type": "task"
+}

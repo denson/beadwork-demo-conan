@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin T. McCarthy. actor, writer, art_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1542693/\n_search: Kevin T. McCarthy | Priest | The Return of Laura Peters | iCarly | CSI: Miami",
+  "id": "bw-p-nm1542693",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin T. McCarthy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Richman. b. 1951 | composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0725041/\n_search: Jonathan Richman | There's Something About Mary | Baby Driver | Enemy | Fever Pitch",
+  "id": "bw-p-nm0725041",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Richman",
+  "type": "task"
+}

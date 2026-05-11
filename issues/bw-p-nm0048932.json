@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Simon Baker. b. 1969 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0048932/\n_search: Simon Baker | Margin Call | The Mentalist | The Devil Wears Prada | Land of the Dead",
+  "id": "bw-p-nm0048932",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Simon Baker",
+  "type": "task"
+}

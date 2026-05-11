@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Kirkland Jr.. actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10229014/\n_search: Greg Kirkland Jr. | A Fall from Grace | Madea Gets a Job | Black Girls Guide to Fertility | A Madea Family Funeral",
+  "id": "bw-p-nm10229014",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Kirkland Jr.",
+  "type": "task"
+}

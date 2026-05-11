@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alec Greven. writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2935535/\n_search: Alec Greven | How to Talk to Girls | Quelli che... il calcio | The Ellen DeGeneres Show | CBS Mornings",
+  "id": "bw-p-nm2935535",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alec Greven",
+  "type": "task"
+}

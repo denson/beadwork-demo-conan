@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "La Marisoul. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6631786/\n_search: La Marisoul | The Bridge | Altered Carbon | Amsterdam | Cesar Chavez",
+  "id": "bw-p-nm6631786",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "La Marisoul",
+  "type": "task"
+}

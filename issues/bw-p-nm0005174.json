@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ann Magnuson. b. 1956 | actress, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005174/\n_search: Ann Magnuson | Panic Room | Clear and Present Danger | Small Soldiers | Desperately Seeking Susan",
+  "id": "bw-p-nm0005174",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ann Magnuson",
+  "type": "task"
+}

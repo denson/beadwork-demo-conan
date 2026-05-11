@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adrienne C. Moore. b. 1980 | actress, executive, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3166754/\n_search: Adrienne C. Moore | Orange Is the New Black | Juror #2 | Shaft | Pretty Hard Cases",
+  "id": "bw-p-nm3166754",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adrienne C. Moore",
+  "type": "task"
+}

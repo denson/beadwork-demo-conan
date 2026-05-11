@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brie Larson. b. 1989 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0488953/\n_search: Brie Larson | Room | Captain Marvel | Short Term 12 | The Spectacular Now",
+  "id": "bw-p-nm0488953",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brie Larson",
+  "type": "task"
+}

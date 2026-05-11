@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stars of Here Comes the Funny Tour/Clipping.. conan_tbs, S7E10, 2016.\nRuntime: 42 min.\nIMDb rating: 8.8.\nIMDb: https://www.imdb.com/title/tt6239330/\n_search: Stars of Here Comes the Funny Tour/Clipping. | 2016 | S7E10",
+  "id": "bw-e-tt6239330",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stars of Here Comes the Funny Tour/Clipping.",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Hader/Alexandra Shipp/Natalie Prass. conan_tbs, S8E50, 2018.\nRuntime: 42 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt8111910/\n_search: Bill Hader/Alexandra Shipp/Natalie Prass | 2018 | S8E50",
+  "id": "bw-e-tt8111910",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Hader/Alexandra Shipp/Natalie Prass",
+  "type": "task"
+}

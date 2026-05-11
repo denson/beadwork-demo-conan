@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Hoye. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6703233/\n_search: Michael Hoye | Accident",
+  "id": "bw-p-nm6703233",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Hoye",
+  "type": "task"
+}

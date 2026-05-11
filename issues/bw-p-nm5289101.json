@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Ross. producer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5289101/\n_search: Jeff Ross | The Kids in the Hall | John Leguizamo: Spic-O-Rama | Def Comedy Jam",
+  "id": "bw-p-nm5289101",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Ross",
+  "type": "task"
+}

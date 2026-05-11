@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Donaldson. b. 1934 | miscellaneous, archive_footage.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0232152/\n_search: Sam Donaldson | ABC 2000: The Millennium | ABC News: Inauguration 2009 | Primary Issues | Reagan: From Movie Star to President",
+  "id": "bw-p-nm0232152",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Donaldson",
+  "type": "task"
+}

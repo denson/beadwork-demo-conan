@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Rome. b. 1964 | writer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0739175/\n_search: Jim Rome | The Longest Yard | Space Jam | Arli$$ | Two for the Money",
+  "id": "bw-p-nm0739175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Rome",
+  "type": "task"
+}

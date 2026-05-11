@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christina Ricci. b. 1980 | actress, producer, soundtrack.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000207/\n_search: Christina Ricci | Buffalo '66 | The Addams Family | Casper | Mermaids",
+  "id": "bw-p-nm0000207",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christina Ricci",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Hansen. b. 1985 | actor, director, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3824028/\n_search: Anthony Hansen | Star Wars: Battlefront | Bank Roll | SimCity | The Sonnet Series",
+  "id": "bw-p-nm3824028",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Hansen",
+  "type": "task"
+}

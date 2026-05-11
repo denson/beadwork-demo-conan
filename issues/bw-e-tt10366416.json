@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Mantzoukas/Nish Kumar. conan_tbs, S9E56, 2019.\nRuntime: 21 min.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt10366416/\n_search: Jason Mantzoukas/Nish Kumar | 2019 | S9E56",
+  "id": "bw-e-tt10366416",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Mantzoukas/Nish Kumar",
+  "type": "task"
+}

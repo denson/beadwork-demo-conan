@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Mintz. b. 1978 | actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0591777/\n_search: Julie Mintz | Crocodile | Third Person | Boston Public | Habit",
+  "id": "bw-p-nm0591777",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Mintz",
+  "type": "task"
+}

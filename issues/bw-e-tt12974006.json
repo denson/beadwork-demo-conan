@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Jason Sudeikis. conan_tbs, S10E79, 2020.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt12974006/\n_search: From Largo Theatre Jason Sudeikis | 2020 | S10E79",
+  "id": "bw-e-tt12974006",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Jason Sudeikis",
+  "type": "task"
+}

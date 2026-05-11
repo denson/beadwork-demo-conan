@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jenna Elfman/Rory Scovel/Robby Slowik. conan_tbs, S8E72, 2018.\nRuntime: 42 min.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt8342936/\n_search: Jenna Elfman/Rory Scovel/Robby Slowik | 2018 | S8E72",
+  "id": "bw-e-tt8342936",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jenna Elfman/Rory Scovel/Robby Slowik",
+  "type": "task"
+}

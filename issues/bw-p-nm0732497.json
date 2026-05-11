@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Craig Robinson. b. 1971 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0732497/\n_search: Craig Robinson | This Is the End | Hot Tub Time Machine | Zack and Miri Make a Porno | Hot Tub Time Machine 2",
+  "id": "bw-p-nm0732497",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Craig Robinson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eve 6. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3091864/\n_search: Eve 6 | Can't Hardly Wait | The New Guy | The Prince and Me | Teaching Mrs. Tingle",
+  "id": "bw-p-nm3091864",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eve 6",
+  "type": "task"
+}

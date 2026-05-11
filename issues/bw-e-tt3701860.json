@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Richards/Jimmy Blaylock/At the Drive-In. late_night, S8E21, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3701860/\n_search: Michael Richards/Jimmy Blaylock/At the Drive-In | 2000 | S8E21",
+  "id": "bw-e-tt3701860",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Richards/Jimmy Blaylock/At the Drive-In",
+  "type": "task"
+}

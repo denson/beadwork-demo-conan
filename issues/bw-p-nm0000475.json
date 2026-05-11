@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patsy Kensit. b. 1968 | actress, composer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000475/\n_search: Patsy Kensit | Lethal Weapon 2 | Absolute Beginners | The Great Gatsby | Hanover Street",
+  "id": "bw-p-nm0000475",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patsy Kensit",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bonnie Hunt/Chuck Barris/Ron Lynch. late_night, S2E19, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2773354/\n_search: Bonnie Hunt/Chuck Barris/Ron Lynch | 1994 | S2E19",
+  "id": "bw-e-tt2773354",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bonnie Hunt/Chuck Barris/Ron Lynch",
+  "type": "task"
+}

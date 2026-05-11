@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gisele Bündchen. b. 1980 | miscellaneous, actress, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm1014528/\n_search: Gisele Bündchen | Taxi | The Devil Wears Prada | Gisele \u0026 the Green Team | The Dreamer III",
+  "id": "bw-p-nm1014528",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gisele Bündchen",
+  "type": "task"
+}

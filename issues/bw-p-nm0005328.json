@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tito Puente. 1923–2000 | actor, composer, music_department.\nDECEASED (1923–2000). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005328/\n_search: Tito Puente | Star Trek Into Darkness | Man on Fire | The Astronaut's Wife | We Own the Night",
+  "id": "bw-p-nm0005328",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tito Puente",
+  "type": "task"
+}

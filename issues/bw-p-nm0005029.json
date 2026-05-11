@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Oliver Hudson. b. 1976 | actor, producer, production_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005029/\n_search: Oliver Hudson | Black Christmas | Walk of Shame | Going Greek | Executive Decision",
+  "id": "bw-p-nm0005029",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Oliver Hudson",
+  "type": "task"
+}

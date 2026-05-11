@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonny Lang. b. 1981 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0485796/\n_search: Jonny Lang | For Love of the Game | The Last Stand | Blues Brothers 2000 | Hollow Point",
+  "id": "bw-p-nm0485796",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonny Lang",
+  "type": "task"
+}

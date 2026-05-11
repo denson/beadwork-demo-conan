@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kurt Braunohler. b. 1976 | writer, actor, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2223253/\n_search: Kurt Braunohler | The Big Sick | Barbarian | The Good Place | Bob's Burgers",
+  "id": "bw-p-nm2223253",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kurt Braunohler",
+  "type": "task"
+}

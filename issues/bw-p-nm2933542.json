@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Boyd Holbrook. b. 1981 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2933542/\n_search: Boyd Holbrook | Logan | A Complete Unknown | The Predator | The Host",
+  "id": "bw-p-nm2933542",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Boyd Holbrook",
+  "type": "task"
+}

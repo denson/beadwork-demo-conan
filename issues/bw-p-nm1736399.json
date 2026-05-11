@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yellowcard. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1736399/\n_search: Yellowcard | Fan-Made Music Videos | The Upside of Anger | Burnout Revenge | Sleepover",
+  "id": "bw-p-nm1736399",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yellowcard",
+  "type": "task"
+}

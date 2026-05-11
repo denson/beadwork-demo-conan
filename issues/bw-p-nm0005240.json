@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Moby. b. 1965 | composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005240/\n_search: Moby | Southland Tales | The Next Three Days | The Saint | The Bourne Legacy",
+  "id": "bw-p-nm0005240",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Moby",
+  "type": "task"
+}

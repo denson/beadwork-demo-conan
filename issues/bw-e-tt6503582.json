@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James White/Lester Holt/Kat Dennings/Aaron Lee Tasjan. conan_tbs, S7E45, 2017.\nRuntime: 42 min.\nIMDb rating: 5.8.\nIMDb: https://www.imdb.com/title/tt6503582/\n_search: James White/Lester Holt/Kat Dennings/Aaron Lee Tasjan | 2017 | S7E45",
+  "id": "bw-e-tt6503582",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James White/Lester Holt/Kat Dennings/Aaron Lee Tasjan",
+  "type": "task"
+}

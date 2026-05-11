@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Rapaport. b. 1970 | actor, director, producer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0001650/\n_search: Michael Rapaport | Deep Blue Sea | True Romance | Beautiful Girls | The 6th Day",
+  "id": "bw-p-nm0001650",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Rapaport",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tiny Tim. 1932–1996 | actor, composer, music_department.\nDECEASED (1932–1996). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0864097/\n_search: Tiny Tim | Insidious | Private Parts | Wrecked | Killing Eve",
+  "id": "bw-p-nm0864097",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tiny Tim",
+  "type": "task"
+}

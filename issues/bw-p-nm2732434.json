@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ryan Stanger. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2732434/\n_search: Ryan Stanger | Brooklyn Nine-Nine | Adam Ruins Everything | Comedy Bang! Bang!",
+  "id": "bw-p-nm2732434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ryan Stanger",
+  "type": "task"
+}

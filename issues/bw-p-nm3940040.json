@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Perry Adam Smith. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3940040/\n_search: Perry Adam Smith | The Last 10 Seconds of Lost | Adulterers | The 1982 Tron Holiday Special | Dropout",
+  "id": "bw-p-nm3940040",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Perry Adam Smith",
+  "type": "task"
+}

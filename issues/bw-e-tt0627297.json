@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Williams/Hilary Swank/Everything but the Girl. late_night, S7E41, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627297/\n_search: Brian Williams/Hilary Swank/Everything but the Girl | 1999 | S7E41",
+  "id": "bw-e-tt0627297",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Williams/Hilary Swank/Everything but the Girl",
+  "type": "task"
+}

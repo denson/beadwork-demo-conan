@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Bosworth. b. 1983 | actress, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0098378/\n_search: Kate Bosworth | Superman Returns | 21 | Blue Crush | Win a Date with Tad Hamilton!",
+  "id": "bw-p-nm0098378",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Bosworth",
+  "type": "task"
+}

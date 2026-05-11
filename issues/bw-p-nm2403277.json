@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alden Ehrenreich. b. 1989 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2403277/\n_search: Alden Ehrenreich | Hail, Caesar! | Solo: A Star Wars Story | Beautiful Creatures | Blue Jasmine",
+  "id": "bw-p-nm2403277",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alden Ehrenreich",
+  "type": "task"
+}

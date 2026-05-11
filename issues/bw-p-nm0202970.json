@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry David. b. 1947 | producer, writer, actor.\nConan-show appearances: 5 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0202970/\n_search: Larry David | Whatever Works | Curb Your Enthusiasm | Seinfeld | Larry David: Curb Your Enthusiasm",
+  "id": "bw-p-nm0202970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry David",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Vider. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6196325/\n_search: Gary Vider | Fourth of July | Gotham Comedy Live | People Talking Sports: And Other Stuff",
+  "id": "bw-p-nm6196325",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Vider",
+  "type": "task"
+}

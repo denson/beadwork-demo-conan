@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sugar Ray. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1041303/\n_search: Sugar Ray | Escape from L.A. | The Beach | Wild Things | Van Wilder",
+  "id": "bw-p-nm1041303",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sugar Ray",
+  "type": "task"
+}

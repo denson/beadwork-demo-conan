@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alex Wagner. writer, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4757938/\n_search: Alex Wagner | Lizzie McGuire | The Circus: Inside the Greatest Political Show on Earth | Billions | Now with Alex Wagner",
+  "id": "bw-p-nm4757938",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alex Wagner",
+  "type": "task"
+}

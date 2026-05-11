@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neil Patrick Harris/Damian Lillard/Kiesza. conan_tbs, S4E153, 2014.\nIMDb: https://www.imdb.com/title/tt4133668/\n_search: Neil Patrick Harris/Damian Lillard/Kiesza | 2014 | S4E153",
+  "id": "bw-e-tt4133668",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neil Patrick Harris/Damian Lillard/Kiesza",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Passenger. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3735779/\n_search: Passenger | Per tutta la vita | Jem and the Holograms | Tour de Force | Law \u0026 Order: Special Victims Unit",
+  "id": "bw-p-nm3735779",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Passenger",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Beacock. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0063527/\n_search: Brian Beacock | Danganronpa: Trigger Happy Havoc | Acting Dead | Buying the Cow | The Rerun Show",
+  "id": "bw-p-nm0063527",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Beacock",
+  "type": "task"
+}

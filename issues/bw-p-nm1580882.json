@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Hales. b. 1972 | composer, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1580882/\n_search: Matt Hales | Wicker Park | The Twilight Saga: Breaking Dawn - Part 1 | Kingsman: The Golden Circle | A Lot Like Love",
+  "id": "bw-p-nm1580882",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Hales",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Fitzgerald. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm12959863/\n_search: Tom Fitzgerald | 1996 Stanley Cup Finals | Behind the Glass",
+  "id": "bw-p-nm12959863",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Fitzgerald",
+  "type": "task"
+}

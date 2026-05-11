@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Halle Berry. b. 1966 | actress, producer, director.\nConan-show appearances: 9 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0000932/\n_search: Halle Berry | Catwoman | Gothika | Die Another Day | Monster's Ball",
+  "id": "bw-p-nm0000932",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Halle Berry",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laura Dern. b. 1967 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000368/\n_search: Laura Dern | Jurassic Park | Marriage Story | Wild | Blue Velvet",
+  "id": "bw-p-nm0000368",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laura Dern",
+  "type": "task"
+}

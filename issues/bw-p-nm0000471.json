@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Raul Julia. 1940–1994 | actor, soundtrack, archive_footage.\nDECEASED (1940–1994). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000471/\n_search: Raul Julia | The Addams Family | Street Fighter | Addams Family Values | Presumed Innocent",
+  "id": "bw-p-nm0000471",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Raul Julia",
+  "type": "task"
+}

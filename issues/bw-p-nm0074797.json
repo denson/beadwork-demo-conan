@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Bergman. b. 1960 | actor, miscellaneous, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0074797/\n_search: Jeff Bergman | Gremlins 2: The New Batch | Space Jam: A New Legacy | Batman: Return of the Caped Crusaders | The Looney Tunes Show",
+  "id": "bw-p-nm0074797",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Bergman",
+  "type": "task"
+}

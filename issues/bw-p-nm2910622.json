@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Devonté Hynes. composer, actor, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2910622/\n_search: Devonté Hynes | Queen \u0026 Slim | Nerve | Challengers | To All the Boys I've Loved Before",
+  "id": "bw-p-nm2910622",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Devonté Hynes",
+  "type": "task"
+}

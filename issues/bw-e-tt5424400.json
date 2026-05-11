@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jane Lynch/Alden Ehrenreich/Andrew Bird. conan_tbs, S6E40, 2016.\nRuntime: 41 min.\nIMDb: https://www.imdb.com/title/tt5424400/\n_search: Jane Lynch/Alden Ehrenreich/Andrew Bird | 2016 | S6E40",
+  "id": "bw-e-tt5424400",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jane Lynch/Alden Ehrenreich/Andrew Bird",
+  "type": "task"
+}

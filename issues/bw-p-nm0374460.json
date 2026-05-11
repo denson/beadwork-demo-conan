@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Heinrich. camera_department, cinematographer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0374460/\n_search: Chris Heinrich | Tron: Legacy | Super | MacGruber | Crank: High Voltage",
+  "id": "bw-p-nm0374460",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Heinrich",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ray Davies. b. 1944 | music_artist, actor, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0203919/\n_search: Ray Davies | End of Watch | Avengers: Endgame | Hot Fuzz | The Manchurian Candidate",
+  "id": "bw-p-nm0203919",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ray Davies",
+  "type": "task"
+}

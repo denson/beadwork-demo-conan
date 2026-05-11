@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Orbach. 1935–2004 | actor, soundtrack, archive_footage.\nDECEASED (1935–2004). Conan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0001583/\n_search: Jerry Orbach | Law \u0026 Order | Beauty and the Beast | Dirty Dancing | Universal Soldier",
+  "id": "bw-p-nm0001583",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Orbach",
+  "type": "task"
+}

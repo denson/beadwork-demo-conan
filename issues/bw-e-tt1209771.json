@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Gyllenhaal/Christina Hendricks/Ghostland Observatory. late_night, S15E30, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1209771/\n_search: Jake Gyllenhaal/Christina Hendricks/Ghostland Observatory | 2007 | S15E30",
+  "id": "bw-e-tt1209771",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Gyllenhaal/Christina Hendricks/Ghostland Observatory",
+  "type": "task"
+}

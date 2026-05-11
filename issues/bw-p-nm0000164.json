@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Hopkins. b. 1937 | actor, composer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000164/\n_search: Anthony Hopkins | The Silence of the Lambs | The World's Fastest Indian | Nixon | Hitchcock",
+  "id": "bw-p-nm0000164",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Hopkins",
+  "type": "task"
+}

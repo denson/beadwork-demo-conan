@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Urge Overkill. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0653873/\n_search: Urge Overkill | Pulp Fiction | Kingpin | Flirting with Disaster | Supernatural",
+  "id": "bw-p-nm0653873",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Urge Overkill",
+  "type": "task"
+}

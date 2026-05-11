@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Silverman. b. 1966 | actor, miscellaneous, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001738/\n_search: Jonathan Silverman | Weekend at Bernie's | Brighton Beach Memoirs | Another Dirty Movie | Weekend at Bernie's II",
+  "id": "bw-p-nm0001738",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Silverman",
+  "type": "task"
+}

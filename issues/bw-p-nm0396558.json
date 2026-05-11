@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicholas Hoult. b. 1989 | actor, producer, executive.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0396558/\n_search: Nicholas Hoult | Warm Bodies | About a Boy | Mad Max: Fury Road | X-Men: Days of Future Past",
+  "id": "bw-p-nm0396558",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicholas Hoult",
+  "type": "task"
+}

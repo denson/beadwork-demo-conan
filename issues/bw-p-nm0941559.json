@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Wormworth. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0941559/\n_search: James Wormworth | Messengers | TV Funhouse | The Mark Twain Prize: Steve Martin | The Mark Twain Prize: Neil Simon",
+  "id": "bw-p-nm0941559",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Wormworth",
+  "type": "task"
+}

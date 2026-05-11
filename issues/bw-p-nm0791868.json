@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sherri Shepherd. b. 1967 | actress, producer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0791868/\n_search: Sherri Shepherd | Precious | 30 Rock | One for the Money | Madagascar: Escape 2 Africa",
+  "id": "bw-p-nm0791868",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sherri Shepherd",
+  "type": "task"
+}

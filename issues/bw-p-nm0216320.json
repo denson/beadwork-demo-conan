@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Delaney. b. 1966 | actor, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0216320/\n_search: Michael Delaney | The Other Guys | The Dictator | Sleeping with Other People | The To-Do List",
+  "id": "bw-p-nm0216320",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Delaney",
+  "type": "task"
+}

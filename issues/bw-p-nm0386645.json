@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hallee Hirsh. b. 1987 | actress, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0386645/\n_search: Hallee Hirsh | You've Got Mail | Speak | Flight 29 Down | Lolita",
+  "id": "bw-p-nm0386645",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hallee Hirsh",
+  "type": "task"
+}

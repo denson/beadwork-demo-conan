@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wavves. composer, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5613914/\n_search: Wavves | Detention | Teen Wolf | Grand Theft Auto V | Sex \u0026 Drugs \u0026 Rock \u0026 Roll",
+  "id": "bw-p-nm5613914",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wavves",
+  "type": "task"
+}

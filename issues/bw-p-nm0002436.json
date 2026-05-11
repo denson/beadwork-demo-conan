@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shannon Elizabeth. b. 1973 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0002436/\n_search: Shannon Elizabeth | American Pie | Scary Movie | Jay and Silent Bob Reboot | Love Actually",
+  "id": "bw-p-nm0002436",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shannon Elizabeth",
+  "type": "task"
+}

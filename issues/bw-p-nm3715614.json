@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Guy Chislett. producer, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3715614/\n_search: Michael Guy Chislett | P.S. I Love You | Of Dirt and Grace, Live from the Land | Open Heaven/River Wild | The Hills",
+  "id": "bw-p-nm3715614",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Guy Chislett",
+  "type": "task"
+}

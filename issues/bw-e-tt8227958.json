@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Cohen/Ike Barinholtz/Jc Currais. conan_tbs, S8E60, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8227958/\n_search: Andy Cohen/Ike Barinholtz/Jc Currais | 2018 | S8E60",
+  "id": "bw-e-tt8227958",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Cohen/Ike Barinholtz/Jc Currais",
+  "type": "task"
+}

@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Rudd. b. 1969 | actor, producer, writer.\nConan-show appearances: 15 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0748620/\n_search: Paul Rudd | Ant-Man | Ant-Man and the Wasp | I Love You, Man | The Perks of Being a Wallflower",
+  "id": "bw-p-nm0748620",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Rudd",
+  "type": "task"
+}

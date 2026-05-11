@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "OK Go. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2037328/\n_search: OK Go | The Amazing Spider-Man 2 | Sleeping with Other People | The Cabin in the Woods | I Love You, Beth Cooper",
+  "id": "bw-p-nm2037328",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "OK Go",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ivanka Trump. b. 1981 | miscellaneous, actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1477533/\n_search: Ivanka Trump | Formula 1 | UFC 299: O'Malley vs. Vera 2 | Born Rich | Gossip Girl",
+  "id": "bw-p-nm1477533",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ivanka Trump",
+  "type": "task"
+}

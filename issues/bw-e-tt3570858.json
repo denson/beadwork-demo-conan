@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Betty White/Jason Momoa/American Authors. conan_tbs, S4E57, 2014.\nIMDb: https://www.imdb.com/title/tt3570858/\n_search: Betty White/Jason Momoa/American Authors | 2014 | S4E57",
+  "id": "bw-e-tt3570858",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Betty White/Jason Momoa/American Authors",
+  "type": "task"
+}

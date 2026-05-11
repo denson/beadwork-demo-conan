@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Fay Ellison. 1961–2010 | actress.\nDECEASED (1961–2010). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1926654/\n_search: Carol Fay Ellison | Throwdown with Bobby Flay | The Ellen DeGeneres Show",
+  "id": "bw-p-nm1926654",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Fay Ellison",
+  "type": "task"
+}

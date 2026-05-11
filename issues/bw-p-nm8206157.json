@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Damon. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8206157/\n_search: Mark Damon | Pop Wrapped TV",
+  "id": "bw-p-nm8206157",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Damon",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Persuasions. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2791163/\n_search: The Persuasions | E.T. the Extra-Terrestrial | Key Exchange | The Heartbreak Kid | Attica",
+  "id": "bw-p-nm2791163",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Persuasions",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ike Turner. 1931–2007 | music_artist, actor, writer.\nDECEASED (1931–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0877593/\n_search: Ike Turner | Kill Bill: Vol. 1 | Deadpool | Bull Durham | Clueless",
+  "id": "bw-p-nm0877593",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ike Turner",
+  "type": "task"
+}

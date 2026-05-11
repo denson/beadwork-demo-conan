@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Pargh. b. 1954.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0661434/\n_search: Andy Pargh | Hi Tech Toys | Hi Tech Toys for the Holidays | The Chuck Woolery Show",
+  "id": "bw-p-nm0661434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Pargh",
+  "type": "task"
+}

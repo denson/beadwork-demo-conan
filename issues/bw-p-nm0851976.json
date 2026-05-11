@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Taylor. b. 1961 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0851976/\n_search: Andy Taylor | Commando | Tequila Sunrise | Bumblebee | Take Me Home Tonight",
+  "id": "bw-p-nm0851976",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Taylor",
+  "type": "task"
+}

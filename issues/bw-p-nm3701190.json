@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frally Hynes. music_department, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3701190/\n_search: Frally Hynes | Last Strike | Ida Red | Quarry | The Colonel's Bride",
+  "id": "bw-p-nm3701190",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frally Hynes",
+  "type": "task"
+}

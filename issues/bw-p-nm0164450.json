@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roy Clark. 1933–2018 | actor, miscellaneous, music_department.\nDECEASED (1933–2018). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0164450/\n_search: Roy Clark | Hee Haw | Uphill All the Way | The Kallikaks | Country's Greatest Stars Live: Vol. 1",
+  "id": "bw-p-nm0164450",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roy Clark",
+  "type": "task"
+}

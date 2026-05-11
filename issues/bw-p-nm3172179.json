@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Catrin Sagen. actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3172179/\n_search: Catrin Sagen | The Quake | Together | Varg Veum | AF1 (Alle for en)",
+  "id": "bw-p-nm3172179",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Catrin Sagen",
+  "type": "task"
+}

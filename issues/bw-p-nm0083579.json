@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bernadette Birkett. b. 1946 | actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0083579/\n_search: Bernadette Birkett | Heartbreakers | Mr. Mom | St. Elmo's Fire | The Life Coach",
+  "id": "bw-p-nm0083579",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bernadette Birkett",
+  "type": "task"
+}

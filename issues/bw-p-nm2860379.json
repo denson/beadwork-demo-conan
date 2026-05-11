@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "William Jackson Harper. b. 1980 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2860379/\n_search: William Jackson Harper | Midsommar | The Good Place | Paterson | Dark Waters",
+  "id": "bw-p-nm2860379",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "William Jackson Harper",
+  "type": "task"
+}

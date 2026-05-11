@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Nealon/Yvonne Strahovski/Allen Strickland Williams. conan_tbs, S8E86, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8530674/\n_search: Kevin Nealon/Yvonne Strahovski/Allen Strickland Williams | 2018 | S8E86",
+  "id": "bw-e-tt8530674",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Nealon/Yvonne Strahovski/Allen Strickland Williams",
+  "type": "task"
+}

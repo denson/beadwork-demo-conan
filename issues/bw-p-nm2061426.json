@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Krista Abraham. actress, production_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2061426/\n_search: Krista Abraham | Stargate SG-1 | Late Night with Conan O'Brien: 10th Anniversary Special",
+  "id": "bw-p-nm2061426",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Krista Abraham",
+  "type": "task"
+}

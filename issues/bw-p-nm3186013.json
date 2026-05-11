@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Daniels. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3186013/\n_search: Jamie Daniels | Winning Time: The Rise of the Lakers Dynasty | Welcome to Chippendales | Griselda | Good Girls",
+  "id": "bw-p-nm3186013",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Daniels",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yoko Ono. b. 1933 | director, actress, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0648780/\n_search: Yoko Ono | Blink Twice | Bring Her Back | The Beatles: Get Back | This Is 40",
+  "id": "bw-p-nm0648780",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yoko Ono",
+  "type": "task"
+}

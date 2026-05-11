@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sue Johanson. 1930–2023 | actress, archive_footage.\nDECEASED (1930–2023). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1200710/\n_search: Sue Johanson | Degrassi: The Next Generation | Degrassi High | The Rick Mercer Report | Royal Canadian Air Farce",
+  "id": "bw-p-nm1200710",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sue Johanson",
+  "type": "task"
+}

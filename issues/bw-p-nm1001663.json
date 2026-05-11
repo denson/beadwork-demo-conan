@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Liz Phair. b. 1967 | composer, music_department, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1001663/\n_search: Liz Phair | High Fidelity | Thirteen | She's All That | No Reservations",
+  "id": "bw-p-nm1001663",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Liz Phair",
+  "type": "task"
+}

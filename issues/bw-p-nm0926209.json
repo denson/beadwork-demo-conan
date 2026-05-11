@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Whitmire. b. 1959 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0926209/\n_search: Steve Whitmire | Fraggle Rock | The Muppets | Muppet Treasure Island | The Muppet Christmas Carol",
+  "id": "bw-p-nm0926209",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Whitmire",
+  "type": "task"
+}

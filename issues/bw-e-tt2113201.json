@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dead Men Tell No Amusing Anecdotes. conan_tbs, S2E6, 2011.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt2113201/\n_search: Dead Men Tell No Amusing Anecdotes | 2011 | S2E6",
+  "id": "bw-e-tt2113201",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dead Men Tell No Amusing Anecdotes",
+  "type": "task"
+}

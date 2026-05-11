@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sona Movsesian. b. 1982 | miscellaneous, actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3530452/\n_search: Sona Movsesian | Power Players | Conan O'Brien Can't Stop | Armenia, My Home",
+  "id": "bw-p-nm3530452",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sona Movsesian",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roger Ebert. 1942–2013 | writer, actor, producer.\nDECEASED (1942–2013). Conan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0001170/\n_search: Roger Ebert | At the Movies with Ebert \u0026 Roeper | Life Itself | Sneak Previews | Beyond the Valley of the Dolls",
+  "id": "bw-p-nm0001170",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roger Ebert",
+  "type": "task"
+}

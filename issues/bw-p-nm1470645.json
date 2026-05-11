@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Graham Parker. b. 1950 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1470645/\n_search: Graham Parker | This Is 40 | Roadhouse 66 | Hard Time on Planet Earth | Between the Lines",
+  "id": "bw-p-nm1470645",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Graham Parker",
+  "type": "task"
+}

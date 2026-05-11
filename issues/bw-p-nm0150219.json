@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wilt Chamberlain. 1936–1999 | actor, writer, producer.\nDECEASED (1936–1999). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0150219/\n_search: Wilt Chamberlain | Conan the Destroyer | The Grizzly Six | Go for It | Wilt",
+  "id": "bw-p-nm0150219",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wilt Chamberlain",
+  "type": "task"
+}

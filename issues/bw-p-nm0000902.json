@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Belushi. b. 1954 | actor, music_department, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000902/\n_search: Jim Belushi | Red Heat | Saturday Night Live | K-9 | Jingle All the Way",
+  "id": "bw-p-nm0000902",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Belushi",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christina Applegate. b. 1971 | actress, producer, soundtrack.\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm0000775/\n_search: Christina Applegate | Don't Tell Mom the Babysitter's Dead | Married... with Children | Bad Moms | The Sweetest Thing",
+  "id": "bw-p-nm0000775",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christina Applegate",
+  "type": "task"
+}

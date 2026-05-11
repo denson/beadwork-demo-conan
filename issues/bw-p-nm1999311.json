@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sara Watkins. music_department, actress, talent_agent.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1999311/\n_search: Sara Watkins | Bug | The Peanut Butter Falcon | Crazy Heart | Clarice",
+  "id": "bw-p-nm1999311",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sara Watkins",
+  "type": "task"
+}

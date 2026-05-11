@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristin Hersh. b. 1966 | composer, actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0380903/\n_search: Kristin Hersh | The Perks of Being a Wallflower | Empire Records | With Honors | Foxfire",
+  "id": "bw-p-nm0380903",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristin Hersh",
+  "type": "task"
+}

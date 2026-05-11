@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Marie Presley. 1968–2023 | music_artist, actress, composer.\nDECEASED (1968–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1070086/\n_search: Lisa Marie Presley | Top of the Pops | Too Tough to Die: A Tribute to Johnny Ramone | Danke, Anke | American Idol",
+  "id": "bw-p-nm1070086",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Marie Presley",
+  "type": "task"
+}

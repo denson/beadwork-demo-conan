@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zack Snyder. b. 1966 | director, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0811583/\n_search: Zack Snyder | 300 | Wonder Woman | Zack Snyder's Justice League | Watchmen",
+  "id": "bw-p-nm0811583",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zack Snyder",
+  "type": "task"
+}

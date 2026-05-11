@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Compton. composer, music_department, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2595269/\n_search: Matthew Compton | Snatched | Palm Springs | MacGruber | Love, Rosie",
+  "id": "bw-p-nm2595269",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Compton",
+  "type": "task"
+}

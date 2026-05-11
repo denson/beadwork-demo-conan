@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Bieber. b. 1994 | music_artist, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3595501/\n_search: Justin Bieber | Justin Bieber: Never Say Never | Zoolander 2 | CSI: Crime Scene Investigation | Step Up: Revolution",
+  "id": "bw-p-nm3595501",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Bieber",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucy in the Sky with Amazing Realistic Diamelles. conan_tbs, S2E72, 2012.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt2351961/\n_search: Lucy in the Sky with Amazing Realistic Diamelles | 2012 | S2E72",
+  "id": "bw-e-tt2351961",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucy in the Sky with Amazing Realistic Diamelles",
+  "type": "task"
+}

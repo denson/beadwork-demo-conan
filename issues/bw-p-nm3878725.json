@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Moses Storm. b. 1990 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3878725/\n_search: Moses Storm | Arrested Development | Unfriended | This Is Us",
+  "id": "bw-p-nm3878725",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Moses Storm",
+  "type": "task"
+}

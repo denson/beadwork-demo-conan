@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Morton Downey Jr./William Safire/Straitjacket Fits. late_night, S1E44, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1477414/\n_search: Morton Downey Jr./William Safire/Straitjacket Fits | 1993 | S1E44",
+  "id": "bw-e-tt1477414",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Morton Downey Jr./William Safire/Straitjacket Fits",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Boatman. b. 1964 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0090225/\n_search: Michael Boatman | Hamburger Hill | Spin City | Arli$$ | The Peacemaker",
+  "id": "bw-p-nm0090225",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Boatman",
+  "type": "task"
+}

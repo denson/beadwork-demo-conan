@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Recipe for Disaster Casserole. conan_tbs, S1E108, 2011.\nRuntime: 60 min.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt1965493/\n_search: A Recipe for Disaster Casserole | 2011 | S1E108",
+  "id": "bw-e-tt1965493",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Recipe for Disaster Casserole",
+  "type": "task"
+}

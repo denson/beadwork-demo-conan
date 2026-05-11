@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan at home - Kristin Chenoweth. conan_tbs, S10E55, 2020.\nIMDb rating: 6.4.\nIMDb: https://www.imdb.com/title/tt12317878/\n_search: Conan at home - Kristin Chenoweth | 2020 | S10E55",
+  "id": "bw-e-tt12317878",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan at home - Kristin Chenoweth",
+  "type": "task"
+}

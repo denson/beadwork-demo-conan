@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Randall. 1920–2004 | actor, soundtrack, archive_footage.\nDECEASED (1920–2004). Conan-show appearances: 12\nIMDb: https://www.imdb.com/name/nm0709704/\n_search: Tony Randall | Pillow Talk | The Odd Couple | Gremlins 2: The New Batch | Will Success Spoil Rock Hunter?",
+  "id": "bw-p-nm0709704",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Randall",
+  "type": "task"
+}

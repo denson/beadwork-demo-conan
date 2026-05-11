@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "April Baker. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4834501/\n_search: April Baker | The Gun | The Trouble with Barry | Southland",
+  "id": "bw-p-nm4834501",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "April Baker",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Jeselnik. b. 1978 | writer, producer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2376686/\n_search: Anthony Jeselnik | Anthony Jeselnik: Thoughts and Prayers | Night of Too Many Stars: An Overbooked Concert for Autism Education | Anthony Jeselnik: Fire in the Maternity Ward | Miss March",
+  "id": "bw-p-nm2376686",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Jeselnik",
+  "type": "task"
+}

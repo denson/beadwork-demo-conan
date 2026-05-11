@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Hayes/Cheap Trick. late_night, S13E116, 2008.\nRuntime: 57 min.\nIMDb rating: 8.3.\nIMDb: https://www.imdb.com/title/tt0802645/\n_search: Sean Hayes/Cheap Trick | 2008 | S13E116",
+  "id": "bw-e-tt0802645",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Hayes/Cheap Trick",
+  "type": "task"
+}

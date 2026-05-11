@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Ales. b. 1969 | actor, producer, camera_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0018099/\n_search: John Ales | True Story | Euphoria | Sex \u0026 Drugs \u0026 Rock \u0026 Roll | Better Things",
+  "id": "bw-p-nm0018099",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Ales",
+  "type": "task"
+}

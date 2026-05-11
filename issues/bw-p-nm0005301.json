@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Pays. b. 1959 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005301/\n_search: Amanda Pays | Leviathan | Max Headroom | Max Headroom | The X-Files",
+  "id": "bw-p-nm0005301",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Pays",
+  "type": "task"
+}

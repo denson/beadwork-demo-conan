@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Artie Lange/Victoria Justice/Daniel Sloss. conan_tbs, S5E52, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt4484300/\n_search: Artie Lange/Victoria Justice/Daniel Sloss | 2015 | S5E52",
+  "id": "bw-e-tt4484300",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Artie Lange/Victoria Justice/Daniel Sloss",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Dancy. b. 1975 | actor, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0199215/\n_search: Hugh Dancy | Hannibal | Martha Marcy May Marlene | Adam | Hysteria",
+  "id": "bw-p-nm0199215",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Dancy",
+  "type": "task"
+}

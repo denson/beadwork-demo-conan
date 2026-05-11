@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Fogerty. b. 1945 | music_artist, music_department, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004928/\n_search: John Fogerty | Battleship | The Manchurian Candidate | Blade | Army of the Dead",
+  "id": "bw-p-nm0004928",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Fogerty",
+  "type": "task"
+}

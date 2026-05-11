@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Mountford. b. 1989 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1004737/\n_search: Jack Mountford | Rock of Ages | From the Earth to the Moon | Doctors | Rebranding Andi",
+  "id": "bw-p-nm1004737",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Mountford",
+  "type": "task"
+}

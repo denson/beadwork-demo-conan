@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Cave. b. 1957 | music_artist, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0147022/\n_search: Nick Cave | The Proposition | Lawless | The Assassination of Jesse James by the Coward Robert Ford | Train Dreams",
+  "id": "bw-p-nm0147022",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Cave",
+  "type": "task"
+}

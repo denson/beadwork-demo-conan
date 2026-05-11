@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Calum Hood. b. 1996 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6746428/\n_search: Calum Hood | Riverdale | Almost Never | 5 Seconds of Summer - the Feeling of Falling Upwards - Live from the Royal Albert Hall | The Voice",
+  "id": "bw-p-nm6746428",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Calum Hood",
+  "type": "task"
+}

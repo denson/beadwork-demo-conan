@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristin Chenoweth. b. 1968 | actress, producer, miscellaneous.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0155693/\n_search: Kristin Chenoweth | Pushing Daisies | Bewitched | Deck the Halls | RV",
+  "id": "bw-p-nm0155693",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristin Chenoweth",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Baldwin Gourley. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2625925/\n_search: John Baldwin Gourley | Ghosted | Anyone But You | Bright | Carrie",
+  "id": "bw-p-nm2625925",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Baldwin Gourley",
+  "type": "task"
+}

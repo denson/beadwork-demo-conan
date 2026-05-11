@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wesley Snipes. b. 1962 | actor, producer, stunts.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000648/\n_search: Wesley Snipes | Blade | New Jack City | Demolition Man | White Men Can't Jump",
+  "id": "bw-p-nm0000648",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wesley Snipes",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chelsea Rae Bernier. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4109208/\n_search: Chelsea Rae Bernier | Young Sheldon | The Mindy Project | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm4109208",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chelsea Rae Bernier",
+  "type": "task"
+}

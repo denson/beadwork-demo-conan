@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Cronin. writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1328630/\n_search: Dan Cronin | Indigo Wisemen: In Their Own Words",
+  "id": "bw-p-nm1328630",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Cronin",
+  "type": "task"
+}

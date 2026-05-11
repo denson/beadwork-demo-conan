@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Myq Kaplan. actor, writer, miscellaneous.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm3050184/\n_search: Myq Kaplan | Punching Henry | Broadway Comedy Club Presents: Stand Up Comedy! | I'm 'George Lucas': A Connor Ratliff Story | You Are Here: A Dylan Brody Project",
+  "id": "bw-p-nm3050184",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Myq Kaplan",
+  "type": "task"
+}

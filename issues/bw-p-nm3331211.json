@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Talamo. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3331211/\n_search: Joe Talamo | And They're Off | Gambling Tips with Kenny Mayne | Jockeys | Let's Roll",
+  "id": "bw-p-nm3331211",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Talamo",
+  "type": "task"
+}

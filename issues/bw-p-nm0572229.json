@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Malcolm McLaren. 1946–2010 | actor, composer, music_department.\nDECEASED (1946–2010). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0572229/\n_search: Malcolm McLaren | Suicide Squad | Kill Bill: Vol. 2 | The Wolf of Wall Street | The Great Rock 'n' Roll Swindle",
+  "id": "bw-p-nm0572229",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Malcolm McLaren",
+  "type": "task"
+}

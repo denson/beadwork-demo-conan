@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Fitzgerald. b. 1977 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0394610/\n_search: Andy Fitzgerald | Monster | The Conners | General Hospital",
+  "id": "bw-p-nm0394610",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Fitzgerald",
+  "type": "task"
+}

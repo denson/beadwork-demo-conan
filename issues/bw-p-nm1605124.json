@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Morabito. actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1605124/\n_search: Paul Morabito | Where Is the Chesterfield King?!?! | The Sopranos | ESPN's New Year's Eve | Jimmy Kimmel Live!",
+  "id": "bw-p-nm1605124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Morabito",
+  "type": "task"
+}

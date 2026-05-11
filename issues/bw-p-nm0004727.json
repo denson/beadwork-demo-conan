@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kylie Bax. b. 1975 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004727/\n_search: Kylie Bax | Boys and Girls | Get Over It | Storm Catcher | Jill Rips",
+  "id": "bw-p-nm0004727",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kylie Bax",
+  "type": "task"
+}

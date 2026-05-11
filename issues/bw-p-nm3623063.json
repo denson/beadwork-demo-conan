@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alexander Arzu. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3623063/\n_search: Alexander Arzu | S.W.A.T. | The Potwins | Drunk History",
+  "id": "bw-p-nm3623063",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alexander Arzu",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Victor Varnado. b. 1969 | producer, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0890075/\n_search: Victor Varnado | The Adventures of Pluto Nash | End of Days | I Origins | Beep",
+  "id": "bw-p-nm0890075",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Victor Varnado",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hell's Cul-de-sac. conan_tbs, S1E69, 2011.\nRuntime: 60 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt1870731/\n_search: Hell's Cul-de-sac | 2011 | S1E69",
+  "id": "bw-e-tt1870731",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hell's Cul-de-sac",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mo Welch. writer, producer, actress.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4817544/\n_search: Mo Welch | Comedy Central's Colossal Clusterfest | Life in Pieces",
+  "id": "bw-p-nm4817544",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mo Welch",
+  "type": "task"
+}

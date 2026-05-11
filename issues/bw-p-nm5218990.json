@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trevante Rhodes. b. 1990 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5218990/\n_search: Trevante Rhodes | Moonlight | The Predator | Bird Box | The United States vs. Billie Holiday",
+  "id": "bw-p-nm5218990",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trevante Rhodes",
+  "type": "task"
+}

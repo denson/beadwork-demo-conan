@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Wuhl/Adam Sandler. late_night, S5E2, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627013/\n_search: Robert Wuhl/Adam Sandler | 1997 | S5E2",
+  "id": "bw-e-tt0627013",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Wuhl/Adam Sandler",
+  "type": "task"
+}

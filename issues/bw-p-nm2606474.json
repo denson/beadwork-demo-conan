@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shane Mauss. writer, miscellaneous, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2606474/\n_search: Shane Mauss | Testify | Psychonautics: A Comic's Exploration Of Psychedelics | Bo Burnham: what. | Funny as Hell",
+  "id": "bw-p-nm2606474",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shane Mauss",
+  "type": "task"
+}

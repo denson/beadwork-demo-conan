@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chazz Palminteri/Anthony Clark/Irma Thomas. late_night, S6E53, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3781260/\n_search: Chazz Palminteri/Anthony Clark/Irma Thomas | 1999 | S6E53",
+  "id": "bw-e-tt3781260",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chazz Palminteri/Anthony Clark/Irma Thomas",
+  "type": "task"
+}

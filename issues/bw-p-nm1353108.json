@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Meg White. b. 1974 | actress, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1353108/\n_search: Meg White | Coffee and Cigarettes | The Simpsons | Top of the Pops | It Came from Detroit",
+  "id": "bw-p-nm1353108",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Meg White",
+  "type": "task"
+}

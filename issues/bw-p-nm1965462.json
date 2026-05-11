@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Prudhomme. 1940–2015 | archive_footage.\nDECEASED (1940–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1965462/\n_search: Paul Prudhomme | Dolly | Hiro's Table | New Orleans Story | Food Paradise",
+  "id": "bw-p-nm1965462",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Prudhomme",
+  "type": "task"
+}

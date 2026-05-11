@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "CONAN Scrapisode. conan_tbs, S9E85, 2019.\nRuntime: 21 min.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt11075154/\n_search: CONAN Scrapisode | 2019 | S9E85",
+  "id": "bw-e-tt11075154",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "CONAN Scrapisode",
+  "type": "task"
+}

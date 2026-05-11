@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Klimkowski. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6003006/\n_search: Michael Klimkowski | Idiomatic #1 | Joel Osteen Baptism at Echo Park Lake | Chad \u0026 JT Go Deep | Brennan",
+  "id": "bw-p-nm6003006",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Klimkowski",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dog Nerd-A-Palooza: Labradors Vs. Poodle-Dexters. conan_tbs, S3E114, 2013.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt3069032/\n_search: Dog Nerd-A-Palooza: Labradors Vs. Poodle-Dexters | 2013 | S3E114",
+  "id": "bw-e-tt3069032",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dog Nerd-A-Palooza: Labradors Vs. Poodle-Dexters",
+  "type": "task"
+}

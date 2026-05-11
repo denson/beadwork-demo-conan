@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pope Benedict XVI. 1927–2022 | writer, archive_footage.\nDECEASED (1927–2022). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1909127/\n_search: Pope Benedict XVI | Last Testament: In His Own Words | Tmár a jeho rod aneb Slzavé údolí pyramid | Benedict XVI: The Keys of the Kingdom | El Papa de Xavi",
+  "id": "bw-p-nm1909127",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pope Benedict XVI",
+  "type": "task"
+}

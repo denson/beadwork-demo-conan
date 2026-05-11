@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rebel Wilson. actress, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2313103/\n_search: Rebel Wilson | Senior Year | Jojo Rabbit | Pitch Perfect | Bridesmaids",
+  "id": "bw-p-nm2313103",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rebel Wilson",
+  "type": "task"
+}

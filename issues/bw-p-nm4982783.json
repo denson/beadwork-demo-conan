@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Van Jones. b. 1968 | producer, actor, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm4982783/\n_search: Van Jones | The First Purge | The Messy Truth with Van Jones | Armed | Outcome",
+  "id": "bw-p-nm4982783",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Van Jones",
+  "type": "task"
+}

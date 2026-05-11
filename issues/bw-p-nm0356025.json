@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rich Hall. b. 1954 | writer, actor, producer.\nConan-show appearances: 25\nIMDb: https://www.imdb.com/name/nm0356025/\n_search: Rich Hall | Not Necessarily the News | The Running Man | Arthur Christmas | Otis Lee Crenshaw: Live",
+  "id": "bw-p-nm0356025",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rich Hall",
+  "type": "task"
+}

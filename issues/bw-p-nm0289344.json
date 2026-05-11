@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Foxworthy. b. 1958 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0289344/\n_search: Jeff Foxworthy | Blue Collar Comedy Tour: The Movie | Racing Stripes | Are You Smarter Than a 5th Grader? | The Smurfs",
+  "id": "bw-p-nm0289344",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Foxworthy",
+  "type": "task"
+}

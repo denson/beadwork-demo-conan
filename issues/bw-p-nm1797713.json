@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mitt Romney. b. 1947 | writer, archive_footage, archive_sound.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1797713/\n_search: Mitt Romney | The Man from Bloomfield Hills | Mitt's Office | 2008 Republican National Convention | Janeane from Des Moines",
+  "id": "bw-p-nm1797713",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mitt Romney",
+  "type": "task"
+}

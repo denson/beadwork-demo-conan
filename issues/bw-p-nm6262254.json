@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Holly Laessig. actress, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6262254/\n_search: Holly Laessig | Midnight Sun | Split | The Vampire Diaries | The Kissing Booth 3",
+  "id": "bw-p-nm6262254",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Holly Laessig",
+  "type": "task"
+}

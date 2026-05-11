@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert DeLong. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3240121/\n_search: Robert DeLong | Now You See Me | Supergirl | Lucifer | NHL 19",
+  "id": "bw-p-nm3240121",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert DeLong",
+  "type": "task"
+}

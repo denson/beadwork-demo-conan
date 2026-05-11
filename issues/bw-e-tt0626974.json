@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fran Drescher/Suzanne Somers/The Mavericks. late_night, S1E229, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0626974/\n_search: Fran Drescher/Suzanne Somers/The Mavericks | 1994 | S1E229",
+  "id": "bw-e-tt0626974",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fran Drescher/Suzanne Somers/The Mavericks",
+  "type": "task"
+}

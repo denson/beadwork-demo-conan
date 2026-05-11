@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Lewis/Leila Kenzle/Nanci Griffith \u0026 The Crickets. late_night, S5E7, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627018/\n_search: Richard Lewis/Leila Kenzle/Nanci Griffith \u0026 The Crickets | 1997 | S5E7",
+  "id": "bw-e-tt0627018",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Lewis/Leila Kenzle/Nanci Griffith \u0026 The Crickets",
+  "type": "task"
+}

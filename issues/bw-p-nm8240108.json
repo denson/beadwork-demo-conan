@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joseph. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8240108/\n_search: Joseph | CBS Saturday Morning | CBS Mornings | The Tonight Show Starring Jimmy Fallon",
+  "id": "bw-p-nm8240108",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joseph",
+  "type": "task"
+}

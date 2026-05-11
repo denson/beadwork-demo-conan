@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Melendez. b. 1965 | writer, actor, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0577579/\n_search: John Melendez | Dude, Where's My Car? | Airheads | Private Parts | One, Two, Many",
+  "id": "bw-p-nm0577579",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Melendez",
+  "type": "task"
+}

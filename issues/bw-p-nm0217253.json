@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Dell'Abate. b. 1961 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0217253/\n_search: Gary Dell'Abate | Private Parts | The Uncle Floyd Show | Sandy Wexler | Brooklyn Rules",
+  "id": "bw-p-nm0217253",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Dell'Abate",
+  "type": "task"
+}

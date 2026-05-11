@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Kan. actor, writer, casting_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1018241/\n_search: Eric Kan | The Bold and the Beautiful | Days of Our Lives | Billy Lynn's Long Halftime Walk | Red Skies",
+  "id": "bw-p-nm1018241",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Kan",
+  "type": "task"
+}

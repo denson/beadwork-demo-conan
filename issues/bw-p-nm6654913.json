@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Boy \u0026 Bear. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6654913/\n_search: Boy \u0026 Bear | Giri/Haji | Tough | Boy \u0026 Bear: Three Moons | Stepmom 2019",
+  "id": "bw-p-nm6654913",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Boy \u0026 Bear",
+  "type": "task"
+}

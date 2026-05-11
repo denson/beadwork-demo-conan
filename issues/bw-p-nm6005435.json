@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Hertless. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6005435/\n_search: James Hertless | She Will Be Free | Jimmy Kimmel Live!",
+  "id": "bw-p-nm6005435",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Hertless",
+  "type": "task"
+}

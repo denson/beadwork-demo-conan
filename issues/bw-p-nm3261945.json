@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Sullivan. b. 1969 | producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3261945/\n_search: Anthony Sullivan | Pitchman: A Tribute to Billy Mays | Pitchmen | Kings of Kush | Louis Theroux's Weird Weekends",
+  "id": "bw-p-nm3261945",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Sullivan",
+  "type": "task"
+}

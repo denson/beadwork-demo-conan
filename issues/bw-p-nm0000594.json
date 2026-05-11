@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Priestley. b. 1969 | actor, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000594/\n_search: Jason Priestley | Beverly Hills, 90210 | Call Me Fitz | Cas \u0026 Dylan | Private Eyes",
+  "id": "bw-p-nm0000594",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Priestley",
+  "type": "task"
+}

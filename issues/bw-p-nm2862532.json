@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Marcinowski. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2862532/\n_search: Adam Marcinowski | Chasing the Past | Wind Walker: The First Mission | Viva Laughlin | The Insider's Guide to Film School",
+  "id": "bw-p-nm2862532",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Marcinowski",
+  "type": "task"
+}

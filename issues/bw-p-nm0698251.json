@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Probst. b. 1961 | producer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0698251/\n_search: Jeff Probst | Survivor | Finder's Fee | Trust Me | Kiss Me",
+  "id": "bw-p-nm0698251",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Probst",
+  "type": "task"
+}

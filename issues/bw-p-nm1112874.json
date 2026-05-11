@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Martin. b. 1977 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1112874/\n_search: Chris Martin | The Hunger Games: Catching Fire | Unbroken | Crazy Rich Asians | Wish I Was Here",
+  "id": "bw-p-nm1112874",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Martin",
+  "type": "task"
+}

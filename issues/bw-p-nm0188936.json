@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Cropper. 1941–2025 | actor, music_department, composer.\nDECEASED (1941–2025). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0188936/\n_search: Steve Cropper | Blues Brothers 2000 | The Blues Brothers | Easy A | Frequency",
+  "id": "bw-p-nm0188936",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Cropper",
+  "type": "task"
+}

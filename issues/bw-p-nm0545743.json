@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Marcinko. 1940–2021 | miscellaneous.\nDECEASED (1940–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0545743/\n_search: Richard Marcinko | 60 Minutes | America's Book of Secrets: Special Edition | America's Book of Secrets",
+  "id": "bw-p-nm0545743",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Marcinko",
+  "type": "task"
+}

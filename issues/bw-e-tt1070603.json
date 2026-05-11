@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy's Good-bye Show. late_night, S7E130, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1070603/\n_search: Andy's Good-bye Show | 2000 | S7E130",
+  "id": "bw-e-tt1070603",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy's Good-bye Show",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenny Chesney. b. 1968 | music_artist, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1188907/\n_search: Kenny Chesney | The Do-Over | Jack Reacher: Never Go Back | Home Team | Cold Case",
+  "id": "bw-p-nm1188907",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenny Chesney",
+  "type": "task"
+}

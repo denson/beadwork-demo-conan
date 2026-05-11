@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Willard Scott/Jada Pinkett/Joe Bolster. late_night, S2E77, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2739206/\n_search: Willard Scott/Jada Pinkett/Joe Bolster | 1995 | S2E77",
+  "id": "bw-e-tt2739206",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Willard Scott/Jada Pinkett/Joe Bolster",
+  "type": "task"
+}

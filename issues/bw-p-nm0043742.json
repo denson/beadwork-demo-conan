@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Ayer. b. 1968 | producer, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0043742/\n_search: David Ayer | End of Watch | Sabotage | Suicide Squad | Harsh Times",
+  "id": "bw-p-nm0043742",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Ayer",
+  "type": "task"
+}

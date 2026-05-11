@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Pick. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2782316/\n_search: John Pick | The Best of Craigslist",
+  "id": "bw-p-nm2782316",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Pick",
+  "type": "task"
+}

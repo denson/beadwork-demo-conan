@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allison Janney/Pete Holmes/Daniel Sloss. conan_tbs, S8E21, 2018.\nRuntime: 42 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt7857338/\n_search: Allison Janney/Pete Holmes/Daniel Sloss | 2018 | S8E21",
+  "id": "bw-e-tt7857338",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allison Janney/Pete Holmes/Daniel Sloss",
+  "type": "task"
+}

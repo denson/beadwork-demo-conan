@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dereck Joubert. producer, writer, cinematographer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0431049/\n_search: Dereck Joubert | Okavango: River of Dreams - Director's Cut | Tribe versus Pride | Birth of a Pride: Lion Conservation | Eye of the Leopard",
+  "id": "bw-p-nm0431049",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dereck Joubert",
+  "type": "task"
+}

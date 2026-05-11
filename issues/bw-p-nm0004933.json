@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Faith Ford. b. 1964 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004933/\n_search: Faith Ford | The Pacifier | Murphy Brown | Maggie Winters | We Have a Ghost",
+  "id": "bw-p-nm0004933",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Faith Ford",
+  "type": "task"
+}

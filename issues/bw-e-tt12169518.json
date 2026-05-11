@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan at Home - Joel McHale. conan_tbs, S10E50, 2020.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt12169518/\n_search: Conan at Home - Joel McHale | 2020 | S10E50",
+  "id": "bw-e-tt12169518",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan at Home - Joel McHale",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marte Eberson. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8970424/\n_search: Marte Eberson | Löv: Superhuman | Beat for Beat | Made in Chelsea | Trygdekontoret",
+  "id": "bw-p-nm8970424",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marte Eberson",
+  "type": "task"
+}

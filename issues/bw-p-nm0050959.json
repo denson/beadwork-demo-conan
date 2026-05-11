@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pedro Pascal. b. 1975 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0050959/\n_search: Pedro Pascal | The Last of Us | The Mandalorian | The Fantastic Four: First Steps | Game of Thrones",
+  "id": "bw-p-nm0050959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pedro Pascal",
+  "type": "task"
+}

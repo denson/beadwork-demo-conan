@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bobb Bruno. actor, music_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2553018/\n_search: Bobb Bruno | Eternal Sunshine of the Spotless Mind | The Good Life | The Dirties | Largo",
+  "id": "bw-p-nm2553018",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bobb Bruno",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Casey Harris. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8939617/\n_search: Casey Harris | Sonic the Hedgehog | Hellboy | Transformers: The Last Knight | The Protector",
+  "id": "bw-p-nm8939617",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Casey Harris",
+  "type": "task"
+}

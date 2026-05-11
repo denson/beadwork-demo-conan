@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zoë Bell. b. 1978 | stunts, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1057928/\n_search: Zoë Bell | The Hateful Eight | Grindhouse | Death Proof | Once Upon a Time... in Hollywood",
+  "id": "bw-p-nm1057928",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zoë Bell",
+  "type": "task"
+}

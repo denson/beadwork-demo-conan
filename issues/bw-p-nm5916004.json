@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tune-Yards. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5916004/\n_search: Tune-Yards | Babyteeth | Mickey and the Bear | Finding Carter | Nurse Jackie",
+  "id": "bw-p-nm5916004",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tune-Yards",
+  "type": "task"
+}

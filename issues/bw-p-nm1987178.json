@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "My Chemical Romance. music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1987178/\n_search: My Chemical Romance | Watchmen | Premium Rush | Never Back Down | House of Wax",
+  "id": "bw-p-nm1987178",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "My Chemical Romance",
+  "type": "task"
+}

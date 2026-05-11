@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ludacris. b. 1977 | music_artist, actor, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0524839/\n_search: Ludacris | Crash | Fast Five | Fast \u0026 Furious 6 | 2 Fast 2 Furious",
+  "id": "bw-p-nm0524839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ludacris",
+  "type": "task"
+}

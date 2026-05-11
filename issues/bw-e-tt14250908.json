@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theater: Joel Mchale. conan_tbs, S11E27, 2021.\nIMDb: https://www.imdb.com/title/tt14250908/\n_search: From Largo Theater: Joel Mchale | 2021 | S11E27",
+  "id": "bw-e-tt14250908",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theater: Joel Mchale",
+  "type": "task"
+}

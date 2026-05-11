@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Chambrello. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4727520/\n_search: Joe Chambrello | Monster | The Equalizer | Unsung Hero | Euphoria",
+  "id": "bw-p-nm4727520",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Chambrello",
+  "type": "task"
+}

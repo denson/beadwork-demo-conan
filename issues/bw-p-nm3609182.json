@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Skinner. b. 1974 | soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3609182/\n_search: Kevin Skinner | America's Got Talent",
+  "id": "bw-p-nm3609182",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Skinner",
+  "type": "task"
+}

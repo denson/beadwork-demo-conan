@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Burns. b. 1968 | writer, actor, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0122653/\n_search: Edward Burns | She's the One | Saving Private Ryan | The Brothers McMullen | Purple Violets",
+  "id": "bw-p-nm0122653",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Burns",
+  "type": "task"
+}

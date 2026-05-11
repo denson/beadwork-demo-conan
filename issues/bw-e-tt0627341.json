@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Cure. late_night, S7E87, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627341/\n_search: The Cure | 2000 | S7E87",
+  "id": "bw-e-tt0627341",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Cure",
+  "type": "task"
+}

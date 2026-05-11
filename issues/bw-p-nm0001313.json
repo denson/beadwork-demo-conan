@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Hamilton. b. 1939 | actor, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001313/\n_search: George Hamilton | Zorro: The Gay Blade | Love at First Bite | The Godfather Part III | Hollywood Ending",
+  "id": "bw-p-nm0001313",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Hamilton",
+  "type": "task"
+}

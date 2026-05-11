@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anderson Cooper. b. 1967 | producer, writer, actor.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0177846/\n_search: Anderson Cooper | Anderson Cooper 360° | Chappie | Batman v Superman: Dawn of Justice | The 33",
+  "id": "bw-p-nm0177846",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anderson Cooper",
+  "type": "task"
+}

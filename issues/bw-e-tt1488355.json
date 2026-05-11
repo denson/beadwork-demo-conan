@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Francese/Desmond Howard/Jim Lehrer. late_night, S4E64, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1488355/\n_search: Richard Francese/Desmond Howard/Jim Lehrer | 1997 | S4E64",
+  "id": "bw-e-tt1488355",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Francese/Desmond Howard/Jim Lehrer",
+  "type": "task"
+}

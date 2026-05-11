@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ric Ocasek. 1944–2019 | actor, composer, music_department.\nDECEASED (1944–2019). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0643619/\n_search: Ric Ocasek | The Saint | Super 8 | Transformers | The King of Comedy",
+  "id": "bw-p-nm0643619",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ric Ocasek",
+  "type": "task"
+}

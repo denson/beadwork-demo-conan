@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hardwick/Ron Funches/Cody Jinks. conan_tbs, S7E37, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6451082/\n_search: Chris Hardwick/Ron Funches/Cody Jinks | 2017 | S7E37",
+  "id": "bw-e-tt6451082",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hardwick/Ron Funches/Cody Jinks",
+  "type": "task"
+}

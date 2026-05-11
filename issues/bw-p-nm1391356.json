@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Roberts. b. 1974 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1391356/\n_search: Sam Roberts | S.W.A.T. | Beyond Borders | Foolproof | One Week",
+  "id": "bw-p-nm1391356",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Roberts",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hannah Simone. actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1924196/\n_search: Hannah Simone | New Girl | Oldboy | Killing Gunther | Folk Hero \u0026 Funny Guy",
+  "id": "bw-p-nm1924196",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hannah Simone",
+  "type": "task"
+}

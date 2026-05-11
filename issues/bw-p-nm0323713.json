@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel Godard. b. 1938 | actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0323713/\n_search: Joel Godard | The Tramp | Night of Too Many Stars: An Overbooked Concert for Autism Education | 75th Annual Macy's Thanksgiving Day Parade | Guyana Tragedy: The Story of Jim Jones",
+  "id": "bw-p-nm0323713",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel Godard",
+  "type": "task"
+}

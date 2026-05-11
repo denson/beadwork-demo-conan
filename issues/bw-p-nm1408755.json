@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Teutul. b. 1978 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1408755/\n_search: Michael Teutul | Iris | American Chopper: The Series | My Name Is Earl | SFYL: Claymore Jared",
+  "id": "bw-p-nm1408755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Teutul",
+  "type": "task"
+}

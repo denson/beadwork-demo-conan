@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tawny Kitaen. 1961–2021 | actress, producer, archive_footage.\nDECEASED (1961–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000478/\n_search: Tawny Kitaen | Bachelor Party | The Perils of Gwendoline in the Land of the Yik Yak | Witchboard | After Midnight",
+  "id": "bw-p-nm0000478",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tawny Kitaen",
+  "type": "task"
+}

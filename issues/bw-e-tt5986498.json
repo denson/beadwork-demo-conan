@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Senator Al Franken/Danielle Brooks/Noah Gardenswartz. conan_tbs, S6E120, 2016.\nRuntime: 43 min.\nIMDb: https://www.imdb.com/title/tt5986498/\n_search: Senator Al Franken/Danielle Brooks/Noah Gardenswartz | 2016 | S6E120",
+  "id": "bw-e-tt5986498",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Senator Al Franken/Danielle Brooks/Noah Gardenswartz",
+  "type": "task"
+}

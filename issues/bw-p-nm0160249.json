@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Alan Christianson. b. 1961 | actor, producer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0160249/\n_search: Jay Alan Christianson | Grotesquerie | American Gigolo | Garrow | The Sopranos",
+  "id": "bw-p-nm0160249",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Alan Christianson",
+  "type": "task"
+}

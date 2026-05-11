@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Sleigh Full of Slay. conan_tbs, S1E22, 2010.\nRuntime: 60 min.\nIMDb rating: 8.5.\nIMDb: https://www.imdb.com/title/tt1788030/\n_search: A Sleigh Full of Slay | 2010 | S1E22",
+  "id": "bw-e-tt1788030",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Sleigh Full of Slay",
+  "type": "task"
+}

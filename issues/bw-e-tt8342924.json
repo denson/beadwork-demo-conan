@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kunal Nayyar/Adam Pally/Harrison Greenbaum. conan_tbs, S8E70, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8342924/\n_search: Kunal Nayyar/Adam Pally/Harrison Greenbaum | 2018 | S8E70",
+  "id": "bw-e-tt8342924",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kunal Nayyar/Adam Pally/Harrison Greenbaum",
+  "type": "task"
+}

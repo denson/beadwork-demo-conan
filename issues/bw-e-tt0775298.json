@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harry Smith/Herb Stempel/The Judybats. late_night, S2E17, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0775298/\n_search: Harry Smith/Herb Stempel/The Judybats | 1994 | S2E17",
+  "id": "bw-e-tt0775298",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harry Smith/Herb Stempel/The Judybats",
+  "type": "task"
+}

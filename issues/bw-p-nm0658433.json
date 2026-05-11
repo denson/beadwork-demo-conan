@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Palmer. 1949–2003 | actor, composer, music_department.\nDECEASED (1949–2003). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0658433/\n_search: Robert Palmer | Addicted to Love | Sgt. Pepper's Lonely Hearts Club Band | Lost in Space | True Romance",
+  "id": "bw-p-nm0658433",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Palmer",
+  "type": "task"
+}

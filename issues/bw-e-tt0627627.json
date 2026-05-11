@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Green/Josh Duhamel/Ted Leo \u0026 The Pharmacists. late_night, S12E78, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627627/\n_search: Seth Green/Josh Duhamel/Ted Leo \u0026 The Pharmacists | 2005 | S12E78",
+  "id": "bw-e-tt0627627",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Green/Josh Duhamel/Ted Leo \u0026 The Pharmacists",
+  "type": "task"
+}

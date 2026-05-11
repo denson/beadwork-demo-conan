@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Good Old War. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4997235/\n_search: Good Old War | Hart of Dixie | Blood \u0026 Oil | Danville 2nd Ward Young Men",
+  "id": "bw-p-nm4997235",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Good Old War",
+  "type": "task"
+}

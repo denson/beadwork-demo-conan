@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joey Jordison. 1975–2021 | actor, composer, soundtrack.\nDECEASED (1975–2021). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0430259/\n_search: Joey Jordison | Resident Evil | Rollerball | Terminator 5: Smert Gollivuda | Fuck",
+  "id": "bw-p-nm0430259",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joey Jordison",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Martin. b. 1945 | writer, actor, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000188/\n_search: Steve Martin | Roxanne | The Jerk | The Pink Panther | Bowfinger",
+  "id": "bw-p-nm0000188",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Martin",
+  "type": "task"
+}

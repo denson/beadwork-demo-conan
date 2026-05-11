@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zachary Quinto. b. 1977 | actor, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0704270/\n_search: Zachary Quinto | Star Trek | Margin Call | Star Trek Beyond | Star Trek Into Darkness",
+  "id": "bw-p-nm0704270",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zachary Quinto",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ja Rule. b. 1976 | music_artist, actor, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0750019/\n_search: Ja Rule | The Fast and the Furious | Scary Movie 3 | Assault on Precinct 13 | Half Past Dead",
+  "id": "bw-p-nm0750019",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ja Rule",
+  "type": "task"
+}

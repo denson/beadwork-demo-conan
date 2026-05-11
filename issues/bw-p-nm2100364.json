@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dwight Freeney. b. 1980 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2100364/\n_search: Dwight Freeney | Dwight Freeney's Cereal Commercial | The NFL on CBS | NFL Monday Night Football | NFL on Fox",
+  "id": "bw-p-nm2100364",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dwight Freeney",
+  "type": "task"
+}

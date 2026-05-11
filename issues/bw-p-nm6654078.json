@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Davidson. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6654078/\n_search: Scott Davidson",
+  "id": "bw-p-nm6654078",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Davidson",
+  "type": "task"
+}

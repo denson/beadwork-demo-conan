@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Body Count. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2360417/\n_search: Body Count | Universal Soldier | What Now | Gears of War 3 | Backyard Wrestling 2: There Goes the Neighborhood",
+  "id": "bw-p-nm2360417",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Body Count",
+  "type": "task"
+}

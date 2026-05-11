@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Shirley. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4014263/\n_search: Ron Shirley | Lizard Lick Towing | Ronnie's Redneck Road Trip | Burning Rubber | All Worked Up",
+  "id": "bw-p-nm4014263",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Shirley",
+  "type": "task"
+}

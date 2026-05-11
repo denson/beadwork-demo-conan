@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "IMDbCooper. conan_tbs, S3E87, 2013.\nIMDb: https://www.imdb.com/title/tt2918940/\n_search: IMDbCooper | 2013 | S3E87",
+  "id": "bw-e-tt2918940",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "IMDbCooper",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrea Gabriel. actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1320997/\n_search: Andrea Gabriel | Lost | Perry Mason | The Twilight Saga: Breaking Dawn - Part 2 | Gossip Girl",
+  "id": "bw-p-nm1320997",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrea Gabriel",
+  "type": "task"
+}

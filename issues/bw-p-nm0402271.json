@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Hunnam. b. 1980 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0402271/\n_search: Charlie Hunnam | Sons of Anarchy | Pacific Rim | King Arthur: Legend of the Sword | Children of Men",
+  "id": "bw-p-nm0402271",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Hunnam",
+  "type": "task"
+}

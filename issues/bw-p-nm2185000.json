@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Nettles. b. 1974 | music_artist, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2185000/\n_search: Jennifer Nettles | Harriet | Dolly Parton's Coat of Many Colors | The Righteous Gemstones | The Bondsman",
+  "id": "bw-p-nm2185000",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Nettles",
+  "type": "task"
+}

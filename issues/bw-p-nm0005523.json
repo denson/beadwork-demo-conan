@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Van Zandt. b. 1950 | actor, music_department, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005523/\n_search: Steven Van Zandt | The Sopranos | Lilyhammer | Nine Months | Running Scared",
+  "id": "bw-p-nm0005523",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Van Zandt",
+  "type": "task"
+}

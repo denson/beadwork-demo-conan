@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rebecca Pidgeon. b. 1965 | actress, composer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0682071/\n_search: Rebecca Pidgeon | State and Main | Heist | RED | The Spanish Prisoner",
+  "id": "bw-p-nm0682071",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rebecca Pidgeon",
+  "type": "task"
+}

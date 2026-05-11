@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edie Falco. b. 1963 | actress, producer, casting_director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0004908/\n_search: Edie Falco | The Sopranos | Sunshine State | Avatar: Fire and Ash | 30 Rock",
+  "id": "bw-p-nm0004908",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edie Falco",
+  "type": "task"
+}

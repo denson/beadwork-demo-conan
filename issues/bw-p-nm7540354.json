@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Randy Constan. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7540354/\n_search: Randy Constan | Outsiders | Totally Obsessed",
+  "id": "bw-p-nm7540354",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Randy Constan",
+  "type": "task"
+}

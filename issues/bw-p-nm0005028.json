@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Hudson. b. 1979 | actress, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0005028/\n_search: Kate Hudson | Almost Famous | How to Lose a Guy in 10 Days | Bride Wars | Fool's Gold",
+  "id": "bw-p-nm0005028",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Hudson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Viggo Mortensen. b. 1958 | actor, producer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001557/\n_search: Viggo Mortensen | Captain Fantastic | The Lord of the Rings: The Return of the King | The Road | Eastern Promises",
+  "id": "bw-p-nm0001557",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Viggo Mortensen",
+  "type": "task"
+}

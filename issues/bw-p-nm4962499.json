@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Heartbreakers. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4962499/\n_search: Heartbreakers | Late Show with David Letterman | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm4962499",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Heartbreakers",
+  "type": "task"
+}

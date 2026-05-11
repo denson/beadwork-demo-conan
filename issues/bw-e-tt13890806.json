@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Rachel Brosnahan. conan_tbs, S11E4, 2021.\nIMDb: https://www.imdb.com/title/tt13890806/\n_search: From Largo Theatre Rachel Brosnahan | 2021 | S11E4",
+  "id": "bw-e-tt13890806",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Rachel Brosnahan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ne-Yo. b. 1982 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1666212/\n_search: Ne-Yo | Battle Los Angeles | Red Tails | The Princess and the Frog | The 5th Wave",
+  "id": "bw-p-nm1666212",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ne-Yo",
+  "type": "task"
+}

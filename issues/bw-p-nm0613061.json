@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Munoz. miscellaneous, stunts, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0613061/\n_search: Michael Munoz | The Lord of the Rings: The Rings of Power | Deck the Halls | It's Always Sunny in Philadelphia | Haunted Mansion",
+  "id": "bw-p-nm0613061",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Munoz",
+  "type": "task"
+}

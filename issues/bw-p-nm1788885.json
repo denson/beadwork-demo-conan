@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christian Karlsson. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1788885/\n_search: Christian Karlsson | Promising Young Woman | Crazy, Stupid, Love. | Paper Towns | Knocked Up",
+  "id": "bw-p-nm1788885",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christian Karlsson",
+  "type": "task"
+}

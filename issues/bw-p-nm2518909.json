@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Hold Steady. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2518909/\n_search: The Hold Steady | The Messenger | The Dilemma | The Nanny Diaries | The Lucky Ones",
+  "id": "bw-p-nm2518909",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Hold Steady",
+  "type": "task"
+}

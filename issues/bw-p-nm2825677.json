@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hari Kondabolu. b. 1982 | writer, actor, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2825677/\n_search: Hari Kondabolu | All About Steve | Manoj | From Here | Thin Skin",
+  "id": "bw-p-nm2825677",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hari Kondabolu",
+  "type": "task"
+}

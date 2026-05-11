@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathy Griffin/Michael Lewis/Johnnyswim. conan_tbs, S7E31, 2017.\nRuntime: 42 min.\nIMDb rating: 4.4.\nIMDb: https://www.imdb.com/title/tt6426668/\n_search: Kathy Griffin/Michael Lewis/Johnnyswim | 2017 | S7E31",
+  "id": "bw-e-tt6426668",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathy Griffin/Michael Lewis/Johnnyswim",
+  "type": "task"
+}

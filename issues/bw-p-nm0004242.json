@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fidel Castro. 1926–2016 | actor, miscellaneous, archive_footage.\nDECEASED (1926–2016). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004242/\n_search: Fidel Castro | Araaayyyyy!!! | Looking for Fidel | Cuba, el valor de una utopía | Cuando la verdad despierta",
+  "id": "bw-p-nm0004242",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fidel Castro",
+  "type": "task"
+}

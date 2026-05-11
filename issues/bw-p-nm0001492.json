@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyle MacLachlan. b. 1959 | actor, director, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001492/\n_search: Kyle MacLachlan | Twin Peaks | Dune | Portlandia | Blue Velvet",
+  "id": "bw-p-nm0001492",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyle MacLachlan",
+  "type": "task"
+}

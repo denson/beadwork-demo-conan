@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "C. LeMar McLean. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6628436/\n_search: C. LeMar McLean | Who's Afraid | Page One | Where in the World Is Carmen Sandiego?",
+  "id": "bw-p-nm6628436",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "C. LeMar McLean",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Cohen. producer, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0169403/\n_search: Greg Cohen | King of the Hill | American Dad! | Eagleheart",
+  "id": "bw-p-nm0169403",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Cohen",
+  "type": "task"
+}

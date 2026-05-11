@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Duane R. Shepard Sr.. actor, miscellaneous, archive_sound.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0791591/\n_search: Duane R. Shepard Sr. | American Crime Story | Batman: Return to Arkham | The Soul Man | The Guest Book",
+  "id": "bw-p-nm0791591",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Duane R. Shepard Sr.",
+  "type": "task"
+}

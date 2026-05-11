@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alec Baldwin/Fred Goss/The Derek Trucks Band. late_night, S13E87, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0774951/\n_search: Alec Baldwin/Fred Goss/The Derek Trucks Band | 2006 | S13E87",
+  "id": "bw-e-tt0774951",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alec Baldwin/Fred Goss/The Derek Trucks Band",
+  "type": "task"
+}

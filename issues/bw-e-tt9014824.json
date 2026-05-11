@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bradley Cooper/Superorganism. conan_tbs, S8E109, 2018.\nRuntime: 42 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt9014824/\n_search: Bradley Cooper/Superorganism | 2018 | S8E109",
+  "id": "bw-e-tt9014824",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bradley Cooper/Superorganism",
+  "type": "task"
+}

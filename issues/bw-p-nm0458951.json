@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Klein. b. 1942 | actor, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0458951/\n_search: Robert Klein | Two Weeks Notice | The Last Unicorn | One Fine Day | The Back-up Plan",
+  "id": "bw-p-nm0458951",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Klein",
+  "type": "task"
+}

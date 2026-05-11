@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Myers. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7527920/\n_search: Matt Myers | Gifted | Death in Texas | Midnighters",
+  "id": "bw-p-nm7527920",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Myers",
+  "type": "task"
+}

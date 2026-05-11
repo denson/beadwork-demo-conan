@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wale. b. 1984 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0907353/\n_search: Wale | Free Guy | Fast \u0026 Furious Presents: Hobbs \u0026 Shaw | American Honey | Furious 7",
+  "id": "bw-p-nm0907353",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wale",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roger McGuinn. b. 1942 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0570118/\n_search: Roger McGuinn | Easy Rider | Austin Powers: International Man of Mystery | The Ransom | Candy",
+  "id": "bw-p-nm0570118",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roger McGuinn",
+  "type": "task"
+}

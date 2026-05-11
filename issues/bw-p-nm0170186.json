@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Enrico Colantoni. b. 1963 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0170186/\n_search: Enrico Colantoni | Galaxy Quest | Veronica Mars | Contagion | Veronica Mars",
+  "id": "bw-p-nm0170186",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Enrico Colantoni",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pontus Winnberg. composer, writer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2652300/\n_search: Pontus Winnberg | Promising Young Woman | Crazy, Stupid, Love. | Knocked Up | Fifty Shades Freed",
+  "id": "bw-p-nm2652300",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pontus Winnberg",
+  "type": "task"
+}

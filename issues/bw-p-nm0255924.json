@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Ely. 1947–2025 | actor, music_department, soundtrack.\nDECEASED (1947–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0255924/\n_search: Joe Ely | Tin Cup | Hope Floats | Leaves of Grass | South of Heaven, West of Hell",
+  "id": "bw-p-nm0255924",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Ely",
+  "type": "task"
+}

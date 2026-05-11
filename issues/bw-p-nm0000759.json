@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Thomas Anderson. b. 1970 | director, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000759/\n_search: Paul Thomas Anderson | Punch-Drunk Love | There Will Be Blood | Boogie Nights | Licorice Pizza",
+  "id": "bw-p-nm0000759",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Thomas Anderson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Sorvino/Richard Jeni/Sonny Landreth. late_night, S2E92, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2793350/\n_search: Paul Sorvino/Richard Jeni/Sonny Landreth | 1995 | S2E92",
+  "id": "bw-e-tt2793350",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Sorvino/Richard Jeni/Sonny Landreth",
+  "type": "task"
+}

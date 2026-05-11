@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Agnes Arthur. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11239484/\n_search: Agnes Arthur",
+  "id": "bw-p-nm11239484",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Agnes Arthur",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephanie Skewes. b. 1982 | actress, stunts, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2352148/\n_search: Stephanie Skewes | Wild Hogs | The Diaries of Eden | Plaguers | Hall American: Forbidden",
+  "id": "bw-p-nm2352148",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephanie Skewes",
+  "type": "task"
+}

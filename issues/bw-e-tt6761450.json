@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris 'Ludacris' Bridges/Ariel Winter/Future Islands. conan_tbs, S7E70, 2017.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt6761450/\n_search: Chris 'Ludacris' Bridges/Ariel Winter/Future Islands | 2017 | S7E70",
+  "id": "bw-e-tt6761450",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris 'Ludacris' Bridges/Ariel Winter/Future Islands",
+  "type": "task"
+}

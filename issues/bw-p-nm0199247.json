@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evan Dando. b. 1967 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0199247/\n_search: Evan Dando | There's Something About Mary | Empire Records | Catch and Release | Lara Croft: Tomb Raider - The Cradle of Life",
+  "id": "bw-p-nm0199247",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evan Dando",
+  "type": "task"
+}

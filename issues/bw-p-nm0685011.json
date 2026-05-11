@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scottie Pippen. b. 1965 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0685011/\n_search: Scottie Pippen | He Got Game | ER | Chicago Fire | Fresh Off the Boat",
+  "id": "bw-p-nm0685011",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scottie Pippen",
+  "type": "task"
+}

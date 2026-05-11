@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamiroquai. b. 1969 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2444725/\n_search: Jamiroquai | Godzilla | Titan A.E. | The Switch | The Devil Wears Prada",
+  "id": "bw-p-nm2444725",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamiroquai",
+  "type": "task"
+}

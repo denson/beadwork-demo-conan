@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Das Re-Boot: Revenge of the '80s Movie Reference. conan_tbs, S2E113, 2012.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt2278300/\n_search: Das Re-Boot: Revenge of the '80s Movie Reference | 2012 | S2E113",
+  "id": "bw-e-tt2278300",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Das Re-Boot: Revenge of the '80s Movie Reference",
+  "type": "task"
+}

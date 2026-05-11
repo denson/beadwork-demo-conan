@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taj Mahal. b. 1942 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0536737/\n_search: Taj Mahal | Bill \u0026 Ted's Bogus Journey | Sounder | Phenomenon | Six Days Seven Nights",
+  "id": "bw-p-nm0536737",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taj Mahal",
+  "type": "task"
+}

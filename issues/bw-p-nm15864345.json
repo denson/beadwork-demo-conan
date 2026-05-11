@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jordan Stein. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm15864345/\n_search: Jordan Stein",
+  "id": "bw-p-nm15864345",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jordan Stein",
+  "type": "task"
+}

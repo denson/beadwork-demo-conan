@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Swardson. b. 1976 | actor, writer, producer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0841910/\n_search: Nick Swardson | Grandma's Boy | The Benchwarmers | Just Go with It | Jack and Jill",
+  "id": "bw-p-nm0841910",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Swardson",
+  "type": "task"
+}

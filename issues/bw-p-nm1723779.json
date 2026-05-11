@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Bollotino. director, assistant_director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1723779/\n_search: Billy Bollotino | The Chow Line | The Pete Holmes Show | The Crazy Life of Sam \u0026 Emily",
+  "id": "bw-p-nm1723779",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Bollotino",
+  "type": "task"
+}

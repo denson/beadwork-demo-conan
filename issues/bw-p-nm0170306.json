@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen Colbert. b. 1964 | writer, producer, actor.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0170306/\n_search: Stephen Colbert | The Late Show with Stephen Colbert | The Colbert Report | The Daily Show | Strangers with Candy",
+  "id": "bw-p-nm0170306",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen Colbert",
+  "type": "task"
+}

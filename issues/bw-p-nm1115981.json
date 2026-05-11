@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Osbourne. b. 1985 | producer, actor, miscellaneous.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1115981/\n_search: Jack Osbourne | Austin Powers in Goldmember | New York Minute | Untitled Ozzy Osbourne/Sharon Osbourne Project | Wreckage of My Past: The Story of Ozzy Osbourne",
+  "id": "bw-p-nm1115981",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Osbourne",
+  "type": "task"
+}

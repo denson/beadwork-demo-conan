@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "It's Not the Hotlanta, It's the Humidylanta. conan_tbs, S3E67, 2013.\nIMDb rating: 8.6.\nIMDb: https://www.imdb.com/title/tt2814118/\n_search: It's Not the Hotlanta, It's the Humidylanta | 2013 | S3E67",
+  "id": "bw-e-tt2814118",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "It's Not the Hotlanta, It's the Humidylanta",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Battle. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2543334/\n_search: Robert Battle | Great Performances | Miss Hill: Making Dance Matter | PBS News Hour | The Reid Report",
+  "id": "bw-p-nm2543334",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Battle",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Randy Jackson. b. 1956 | producer, actor, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1193098/\n_search: Randy Jackson | The Truth About Cats \u0026 Dogs | American Idol | Christmas Letter | New York's Finest",
+  "id": "bw-p-nm1193098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Randy Jackson",
+  "type": "task"
+}

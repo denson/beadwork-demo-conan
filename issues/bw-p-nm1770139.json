@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ted Leo. b. 1970 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1770139/\n_search: Ted Leo | Beware the Gonzo | Movie Boy | Tony Hawk: Shred | Rock Band 4",
+  "id": "bw-p-nm1770139",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ted Leo",
+  "type": "task"
+}

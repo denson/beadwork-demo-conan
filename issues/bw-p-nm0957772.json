@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Zombie. b. 1965 | music_artist, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0957772/\n_search: Rob Zombie | The Devil's Rejects | Halloween | The Lords of Salem | Grindhouse",
+  "id": "bw-p-nm0957772",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Zombie",
+  "type": "task"
+}

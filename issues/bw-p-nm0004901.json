@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Esther Cañadas. b. 1977 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004901/\n_search: Esther Cañadas | The Thomas Crown Affair | Torrente 2: Mission in Marbella | Tricksters | Torrente for President",
+  "id": "bw-p-nm0004901",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Esther Cañadas",
+  "type": "task"
+}

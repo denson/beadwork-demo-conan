@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alain Johannes. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0423690/\n_search: Alain Johannes | 2012 | Great Expectations | Catwoman | Failure to Launch",
+  "id": "bw-p-nm0423690",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alain Johannes",
+  "type": "task"
+}

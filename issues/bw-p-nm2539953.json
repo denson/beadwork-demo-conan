@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alicia Vikander. b. 1988 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2539953/\n_search: Alicia Vikander | Ex Machina | The Danish Girl | The Man from U.N.C.L.E. | Testament of Youth",
+  "id": "bw-p-nm2539953",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alicia Vikander",
+  "type": "task"
+}

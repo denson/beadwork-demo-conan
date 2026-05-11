@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Colin Blunstone. b. 1945 | actor, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0089896/\n_search: Colin Blunstone | Bunny Lake Is Missing | A Merry War | Just Like a Woman | Colin Blunstone - One Year and More Live",
+  "id": "bw-p-nm0089896",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Colin Blunstone",
+  "type": "task"
+}

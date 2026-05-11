@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dom DeLuise. 1933–2009 | actor, writer, director.\nDECEASED (1933–2009). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001123/\n_search: Dom DeLuise | The Cannonball Run | Blazing Saddles | All Dogs Go to Heaven | The Secret of NIMH",
+  "id": "bw-p-nm0001123",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dom DeLuise",
+  "type": "task"
+}

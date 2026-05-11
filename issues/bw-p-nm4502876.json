@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Jarosz. b. 1991 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4502876/\n_search: Sarah Jarosz | Love the Coopers | My Fool Heart | Little Voice | June",
+  "id": "bw-p-nm4502876",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Jarosz",
+  "type": "task"
+}

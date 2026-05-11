@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roseanne Barr. b. 1952 | producer, actress, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001683/\n_search: Roseanne Barr | Roseanne | Look Who's Talking Too | Freddy's Dead: The Final Nightmare | She-Devil",
+  "id": "bw-p-nm0001683",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roseanne Barr",
+  "type": "task"
+}

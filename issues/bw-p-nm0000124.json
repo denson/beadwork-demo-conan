@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Connelly. b. 1970 | actress, producer, visual_effects.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0000124/\n_search: Jennifer Connelly | A Beautiful Mind | House of Sand and Fog | Hulk | Requiem for a Dream",
+  "id": "bw-p-nm0000124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Connelly",
+  "type": "task"
+}

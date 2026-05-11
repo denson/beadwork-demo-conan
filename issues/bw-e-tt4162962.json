@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dennis Franz/Dave Chappelle/Jack Corso. late_night, S3E153, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4162962/\n_search: Dennis Franz/Dave Chappelle/Jack Corso | 1996 | S3E153",
+  "id": "bw-e-tt4162962",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dennis Franz/Dave Chappelle/Jack Corso",
+  "type": "task"
+}

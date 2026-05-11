@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kassia Conway. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5591269/\n_search: Kassia Conway | Scarpetta | The Kissing Booth | Star Trek Into Darkness",
+  "id": "bw-p-nm5591269",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kassia Conway",
+  "type": "task"
+}

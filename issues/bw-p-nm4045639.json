@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael R. Carlson. actor, editor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4045639/\n_search: Michael R. Carlson | Infinity Train | Handsome: A Netflix Mystery Movie | Screen Junkies Movie Fights",
+  "id": "bw-p-nm4045639",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael R. Carlson",
+  "type": "task"
+}

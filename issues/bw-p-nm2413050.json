@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rodrigo y Gabriela. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2413050/\n_search: Rodrigo y Gabriela | Pirates of the Caribbean: On Stranger Tides | In America | Puss in Boots | Breaking Bad",
+  "id": "bw-p-nm2413050",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rodrigo y Gabriela",
+  "type": "task"
+}

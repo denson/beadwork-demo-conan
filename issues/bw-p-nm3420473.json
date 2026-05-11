@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zachary Alexander Rice. actor, miscellaneous, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3420473/\n_search: Zachary Alexander Rice | Finite Water | X-Men: Days of Future Past | The Wandering Earth | The Babysitter",
+  "id": "bw-p-nm3420473",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zachary Alexander Rice",
+  "type": "task"
+}

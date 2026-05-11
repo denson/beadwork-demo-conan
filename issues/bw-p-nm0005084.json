@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "R. Kelly. b. 1967 | music_artist, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005084/\n_search: R. Kelly | Trapped in the Closet: Chapters 1-12 | Space Jam | Trapped in the Closet: Chapters 13-22 | Life",
+  "id": "bw-p-nm0005084",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "R. Kelly",
+  "type": "task"
+}

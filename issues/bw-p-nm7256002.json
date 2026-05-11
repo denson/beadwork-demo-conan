@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anderson .Paak. b. 1986 | actor, music_department, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7256002/\n_search: Anderson .Paak | Shang-Chi and the Legend of the Ten Rings | Men in Black: International | Pacific Rim: Uprising | Spies in Disguise",
+  "id": "bw-p-nm7256002",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anderson .Paak",
+  "type": "task"
+}

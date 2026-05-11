@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Return to A-Hole Acres. conan_tbs, S2E17, 2011.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt2147823/\n_search: Return to A-Hole Acres | 2011 | S2E17",
+  "id": "bw-e-tt2147823",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Return to A-Hole Acres",
+  "type": "task"
+}

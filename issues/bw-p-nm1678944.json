@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shooter Jennings. b. 1979 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1678944/\n_search: Shooter Jennings | Walk the Line | 11:14 | The Dukes of Hazzard | Made",
+  "id": "bw-p-nm1678944",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shooter Jennings",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Freida Pinto. b. 1984 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2951768/\n_search: Freida Pinto | Slumdog Millionaire | Rise of the Planet of the Apes | Immortals | Knight of Cups",
+  "id": "bw-p-nm2951768",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Freida Pinto",
+  "type": "task"
+}

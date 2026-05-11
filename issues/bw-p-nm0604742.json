@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey Dean Morgan. b. 1966 | actor, producer, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0604742/\n_search: Jeffrey Dean Morgan | Watchmen | Rampage | The Walking Dead | The Losers",
+  "id": "bw-p-nm0604742",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey Dean Morgan",
+  "type": "task"
+}

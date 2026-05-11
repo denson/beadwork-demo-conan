@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael McDonald. b. 1952 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0567909/\n_search: Michael McDonald | The 40-Year-Old Virgin | No Way Out | Twister | Forrest Gump",
+  "id": "bw-p-nm0567909",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael McDonald",
+  "type": "task"
+}

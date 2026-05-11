@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Armie Hammer/Jim Jefferies/Gavin DeGraw. conan_tbs, S7E99, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6983830/\n_search: Armie Hammer/Jim Jefferies/Gavin DeGraw | 2017 | S7E99",
+  "id": "bw-e-tt6983830",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Armie Hammer/Jim Jefferies/Gavin DeGraw",
+  "type": "task"
+}

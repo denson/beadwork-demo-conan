@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hank Williams III. b. 1972 | actor, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0929938/\n_search: Hank Williams III | Driven | The Judge | Sasquatch Mountain | The Baytown Outlaws",
+  "id": "bw-p-nm0929938",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hank Williams III",
+  "type": "task"
+}

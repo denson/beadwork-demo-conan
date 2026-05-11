@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Hamm. b. 1971 | actor, producer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0358316/\n_search: Jon Hamm | Mad Men | The Town | Million Dollar Arm | Tag",
+  "id": "bw-p-nm0358316",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Hamm",
+  "type": "task"
+}

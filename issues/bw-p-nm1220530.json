@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rivers Cuomo. b. 1970 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1220530/\n_search: Rivers Cuomo | Pitch Perfect | 21 | Drillbit Taylor | Mr. Deeds",
+  "id": "bw-p-nm1220530",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rivers Cuomo",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Declan McKenna. b. 1998 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7770292/\n_search: Declan McKenna | The Drowning of Arthur Braxton | The Beautiful Gamers | Ryu Darko: SMMR in You | Declan McKenna: Live from London's Brixton Academy",
+  "id": "bw-p-nm7770292",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Declan McKenna",
+  "type": "task"
+}

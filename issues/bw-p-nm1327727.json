@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nickelback. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1327727/\n_search: Nickelback | The Punisher | Book of Shadows: Blair Witch 2 | Transformers: Revenge of the Fallen | Charlie's Angels: Full Throttle",
+  "id": "bw-p-nm1327727",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nickelback",
+  "type": "task"
+}

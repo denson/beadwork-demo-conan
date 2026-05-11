@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ann Gotti. actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3880966/\n_search: Ann Gotti | The Oatmeal Man | Malibu Horror Story | Speed Dragon | Celebrities Undercover",
+  "id": "bw-p-nm3880966",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ann Gotti",
+  "type": "task"
+}

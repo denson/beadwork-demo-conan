@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ava Gaudet. actress, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2398335/\n_search: Ava Gaudet | Ugly Betty | Held Hostage in My House | I Care a Lot | Widow's Bay",
+  "id": "bw-p-nm2398335",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ava Gaudet",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Balfour. b. 1977 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0050156/\n_search: Eric Balfour | The Offer | Country Comfort | Six Feet Under | 24",
+  "id": "bw-p-nm0050156",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Balfour",
+  "type": "task"
+}

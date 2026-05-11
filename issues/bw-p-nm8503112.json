@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "311. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8503112/\n_search: 311 | Dear John | 50 First Dates | Forgetting Sarah Marshall | A Walk to Remember",
+  "id": "bw-p-nm8503112",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "311",
+  "type": "task"
+}

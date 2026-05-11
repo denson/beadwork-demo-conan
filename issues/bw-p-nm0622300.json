@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roy Nathanson. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0622300/\n_search: Roy Nathanson | Short Cuts | Raising Victor Vargas | Let's Go Bowling | Camp Stories",
+  "id": "bw-p-nm0622300",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roy Nathanson",
+  "type": "task"
+}

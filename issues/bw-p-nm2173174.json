@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Los Straitjackets. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2173174/\n_search: Los Straitjackets | Palm Springs | The Sweetest Thing | Dirty Dancing: Havana Nights | Instructions Not Included",
+  "id": "bw-p-nm2173174",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Los Straitjackets",
+  "type": "task"
+}

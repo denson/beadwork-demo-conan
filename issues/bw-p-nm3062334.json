@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sugarhill Gang. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3062334/\n_search: Sugarhill Gang | The Big Hit | Kangaroo Jack | Stick It | Everybody Wants Some!!",
+  "id": "bw-p-nm3062334",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sugarhill Gang",
+  "type": "task"
+}

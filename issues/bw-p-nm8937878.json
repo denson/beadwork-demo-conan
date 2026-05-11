@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Dalby. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8937878/\n_search: Seth Dalby | Last Call with Carson Daly | The Late Show with Stephen Colbert | The Tonight Show Starring Jimmy Fallon",
+  "id": "bw-p-nm8937878",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Dalby",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Wan. b. 1977 | producer, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1490123/\n_search: James Wan | Saw | The Conjuring 2 | Furious 7 | Insidious",
+  "id": "bw-p-nm1490123",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Wan",
+  "type": "task"
+}

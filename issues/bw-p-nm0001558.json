@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mr. T. b. 1952 | actor, soundtrack, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001558/\n_search: Mr. T | Rocky III | The A-Team | Cloudy with a Chance of Meatballs | Not Another Teen Movie",
+  "id": "bw-p-nm0001558",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mr. T",
+  "type": "task"
+}

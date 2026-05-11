@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Wayne Foster. b. 1973 | actor, stunts, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2322894/\n_search: Michael Wayne Foster | The Thundermans Return | The Walking Dead: Webisodes | David and Goliath | My Best Friend's Exorcism",
+  "id": "bw-p-nm2322894",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Wayne Foster",
+  "type": "task"
+}

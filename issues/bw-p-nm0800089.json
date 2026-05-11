@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carly Simon. b. 1943 | actress, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0800089/\n_search: Carly Simon | All Good Things | Frequency | Piglet's Big Movie | The Spy Who Loved Me",
+  "id": "bw-p-nm0800089",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carly Simon",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris D'Elia. b. 1980 | actor, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0195626/\n_search: Chris D'Elia | Celeste \u0026 Jesse Forever | Bad Girls from Valley High | Little Evil | Glory Daze",
+  "id": "bw-p-nm0195626",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris D'Elia",
+  "type": "task"
+}

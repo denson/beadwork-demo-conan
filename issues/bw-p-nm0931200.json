@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucinda Williams. b. 1953 | music_department, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0931200/\n_search: Lucinda Williams | X-Men | Wild | Transamerica | Lone Star",
+  "id": "bw-p-nm0931200",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucinda Williams",
+  "type": "task"
+}

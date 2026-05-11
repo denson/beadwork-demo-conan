@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judybats. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3057253/\n_search: Judybats",
+  "id": "bw-p-nm3057253",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judybats",
+  "type": "task"
+}

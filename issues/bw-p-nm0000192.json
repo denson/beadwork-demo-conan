@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alyssa Milano. b. 1972 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000192/\n_search: Alyssa Milano | Who's the Boss? | Charmed | Commando | Fear",
+  "id": "bw-p-nm0000192",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alyssa Milano",
+  "type": "task"
+}

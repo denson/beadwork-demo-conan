@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alison Stewart. b. 1966 | producer, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0829158/\n_search: Alison Stewart | Choose or Lose: Facing the Future with Bill Clinton | MTV News: The Week in Rock | Enough Is Enough | Racism: Points of View: An MTV News Special Report",
+  "id": "bw-p-nm0829158",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alison Stewart",
+  "type": "task"
+}

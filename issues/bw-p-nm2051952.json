@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackopierce. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2051952/\n_search: Jackopierce | The Rosie O'Donnell Show",
+  "id": "bw-p-nm2051952",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackopierce",
+  "type": "task"
+}

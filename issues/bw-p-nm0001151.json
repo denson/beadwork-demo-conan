@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen Dorff. b. 1973 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001151/\n_search: Stephen Dorff | Blade | Somewhere | Felon | Immortals",
+  "id": "bw-p-nm0001151",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen Dorff",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Hayes. b. 1970 | actor, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0005003/\n_search: Sean Hayes | Will \u0026 Grace | The Cat in the Hat | The Bucket List | The Three Stooges",
+  "id": "bw-p-nm0005003",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Hayes",
+  "type": "task"
+}

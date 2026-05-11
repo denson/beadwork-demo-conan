@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John D. Bair. b. 1962 | miscellaneous, actor, casting_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2922525/\n_search: John D. Bair | A Walk with Death | As the World Turns | Dream Street | Upright Citizens Brigade",
+  "id": "bw-p-nm2922525",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John D. Bair",
+  "type": "task"
+}

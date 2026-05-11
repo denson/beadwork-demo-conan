@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Stewart. b. 1962 | producer, writer, actor.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0829537/\n_search: Jon Stewart | The Daily Show | Jay and Silent Bob Strike Back | Death to Smoochy | Half Baked",
+  "id": "bw-p-nm0829537",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Stewart",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deana Carter. b. 1966 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004811/\n_search: Deana Carter | Runnin' from My Roots | Anastasia | The Watch | The Badge",
+  "id": "bw-p-nm0004811",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deana Carter",
+  "type": "task"
+}

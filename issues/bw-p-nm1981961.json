@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Murry Hammond. b. 1964 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1981961/\n_search: Murry Hammond | The Break-Up | Otherhood | Killer Bud | FUBAR",
+  "id": "bw-p-nm1981961",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Murry Hammond",
+  "type": "task"
+}

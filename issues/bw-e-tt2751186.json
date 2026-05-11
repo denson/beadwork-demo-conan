@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yes I'll Marry You, But My Name Is Karen, Not Kathy. conan_tbs, S3E56, 2013.\nIMDb: https://www.imdb.com/title/tt2751186/\n_search: Yes I'll Marry You, But My Name Is Karen, Not Kathy | 2013 | S3E56",
+  "id": "bw-e-tt2751186",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yes I'll Marry You, But My Name Is Karen, Not Kathy",
+  "type": "task"
+}

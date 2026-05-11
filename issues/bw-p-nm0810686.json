@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dick Smothers. b. 1938 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0810686/\n_search: Dick Smothers | Casino | The Smothers Brothers Comedy Hour | The Informant! | Speed Zone",
+  "id": "bw-p-nm0810686",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dick Smothers",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Betty White. 1922–2021 | actress, producer, writer.\nDECEASED (1922–2021). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0924508/\n_search: Betty White | The Proposal | The Golden Girls | Lake Placid | Bringing Down the House",
+  "id": "bw-p-nm0924508",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Betty White",
+  "type": "task"
+}

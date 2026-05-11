@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emma Stone/Lindsey Vonn/JD McPherson. conan_tbs, S5E117, 2015.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt4844554/\n_search: Emma Stone/Lindsey Vonn/JD McPherson | 2015 | S5E117",
+  "id": "bw-e-tt4844554",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emma Stone/Lindsey Vonn/JD McPherson",
+  "type": "task"
+}

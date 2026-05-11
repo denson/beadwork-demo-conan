@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lee Pardini. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7229508/\n_search: Lee Pardini | Lou | Artbound Presents: Studio A | I Lost My Mother's Ashes | Lee Pardini: Homebodies Album Video",
+  "id": "bw-p-nm7229508",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lee Pardini",
+  "type": "task"
+}

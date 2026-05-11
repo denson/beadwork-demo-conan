@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carla Gugino. b. 1971 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001303/\n_search: Carla Gugino | Watchmen | Gerald's Game | Sucker Punch | American Gangster",
+  "id": "bw-p-nm0001303",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carla Gugino",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charles Grodin. 1935–2021 | actor, writer, director.\nDECEASED (1935–2021). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001301/\n_search: Charles Grodin | Midnight Run | The Heartbreak Kid | King Kong | Seems Like Old Times",
+  "id": "bw-p-nm0001301",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charles Grodin",
+  "type": "task"
+}

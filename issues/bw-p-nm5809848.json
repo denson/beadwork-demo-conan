@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Austin Davis. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5809848/\n_search: Austin Davis | Jimmy Kimmel Live!",
+  "id": "bw-p-nm5809848",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Austin Davis",
+  "type": "task"
+}

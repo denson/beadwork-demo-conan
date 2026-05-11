@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jules Feiffer. 1929–2025 | writer, animation_department, art_department.\nDECEASED (1929–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0270547/\n_search: Jules Feiffer | Carnal Knowledge | Popeye | I Want to Go Home | Little Murders",
+  "id": "bw-p-nm0270547",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jules Feiffer",
+  "type": "task"
+}

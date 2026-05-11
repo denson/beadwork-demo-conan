@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey Tambor. b. 1944 | actor, soundtrack, archive_footage.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001787/\n_search: Jeffrey Tambor | Transparent | Arrested Development | Hellboy | Paul",
+  "id": "bw-p-nm0001787",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey Tambor",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Princess Tenko. b. 1959 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6674813/\n_search: Princess Tenko | Denshi Sentai Denziman | Space Sheriff Gavan | Peking Man | Super-Robot Metalder",
+  "id": "bw-p-nm6674813",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Princess Tenko",
+  "type": "task"
+}

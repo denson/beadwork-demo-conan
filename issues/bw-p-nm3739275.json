@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seann Walsh. b. 1985 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3739275/\n_search: Seann Walsh | The Bystanders | The Seann Factor | Little Crackers | Clown",
+  "id": "bw-p-nm3739275",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seann Walsh",
+  "type": "task"
+}

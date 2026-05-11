@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Marr. b. 1963 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0549995/\n_search: Johnny Marr | Inception | The Amazing Spider-Man 2 | No Time to Die | Bumblebee",
+  "id": "bw-p-nm0549995",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Marr",
+  "type": "task"
+}

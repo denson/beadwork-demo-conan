@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cowboys \u0026 Aliens 2: Showdown at Glorb Ranch. conan_tbs, S1E127, 2011.\nRuntime: 60 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt2011467/\n_search: Cowboys \u0026 Aliens 2: Showdown at Glorb Ranch | 2011 | S1E127",
+  "id": "bw-e-tt2011467",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cowboys \u0026 Aliens 2: Showdown at Glorb Ranch",
+  "type": "task"
+}

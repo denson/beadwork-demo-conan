@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hairdryer: 1, Frosty: 0. conan_tbs, S1E24, 2010.\nRuntime: 60 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt1788032/\n_search: Hairdryer: 1, Frosty: 0 | 2010 | S1E24",
+  "id": "bw-e-tt1788032",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hairdryer: 1, Frosty: 0",
+  "type": "task"
+}

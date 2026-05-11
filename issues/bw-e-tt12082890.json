@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan at Home - Jesse Eisenberg. conan_tbs, S10E35, 2020.\nRuntime: 21 min.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt12082890/\n_search: Conan at Home - Jesse Eisenberg | 2020 | S10E35",
+  "id": "bw-e-tt12082890",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan at Home - Jesse Eisenberg",
+  "type": "task"
+}

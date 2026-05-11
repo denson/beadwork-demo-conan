@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Shalhoub. b. 1953 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001724/\n_search: Tony Shalhoub | Monk | The Man Who Wasn't There | Galaxy Quest | Men in Black II",
+  "id": "bw-p-nm0001724",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Shalhoub",
+  "type": "task"
+}

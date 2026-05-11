@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Xavier Charcas. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8575280/\n_search: Xavier Charcas | Class of 1970 | Love XO | Making Babies | Tosh.0",
+  "id": "bw-p-nm8575280",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Xavier Charcas",
+  "type": "task"
+}

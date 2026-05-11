@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Katie Wagner. b. 1964 | actress, miscellaneous, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005530/\n_search: Katie Wagner | Freaky | Rim of the World | Black Scorpion | Ice House",
+  "id": "bw-p-nm0005530",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Katie Wagner",
+  "type": "task"
+}

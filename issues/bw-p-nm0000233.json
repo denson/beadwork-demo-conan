@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quentin Tarantino. b. 1963 | writer, producer, actor.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0000233/\n_search: Quentin Tarantino | Reservoir Dogs | Pulp Fiction | From Dusk Till Dawn | Once Upon a Time... in Hollywood",
+  "id": "bw-p-nm0000233",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quentin Tarantino",
+  "type": "task"
+}

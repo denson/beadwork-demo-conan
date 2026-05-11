@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ralph Macchio. b. 1961 | actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001494/\n_search: Ralph Macchio | The Karate Kid | The Karate Kid Part III | The Outsiders | My Cousin Vinny",
+  "id": "bw-p-nm0001494",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ralph Macchio",
+  "type": "task"
+}

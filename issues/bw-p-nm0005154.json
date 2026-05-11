@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucy Liu. b. 1968 | actress, director, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0005154/\n_search: Lucy Liu | Charlie's Angels | Kill Bill: Vol. 1 | Chicago | Kung Fu Panda 2",
+  "id": "bw-p-nm0005154",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucy Liu",
+  "type": "task"
+}

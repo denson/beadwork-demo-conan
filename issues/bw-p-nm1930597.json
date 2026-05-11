@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom DeLay. b. 1947 | archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1930597/\n_search: Tom DeLay | Soul of Justice: Thelton Henderson's American Journey | Casino Jack and the United States of Money | Boogie Man: The Lee Atwater Story | Cavuto on Business",
+  "id": "bw-p-nm1930597",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom DeLay",
+  "type": "task"
+}

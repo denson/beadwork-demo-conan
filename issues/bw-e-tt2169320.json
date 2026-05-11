@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "This One Has a Wardrobe Malfunction. conan_tbs, S2E94, 2012.\nIMDb rating: 6.5.\nIMDb: https://www.imdb.com/title/tt2169320/\n_search: This One Has a Wardrobe Malfunction | 2012 | S2E94",
+  "id": "bw-e-tt2169320",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "This One Has a Wardrobe Malfunction",
+  "type": "task"
+}

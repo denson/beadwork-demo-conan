@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ian Grushka. b. 1977 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1397997/\n_search: Ian Grushka | The Benchwarmers | Clockstoppers | American Wedding | American Pie 2",
+  "id": "bw-p-nm1397997",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ian Grushka",
+  "type": "task"
+}

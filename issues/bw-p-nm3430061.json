@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maaka Pohatu. actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3430061/\n_search: Maaka Pohatu | The Rule of Jenny Pen | Miles from Nowhere | Cowboy Bebop | Deano and Nige's Best Last Day Ever",
+  "id": "bw-p-nm3430061",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maaka Pohatu",
+  "type": "task"
+}

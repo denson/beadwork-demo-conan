@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pink Martini. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2681578/\n_search: Pink Martini | Red Notice | The Nines | Nurse Betty | Hitch",
+  "id": "bw-p-nm2681578",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pink Martini",
+  "type": "task"
+}

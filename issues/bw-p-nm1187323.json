@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Missy O'Reilly. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1187323/\n_search: Missy O'Reilly | Martin \u0026 Orloff | New York City Serenade | Upright Citizens Brigade | What Would You Do?",
+  "id": "bw-p-nm1187323",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Missy O'Reilly",
+  "type": "task"
+}

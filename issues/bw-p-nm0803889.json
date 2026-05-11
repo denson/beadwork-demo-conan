@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Skarsgård. b. 1990 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0803889/\n_search: Bill Skarsgård | It | It: Chapter Two | Nosferatu | Barbarian",
+  "id": "bw-p-nm0803889",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Skarsgård",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "System of a Down. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1500632/\n_search: System of a Down | Dracula 2000 | Book of Shadows: Blair Witch 2 | Disturbia | Not Another Teen Movie",
+  "id": "bw-p-nm1500632",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "System of a Down",
+  "type": "task"
+}

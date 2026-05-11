@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James DiLullo. b. 1989 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6555683/\n_search: James DiLullo | Kitty | The Star City Murders | Unbillievable | Goldenrod",
+  "id": "bw-p-nm6555683",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James DiLullo",
+  "type": "task"
+}

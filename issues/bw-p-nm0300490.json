@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Muammar Gaddafi. 1942–2011 | producer, archive_footage.\nDECEASED (1942–2011). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0300490/\n_search: Muammar Gaddafi | The Message | Situation Critical | African Parade | Dateline",
+  "id": "bw-p-nm0300490",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Muammar Gaddafi",
+  "type": "task"
+}

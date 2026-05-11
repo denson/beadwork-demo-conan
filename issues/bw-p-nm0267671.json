@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nate Farley. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0267671/\n_search: Nate Farley | Dean Quixote | The Electrifying Conclusion",
+  "id": "bw-p-nm0267671",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nate Farley",
+  "type": "task"
+}

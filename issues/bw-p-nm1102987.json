@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Serena Williams. b. 1981 | actress, producer, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1102987/\n_search: Serena Williams | Pixels | 7 Days in Hell | Glass Onion | Ocean's Eight",
+  "id": "bw-p-nm1102987",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Serena Williams",
+  "type": "task"
+}

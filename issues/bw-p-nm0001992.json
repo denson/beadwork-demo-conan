@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Carson. 1925–2005 | writer, actor, producer.\nDECEASED (1925–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001992/\n_search: Johnny Carson | The Tonight Show Starring Johnny Carson | Fargo | Looking for Love | Blind Target",
+  "id": "bw-p-nm0001992",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Carson",
+  "type": "task"
+}

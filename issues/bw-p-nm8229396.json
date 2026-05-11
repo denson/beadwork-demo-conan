@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Twin Peaks. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8229396/\n_search: Twin Peaks | Shameless | How to Throw Your Own Goodbye Party | WGN Morning News",
+  "id": "bw-p-nm8229396",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Twin Peaks",
+  "type": "task"
+}

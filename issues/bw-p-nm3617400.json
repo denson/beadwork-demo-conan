@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mo Darwiche. production_department, producer, production_manager.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3617400/\n_search: Mo Darwiche | Seven Bucks Digital Studios | Agents of S.H.I.E.L.D. | CSI: Cyber | Game Fnatic: Search for a Legend",
+  "id": "bw-p-nm3617400",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mo Darwiche",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chantal Kreviazuk. b. 1974 | actress, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0471092/\n_search: Chantal Kreviazuk | Armageddon | The Sisterhood of the Traveling Pants | How to Lose a Guy in 10 Days | Serendipity",
+  "id": "bw-p-nm0471092",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chantal Kreviazuk",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan King/Fran Lebowitz/General Public. late_night, S2E171, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2898646/\n_search: Alan King/Fran Lebowitz/General Public | 1995 | S2E171",
+  "id": "bw-e-tt2898646",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan King/Fran Lebowitz/General Public",
+  "type": "task"
+}

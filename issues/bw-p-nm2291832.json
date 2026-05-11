@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Drive-By Truckers. producer, composer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2291832/\n_search: Drive-By Truckers | Criminal Minds | The Girl | That Evening Sun | Chrystal",
+  "id": "bw-p-nm2291832",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Drive-By Truckers",
+  "type": "task"
+}

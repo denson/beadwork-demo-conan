@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bo Youngblood. producer, director, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3117603/\n_search: Bo Youngblood | In Flight | NCIS | F*ck Valentines Day | The Cure",
+  "id": "bw-p-nm3117603",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bo Youngblood",
+  "type": "task"
+}

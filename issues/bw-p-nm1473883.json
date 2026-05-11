@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ismo Leikola. b. 1979 | actor, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1473883/\n_search: Ismo Leikola | Ismo | The Creeps | Live at Just for Laughs | Ismo Leikola - Hyvät Naiset ja Herrat",
+  "id": "bw-p-nm1473883",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ismo Leikola",
+  "type": "task"
+}

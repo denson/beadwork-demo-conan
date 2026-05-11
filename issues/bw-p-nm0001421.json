@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Kennedy. 1925–2016 | actor, miscellaneous, soundtrack.\nDECEASED (1925–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001421/\n_search: George Kennedy | Cool Hand Luke | Thunderbolt and Lightfoot | Airport | The Naked Gun: From the Files of Police Squad!",
+  "id": "bw-p-nm0001421",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Kennedy",
+  "type": "task"
+}

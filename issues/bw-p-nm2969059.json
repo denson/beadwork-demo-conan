@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gang Starr. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2969059/\n_search: Gang Starr | The Lincoln Lawyer | Fish Tank | Coach Carter | Freedom Writers",
+  "id": "bw-p-nm2969059",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gang Starr",
+  "type": "task"
+}

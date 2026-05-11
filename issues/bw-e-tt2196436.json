@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "E-Vite to a Murder. conan_tbs, S2E99, 2012.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt2196436/\n_search: E-Vite to a Murder | 2012 | S2E99",
+  "id": "bw-e-tt2196436",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "E-Vite to a Murder",
+  "type": "task"
+}

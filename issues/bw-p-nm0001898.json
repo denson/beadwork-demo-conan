@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bryan Adams. b. 1959 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001898/\n_search: Bryan Adams | Robin Hood: Prince of Thieves | Spirit: Stallion of the Cimarron | The Three Musketeers | Don Juan DeMarco",
+  "id": "bw-p-nm0001898",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bryan Adams",
+  "type": "task"
+}

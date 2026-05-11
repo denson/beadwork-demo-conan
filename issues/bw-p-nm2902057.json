@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brett Dennen. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2902057/\n_search: Brett Dennen | The Final Destination | Horrible Bosses | The Five-Year Engagement | August: Osage County",
+  "id": "bw-p-nm2902057",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brett Dennen",
+  "type": "task"
+}

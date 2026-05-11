@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michelle Foody. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1255820/\n_search: Michelle Foody | The Emperor's Club",
+  "id": "bw-p-nm1255820",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michelle Foody",
+  "type": "task"
+}

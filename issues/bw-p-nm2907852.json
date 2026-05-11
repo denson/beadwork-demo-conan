@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Wondrich. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2907852/\n_search: David Wondrich | Hey Bartender | Food(ography) | Best Bars in America | Moonshiners",
+  "id": "bw-p-nm2907852",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Wondrich",
+  "type": "task"
+}

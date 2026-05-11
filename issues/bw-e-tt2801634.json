@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kris Kristofferson/Jack Ford/Bridgette Wilson. late_night, S2E97, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2801634/\n_search: Kris Kristofferson/Jack Ford/Bridgette Wilson | 1995 | S2E97",
+  "id": "bw-e-tt2801634",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kris Kristofferson/Jack Ford/Bridgette Wilson",
+  "type": "task"
+}

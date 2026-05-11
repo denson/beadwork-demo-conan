@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aretha Franklin. 1942–2018 | music_artist, actress, composer.\nDECEASED (1942–2018). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0291349/\n_search: Aretha Franklin | The Blues Brothers | Blues Brothers 2000 | Bobby | Bicentennial Man",
+  "id": "bw-p-nm0291349",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aretha Franklin",
+  "type": "task"
+}

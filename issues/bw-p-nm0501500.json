@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Lemon. b. 1966 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0501500/\n_search: Don Lemon | Zoolander 2 | Into the Storm | Highest 2 Lowest | Black-ish",
+  "id": "bw-p-nm0501500",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Lemon",
+  "type": "task"
+}

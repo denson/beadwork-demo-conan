@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sissy Biggers. b. 1957 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1180799/\n_search: Sissy Biggers | Biggers \u0026 Summers | Ready Set Cook | After Hours with Daniel Boulud | Extreme Makeover",
+  "id": "bw-p-nm1180799",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sissy Biggers",
+  "type": "task"
+}

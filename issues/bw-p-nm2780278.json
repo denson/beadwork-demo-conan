@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyle Kinane. b. 1976 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm2780278/\n_search: Kyle Kinane | Funny People | The House | Epic | Those Who Can't",
+  "id": "bw-p-nm2780278",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyle Kinane",
+  "type": "task"
+}

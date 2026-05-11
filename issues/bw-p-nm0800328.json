@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Simon. b. 1941 | music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0800328/\n_search: Paul Simon | One-Trick Pony | The Graduate | Saturday Night Live | The Royal Tenenbaums",
+  "id": "bw-p-nm0800328",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Simon",
+  "type": "task"
+}

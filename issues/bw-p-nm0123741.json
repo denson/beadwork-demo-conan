@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "CeeLo Green. b. 1975 | actor, composer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0123741/\n_search: CeeLo Green | Hotel Transylvania | The Twilight Saga: Eclipse | Footloose | Mystery Men",
+  "id": "bw-p-nm0123741",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "CeeLo Green",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dennis Hope. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1994125/\n_search: Dennis Hope | Lunarcy! | The New Tom Green Show | La mandrágora | Horizon",
+  "id": "bw-p-nm1994125",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dennis Hope",
+  "type": "task"
+}

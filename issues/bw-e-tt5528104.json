@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Mizejewski/Behati Prinsloo/Shane Torres. conan_tbs, S6E54, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5528104/\n_search: David Mizejewski/Behati Prinsloo/Shane Torres | 2016 | S6E54",
+  "id": "bw-e-tt5528104",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Mizejewski/Behati Prinsloo/Shane Torres",
+  "type": "task"
+}

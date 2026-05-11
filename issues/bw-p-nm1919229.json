@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Keyshia Cole. b. 1981 | actress, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1919229/\n_search: Keyshia Cole | Mission: Impossible III | Step Up | Coach Carter | The Other Woman",
+  "id": "bw-p-nm1919229",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Keyshia Cole",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shelley Duvall. 1949–2024 | producer, actress, writer.\nDECEASED (1949–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001167/\n_search: Shelley Duvall | The Shining | 3 Women | Popeye | Annie Hall",
+  "id": "bw-p-nm0001167",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shelley Duvall",
+  "type": "task"
+}

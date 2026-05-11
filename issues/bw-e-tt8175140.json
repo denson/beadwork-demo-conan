@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thomas Middleditch/Ta'Rhonda Jones/Erin Jackson. conan_tbs, S8E52, 2018.\nRuntime: 42 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt8175140/\n_search: Thomas Middleditch/Ta'Rhonda Jones/Erin Jackson | 2018 | S8E52",
+  "id": "bw-e-tt8175140",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thomas Middleditch/Ta'Rhonda Jones/Erin Jackson",
+  "type": "task"
+}

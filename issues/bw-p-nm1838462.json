@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnnie Johnson. 1924–2005 | actor, soundtrack, archive_footage.\nDECEASED (1924–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1838462/\n_search: Johnnie Johnson | The Ken Murray Show | Chuck Berry: Hail! Hail! Rock 'n' Roll | Eric Clapton: Across 24 Nights | Dancing in the Street",
+  "id": "bw-p-nm1838462",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnnie Johnson",
+  "type": "task"
+}

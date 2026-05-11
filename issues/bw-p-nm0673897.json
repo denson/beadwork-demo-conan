@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carl Perkins. 1932–1998 | actor, composer, music_department.\nDECEASED (1932–1998). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0673897/\n_search: Carl Perkins | Battleship | Eternals | Logan Lucky | The Outsiders",
+  "id": "bw-p-nm0673897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carl Perkins",
+  "type": "task"
+}

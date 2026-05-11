@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "William H. Macy. b. 1950 | actor, writer, producer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0000513/\n_search: William H. Macy | Fargo | Magnolia | Shameless | Boogie Nights",
+  "id": "bw-p-nm0000513",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "William H. Macy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Kinsley. b. 1951 | actor, archive_footage.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0455911/\n_search: Michael Kinsley | Rising Sun | Dave | The Birdcage | Crossfire",
+  "id": "bw-p-nm0455911",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Kinsley",
+  "type": "task"
+}

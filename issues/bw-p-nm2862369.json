@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sky Elobar. actor, producer, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2862369/\n_search: Sky Elobar | The Greasy Strangler | The Rocker | Under the Silver Lake | Ebony and Ivory",
+  "id": "bw-p-nm2862369",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sky Elobar",
+  "type": "task"
+}

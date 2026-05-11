@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Offerman. b. 1970 | actor, producer, music_department.\nConan-show appearances: 20\nIMDb: https://www.imdb.com/name/nm0644406/\n_search: Nick Offerman | The Last of Us | Parks and Recreation | Devs | We're the Millers",
+  "id": "bw-p-nm0644406",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Offerman",
+  "type": "task"
+}

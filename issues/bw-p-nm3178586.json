@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shane Victorino. b. 1980 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3178586/\n_search: Shane Victorino | Hawaii Five-0 | Sunday Night Baseball | Prime 9 | 2008 National League Championship Series",
+  "id": "bw-p-nm3178586",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shane Victorino",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mona. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4927537/\n_search: Mona | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm4927537",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mona",
+  "type": "task"
+}

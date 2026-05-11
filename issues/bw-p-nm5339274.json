@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Karchmer. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5339274/\n_search: Adam Karchmer | The League | Mascots | The Pete Holmes Show",
+  "id": "bw-p-nm5339274",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Karchmer",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anderson Cooper/Willie Nelson/Southside Johnny with La Bamba's Big Band. late_night, S16E13, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1295526/\n_search: Anderson Cooper/Willie Nelson/Southside Johnny with La Bamba's Big Band | 2008 | S16E13",
+  "id": "bw-e-tt1295526",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anderson Cooper/Willie Nelson/Southside Johnny with La Bamba's Big Band",
+  "type": "task"
+}

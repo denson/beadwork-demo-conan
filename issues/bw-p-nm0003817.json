@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Clarke Duncan. 1957–2012 | actor, producer, soundtrack.\nDECEASED (1957–2012). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0003817/\n_search: Michael Clarke Duncan | The Green Mile | Sin City | Armageddon | The Whole Nine Yards",
+  "id": "bw-p-nm0003817",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Clarke Duncan",
+  "type": "task"
+}

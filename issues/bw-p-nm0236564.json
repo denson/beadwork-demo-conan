@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dr. Dre. b. 1965 | music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0236564/\n_search: Dr. Dre | Training Day | Straight Outta Compton | The Wash | Battle Los Angeles",
+  "id": "bw-p-nm0236564",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dr. Dre",
+  "type": "task"
+}

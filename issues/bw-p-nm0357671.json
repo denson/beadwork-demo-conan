@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Denis Hamill. writer, producer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0357671/\n_search: Denis Hamill | Law \u0026 Order: Special Victims Unit | CIA | Under New Management | The Assignment",
+  "id": "bw-p-nm0357671",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Denis Hamill",
+  "type": "task"
+}

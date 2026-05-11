@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyana McPherson. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10649553/\n_search: Kyana McPherson",
+  "id": "bw-p-nm10649553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyana McPherson",
+  "type": "task"
+}

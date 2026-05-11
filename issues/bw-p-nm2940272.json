@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Behati Prinsloo. b. 1988 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2940272/\n_search: Behati Prinsloo | Hawaii Five-0 | Victoria's Secret Fashion Show | The Victoria's Secret Fashion Show | E! News",
+  "id": "bw-p-nm2940272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Behati Prinsloo",
+  "type": "task"
+}

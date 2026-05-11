@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ravi Shankar. 1920–2012 | composer, music_department, actor.\nDECEASED (1920–2012). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0788170/\n_search: Ravi Shankar | Gandhi | Natural Born Killers | The Darjeeling Limited | Anything Else",
+  "id": "bw-p-nm0788170",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ravi Shankar",
+  "type": "task"
+}

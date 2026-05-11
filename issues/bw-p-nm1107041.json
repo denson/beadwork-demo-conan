@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Ness. b. 1962 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1107041/\n_search: Mike Ness | Lords of Dogtown | Reality Bites | Kill the Messenger | The Break-Up",
+  "id": "bw-p-nm1107041",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Ness",
+  "type": "task"
+}

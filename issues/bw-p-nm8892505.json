@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Simonett. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8892505/\n_search: Dave Simonett | Safe Haven | Hightown | Blind Covers",
+  "id": "bw-p-nm8892505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Simonett",
+  "type": "task"
+}

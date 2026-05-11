@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Aqua-Boy Who Cried \"Squid!\". conan_tbs, S4E2, 2013.\nIMDb: https://www.imdb.com/title/tt3315752/\n_search: The Aqua-Boy Who Cried \"Squid!\" | 2013 | S4E2",
+  "id": "bw-e-tt3315752",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Aqua-Boy Who Cried \"Squid!\"",
+  "type": "task"
+}

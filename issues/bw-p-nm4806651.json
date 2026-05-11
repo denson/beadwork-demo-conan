@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Clay. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4806651/\n_search: Jonathan Clay | LOL | Bones | Anderson's Cross | The Motel Life",
+  "id": "bw-p-nm4806651",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Clay",
+  "type": "task"
+}

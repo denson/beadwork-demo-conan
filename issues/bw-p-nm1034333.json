@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aurora. b. 1996 | music_artist, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1034333/\n_search: Aurora | Frozen II | Wolfwalkers | Runaways | Detour",
+  "id": "bw-p-nm1034333",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aurora",
+  "type": "task"
+}

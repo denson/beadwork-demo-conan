@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Di Domenico. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2061234/\n_search: John Di Domenico | Disaster Movie | You Got Trumped: The First 100 Days | Meet the Spartans | Not Another Celebrity Movie",
+  "id": "bw-p-nm2061234",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Di Domenico",
+  "type": "task"
+}

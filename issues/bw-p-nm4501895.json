@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Courtney Barnett. actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4501895/\n_search: Courtney Barnett | In the Fade | The Choice | Mike and Dave Need Wedding Dates | Villains",
+  "id": "bw-p-nm4501895",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Courtney Barnett",
+  "type": "task"
+}

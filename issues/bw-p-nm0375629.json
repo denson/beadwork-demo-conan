@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Levon Helm. 1940–2012 | music_artist, actor, music_department.\nDECEASED (1940–2012). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0375629/\n_search: Levon Helm | Shooter | The Right Stuff | The Three Burials of Melquiades Estrada | In the Electric Mist",
+  "id": "bw-p-nm0375629",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Levon Helm",
+  "type": "task"
+}

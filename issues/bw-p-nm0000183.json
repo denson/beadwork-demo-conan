@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Traci Lords. b. 1968 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000183/\n_search: Traci Lords | Excision | Cry-Baby | Blade | Zack and Miri Make a Porno",
+  "id": "bw-p-nm0000183",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Traci Lords",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Corden/Christopher Plummer/The Mavericks. conan_tbs, S5E64, 2015.\nIMDb: https://www.imdb.com/title/tt4553118/\n_search: James Corden/Christopher Plummer/The Mavericks | 2015 | S5E64",
+  "id": "bw-e-tt4553118",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Corden/Christopher Plummer/The Mavericks",
+  "type": "task"
+}

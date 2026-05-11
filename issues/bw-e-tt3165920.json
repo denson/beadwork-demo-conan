@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "DoubleVision Theater Presents: 24 Angry Men. conan_tbs, S3E131, 2013.\nIMDb: https://www.imdb.com/title/tt3165920/\n_search: DoubleVision Theater Presents: 24 Angry Men | 2013 | S3E131",
+  "id": "bw-e-tt3165920",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "DoubleVision Theater Presents: 24 Angry Men",
+  "type": "task"
+}

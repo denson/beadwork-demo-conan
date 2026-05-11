@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barkhad Abdi. b. 1985 | actor, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm5831542/\n_search: Barkhad Abdi | Captain Phillips | Eye in the Sky | Good Time | Blade Runner 2049",
+  "id": "bw-p-nm5831542",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barkhad Abdi",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norah Vincent. 1968–2022.\nDECEASED (1968–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2171466/\n_search: Norah Vincent | Carte Blanche | The Montel Williams Show | This Morning | Tubridy Tonight",
+  "id": "bw-p-nm2171466",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norah Vincent",
+  "type": "task"
+}

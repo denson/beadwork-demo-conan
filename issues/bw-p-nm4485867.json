@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wahid Ibn Reza. production_manager, miscellaneous, visual_effects.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4485867/\n_search: Wahid Ibn Reza | Spider-Man: No Way Home | Doctor Strange | Guardians of the Galaxy: Vol. 2 | Fifty Shades of Grey",
+  "id": "bw-p-nm4485867",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wahid Ibn Reza",
+  "type": "task"
+}

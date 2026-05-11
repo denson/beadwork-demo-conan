@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Living Things. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2168662/\n_search: Living Things | Lady in the Water | Friday the 13th | The Turning | NHL 2004",
+  "id": "bw-p-nm2168662",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Living Things",
+  "type": "task"
+}

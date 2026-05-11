@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Plan B. b. 1983 | music_artist, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2304008/\n_search: Plan B | Harry Brown | Ill Manors | The Sweeney | 4.3.2.1.",
+  "id": "bw-p-nm2304008",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Plan B",
+  "type": "task"
+}

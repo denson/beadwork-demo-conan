@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Carpenter. b. 1979 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1358539/\n_search: Jennifer Carpenter | The Exorcism of Emily Rose | Dexter | Quarantine | Dragged Across Concrete",
+  "id": "bw-p-nm1358539",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Carpenter",
+  "type": "task"
+}

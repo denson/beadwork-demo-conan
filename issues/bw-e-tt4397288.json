@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Green/Leslie Bibb/Sturgill Simpson. conan_tbs, S4E132, 2014.\nIMDb: https://www.imdb.com/title/tt4397288/\n_search: Seth Green/Leslie Bibb/Sturgill Simpson | 2014 | S4E132",
+  "id": "bw-e-tt4397288",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Green/Leslie Bibb/Sturgill Simpson",
+  "type": "task"
+}

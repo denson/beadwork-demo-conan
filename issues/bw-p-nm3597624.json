@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The xx. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3597624/\n_search: The xx | I Am Number Four | Charlie Countryman | The Great Gatsby | It's Kind of a Funny Story",
+  "id": "bw-p-nm3597624",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The xx",
+  "type": "task"
+}

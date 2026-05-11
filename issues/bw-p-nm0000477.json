@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mia Kirshner. b. 1975 | actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000477/\n_search: Mia Kirshner | Not Another Teen Movie | The Black Dahlia | Exotica | Party Monster",
+  "id": "bw-p-nm0000477",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mia Kirshner",
+  "type": "task"
+}

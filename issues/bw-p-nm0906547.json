@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rufus Wainwright. b. 1973 | actor, composer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0906547/\n_search: Rufus Wainwright | Meet the Robinsons | Moulin Rouge! | Heights | Brokeback Mountain",
+  "id": "bw-p-nm0906547",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rufus Wainwright",
+  "type": "task"
+}

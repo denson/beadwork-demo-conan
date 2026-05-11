@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Wagner/Mario Elie/Steve Forbert. late_night, S2E183, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2910290/\n_search: Jack Wagner/Mario Elie/Steve Forbert | 1995 | S2E183",
+  "id": "bw-e-tt2910290",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Wagner/Mario Elie/Steve Forbert",
+  "type": "task"
+}

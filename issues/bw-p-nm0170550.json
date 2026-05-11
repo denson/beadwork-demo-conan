@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Cole. b. 1956 | actor, miscellaneous, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0170550/\n_search: Gary Cole | Talladega Nights: The Ballad of Ricky Bobby | Dodgeball: A True Underdog Story | One Hour Photo | Office Space",
+  "id": "bw-p-nm0170550",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Cole",
+  "type": "task"
+}

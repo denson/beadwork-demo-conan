@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Seefried. b. 1966 | music_department, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1100022/\n_search: Chris Seefried | Love, Antosha | American Assassin | Roadie | Lost",
+  "id": "bw-p-nm1100022",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Seefried",
+  "type": "task"
+}

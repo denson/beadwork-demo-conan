@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Bosh. b. 1984 | actor, director, composer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2595625/\n_search: Chris Bosh | Entourage | Parks and Recreation | Rosewood | Telenovela",
+  "id": "bw-p-nm2595625",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Bosh",
+  "type": "task"
+}

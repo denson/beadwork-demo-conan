@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessica Rockwell. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2676972/\n_search: Jessica Rockwell | A Wrinkle in Time | Angry Video Game Nerd: The Movie | 'Til Death | Passenger",
+  "id": "bw-p-nm2676972",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessica Rockwell",
+  "type": "task"
+}

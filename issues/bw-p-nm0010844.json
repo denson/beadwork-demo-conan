@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cindy Adams. b. 1930 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0010844/\n_search: Cindy Adams | Singing in the Dark | The Nanny | Best Actress | Silent Predator",
+  "id": "bw-p-nm0010844",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cindy Adams",
+  "type": "task"
+}

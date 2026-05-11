@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "BriAnne Borup. production_department, actress, location_management.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4716711/\n_search: BriAnne Borup | The Wolf and the Ewe | Mr. Bellpond",
+  "id": "bw-p-nm4716711",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "BriAnne Borup",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Meredith Vieira. b. 1953 | producer, actress, executive.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0896680/\n_search: Meredith Vieira | The Stepford Wives | Get Him to the Greek | Shrek Forever After | Madagascar: Escape 2 Africa",
+  "id": "bw-p-nm0896680",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Meredith Vieira",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Sandler. b. 1974 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0761998/\n_search: Scott Sandler | The Shortcut | Cop | American Violence | God's Army",
+  "id": "bw-p-nm0761998",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Sandler",
+  "type": "task"
+}

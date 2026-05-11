@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Siegel. b. 1971 | writer, director, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1557909/\n_search: Robert Siegel | Welcome to Chippendales | Pam \u0026 Tommy | Big Fan | The Wrestler",
+  "id": "bw-p-nm1557909",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Siegel",
+  "type": "task"
+}

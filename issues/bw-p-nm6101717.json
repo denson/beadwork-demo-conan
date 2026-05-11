@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julian Zane. b. 2007 | actor, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6101717/\n_search: Julian Zane | That '90s Show | The Rookie | Mira, Royal Detective | Head of the Class",
+  "id": "bw-p-nm6101717",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julian Zane",
+  "type": "task"
+}

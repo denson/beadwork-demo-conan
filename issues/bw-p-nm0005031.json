@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Felicity Huffman. b. 1962 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005031/\n_search: Felicity Huffman | Transamerica | Desperate Housewives | Sports Night | Georgia Rule",
+  "id": "bw-p-nm0005031",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Felicity Huffman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan Without Borders: Israel. conan_tbs, S7E129, 2017.\nRuntime: 42 min.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt7353982/\n_search: Conan Without Borders: Israel | 2017 | S7E129",
+  "id": "bw-e-tt7353982",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan Without Borders: Israel",
+  "type": "task"
+}

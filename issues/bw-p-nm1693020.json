@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Velvet Revolver. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1693020/\n_search: Velvet Revolver | Fantastic Four | Hulk | xXx: State of the Union | Atop the Fourth Wall",
+  "id": "bw-p-nm1693020",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Velvet Revolver",
+  "type": "task"
+}

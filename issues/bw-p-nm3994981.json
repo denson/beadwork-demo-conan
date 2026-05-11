@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Cage. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3994981/\n_search: Patrick Cage | One of Them Days | Mayor of Kingstown | Rap Sh!t | Westworld",
+  "id": "bw-p-nm3994981",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Cage",
+  "type": "task"
+}

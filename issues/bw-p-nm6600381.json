@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicky Romero. composer, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6600381/\n_search: Nicky Romero | Just Say Yes | Nicky Romero: Haunted by Toulouse | Tomorrow World | Nicky Romero: Ade Label",
+  "id": "bw-p-nm6600381",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicky Romero",
+  "type": "task"
+}

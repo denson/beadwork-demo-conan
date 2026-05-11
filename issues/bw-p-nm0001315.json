@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marcia Gay Harden. b. 1959 | actress, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001315/\n_search: Marcia Gay Harden | Mystic River | The Mist | Pollock | Into the Wild",
+  "id": "bw-p-nm0001315",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marcia Gay Harden",
+  "type": "task"
+}

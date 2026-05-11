@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Whistler Allen. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8442506/\n_search: Whistler Allen | To All the Boys: Always and Forever | MN Original | Front Row Boston",
+  "id": "bw-p-nm8442506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Whistler Allen",
+  "type": "task"
+}

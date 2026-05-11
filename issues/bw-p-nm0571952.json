@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate McKinnon. b. 1984 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0571952/\n_search: Kate McKinnon | Ghostbusters | Bombshell | Barbie | Saturday Night Live",
+  "id": "bw-p-nm0571952",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate McKinnon",
+  "type": "task"
+}

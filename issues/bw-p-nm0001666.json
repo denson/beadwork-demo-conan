@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Debbie Reynolds. 1932–2016 | actress, producer, writer.\nDECEASED (1932–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001666/\n_search: Debbie Reynolds | Singin' in the Rain | The Unsinkable Molly Brown | In \u0026 Out | Tammy and the Bachelor",
+  "id": "bw-p-nm0001666",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Debbie Reynolds",
+  "type": "task"
+}

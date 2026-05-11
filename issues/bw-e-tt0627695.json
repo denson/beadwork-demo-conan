@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Clarke Duncan/Carlos Mencia/Yerba Buena. late_night, S12E152, 2005.\nRuntime: 57 min.\nIMDb rating: 3.0.\nIMDb: https://www.imdb.com/title/tt0627695/\n_search: Michael Clarke Duncan/Carlos Mencia/Yerba Buena | 2005 | S12E152",
+  "id": "bw-e-tt0627695",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Clarke Duncan/Carlos Mencia/Yerba Buena",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sammy James Jr.. soundtrack, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2652408/\n_search: Sammy James Jr. | School of Rock | Cyndi Lauper: Still So Unusual | Mary + Jane | Made",
+  "id": "bw-p-nm2652408",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sammy James Jr.",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sid Caesar. 1922–2014 | actor, producer, production_manager.\nDECEASED (1922–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0128377/\n_search: Sid Caesar | Grease | It's a Mad, Mad, Mad, Mad World | Airport 1975 | History of the World: Part I",
+  "id": "bw-p-nm0128377",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sid Caesar",
+  "type": "task"
+}

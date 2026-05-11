@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jules Crommelin. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9295064/\n_search: Jules Crommelin | Bons baisers d'Europe | Quotidien",
+  "id": "bw-p-nm9295064",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jules Crommelin",
+  "type": "task"
+}

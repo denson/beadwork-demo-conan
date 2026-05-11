@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Remnick. b. 1958 | writer, miscellaneous, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0719001/\n_search: David Remnick | We Are Witnesses | 5 to 7 | King of the World | Liturgy of Anti-Tank Obstacles",
+  "id": "bw-p-nm0719001",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Remnick",
+  "type": "task"
+}

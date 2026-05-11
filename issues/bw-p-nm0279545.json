@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Isla Fisher. b. 1976 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0279545/\n_search: Isla Fisher | Wedding Crashers | Confessions of a Shopaholic | Rango | Rise of the Guardians",
+  "id": "bw-p-nm0279545",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Isla Fisher",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emmy Rossum. b. 1986 | actress, producer, composer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0002536/\n_search: Emmy Rossum | The Phantom of the Opera | The Day After Tomorrow | Shameless | Mystic River",
+  "id": "bw-p-nm0002536",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emmy Rossum",
+  "type": "task"
+}

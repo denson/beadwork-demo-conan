@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Levy. b. 1983 | producer, writer, actor.\nConan-show appearances: 1 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm2391794/\n_search: Dan Levy | Schitt's Creek | Good Grief | Happiest Season | Big Mistakes",
+  "id": "bw-p-nm2391794",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Levy",
+  "type": "task"
+}

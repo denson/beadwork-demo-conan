@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Downs. 1921–2020 | actor, miscellaneous, writer.\nDECEASED (1921–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0236180/\n_search: Hugh Downs | Live from Lincoln Center | Car 54, Where Are You? | Over Easy | 20/20",
+  "id": "bw-p-nm0236180",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Downs",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marc Maron/Bert Kreischer/Dean Delray. conan_tbs, S8E101, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8907474/\n_search: Marc Maron/Bert Kreischer/Dean Delray | 2018 | S8E101",
+  "id": "bw-e-tt8907474",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marc Maron/Bert Kreischer/Dean Delray",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ashley French. b. 1985 | actress, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0864308/\n_search: Ashley French | High School Musical 3: Senior Year | Phineas and Ferb | Aliens in the Attic | Scary Movie 5",
+  "id": "bw-p-nm0864308",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ashley French",
+  "type": "task"
+}

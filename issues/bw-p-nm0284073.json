@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Betsy Foldes. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0284073/\n_search: Betsy Foldes | Searching | Janeane from Des Moines | BioShock | BioShock Infinite: Burial at Sea - Episode Two",
+  "id": "bw-p-nm0284073",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Betsy Foldes",
+  "type": "task"
+}

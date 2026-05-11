@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabrielle Carteris. b. 1961 | actress, producer, executive.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0142000/\n_search: Gabrielle Carteris | Beverly Hills, 90210 | Raising Cain | Marvel: Ultimate Alliance | Minority Report",
+  "id": "bw-p-nm0142000",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabrielle Carteris",
+  "type": "task"
+}

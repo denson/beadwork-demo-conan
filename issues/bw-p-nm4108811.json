@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Devin Scillian. actor, writer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4108811/\n_search: Devin Scillian | The Double | Scream 4 | Storyline Online | Mooz-Lum",
+  "id": "bw-p-nm4108811",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Devin Scillian",
+  "type": "task"
+}

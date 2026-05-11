@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fred Schneider. b. 1951 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0773686/\n_search: Fred Schneider | Rising Sun | Mystery Men | Paul | The Little Things",
+  "id": "bw-p-nm0773686",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fred Schneider",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dominic Kline. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4757225/\n_search: Dominic Kline | Total Eclipse | Instant Mom | The Bandit Hound",
+  "id": "bw-p-nm4757225",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dominic Kline",
+  "type": "task"
+}

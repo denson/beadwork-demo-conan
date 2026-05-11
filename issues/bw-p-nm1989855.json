@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Gadd. b. 1967 | miscellaneous, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1989855/\n_search: Will Gadd | The Bourne Legacy | Beneath the Ice | Reel Rock | Paragliding Across America",
+  "id": "bw-p-nm1989855",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Gadd",
+  "type": "task"
+}

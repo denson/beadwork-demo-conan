@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Secondhand Serenade. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2647751/\n_search: Secondhand Serenade | The Meddler | So You Think You Can Dance Canada | Dancing with the Stars | FNMTV Premieres",
+  "id": "bw-p-nm2647751",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Secondhand Serenade",
+  "type": "task"
+}

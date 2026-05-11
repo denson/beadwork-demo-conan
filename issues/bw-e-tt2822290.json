@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Reiser/Louis Gossett Jr./Colin Quinn. late_night, S2E124, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2822290/\n_search: Paul Reiser/Louis Gossett Jr./Colin Quinn | 1995 | S2E124",
+  "id": "bw-e-tt2822290",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Reiser/Louis Gossett Jr./Colin Quinn",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jude Law. b. 1972 | actor, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000179/\n_search: Jude Law | The Talented Mr. Ripley | Closer | The Grand Budapest Hotel | Sky Captain and the World of Tomorrow",
+  "id": "bw-p-nm0000179",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jude Law",
+  "type": "task"
+}

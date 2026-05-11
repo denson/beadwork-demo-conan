@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Auto-Corrective Asphyxiation. conan_tbs, S3E77, 2013.\nIMDb: https://www.imdb.com/title/tt2842810/\n_search: Auto-Corrective Asphyxiation | 2013 | S3E77",
+  "id": "bw-e-tt2842810",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Auto-Corrective Asphyxiation",
+  "type": "task"
+}

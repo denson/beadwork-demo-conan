@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gogol Bordello. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2056576/\n_search: Gogol Bordello | Wristcutters: A Love Story | Everything Is Illuminated | Big Nothing | Hotel Transylvania 3: Summer Vacation",
+  "id": "bw-p-nm2056576",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gogol Bordello",
+  "type": "task"
+}

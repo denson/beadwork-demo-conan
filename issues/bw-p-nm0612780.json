@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Mundy. actor, writer, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0612780/\n_search: Nick Mundy | Our RoboCop Remake | The Last 10 Seconds of Lost | Girls Trip | Our Footloose Remake",
+  "id": "bw-p-nm0612780",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Mundy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonny Gomes. b. 1980 | archive_sound.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4000085/\n_search: Jonny Gomes | Sunday Night Baseball | Prime 9 | Wildchat | MLB Network Presents",
+  "id": "bw-p-nm4000085",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonny Gomes",
+  "type": "task"
+}

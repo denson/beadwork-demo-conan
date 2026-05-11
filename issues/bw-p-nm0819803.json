@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Springsteen. b. 1949 | music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0819803/\n_search: Bruce Springsteen | Blinded by the Light | The Wrestler | Philadelphia | High Fidelity",
+  "id": "bw-p-nm0819803",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Springsteen",
+  "type": "task"
+}

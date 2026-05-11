@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Caroline Rhea/Kris Kristofferson/Jud Hale. late_night, S6E3, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627150/\n_search: Caroline Rhea/Kris Kristofferson/Jud Hale | 1998 | S6E3",
+  "id": "bw-e-tt0627150",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Caroline Rhea/Kris Kristofferson/Jud Hale",
+  "type": "task"
+}

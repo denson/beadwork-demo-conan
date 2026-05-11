@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kunal Nayyar. b. 1981 | actor, producer, executive.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm2471798/\n_search: Kunal Nayyar | The Big Bang Theory | Trolls | Ice Age: Continental Drift | Spaceman",
+  "id": "bw-p-nm2471798",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kunal Nayyar",
+  "type": "task"
+}

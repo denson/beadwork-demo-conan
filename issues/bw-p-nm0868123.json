@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mel Tormé. 1925–1999 | actor, music_department, composer.\nDECEASED (1925–1999). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0868123/\n_search: Mel Tormé | Gangster Squad | Dick Tracy | The Iron Giant | The Girl with the Dragon Tattoo",
+  "id": "bw-p-nm0868123",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mel Tormé",
+  "type": "task"
+}

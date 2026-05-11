@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dana Calderwood. director, producer, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0129574/\n_search: Dana Calderwood | Where in the World Is Carmen Sandiego? | Family Double Dare | History IQ | Caroline's Comedy Hour",
+  "id": "bw-p-nm0129574",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dana Calderwood",
+  "type": "task"
+}

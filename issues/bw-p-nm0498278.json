@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stan Lee. 1922–2018 | producer, writer, actor.\nDECEASED (1922–2018). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0498278/\n_search: Stan Lee | Spider-Man: Homecoming | Doctor Strange | Black Panther | Guardians of the Galaxy: Vol. 2",
+  "id": "bw-p-nm0498278",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stan Lee",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Casey Kasem. 1932–2014 | actor, producer, soundtrack.\nDECEASED (1932–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0440487/\n_search: Casey Kasem | Ghostbusters | The Transformers: The Movie | Looney Tunes: Back in Action | What's New, Scooby-Doo?",
+  "id": "bw-p-nm0440487",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Casey Kasem",
+  "type": "task"
+}

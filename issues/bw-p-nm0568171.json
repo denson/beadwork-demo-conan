@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew McDonough. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0568171/\n_search: Matthew McDonough | The Truman Show | Mudvayne: Nexus.Life.Death. | Mudvayne: L(ive) D(osage) 50 - Live in Peoria | The Truman Show: Tru-Talk",
+  "id": "bw-p-nm0568171",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew McDonough",
+  "type": "task"
+}

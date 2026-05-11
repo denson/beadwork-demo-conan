@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Wolf. b. 1983 | composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2540956/\n_search: Patrick Wolf | God's Own Country | The Edge of Love | Getting Go, the Go Doc Project | Peter and Vandy",
+  "id": "bw-p-nm2540956",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Wolf",
+  "type": "task"
+}

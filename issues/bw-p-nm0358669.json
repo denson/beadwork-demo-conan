@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Darrell Hammond. b. 1955 | actor, miscellaneous, writer.\nConan-show appearances: 24\nIMDb: https://www.imdb.com/name/nm0358669/\n_search: Darrell Hammond | Blues Brothers 2000 | Scary Movie 3 | Epic Movie | Saturday Night Live",
+  "id": "bw-p-nm0358669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Darrell Hammond",
+  "type": "task"
+}

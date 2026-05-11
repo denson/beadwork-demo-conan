@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Bacon Brothers. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2065736/\n_search: The Bacon Brothers | The Woodsman | Red Betsy | Find Your Groove | Music Nuggets",
+  "id": "bw-p-nm2065736",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Bacon Brothers",
+  "type": "task"
+}

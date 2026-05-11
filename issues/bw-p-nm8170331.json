@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Langridge-Brown. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8170331/\n_search: Joe Langridge-Brown | Blink of an Eye | Last Call with Carson Daly | Jimmy Kimmel Live!",
+  "id": "bw-p-nm8170331",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Langridge-Brown",
+  "type": "task"
+}

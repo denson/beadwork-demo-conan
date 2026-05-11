@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Goldfrapp. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1566932/\n_search: Goldfrapp | Vampire Academy | Miami Vice | Ava | Crazy, Stupid, Love.",
+  "id": "bw-p-nm1566932",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Goldfrapp",
+  "type": "task"
+}

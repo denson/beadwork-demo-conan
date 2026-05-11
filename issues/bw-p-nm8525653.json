@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Polsfut. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8525653/\n_search: Kate Polsfut | Wrestle Club | General Hospital | Teensy Tiny DIY | Dandelions \u0026 Roses",
+  "id": "bw-p-nm8525653",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Polsfut",
+  "type": "task"
+}

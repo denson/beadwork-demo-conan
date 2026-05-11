@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce McCulloch. b. 1961 | actor, writer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0567126/\n_search: Bruce McCulloch | The Kids in the Hall | Kids in the Hall: Brain Candy | Dog Park | Young Drunk Punk",
+  "id": "bw-p-nm0567126",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce McCulloch",
+  "type": "task"
+}

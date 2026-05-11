@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roger Clinton/Jonathan Richman. late_night, S2E204, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2915446/\n_search: Roger Clinton/Jonathan Richman | 1995 | S2E204",
+  "id": "bw-e-tt2915446",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roger Clinton/Jonathan Richman",
+  "type": "task"
+}

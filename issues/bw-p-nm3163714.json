@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Built to Spill. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3163714/\n_search: Built to Spill | Under Heaven | Sugar Town | Six Feet Under | Dean Quixote",
+  "id": "bw-p-nm3163714",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Built to Spill",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Strummer. 1952–2002 | actor, composer, music_department.\nDECEASED (1952–2002). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0835329/\n_search: Joe Strummer | Grosse Pointe Blank | Mystery Train | 500 Days of Summer | Iron Man 2",
+  "id": "bw-p-nm0835329",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Strummer",
+  "type": "task"
+}

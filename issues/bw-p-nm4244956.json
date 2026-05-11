@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Best Coast. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4244956/\n_search: Best Coast | The First Time | Walk of Shame | Irreplaceable You | Bright Falls",
+  "id": "bw-p-nm4244956",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Best Coast",
+  "type": "task"
+}

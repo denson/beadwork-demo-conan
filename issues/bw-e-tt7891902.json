@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sharon Stone/Luke Evans/Ismo. conan_tbs, S8E25, 2018.\nRuntime: 42 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt7891902/\n_search: Sharon Stone/Luke Evans/Ismo | 2018 | S8E25",
+  "id": "bw-e-tt7891902",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sharon Stone/Luke Evans/Ismo",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christina Perri. b. 1986 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3998660/\n_search: Christina Perri | The Twilight Saga: Breaking Dawn - Part 1 | The Twilight Saga: Breaking Dawn - Part 2 | Trouble with the Curve | Pitch Perfect 3",
+  "id": "bw-p-nm3998660",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christina Perri",
+  "type": "task"
+}

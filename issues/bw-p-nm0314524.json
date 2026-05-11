@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Germann. b. 1958 | actor, director, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0314524/\n_search: Greg Germann | Ally McBeal | Sweet November | Clear and Present Danger | Child's Play 2",
+  "id": "bw-p-nm0314524",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Germann",
+  "type": "task"
+}

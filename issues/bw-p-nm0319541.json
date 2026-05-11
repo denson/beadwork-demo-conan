@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmie Dale Gilmore. b. 1945 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0319541/\n_search: Jimmie Dale Gilmore | The Big Lebowski | Monster's Ball | A Prophet | Leaves of Grass",
+  "id": "bw-p-nm0319541",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmie Dale Gilmore",
+  "type": "task"
+}

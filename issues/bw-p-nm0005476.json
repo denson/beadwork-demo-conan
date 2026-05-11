@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hilary Swank. b. 1974 | actress, producer, soundtrack.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0005476/\n_search: Hilary Swank | Million Dollar Baby | Boys Don't Cry | P.S. I Love You | The Homesman",
+  "id": "bw-p-nm0005476",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hilary Swank",
+  "type": "task"
+}

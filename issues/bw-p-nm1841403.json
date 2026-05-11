@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nada Surf. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1841403/\n_search: Nada Surf | Disturbia | John Tucker Must Die | My Bloody Valentine | Mr. Woodcock",
+  "id": "bw-p-nm1841403",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nada Surf",
+  "type": "task"
+}

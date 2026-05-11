@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anya Taylor-Joy. b. 1996 | actress, producer, executive.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5896355/\n_search: Anya Taylor-Joy | The Queen's Gambit | The Witch | Morgan | The New Mutants",
+  "id": "bw-p-nm5896355",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anya Taylor-Joy",
+  "type": "task"
+}

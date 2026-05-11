@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Guarini. b. 1978 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1227702/\n_search: Justin Guarini | From Justin to Kelly | American Idol | Romeo and Juliet | Fast Girl",
+  "id": "bw-p-nm1227702",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Guarini",
+  "type": "task"
+}

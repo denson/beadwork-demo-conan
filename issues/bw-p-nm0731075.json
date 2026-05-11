@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emma Roberts. b. 1991 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0731075/\n_search: Emma Roberts | We're the Millers | Aquamarine | Hotel for Dogs | Wild Child",
+  "id": "bw-p-nm0731075",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emma Roberts",
+  "type": "task"
+}

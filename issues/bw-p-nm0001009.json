@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Capshaw. b. 1953 | actress, producer, art_director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001009/\n_search: Kate Capshaw | Indiana Jones and the Temple of Doom | Black Rain | Just Cause | The Love Letter",
+  "id": "bw-p-nm0001009",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Capshaw",
+  "type": "task"
+}

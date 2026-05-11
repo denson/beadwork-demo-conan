@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Harris. 1914–2002 | actor, soundtrack, archive_footage.\nDECEASED (1914–2002). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0364893/\n_search: Jonathan Harris | Lost in Space | A Bug's Life | Toy Story 2 | Space Academy",
+  "id": "bw-p-nm0364893",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Harris",
+  "type": "task"
+}

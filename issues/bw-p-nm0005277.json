@@ -1,0 +1,21 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan O'Brien. b. 1963 | writer, producer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005277/\n_search: Conan O'Brien | The Lego Batman Movie | Now You See Me",
+  "id": "bw-p-nm0005277",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conan_himself",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan O'Brien",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "First Aid Kit. actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2978474/\n_search: First Aid Kit | Wild | Second Act | Bones | Lethal Weapon",
+  "id": "bw-p-nm2978474",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "First Aid Kit",
+  "type": "task"
+}

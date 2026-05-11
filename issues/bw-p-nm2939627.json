@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michele Bachmann. b. 1956 | actress, archive_footage, archive_sound.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2939627/\n_search: Michele Bachmann | Sharknado 3: Oh Hell No! | Les évangéliques à la conquête du monde | Janeane from Des Moines | Caucus",
+  "id": "bw-p-nm2939627",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michele Bachmann",
+  "type": "task"
+}

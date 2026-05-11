@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Ghost of a Saber Tooth Tiger. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4251425/\n_search: The Ghost of a Saber Tooth Tiger | Late Show with David Letterman | Late Night with Jimmy Fallon",
+  "id": "bw-p-nm4251425",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Ghost of a Saber Tooth Tiger",
+  "type": "task"
+}

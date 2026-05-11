@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jorgen Carlsson. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1866101/\n_search: Jorgen Carlsson | Asterix and the Vikings | Gov't Mule: Bring On The Music - Live at The Capitol Theatre | Gov't Mule - Dark Side of the Mule",
+  "id": "bw-p-nm1866101",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jorgen Carlsson",
+  "type": "task"
+}

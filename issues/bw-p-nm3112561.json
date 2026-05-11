@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sydney Hope Banner. b. 1997 | actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3112561/\n_search: Sydney Hope Banner | Flipped | A Turtle's Tale: Sammy's Adventures | The Hustler | Tim and Eric Awesome Show, Great Job!",
+  "id": "bw-p-nm3112561",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sydney Hope Banner",
+  "type": "task"
+}

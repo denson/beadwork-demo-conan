@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Malcolm McDowell. b. 1943 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000532/\n_search: Malcolm McDowell | A Clockwork Orange | Star Trek: Generations | Cat People | Time After Time",
+  "id": "bw-p-nm0000532",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Malcolm McDowell",
+  "type": "task"
+}

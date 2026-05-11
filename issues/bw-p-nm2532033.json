@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kent Irwin. miscellaneous, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2532033/\n_search: Kent Irwin | The #Hashtagged Show | White Dwarf | Top Design | Unhappily Ever After",
+  "id": "bw-p-nm2532033",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kent Irwin",
+  "type": "task"
+}

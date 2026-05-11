@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicole Scherzinger. b. 1978 | music_artist, actress, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0970122/\n_search: Nicole Scherzinger | Moana | Men in Black 3 | Fantastic Four: Rise of the Silver Surfer | Burlesque",
+  "id": "bw-p-nm0970122",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicole Scherzinger",
+  "type": "task"
+}

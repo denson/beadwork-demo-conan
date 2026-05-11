@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Louise Fletcher. 1934–2022 | actress, archive_footage.\nDECEASED (1934–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001221/\n_search: Louise Fletcher | One Flew Over the Cuckoo's Nest | Virtuosity | Flowers in the Attic | Star Trek: Deep Space Nine",
+  "id": "bw-p-nm0001221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Louise Fletcher",
+  "type": "task"
+}

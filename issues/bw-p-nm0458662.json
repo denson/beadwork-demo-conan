@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barbara Anne Klein. stunts, actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0458662/\n_search: Barbara Anne Klein | The Hand That Rocks the Cradle | Angels \u0026 Demons | Death Becomes Her",
+  "id": "bw-p-nm0458662",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barbara Anne Klein",
+  "type": "task"
+}

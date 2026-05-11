@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richie 'La Bamba' Rosenberg. music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0742314/\n_search: Richie 'La Bamba' Rosenberg | Boner Police: The Movie | Late Night with Conan O'Brien: 5 | Conan O'Brien Can't Stop | Southside Johnny \u0026 The Asbury Jukes: Having a Party Live at the Stone Pony",
+  "id": "bw-p-nm0742314",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richie 'La Bamba' Rosenberg",
+  "type": "task"
+}

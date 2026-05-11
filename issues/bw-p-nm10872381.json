@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nate Harold. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10872381/\n_search: Nate Harold | The Starling | Maneater",
+  "id": "bw-p-nm10872381",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nate Harold",
+  "type": "task"
+}

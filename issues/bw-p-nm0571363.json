@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg McKenna. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0571363/\n_search: Greg McKenna | 10 Things I Hate About You | Trojan War | The Stoop | The Baby-Sitters Club",
+  "id": "bw-p-nm0571363",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg McKenna",
+  "type": "task"
+}

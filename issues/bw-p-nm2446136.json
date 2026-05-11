@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wade Bowen. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2446136/\n_search: Wade Bowen | Circle Sessions: At Home | Lone Star Roads | Gilley's Behind the Bull | Willie Nelson Presents: King of the Roadies",
+  "id": "bw-p-nm2446136",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wade Bowen",
+  "type": "task"
+}

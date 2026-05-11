@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Munoz. stunts, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1031132/\n_search: Mark Munoz | Planet of the Apes | National Treasure | Battle Los Angeles | There Will Be Blood",
+  "id": "bw-p-nm1031132",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Munoz",
+  "type": "task"
+}

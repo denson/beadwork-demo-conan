@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brittany Snow. b. 1986 | actress, producer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0811242/\n_search: Brittany Snow | Pitch Perfect | Hairspray | Pitch Perfect 2 | Prom Night",
+  "id": "bw-p-nm0811242",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brittany Snow",
+  "type": "task"
+}

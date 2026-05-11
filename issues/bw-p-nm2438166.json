@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mastodon. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2438166/\n_search: Mastodon | Bill \u0026 Ted Face the Music | Jonah Hex | The Big Short | Monsters University",
+  "id": "bw-p-nm2438166",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mastodon",
+  "type": "task"
+}

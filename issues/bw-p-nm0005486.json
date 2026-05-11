@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marlo Thomas. b. 1937 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005486/\n_search: Marlo Thomas | That Girl | LOL | Friends | Ocean's Eight",
+  "id": "bw-p-nm0005486",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marlo Thomas",
+  "type": "task"
+}

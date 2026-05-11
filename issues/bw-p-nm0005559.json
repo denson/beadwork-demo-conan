@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelli Williams. b. 1970 | actress, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005559/\n_search: Kelli Williams | Lie to Me | The Practice | The Fosters | Ties That Bind",
+  "id": "bw-p-nm0005559",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelli Williams",
+  "type": "task"
+}

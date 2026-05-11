@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Gaffigan/Seann William Scott/Gavin Turek. conan_tbs, S8E112, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt9030966/\n_search: Jim Gaffigan/Seann William Scott/Gavin Turek | 2018 | S8E112",
+  "id": "bw-e-tt9030966",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Gaffigan/Seann William Scott/Gavin Turek",
+  "type": "task"
+}

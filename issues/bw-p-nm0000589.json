@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eve Plumb. b. 1958 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000589/\n_search: Eve Plumb | A Very Brady Renovation | Blue Bloods | Crashing | Blue Ruin",
+  "id": "bw-p-nm0000589",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eve Plumb",
+  "type": "task"
+}

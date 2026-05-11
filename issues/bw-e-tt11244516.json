@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan Without Borders: Ghana. conan_tbs, S9E102, 2019.\nRuntime: 42 min.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt11244516/\n_search: Conan Without Borders: Ghana | 2019 | S9E102",
+  "id": "bw-e-tt11244516",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan Without Borders: Ghana",
+  "type": "task"
+}

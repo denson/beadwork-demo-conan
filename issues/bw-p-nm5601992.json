@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vicki Cobb. writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5601992/\n_search: Vicki Cobb | Good Morning America | Late Night with David Letterman",
+  "id": "bw-p-nm5601992",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vicki Cobb",
+  "type": "task"
+}

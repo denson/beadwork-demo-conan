@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Curtis Salgado. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5981159/\n_search: Curtis Salgado | Animal House of Blues: How a Community Helped Create a Hollywood Blockbuster or Two | Kaeshammer's Kitchen | Animal House of Blues: 33.3 Special Edition | Animal House of Blues 33 1/3",
+  "id": "bw-p-nm5981159",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Curtis Salgado",
+  "type": "task"
+}

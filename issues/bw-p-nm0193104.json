@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Curry. b. 1961 | actor, miscellaneous, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0193104/\n_search: Mark Curry | Armageddon | See Dad Run | Poolboy: Drowning Out the Fury | ABC TGIF",
+  "id": "bw-p-nm0193104",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Curry",
+  "type": "task"
+}

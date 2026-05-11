@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sharon Lawrence. b. 1961 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005130/\n_search: Sharon Lawrence | NYPD Blue | Shameless | The Ranch | Queen Sugar",
+  "id": "bw-p-nm0005130",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sharon Lawrence",
+  "type": "task"
+}

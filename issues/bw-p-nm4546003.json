@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Taylor. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4546003/\n_search: Christopher Taylor | The Kids Are All Right | Blue Valentine | The Dictator | Search Party",
+  "id": "bw-p-nm4546003",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Taylor",
+  "type": "task"
+}

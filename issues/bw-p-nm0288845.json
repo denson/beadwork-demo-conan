@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Curtis Fowlkes. 1950–2023 | music_department, actor, producer.\nDECEASED (1950–2023). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0288845/\n_search: Curtis Fowlkes | Begin Again | Finding Forrester | Down by Law | The Whole Shebang",
+  "id": "bw-p-nm0288845",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Curtis Fowlkes",
+  "type": "task"
+}

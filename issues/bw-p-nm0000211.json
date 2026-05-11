@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mimi Rogers. b. 1956 | actress, producer, soundtrack.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000211/\n_search: Mimi Rogers | Ginger Snaps | Lost in Space | Big Nothing | Austin Powers: International Man of Mystery",
+  "id": "bw-p-nm0000211",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mimi Rogers",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandon McMillan. b. 1977 | producer, miscellaneous, camera_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1882769/\n_search: Brandon McMillan | Lucky Dog | Into the Wild",
+  "id": "bw-p-nm1882769",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandon McMillan",
+  "type": "task"
+}

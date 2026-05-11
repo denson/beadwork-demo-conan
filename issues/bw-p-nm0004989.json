@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alyson Hannigan. b. 1974 | actress, producer, soundtrack.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0004989/\n_search: Alyson Hannigan | Buffy the Vampire Slayer | American Pie | How I Met Your Mother | American Reunion",
+  "id": "bw-p-nm0004989",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alyson Hannigan",
+  "type": "task"
+}

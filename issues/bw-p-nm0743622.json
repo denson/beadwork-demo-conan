@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lonny Ross. actor, production_department, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0743622/\n_search: Lonny Ross | Good Luck Chuck | The Rocker | 30 Rock | Labor Pains",
+  "id": "bw-p-nm0743622",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lonny Ross",
+  "type": "task"
+}

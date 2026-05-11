@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quique Rangel. actor, composer, art_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1245613/\n_search: Quique Rangel | The Book of Life | Un Viaje | Under Suspicion | El Objeto Antes Llamado Disco, La Pelicula",
+  "id": "bw-p-nm1245613",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quique Rangel",
+  "type": "task"
+}

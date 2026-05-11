@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Funches. conan_tbs, S9E120, 2019.\nRuntime: 21 min.\nIMDb rating: 6.7.\nIMDb: https://www.imdb.com/title/tt11552854/\n_search: Ron Funches | 2019 | S9E120",
+  "id": "bw-e-tt11552854",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Funches",
+  "type": "task"
+}

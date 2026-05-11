@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Lennon. b. 1975 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005141/\n_search: Sean Lennon | Monster-in-Law | Going the Distance | One to One: John \u0026 Yoko | Beatles '64",
+  "id": "bw-p-nm0005141",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Lennon",
+  "type": "task"
+}

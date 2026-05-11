@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bear Hands. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7015155/\n_search: Bear Hands | Jack, Jules, Esther \u0026 Me | The Afterparty | Madden NFL 17",
+  "id": "bw-p-nm7015155",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bear Hands",
+  "type": "task"
+}

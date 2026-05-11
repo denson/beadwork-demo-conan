@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "D.L. Hughley. b. 1963 | producer, actor, writer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0401018/\n_search: D.L. Hughley | Inspector Gadget | The Hughleys | Scary Movie 3 | The Brothers",
+  "id": "bw-p-nm0401018",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "D.L. Hughley",
+  "type": "task"
+}

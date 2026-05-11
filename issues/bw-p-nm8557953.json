@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julian Newman. archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm8557953/\n_search: Julian Newman | It's Major | All About Jaden | No Days Off",
+  "id": "bw-p-nm8557953",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julian Newman",
+  "type": "task"
+}

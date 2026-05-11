@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dragonpuncher 3: The Punchening. conan_tbs, S1E112, 2011.\nRuntime: 60 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt1974542/\n_search: Dragonpuncher 3: The Punchening | 2011 | S1E112",
+  "id": "bw-e-tt1974542",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dragonpuncher 3: The Punchening",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dean Norris. b. 1963 | actor, producer, soundtrack.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0606487/\n_search: Dean Norris | Breaking Bad | Terminator 2: Judgment Day | Total Recall | Remember",
+  "id": "bw-p-nm0606487",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dean Norris",
+  "type": "task"
+}

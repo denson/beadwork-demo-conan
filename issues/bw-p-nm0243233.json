@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Duplass. b. 1976 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0243233/\n_search: Mark Duplass | Creep | Safety Not Guaranteed | The One I Love | Your Sister's Sister",
+  "id": "bw-p-nm0243233",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Duplass",
+  "type": "task"
+}

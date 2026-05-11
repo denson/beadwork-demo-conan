@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel McHale/Giancarlo Esposito/White Denim. conan_tbs, S8E100, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8861332/\n_search: Joel McHale/Giancarlo Esposito/White Denim | 2018 | S8E100",
+  "id": "bw-e-tt8861332",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel McHale/Giancarlo Esposito/White Denim",
+  "type": "task"
+}

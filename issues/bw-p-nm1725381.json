@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alana Davis. b. 1974 | soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1725381/\n_search: Alana Davis | The Mod Squad | The Bumblebee Flies Anyway | Reach Me | Rude Awakening",
+  "id": "bw-p-nm1725381",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alana Davis",
+  "type": "task"
+}

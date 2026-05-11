@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark 'Love Man' Pender. music_department, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0671667/\n_search: Mark 'Love Man' Pender | King of New York | Always Looking: Titus Brooks Heagins | Howie Mandel's Sunny Skies | Hello There",
+  "id": "bw-p-nm0671667",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark 'Love Man' Pender",
+  "type": "task"
+}

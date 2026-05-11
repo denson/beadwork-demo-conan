@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Feherty. b. 1958 | writer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2002034/\n_search: David Feherty | CSI: Crime Scene Investigation | Feherty | Walking with Herb | A Question of Sport",
+  "id": "bw-p-nm2002034",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Feherty",
+  "type": "task"
+}

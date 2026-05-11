@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ellie Barancik. writer, miscellaneous, script_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1863400/\n_search: Ellie Barancik | The Bonnie Hunt Show | Fashionably Late with Stacy London | Damage Control",
+  "id": "bw-p-nm1863400",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ellie Barancik",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Day the Earth Stood Still Just Long Enough to Take One Good Selfie. conan_tbs, S3E109, 2013.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt3059122/\n_search: The Day the Earth Stood Still Just Long Enough to Take One Good Selfie | 2013 | S3E109",
+  "id": "bw-e-tt3059122",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Day the Earth Stood Still Just Long Enough to Take One Good Selfie",
+  "type": "task"
+}

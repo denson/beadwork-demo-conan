@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Widerstrom. b. 1982 | producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3002731/\n_search: Jennifer Widerstrom | Pirouette | American Gladiators | Why Am I So Fat? | American Gladiators Ultimate Workout",
+  "id": "bw-p-nm3002731",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Widerstrom",
+  "type": "task"
+}

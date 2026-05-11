@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quoth the Hipster, 'Whatevermore.'. conan_tbs, S1E107, 2011.\nRuntime: 60 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt1965492/\n_search: Quoth the Hipster, 'Whatevermore.' | 2011 | S1E107",
+  "id": "bw-e-tt1965492",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quoth the Hipster, 'Whatevermore.'",
+  "type": "task"
+}

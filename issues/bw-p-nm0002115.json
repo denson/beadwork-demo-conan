@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wayne Gretzky. b. 1961 | actor, producer, stunts.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0002115/\n_search: Wayne Gretzky | D2: The Mighty Ducks | Robotropolis | The Simpsons | Shoresy",
+  "id": "bw-p-nm0002115",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wayne Gretzky",
+  "type": "task"
+}

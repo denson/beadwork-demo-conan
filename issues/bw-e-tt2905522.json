@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry King/Yasmine Bleeth/Wilco. late_night, S2E175, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2905522/\n_search: Larry King/Yasmine Bleeth/Wilco | 1995 | S2E175",
+  "id": "bw-e-tt2905522",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry King/Yasmine Bleeth/Wilco",
+  "type": "task"
+}

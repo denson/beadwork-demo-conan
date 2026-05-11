@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael de Plater. producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1823548/\n_search: Michael de Plater | The Creed | KKND: Krush, Kill 'N Destroy | Middle-Earth: Shadow of War | Krush, Kill 'N Destroy Xtreme",
+  "id": "bw-p-nm1823548",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael de Plater",
+  "type": "task"
+}

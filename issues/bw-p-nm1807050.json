@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rancid. b. 1991 | actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1807050/\n_search: Rancid | Idle Hands | The Wedding Ringer | Ken Park | Fun with Dick and Jane",
+  "id": "bw-p-nm1807050",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rancid",
+  "type": "task"
+}

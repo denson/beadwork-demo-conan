@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Wilson. actor, miscellaneous, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3340053/\n_search: Jonathan Wilson | Watch Dogs: Legion | Asylum: Twisted Horror and Fantasy Tales | Dark, Deadly \u0026 Dreadful | The Cleansing Hour",
+  "id": "bw-p-nm3340053",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Wilson",
+  "type": "task"
+}

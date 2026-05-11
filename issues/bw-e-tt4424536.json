@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rebecca Romijn/Robert Patrick/Mo Mandel. conan_tbs, S5E19, 2014.\nIMDb: https://www.imdb.com/title/tt4424536/\n_search: Rebecca Romijn/Robert Patrick/Mo Mandel | 2014 | S5E19",
+  "id": "bw-e-tt4424536",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rebecca Romijn/Robert Patrick/Mo Mandel",
+  "type": "task"
+}

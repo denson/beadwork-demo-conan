@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Everything But The Girl. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2073178/\n_search: Everything But The Girl | The Saint | The Thirteenth Floor | White Bird in a Blizzard | Hitch",
+  "id": "bw-p-nm2073178",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Everything But The Girl",
+  "type": "task"
+}

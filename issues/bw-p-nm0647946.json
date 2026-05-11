@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Olson. b. 1989 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0647946/\n_search: Kevin Olson | Stuart Little 2 | Shortcut to Happiness | Fred: The Movie | Double Whammy",
+  "id": "bw-p-nm0647946",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Olson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elizabeth Brackenbury. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1759938/\n_search: Elizabeth Brackenbury | Scrambled Eggs",
+  "id": "bw-p-nm1759938",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elizabeth Brackenbury",
+  "type": "task"
+}

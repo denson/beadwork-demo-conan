@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ani DiFranco. b. 1970 | composer, actress, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0226459/\n_search: Ani DiFranco | My Best Friend's Wedding | Remember Me | Out of Time | Lady Bird",
+  "id": "bw-p-nm0226459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ani DiFranco",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Ash. b. 1983 | actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2274847/\n_search: Lauren Ash | Lars and the Real Girl | Superstore | Paul Blart: Mall Cop 2 | The Disaster Artist",
+  "id": "bw-p-nm2274847",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Ash",
+  "type": "task"
+}

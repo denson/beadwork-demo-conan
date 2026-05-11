@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shinedown. b. 2001 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2235166/\n_search: Shinedown | The Final Destination | Grind | 9-1-1 | 9-1-1: Lone Star",
+  "id": "bw-p-nm2235166",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shinedown",
+  "type": "task"
+}

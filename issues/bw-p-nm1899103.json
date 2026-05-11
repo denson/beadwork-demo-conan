@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Adamovich. actor, stunts.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1899103/\n_search: David Adamovich | The Bag Man | All That Glitters | The Cruel Tale of the Medicine Man | Maximum Risk",
+  "id": "bw-p-nm1899103",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Adamovich",
+  "type": "task"
+}

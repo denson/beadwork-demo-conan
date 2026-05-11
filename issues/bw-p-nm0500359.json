@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laura Leighton. b. 1968 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0500359/\n_search: Laura Leighton | Melrose Place | Law \u0026 Order: Special Victims Unit | Pretty Little Liars | The Burrowers",
+  "id": "bw-p-nm0500359",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laura Leighton",
+  "type": "task"
+}

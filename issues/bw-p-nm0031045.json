@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthrax. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0031045/\n_search: Anthrax | Last Action Hero | Ghosts of Mars | It | Universal Soldier: The Return",
+  "id": "bw-p-nm0031045",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthrax",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rhona Mitra. b. 1976 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0593961/\n_search: Rhona Mitra | Underworld: Rise of the Lycans | The Life of David Gale | Doomsday | Boston Legal",
+  "id": "bw-p-nm0593961",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rhona Mitra",
+  "type": "task"
+}

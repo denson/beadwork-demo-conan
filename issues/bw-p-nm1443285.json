@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Carrabba. b. 1975 | composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1443285/\n_search: Christopher Carrabba | Spider-Man 2 | Sydney White | Made of Honor | Cursed",
+  "id": "bw-p-nm1443285",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Carrabba",
+  "type": "task"
+}

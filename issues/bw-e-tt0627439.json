@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Carrey/Mama Gena/Eliza Dushku. late_night, S10E124, 2003.\nRuntime: 57 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt0627439/\n_search: Jim Carrey/Mama Gena/Eliza Dushku | 2003 | S10E124",
+  "id": "bw-e-tt0627439",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Carrey/Mama Gena/Eliza Dushku",
+  "type": "task"
+}

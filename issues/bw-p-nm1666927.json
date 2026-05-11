@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jud Hale. (no IMDb bio data).\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm1666927/\n_search: Jud Hale",
+  "id": "bw-p-nm1666927",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jud Hale",
+  "type": "task"
+}

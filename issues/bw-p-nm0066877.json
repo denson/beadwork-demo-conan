@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joy Behar. b. 1942 | actress, writer, producer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0066877/\n_search: Joy Behar | Ice Age: Continental Drift | Hall Pass | Manhattan Murder Mystery | Dr. Katz, Professional Therapist",
+  "id": "bw-p-nm0066877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joy Behar",
+  "type": "task"
+}

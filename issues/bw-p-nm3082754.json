@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Big Audio Dynamite. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3082754/\n_search: Big Audio Dynamite | Ferris Bueller's Day Off | BASEketball | So I Married an Axe Murderer | Big Daddy",
+  "id": "bw-p-nm3082754",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Big Audio Dynamite",
+  "type": "task"
+}

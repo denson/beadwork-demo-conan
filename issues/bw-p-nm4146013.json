@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gunnar Sizemore. b. 2005 | actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4146013/\n_search: Gunnar Sizemore | Everybody Still Hates Chris | Kung Fu Panda: The Paws of Destiny | Star Wars: Young Jedi Adventures Shorts | Craig of the Creek",
+  "id": "bw-p-nm4146013",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gunnar Sizemore",
+  "type": "task"
+}

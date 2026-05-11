@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rell Battle. actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3790579/\n_search: Rell Battle | Jeff Ross Presents Roast Battle | Superior Donuts | Off Fairfax | Key and Peele",
+  "id": "bw-p-nm3790579",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rell Battle",
+  "type": "task"
+}

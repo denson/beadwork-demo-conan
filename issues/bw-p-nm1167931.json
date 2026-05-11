@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Circus-Szalewski. actor, miscellaneous, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1167931/\n_search: Circus-Szalewski | Babylon | Jimmy Kimmel Live! | The Infinite Husk",
+  "id": "bw-p-nm1167931",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Circus-Szalewski",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rory Scovel/Valerie Tosi. conan_tbs, S9E117, 2019.\nRuntime: 21 min.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt11439672/\n_search: Rory Scovel/Valerie Tosi | 2019 | S9E117",
+  "id": "bw-e-tt11439672",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rory Scovel/Valerie Tosi",
+  "type": "task"
+}

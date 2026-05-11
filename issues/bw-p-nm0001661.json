@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Reiner. 1947–2025 | actor, writer, producer.\nDECEASED (1947–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001661/\n_search: Rob Reiner | All in the Family | This Is Spinal Tap | The Wolf of Wall Street | The Story of Us",
+  "id": "bw-p-nm0001661",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Reiner",
+  "type": "task"
+}

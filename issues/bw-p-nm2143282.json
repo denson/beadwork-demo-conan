@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lupita Nyong'o. b. 1983 | actress, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2143282/\n_search: Lupita Nyong'o | 12 Years a Slave | Black Panther | Us | Star Wars: Episode VII - The Force Awakens",
+  "id": "bw-p-nm2143282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lupita Nyong'o",
+  "type": "task"
+}

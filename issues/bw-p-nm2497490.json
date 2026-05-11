@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Brian Setzer Orchestra. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2497490/\n_search: The Brian Setzer Orchestra | Deep Rising | Mute | The Mask | Elf",
+  "id": "bw-p-nm2497490",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Brian Setzer Orchestra",
+  "type": "task"
+}

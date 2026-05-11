@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Ho. b. 1973 | stunts, actor, miscellaneous.\nConan-show appearances: 13\nIMDb: https://www.imdb.com/name/nm0387378/\n_search: Steven Ho | Mortal Kombat | Pirates of the Caribbean: At World's End | Soundman | Godzilla",
+  "id": "bw-p-nm0387378",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Ho",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Forbes. b. 1947 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0285411/\n_search: Steve Forbes | Saturday Night Live | Who Is Vermin Supreme? An Outsider Odyssey | The One Percent | An Inconvenient Tax",
+  "id": "bw-p-nm0285411",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Forbes",
+  "type": "task"
+}

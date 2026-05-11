@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ding Dong! The Witch Is Selling Amway. conan_tbs, S2E71, 2012.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt2342581/\n_search: Ding Dong! The Witch Is Selling Amway | 2012 | S2E71",
+  "id": "bw-e-tt2342581",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ding Dong! The Witch Is Selling Amway",
+  "type": "task"
+}

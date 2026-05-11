@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Pantoliano. b. 1951 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001592/\n_search: Joe Pantoliano | Memento | Bound | The Matrix | The Fugitive",
+  "id": "bw-p-nm0001592",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Pantoliano",
+  "type": "task"
+}

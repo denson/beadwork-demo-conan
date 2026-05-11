@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan's Got a Cold. conan_tbs, S3E18, 2012.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt2567512/\n_search: Conan's Got a Cold | 2012 | S3E18",
+  "id": "bw-e-tt2567512",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan's Got a Cold",
+  "type": "task"
+}

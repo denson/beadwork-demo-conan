@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nipsey Russell. 1918–2005 | actor, writer, soundtrack.\nDECEASED (1918–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0751369/\n_search: Nipsey Russell | The Wiz | Wildcats | Barefoot in the Park | Posse",
+  "id": "bw-p-nm0751369",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nipsey Russell",
+  "type": "task"
+}

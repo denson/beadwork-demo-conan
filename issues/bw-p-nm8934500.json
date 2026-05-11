@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cook Craig. music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8934500/\n_search: Cook Craig | Chunky Shrapnel | Untitled Lizards in the South film | Bootleg Holiday from Hell",
+  "id": "bw-p-nm8934500",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cook Craig",
+  "type": "task"
+}

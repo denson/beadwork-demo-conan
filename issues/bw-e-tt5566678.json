@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hardwick/Jurnee Smollett-Bell/Emily Galati. conan_tbs, S6E57, 2016.\nRuntime: 41 min.\nIMDb: https://www.imdb.com/title/tt5566678/\n_search: Chris Hardwick/Jurnee Smollett-Bell/Emily Galati | 2016 | S6E57",
+  "id": "bw-e-tt5566678",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hardwick/Jurnee Smollett-Bell/Emily Galati",
+  "type": "task"
+}

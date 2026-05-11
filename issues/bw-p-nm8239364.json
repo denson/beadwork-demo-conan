@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Suchmann. producer, director, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8239364/\n_search: Jesse Suchmann | Spring Break Zombie Massacre | Willie, Jamaley \u0026 The Cacacoon | Sam \u0026 Mattie Make a Zombie Movie",
+  "id": "bw-p-nm8239364",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Suchmann",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Warburton. b. 1964 | actor, producer, production_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0911320/\n_search: Patrick Warburton | Bee Movie | The Emperor's New Groove | Get Smart | The Venture Bros.",
+  "id": "bw-p-nm0911320",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Warburton",
+  "type": "task"
+}

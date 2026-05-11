@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Devil in the White Suburb. conan_tbs, S2E101, 2012.\nIMDb rating: 5.9.\nIMDb: https://www.imdb.com/title/tt2205958/\n_search: The Devil in the White Suburb | 2012 | S2E101",
+  "id": "bw-e-tt2205958",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Devil in the White Suburb",
+  "type": "task"
+}

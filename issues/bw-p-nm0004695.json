@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessica Alba. b. 1981 | actress, producer, cinematographer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0004695/\n_search: Jessica Alba | Fantastic Four | Sin City | Fantastic Four: Rise of the Silver Surfer | Machete",
+  "id": "bw-p-nm0004695",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessica Alba",
+  "type": "task"
+}

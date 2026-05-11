@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Bisping. b. 1979 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2261451/\n_search: Michael Bisping | xXx: Return of Xander Cage | Den of Thieves | The Naked Gun | Den of Thieves: Pantera",
+  "id": "bw-p-nm2261451",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Bisping",
+  "type": "task"
+}

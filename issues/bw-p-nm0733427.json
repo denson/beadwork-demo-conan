@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harry Shearer. b. 1943 | actor, writer, miscellaneous.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0733427/\n_search: Harry Shearer | The Simpsons | This Is Spinal Tap | A Mighty Wind | The Truman Show",
+  "id": "bw-p-nm0733427",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harry Shearer",
+  "type": "task"
+}

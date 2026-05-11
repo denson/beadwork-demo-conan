@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Curtis '50 Cent' Jackson/Rebecca Romijn/Dashboard Confessional. conan_tbs, S8E22, 2018.\nRuntime: 42 min.\nIMDb rating: 5.7.\nIMDb: https://www.imdb.com/title/tt7857340/\n_search: Curtis '50 Cent' Jackson/Rebecca Romijn/Dashboard Confessional | 2018 | S8E22",
+  "id": "bw-e-tt7857340",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Curtis '50 Cent' Jackson/Rebecca Romijn/Dashboard Confessional",
+  "type": "task"
+}

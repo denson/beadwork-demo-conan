@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Mozersky. music_department, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4052296/\n_search: Jason Mozersky | Bang Bang | Ant-Man | Doctor Strange | Iron Man 3",
+  "id": "bw-p-nm4052296",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Mozersky",
+  "type": "task"
+}

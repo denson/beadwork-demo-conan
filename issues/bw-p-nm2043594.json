@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert James Ashe. editor, editorial_department, art_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2043594/\n_search: Robert James Ashe | Fantastic Ideas: Where do we find them? | Hulk | Almost Famous",
+  "id": "bw-p-nm2043594",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert James Ashe",
+  "type": "task"
+}

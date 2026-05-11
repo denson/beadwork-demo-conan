@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sara Quin. b. 1980 | actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1813481/\n_search: Sara Quin | High School | The New Mutants | To All the Boys I've Loved Before | Happiest Season",
+  "id": "bw-p-nm1813481",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sara Quin",
+  "type": "task"
+}

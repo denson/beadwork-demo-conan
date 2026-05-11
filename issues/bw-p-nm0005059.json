@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Magic Johnson. b. 1959 | actor, producer, executive.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0005059/\n_search: Magic Johnson | Obsessed | Brown Sugar | Christmas at Pee-wee's Playhouse | Hair Show",
+  "id": "bw-p-nm0005059",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Magic Johnson",
+  "type": "task"
+}

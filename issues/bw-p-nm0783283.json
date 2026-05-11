@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Shears. b. 1978 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0783283/\n_search: Jake Shears | Layer Cake | Seeking a Friend for the End of the World | How to Lose Friends \u0026 Alienate People | It's a Boy Girl Thing",
+  "id": "bw-p-nm0783283",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Shears",
+  "type": "task"
+}

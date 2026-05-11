@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Kroll and John Mulaney/Olan Rogers/Debra DiGiovanni. conan_tbs, S8E38, 2018.\nRuntime: 42 min.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt8054730/\n_search: Nick Kroll and John Mulaney/Olan Rogers/Debra DiGiovanni | 2018 | S8E38",
+  "id": "bw-e-tt8054730",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Kroll and John Mulaney/Olan Rogers/Debra DiGiovanni",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Spader/Amy Poehler/Kenny Hotz and Spencer Rice. late_night, S12E19, 2004.\nRuntime: 57 min.\nIMDb rating: 5.6.\nIMDb: https://www.imdb.com/title/tt0627580/\n_search: James Spader/Amy Poehler/Kenny Hotz and Spencer Rice | 2004 | S12E19",
+  "id": "bw-e-tt0627580",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Spader/Amy Poehler/Kenny Hotz and Spencer Rice",
+  "type": "task"
+}

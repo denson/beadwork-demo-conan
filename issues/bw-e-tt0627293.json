@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlize Theron/David Bowie. late_night, S7E37, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627293/\n_search: Charlize Theron/David Bowie | 1999 | S7E37",
+  "id": "bw-e-tt0627293",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlize Theron/David Bowie",
+  "type": "task"
+}

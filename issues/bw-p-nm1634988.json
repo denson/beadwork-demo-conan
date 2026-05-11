@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mitchell Green. actor, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1634988/\n_search: Mitchell Green | The Dictator | Sleeping with Other People | Prime | American Gangster",
+  "id": "bw-p-nm1634988",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mitchell Green",
+  "type": "task"
+}

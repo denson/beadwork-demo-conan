@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank Smiley. producer, writer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0806955/\n_search: Frank Smiley | Alan King: Inside the Comedy Mind",
+  "id": "bw-p-nm0806955",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank Smiley",
+  "type": "task"
+}

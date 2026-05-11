@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gwen Stefani. b. 1969 | music_artist, writer, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005461/\n_search: Gwen Stefani | Trolls | The Aviator | Zoolander | Teenage Mutant Ninja Turtles",
+  "id": "bw-p-nm0005461",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gwen Stefani",
+  "type": "task"
+}

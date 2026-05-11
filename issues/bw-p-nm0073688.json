@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alec Berg. b. 1969 | producer, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0073688/\n_search: Alec Berg | Barry | Silicon Valley | The Cat in the Hat | Curb Your Enthusiasm",
+  "id": "bw-p-nm0073688",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alec Berg",
+  "type": "task"
+}

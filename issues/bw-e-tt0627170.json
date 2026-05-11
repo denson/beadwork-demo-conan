@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Dean Anderson/Tom Everett Scott/Missy Giove. late_night, S6E30, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627170/\n_search: Richard Dean Anderson/Tom Everett Scott/Missy Giove | 1998 | S6E30",
+  "id": "bw-e-tt0627170",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Dean Anderson/Tom Everett Scott/Missy Giove",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sal Vulcano. b. 1976 | producer, actor, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1742600/\n_search: Sal Vulcano | Impractical Jokers: The Movie | Impractical Jokers | 12 Monkeys | The Comedy Roast of Jesus Christ",
+  "id": "bw-p-nm1742600",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sal Vulcano",
+  "type": "task"
+}

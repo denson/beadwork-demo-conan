@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Heather Graham. b. 1970 | actress, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0001287/\n_search: Heather Graham | Austin Powers: The Spy Who Shagged Me | Boogie Nights | Bowfinger | Lost in Space",
+  "id": "bw-p-nm0001287",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Heather Graham",
+  "type": "task"
+}

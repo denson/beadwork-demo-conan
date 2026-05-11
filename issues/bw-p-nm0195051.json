@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alfonse D'amato. b. 1937 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0195051/\n_search: Alfonse D'amato | The Devil's Advocate | Spin City | All In: The Poker Movie | Die Affäre Meili - Ein Whistleblower zwischen Moral und Milliarden",
+  "id": "bw-p-nm0195051",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alfonse D'amato",
+  "type": "task"
+}

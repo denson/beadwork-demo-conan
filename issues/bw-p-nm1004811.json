@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lennon Parham. b. 1975 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1004811/\n_search: Lennon Parham | Playing House | Horrible Bosses 2 | Best Friends Forever | Somebody Somewhere",
+  "id": "bw-p-nm1004811",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lennon Parham",
+  "type": "task"
+}

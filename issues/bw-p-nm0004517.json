@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Alexander. b. 1959 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004517/\n_search: Jason Alexander | Seinfeld | The Hunchback of Notre Dame | Pretty Woman | Coneheads",
+  "id": "bw-p-nm0004517",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Alexander",
+  "type": "task"
+}

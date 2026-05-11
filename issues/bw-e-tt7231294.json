@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Jason Leigh/Andrea Savage/Benjamin Booker. conan_tbs, S7E113, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt7231294/\n_search: Jennifer Jason Leigh/Andrea Savage/Benjamin Booker | 2017 | S7E113",
+  "id": "bw-e-tt7231294",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Jason Leigh/Andrea Savage/Benjamin Booker",
+  "type": "task"
+}

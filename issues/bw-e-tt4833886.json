@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel McHale/Jake Tapper/Courtney Barnett. conan_tbs, S5E92, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt4833886/\n_search: Joel McHale/Jake Tapper/Courtney Barnett | 2015 | S5E92",
+  "id": "bw-e-tt4833886",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel McHale/Jake Tapper/Courtney Barnett",
+  "type": "task"
+}

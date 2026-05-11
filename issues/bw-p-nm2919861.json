@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carla Azar. b. 1965 | music_department, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2919861/\n_search: Carla Azar | Frank | Sucker Punch | Sabotage | The Air I Breathe",
+  "id": "bw-p-nm2919861",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carla Azar",
+  "type": "task"
+}

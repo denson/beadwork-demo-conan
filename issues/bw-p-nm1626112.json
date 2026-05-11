@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kira Legg. b. 1994 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1626112/\n_search: Kira Legg | The Amateur | CSI: NY | Living with Uncle Ray | If I Had Known I Was a Genius",
+  "id": "bw-p-nm1626112",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kira Legg",
+  "type": "task"
+}

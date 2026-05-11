@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Duchovny/Kwame Jackson/Jim Gaffigan. late_night, S11E101, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627531/\n_search: David Duchovny/Kwame Jackson/Jim Gaffigan | 2004 | S11E101",
+  "id": "bw-e-tt0627531",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Duchovny/Kwame Jackson/Jim Gaffigan",
+  "type": "task"
+}

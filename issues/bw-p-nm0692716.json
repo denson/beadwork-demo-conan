@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gerald Posner. b. 1954 | miscellaneous, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0692716/\n_search: Gerald Posner | Mengele: The Final Account | The Barrel of a Gun | Nova | Dopesick",
+  "id": "bw-p-nm0692716",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gerald Posner",
+  "type": "task"
+}

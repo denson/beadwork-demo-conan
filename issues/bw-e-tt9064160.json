@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pete Holmes/Kate Micucci/Ted Alexandro. conan_tbs, S8E114, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt9064160/\n_search: Pete Holmes/Kate Micucci/Ted Alexandro | 2018 | S8E114",
+  "id": "bw-e-tt9064160",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pete Holmes/Kate Micucci/Ted Alexandro",
+  "type": "task"
+}

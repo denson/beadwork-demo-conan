@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Of Mice \u0026 Men \u0026 Their Mutant Offspring, Mice-Men. conan_tbs, S3E152, 2013.\nIMDb: https://www.imdb.com/title/tt3281396/\n_search: Of Mice \u0026 Men \u0026 Their Mutant Offspring, Mice-Men | 2013 | S3E152",
+  "id": "bw-e-tt3281396",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Of Mice \u0026 Men \u0026 Their Mutant Offspring, Mice-Men",
+  "type": "task"
+}

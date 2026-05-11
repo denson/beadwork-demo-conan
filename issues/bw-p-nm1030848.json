@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paz Lenchantin. b. 1973 | music_department, actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1030848/\n_search: Paz Lenchantin | Everything Must Go | Saturday Night Live | Play of Consciousness",
+  "id": "bw-p-nm1030848",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paz Lenchantin",
+  "type": "task"
+}

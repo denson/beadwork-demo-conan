@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Intergalactic Nemesis. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4908989/\n_search: The Intergalactic Nemesis",
+  "id": "bw-p-nm4908989",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Intergalactic Nemesis",
+  "type": "task"
+}

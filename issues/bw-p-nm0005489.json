@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Courtney Thorne-Smith. b. 1967 | actress, producer, miscellaneous.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0005489/\n_search: Courtney Thorne-Smith | Ally McBeal | According to Jim | Summer School | Melrose Place",
+  "id": "bw-p-nm0005489",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Courtney Thorne-Smith",
+  "type": "task"
+}

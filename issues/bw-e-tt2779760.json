@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Klein/Nancy Kerrigan/Bloodline. late_night, S2E26, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2779760/\n_search: Robert Klein/Nancy Kerrigan/Bloodline | 1994 | S2E26",
+  "id": "bw-e-tt2779760",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Klein/Nancy Kerrigan/Bloodline",
+  "type": "task"
+}

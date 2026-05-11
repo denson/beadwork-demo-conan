@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pat Morita. 1932–2005 | actor, writer, producer.\nDECEASED (1932–2005). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001552/\n_search: Pat Morita | The Karate Kid | The Karate Kid Part III | The Next Karate Kid | The Karate Kid Part II",
+  "id": "bw-p-nm0001552",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pat Morita",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Fenton. actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4407500/\n_search: Eric Fenton | Murder Book | D-Day",
+  "id": "bw-p-nm4407500",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Fenton",
+  "type": "task"
+}

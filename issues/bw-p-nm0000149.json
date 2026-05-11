@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jodie Foster. b. 1962 | actress, producer, director.\nConan-show appearances: 2 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0000149/\n_search: Jodie Foster | The Silence of the Lambs | Taxi Driver | The Accused | The Brave One",
+  "id": "bw-p-nm0000149",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jodie Foster",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karate Kid 9: Return to Nun-Chuck Island. conan_tbs, S1E156, 2011.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt2090777/\n_search: Karate Kid 9: Return to Nun-Chuck Island | 2011 | S1E156",
+  "id": "bw-e-tt2090777",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karate Kid 9: Return to Nun-Chuck Island",
+  "type": "task"
+}

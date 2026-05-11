@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gov't Mule. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2506265/\n_search: Gov't Mule | 3000 Miles to Graceland | Beer League | Wetlands Preserved: The Story of an Activist Nightclub | Boogie Man: The Lee Atwater Story",
+  "id": "bw-p-nm2506265",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gov't Mule",
+  "type": "task"
+}

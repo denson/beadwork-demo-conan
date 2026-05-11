@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nish Kumar. b. 1985 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6192445/\n_search: Nish Kumar | The Kumars | Sky Comedy Christmas Shorts | And Mrs | Live at Just for Laughs",
+  "id": "bw-p-nm6192445",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nish Kumar",
+  "type": "task"
+}

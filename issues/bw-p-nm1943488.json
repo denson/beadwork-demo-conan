@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "M. Ward. b. 1973 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1943488/\n_search: M. Ward | Winnie the Pooh | Carriers | Dead Man's Shoes | Savages",
+  "id": "bw-p-nm1943488",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "M. Ward",
+  "type": "task"
+}

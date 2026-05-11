@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Exotic Marigold Hotel 2: Dench Does Dallas. conan_tbs, S3E94, 2013.\nIMDb: https://www.imdb.com/title/tt2956418/\n_search: The Exotic Marigold Hotel 2: Dench Does Dallas | 2013 | S3E94",
+  "id": "bw-e-tt2956418",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Exotic Marigold Hotel 2: Dench Does Dallas",
+  "type": "task"
+}

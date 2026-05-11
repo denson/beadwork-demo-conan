@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pia Zadora. b. 1954 | actress, miscellaneous, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001871/\n_search: Pia Zadora | The Lonely Lady | Butterfly | Voyage of the Rock Aliens | Hairspray",
+  "id": "bw-p-nm0001871",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pia Zadora",
+  "type": "task"
+}

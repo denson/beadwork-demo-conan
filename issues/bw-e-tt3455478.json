@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlton Heston/Chuck Sklar/Mark Wright. late_night, S1E60, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3455478/\n_search: Charlton Heston/Chuck Sklar/Mark Wright | 1993 | S1E60",
+  "id": "bw-e-tt3455478",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlton Heston/Chuck Sklar/Mark Wright",
+  "type": "task"
+}

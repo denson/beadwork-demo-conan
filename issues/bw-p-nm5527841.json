@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel Kim Booster. b. 1988 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm5527841/\n_search: Joel Kim Booster | Fire Island | KPop Demon Hunters | The Week Of | The Other Two",
+  "id": "bw-p-nm5527841",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel Kim Booster",
+  "type": "task"
+}

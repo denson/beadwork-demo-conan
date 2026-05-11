@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Larson. writer, actor, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0489004/\n_search: Jay Larson | The Invitation | Better Off with Hally Leadbetter | The Conor Moore Show | The Nosebleeds",
+  "id": "bw-p-nm0489004",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Larson",
+  "type": "task"
+}

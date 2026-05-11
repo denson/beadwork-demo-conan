@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Goldblum/Jonathan Tucker/Goo Goo Dolls. conan_tbs, S6E98, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5820990/\n_search: Jeff Goldblum/Jonathan Tucker/Goo Goo Dolls | 2016 | S6E98",
+  "id": "bw-e-tt5820990",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Goldblum/Jonathan Tucker/Goo Goo Dolls",
+  "type": "task"
+}

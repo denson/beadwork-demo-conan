@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Colfer. b. 1990 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm3182094/\n_search: Chris Colfer | Struck by Lightning | Glee | Glee: The 3D Concert Movie | Glee: Director's Cut Pilot Episode",
+  "id": "bw-p-nm3182094",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Colfer",
+  "type": "task"
+}

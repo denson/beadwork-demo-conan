@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Schiff. b. 1955 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0771493/\n_search: Richard Schiff | Man of Steel | The Lost World: Jurassic Park | The West Wing | Seven",
+  "id": "bw-p-nm0771493",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Schiff",
+  "type": "task"
+}

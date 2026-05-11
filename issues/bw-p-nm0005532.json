@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Walsh. b. 1967 | actress, producer, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0005532/\n_search: Kate Walsh | The Perks of Being a Wallflower | Grey's Anatomy | Legion | After the Sunset",
+  "id": "bw-p-nm0005532",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Walsh",
+  "type": "task"
+}

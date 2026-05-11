@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Eisenberg/Lou Diamond Phillips/Six-String Soldiers. conan_tbs, S6E3, 2015.\nIMDb: https://www.imdb.com/title/tt5193210/\n_search: Jesse Eisenberg/Lou Diamond Phillips/Six-String Soldiers | 2015 | S6E3",
+  "id": "bw-e-tt5193210",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Eisenberg/Lou Diamond Phillips/Six-String Soldiers",
+  "type": "task"
+}

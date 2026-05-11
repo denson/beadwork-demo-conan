@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Tapper. conan_tbs, S9E54, 2019.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt10366412/\n_search: Jake Tapper | 2019 | S9E54",
+  "id": "bw-e-tt10366412",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Tapper",
+  "type": "task"
+}

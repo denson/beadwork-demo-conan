@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ella Schaefer. writer, director, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4666095/\n_search: Ella Schaefer | Criminal Minds | What Remains of Edith Finch | Loiter Squad",
+  "id": "bw-p-nm4666095",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ella Schaefer",
+  "type": "task"
+}

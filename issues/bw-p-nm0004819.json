@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charo. b. 1951 | actress, miscellaneous, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004819/\n_search: Charo | Thumbelina | The Concorde... Airport '79 | Tiger by the Tail | The Facts of Life",
+  "id": "bw-p-nm0004819",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charo",
+  "type": "task"
+}

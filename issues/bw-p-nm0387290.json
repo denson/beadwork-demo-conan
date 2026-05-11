@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Ho. 1930–2007 | actor, music_department, soundtrack.\nDECEASED (1930–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0387290/\n_search: Don Ho | Bubble Boy | My Sister's Keeper | McCloud | Resident Alien",
+  "id": "bw-p-nm0387290",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Ho",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timothy Simons. b. 1978 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3985937/\n_search: Timothy Simons | Veep | Inherent Vice | Don't Worry Darling | Goosebumps",
+  "id": "bw-p-nm3985937",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timothy Simons",
+  "type": "task"
+}

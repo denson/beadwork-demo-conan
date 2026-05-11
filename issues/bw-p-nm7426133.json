@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "LaLa Nestor. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7426133/\n_search: LaLa Nestor | Zoombies | Dimension 404 | Abduction of Angie | Sunday Girl",
+  "id": "bw-p-nm7426133",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "LaLa Nestor",
+  "type": "task"
+}

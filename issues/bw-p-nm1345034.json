@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Bradley. b. 1943 | actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1345034/\n_search: Bill Bradley | Rolling Along: Bill Bradley | The Cosby Show | Newark It's My Home | Street Fight",
+  "id": "bw-p-nm1345034",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Bradley",
+  "type": "task"
+}

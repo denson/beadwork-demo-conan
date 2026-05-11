@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mickey Madden. b. 1979 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1750489/\n_search: Mickey Madden | Love Actually | Crazy, Stupid, Love. | The Wedding Date | Mindhunters",
+  "id": "bw-p-nm1750489",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mickey Madden",
+  "type": "task"
+}

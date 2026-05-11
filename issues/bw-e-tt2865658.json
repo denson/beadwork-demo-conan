@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susan Lucci/John Lithgow/David Johansen. late_night, S2E144, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2865658/\n_search: Susan Lucci/John Lithgow/David Johansen | 1995 | S2E144",
+  "id": "bw-e-tt2865658",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susan Lucci/John Lithgow/David Johansen",
+  "type": "task"
+}

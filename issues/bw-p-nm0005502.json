@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michelle Trachtenberg. 1985–2025 | actress, producer, soundtrack.\nDECEASED (1985–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005502/\n_search: Michelle Trachtenberg | Buffy the Vampire Slayer | Inspector Gadget | Ice Princess | EuroTrip",
+  "id": "bw-p-nm0005502",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michelle Trachtenberg",
+  "type": "task"
+}

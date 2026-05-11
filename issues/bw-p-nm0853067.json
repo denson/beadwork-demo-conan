@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rip Taylor. 1931–2019 | actor, producer, soundtrack.\nDECEASED (1931–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0853067/\n_search: Rip Taylor | DuckTales: The Movie - Treasure of the Lost Lamp | Wayne's World 2 | The Brady Bunch Variety Hour | Amazon Women on the Moon",
+  "id": "bw-p-nm0853067",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rip Taylor",
+  "type": "task"
+}

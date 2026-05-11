@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hilary Swank/Jimmy Pardo/Hoodie Allen. conan_tbs, S5E10, 2014.\nIMDb: https://www.imdb.com/title/tt4418296/\n_search: Hilary Swank/Jimmy Pardo/Hoodie Allen | 2014 | S5E10",
+  "id": "bw-e-tt4418296",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hilary Swank/Jimmy Pardo/Hoodie Allen",
+  "type": "task"
+}

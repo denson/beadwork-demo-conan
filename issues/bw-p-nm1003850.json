@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Keb' Mo'. b. 1951 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1003850/\n_search: Keb' Mo' | Nothing to Lose | One Fine Day | Holes | Mike \u0026 Molly",
+  "id": "bw-p-nm1003850",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Keb' Mo'",
+  "type": "task"
+}

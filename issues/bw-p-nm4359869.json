@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Alexander Smith. b. 2004 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4359869/\n_search: Anthony Alexander Smith | The Ladder | The Young and the Restless | Tonight at 11:00 | Ode to a Christmas Tree",
+  "id": "bw-p-nm4359869",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Alexander Smith",
+  "type": "task"
+}

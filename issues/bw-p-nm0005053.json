@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joan Jett. b. 1958 | actress, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005053/\n_search: Joan Jett | Light of Day | Guardians of the Galaxy | Tank Girl | Ready Player One",
+  "id": "bw-p-nm0005053",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joan Jett",
+  "type": "task"
+}

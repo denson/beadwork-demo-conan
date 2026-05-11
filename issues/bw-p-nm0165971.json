@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ellen Cleghorne. b. 1965 | actress, writer, soundtrack.\nConan-show appearances: 12\nIMDb: https://www.imdb.com/name/nm0165971/\n_search: Ellen Cleghorne | Armageddon | Little Nicky | Coyote Ugly | Second Act",
+  "id": "bw-p-nm0165971",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ellen Cleghorne",
+  "type": "task"
+}

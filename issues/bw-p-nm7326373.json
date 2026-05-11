@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shane Torres. actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm7326373/\n_search: Shane Torres | Comedy Bang! Bang! | The Alley | Stuck in Park | Shane Torres: The Blue Eyed Mexican",
+  "id": "bw-p-nm7326373",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shane Torres",
+  "type": "task"
+}

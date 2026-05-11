@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Hughes. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2375580/\n_search: Jesse Hughes | The Cabin in the Woods | Silver Linings Playbook | Domino | Beerfest",
+  "id": "bw-p-nm2375580",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Hughes",
+  "type": "task"
+}

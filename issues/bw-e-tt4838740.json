@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jane Lynch/Conor McGregor/John Roy. conan_tbs, S5E111, 2015.\nIMDb: https://www.imdb.com/title/tt4838740/\n_search: Jane Lynch/Conor McGregor/John Roy | 2015 | S5E111",
+  "id": "bw-e-tt4838740",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jane Lynch/Conor McGregor/John Roy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Myra McWethy. b. 1957 | actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1086090/\n_search: Myra McWethy | TAG Team | The Hoarder Talk Show | The Hoarder Talk Show - The Series! | The Invisible Man",
+  "id": "bw-p-nm1086090",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Myra McWethy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Strange Case of Strangerson. conan_tbs, S3E43, 2013.\nIMDb: https://www.imdb.com/title/tt2697690/\n_search: The Strange Case of Strangerson | 2013 | S3E43",
+  "id": "bw-e-tt2697690",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Strange Case of Strangerson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shawn Mendes. b. 1998 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6658398/\n_search: Shawn Mendes | Sing 2 | Little Italy | Honor Society | From Nine to Nine",
+  "id": "bw-p-nm6658398",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shawn Mendes",
+  "type": "task"
+}

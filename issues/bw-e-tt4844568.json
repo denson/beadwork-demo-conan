@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ice-T and Coco/Jimmy Pardo. conan_tbs, S5E120, 2015.\nIMDb: https://www.imdb.com/title/tt4844568/\n_search: Ice-T and Coco/Jimmy Pardo | 2015 | S5E120",
+  "id": "bw-e-tt4844568",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ice-T and Coco/Jimmy Pardo",
+  "type": "task"
+}

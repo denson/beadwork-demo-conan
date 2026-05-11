@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maia Kayser. visual_effects, animation_department, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1589434/\n_search: Maia Kayser | Pirates of the Caribbean: At World's End | Tomorrowland | Battleship | Iron Man",
+  "id": "bw-p-nm1589434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maia Kayser",
+  "type": "task"
+}

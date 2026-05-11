@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Straitjacket Fits. actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10908053/\n_search: Straitjacket Fits",
+  "id": "bw-p-nm10908053",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Straitjacket Fits",
+  "type": "task"
+}

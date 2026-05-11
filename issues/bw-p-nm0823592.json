@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ringo Starr. b. 1940 | music_artist, actor, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0823592/\n_search: Ringo Starr | A Hard Day's Night | Help! | Popstar: Never Stop Never Stopping | The Magic Christian",
+  "id": "bw-p-nm0823592",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ringo Starr",
+  "type": "task"
+}

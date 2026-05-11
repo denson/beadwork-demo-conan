@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Freddie Highmore. b. 1992 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0383603/\n_search: Freddie Highmore | Finding Neverland | Charlie and the Chocolate Factory | Bates Motel | The Spiderwick Chronicles",
+  "id": "bw-p-nm0383603",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Freddie Highmore",
+  "type": "task"
+}

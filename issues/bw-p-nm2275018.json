@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yerba Buena. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2275018/\n_search: Yerba Buena | Cheaper by the Dozen | Strange Wilderness | Spare Parts | Borderland",
+  "id": "bw-p-nm2275018",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yerba Buena",
+  "type": "task"
+}

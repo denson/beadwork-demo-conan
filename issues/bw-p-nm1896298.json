@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Russ Meneve. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1896298/\n_search: Russ Meneve | Comedy Central Presents | Comedy Underground with Dave Attell | Detective Trousers in the Beat Goes On | Down and Dirty with Jim Norton",
+  "id": "bw-p-nm1896298",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Russ Meneve",
+  "type": "task"
+}

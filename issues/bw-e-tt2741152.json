@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ice-T/Nancy Glass/Dana Gould. late_night, S2E167, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2741152/\n_search: Ice-T/Nancy Glass/Dana Gould | 1995 | S2E167",
+  "id": "bw-e-tt2741152",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ice-T/Nancy Glass/Dana Gould",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judah Friedlander. b. 1969 | actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0295103/\n_search: Judah Friedlander | Feast | 30 Rock | American Splendor | Meet the Parents",
+  "id": "bw-p-nm0295103",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judah Friedlander",
+  "type": "task"
+}

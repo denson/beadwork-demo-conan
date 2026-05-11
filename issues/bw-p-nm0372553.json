@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patricia Hearst. b. 1954 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0372553/\n_search: Patricia Hearst | Cry-Baby | Bio-Dome | Serial Mom | A Dirty Shame",
+  "id": "bw-p-nm0372553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patricia Hearst",
+  "type": "task"
+}

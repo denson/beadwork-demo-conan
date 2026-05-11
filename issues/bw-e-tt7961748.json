@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Burr/Chelsea Peretti/Seann Walsh. conan_tbs, S8E34, 2018.\nRuntime: 42 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt7961748/\n_search: Bill Burr/Chelsea Peretti/Seann Walsh | 2018 | S8E34",
+  "id": "bw-e-tt7961748",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Burr/Chelsea Peretti/Seann Walsh",
+  "type": "task"
+}

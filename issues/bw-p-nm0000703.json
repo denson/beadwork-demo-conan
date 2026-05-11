@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "BD Wong. b. 1960 | actor, director, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000703/\n_search: BD Wong | Jurassic Park | Mr. Robot | Jurassic World | Mulan",
+  "id": "bw-p-nm0000703",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "BD Wong",
+  "type": "task"
+}

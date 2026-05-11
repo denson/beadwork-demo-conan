@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Gallagher/Naomi Judd/Ashley Richardson. late_night, S2E160, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3464700/\n_search: Peter Gallagher/Naomi Judd/Ashley Richardson | 1995 | S2E160",
+  "id": "bw-e-tt3464700",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Gallagher/Naomi Judd/Ashley Richardson",
+  "type": "task"
+}

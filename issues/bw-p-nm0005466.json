@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Stiles. b. 1981 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0005466/\n_search: Julia Stiles | 10 Things I Hate About You | Save the Last Dance | Silver Linings Playbook | The Prince and Me",
+  "id": "bw-p-nm0005466",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Stiles",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deep Blue Something. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1553357/\n_search: Deep Blue Something | BASEketball | Fired Up! | Time of Our Lives | Orange Is the New Black",
+  "id": "bw-p-nm1553357",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deep Blue Something",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicole Kidman. b. 1967 | actress, producer, music_department.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000173/\n_search: Nicole Kidman | Moulin Rouge! | To Die For | The Hours | Rabbit Hole",
+  "id": "bw-p-nm0000173",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicole Kidman",
+  "type": "task"
+}

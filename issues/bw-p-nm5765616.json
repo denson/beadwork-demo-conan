@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pokey LaFarge. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5765616/\n_search: Pokey LaFarge | The Lone Ranger | The Devil All the Time | O'Dessa | Sun Records",
+  "id": "bw-p-nm5765616",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pokey LaFarge",
+  "type": "task"
+}

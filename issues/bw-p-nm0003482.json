@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nash Edgerton. b. 1973 | director, stunts, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0003482/\n_search: Nash Edgerton | Mr Inbetween | Gringo | The Square | Spider",
+  "id": "bw-p-nm0003482",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nash Edgerton",
+  "type": "task"
+}

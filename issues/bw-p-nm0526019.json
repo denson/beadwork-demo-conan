@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diego Luna. b. 1979 | actor, producer, director.\nConan-show appearances: 6 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0526019/\n_search: Diego Luna | Rogue One: A Star Wars Story | Y tu mamá también | The Book of Life | Open Range",
+  "id": "bw-p-nm0526019",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diego Luna",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Caan/Anthony Clark/The Max Weinberg 7. late_night, S8E17, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3685196/\n_search: James Caan/Anthony Clark/The Max Weinberg 7 | 2000 | S8E17",
+  "id": "bw-e-tt3685196",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Caan/Anthony Clark/The Max Weinberg 7",
+  "type": "task"
+}

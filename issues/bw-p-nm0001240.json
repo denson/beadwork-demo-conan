@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dennis Franz. b. 1944 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001240/\n_search: Dennis Franz | NYPD Blue | City of Angels | Die Hard 2 | Blow Out",
+  "id": "bw-p-nm0001240",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dennis Franz",
+  "type": "task"
+}

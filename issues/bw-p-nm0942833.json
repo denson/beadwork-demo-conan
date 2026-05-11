@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Wright. b. 1955 | actor, producer, writer.\nConan-show appearances: 13\nIMDb: https://www.imdb.com/name/nm0942833/\n_search: Steven Wright | Natural Born Killers | So I Married an Axe Murderer | Reservoir Dogs | Louie",
+  "id": "bw-p-nm0942833",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Wright",
+  "type": "task"
+}

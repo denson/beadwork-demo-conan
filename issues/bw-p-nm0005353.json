@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Rhodes. b. 1962 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005353/\n_search: Nick Rhodes | South Park: Bigger, Longer \u0026 Uncut | The Saint | Donnie Darko | Layer Cake",
+  "id": "bw-p-nm0005353",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Rhodes",
+  "type": "task"
+}

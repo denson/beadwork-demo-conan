@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Noah Ringer. b. 1996 | actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3226241/\n_search: Noah Ringer | The Last Airbender | Cowboys \u0026 Aliens | The Last Airbender",
+  "id": "bw-p-nm3226241",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Noah Ringer",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Rose. b. 1942 | producer, writer, editorial_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0741299/\n_search: Charlie Rose | Batman v Superman: Dawn of Justice | The Ides of March | Primary Colors | Elegy",
+  "id": "bw-p-nm0741299",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Rose",
+  "type": "task"
+}

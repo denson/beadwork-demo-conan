@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Eitzel. b. 1959 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0252195/\n_search: Mark Eitzel | No Easy Way | In This Short Life | No Stilettos | Other Voices: Songs from a Room",
+  "id": "bw-p-nm0252195",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Eitzel",
+  "type": "task"
+}

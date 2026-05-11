@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sleepy LaBeef. 1935–2019 | actor, soundtrack.\nDECEASED (1935–2019). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0479424/\n_search: Sleepy LaBeef | Salvation Boulevard | The Exotic Ones | Sing Country | La palmera",
+  "id": "bw-p-nm0479424",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sleepy LaBeef",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Schumer. b. 1981 | writer, actress, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2154960/\n_search: Amy Schumer | Trainwreck | Snatched | I Feel Pretty | Inside Amy Schumer",
+  "id": "bw-p-nm2154960",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Schumer",
+  "type": "task"
+}

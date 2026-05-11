@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frederique Van Der Wal. b. 1967 | actress, producer, archive_footage.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0886479/\n_search: Frederique Van Der Wal | Wild Wild West | Celebrity | 54 | The Million Dollar Hotel",
+  "id": "bw-p-nm0886479",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frederique Van Der Wal",
+  "type": "task"
+}

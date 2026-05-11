@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jarod Miller/Ozzy Osbourne/Trace Adkins. late_night, S12E95, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627643/\n_search: Jarod Miller/Ozzy Osbourne/Trace Adkins | 2005 | S12E95",
+  "id": "bw-e-tt0627643",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jarod Miller/Ozzy Osbourne/Trace Adkins",
+  "type": "task"
+}

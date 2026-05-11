@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Vivino. b. 1954 | music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0900374/\n_search: Jerry Vivino | King of New York | The Blackout | Reform School Girls | The Tao of Steve",
+  "id": "bw-p-nm0900374",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Vivino",
+  "type": "task"
+}

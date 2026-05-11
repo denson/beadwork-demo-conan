@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelli Barrett. b. 1984 | actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1799058/\n_search: Kelli Barrett | Fosse/Verdon | The Punisher | Wormwood | I Just Want My Pants Back",
+  "id": "bw-p-nm1799058",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelli Barrett",
+  "type": "task"
+}

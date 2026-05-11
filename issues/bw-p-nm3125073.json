@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christian Lander. b. 1978 | producer, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3125073/\n_search: Christian Lander | Black-ish | *Loosely Exactly Nicole | Underemployed | Good Vibes",
+  "id": "bw-p-nm3125073",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christian Lander",
+  "type": "task"
+}

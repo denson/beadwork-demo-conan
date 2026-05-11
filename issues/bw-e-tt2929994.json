@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Wright/Jeffrey Tambor/The Mavericks. late_night, S3E136, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2929994/\n_search: Steven Wright/Jeffrey Tambor/The Mavericks | 1996 | S3E136",
+  "id": "bw-e-tt2929994",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Wright/Jeffrey Tambor/The Mavericks",
+  "type": "task"
+}

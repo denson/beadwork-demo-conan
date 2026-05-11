@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Marshawn Lynch. conan_tbs, S10E111, 2020.\nIMDb: https://www.imdb.com/title/tt13634688/\n_search: From Largo Theatre Marshawn Lynch | 2020 | S10E111",
+  "id": "bw-e-tt13634688",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Marshawn Lynch",
+  "type": "task"
+}

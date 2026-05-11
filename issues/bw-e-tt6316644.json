@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan Without Borders: Berlin. conan_tbs, S7E17, 2016.\nRuntime: 43 min.\nIMDb rating: 8.4.\nIMDb: https://www.imdb.com/title/tt6316644/\n_search: Conan Without Borders: Berlin | 2016 | S7E17",
+  "id": "bw-e-tt6316644",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan Without Borders: Berlin",
+  "type": "task"
+}

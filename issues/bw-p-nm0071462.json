@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J.B. Benn. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0071462/\n_search: J.B. Benn | Sabrina | Mondo Magic | Magic Man | Mondo Magic with JB Benn and Chris Korn",
+  "id": "bw-p-nm0071462",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J.B. Benn",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wolf Parade. miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8159609/\n_search: Wolf Parade | Powers | Criminal Minds | Cold Case | Where the Trail Ends",
+  "id": "bw-p-nm8159609",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wolf Parade",
+  "type": "task"
+}

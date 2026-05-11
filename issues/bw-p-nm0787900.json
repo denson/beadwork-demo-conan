@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Shamrock. b. 1964 | actor, stunts, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0787900/\n_search: Ken Shamrock | WWF St. Valentine's Day Massacre | WWE Smackdown! | That '70s Show | Grace Is Gone",
+  "id": "bw-p-nm0787900",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Shamrock",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Valerie Tosi. actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3062868/\n_search: Valerie Tosi | Based on a True Story | Stan Against Evil | Weird History Food",
+  "id": "bw-p-nm3062868",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Valerie Tosi",
+  "type": "task"
+}

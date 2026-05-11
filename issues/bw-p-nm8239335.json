@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Suchmann. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm8239335/\n_search: Sam Suchmann | Spring Break Zombie Massacre | Willie, Jamaley \u0026 The Cacacoon | Sam \u0026 Mattie Make a Zombie Movie | Horror Able",
+  "id": "bw-p-nm8239335",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Suchmann",
+  "type": "task"
+}

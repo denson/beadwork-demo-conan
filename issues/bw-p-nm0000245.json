@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robin Williams. 1951–2014 | actor, writer, producer.\nDECEASED (1951–2014). Conan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0000245/\n_search: Robin Williams | Mrs. Doubtfire | Good Morning, Vietnam | Mork \u0026 Mindy | The Birdcage",
+  "id": "bw-p-nm0000245",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robin Williams",
+  "type": "task"
+}

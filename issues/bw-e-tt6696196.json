@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wanda Sykes/Mr. T/Dead Man Winter. conan_tbs, S7E67, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6696196/\n_search: Wanda Sykes/Mr. T/Dead Man Winter | 2017 | S7E67",
+  "id": "bw-e-tt6696196",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wanda Sykes/Mr. T/Dead Man Winter",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paolo Nutini. b. 1987 | music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2296996/\n_search: Paolo Nutini | Alien: Covenant | P.S. I Love You | MorningGlory | When in Rome",
+  "id": "bw-p-nm2296996",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paolo Nutini",
+  "type": "task"
+}

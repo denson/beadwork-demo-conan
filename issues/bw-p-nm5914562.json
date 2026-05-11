@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James McVey. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5914562/\n_search: James McVey | Move My Way | Show Dogs | Guide to Lurrrrve | 30 Days Wild",
+  "id": "bw-p-nm5914562",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James McVey",
+  "type": "task"
+}

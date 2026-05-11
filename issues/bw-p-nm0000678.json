@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathleen Turner. b. 1954 | actress, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000678/\n_search: Kathleen Turner | Romancing the Stone | Peggy Sue Got Married | Body Heat | Serial Mom",
+  "id": "bw-p-nm0000678",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathleen Turner",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Atticus Shaffer. b. 1998 | actor, sound_department, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2557831/\n_search: Atticus Shaffer | Frankenweenie | The Lion Guard | The Unborn | Hancock",
+  "id": "bw-p-nm2557831",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Atticus Shaffer",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kesha. b. 1987 | music_artist, actress, composer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm3732465/\n_search: Kesha | On the Basis of Sex | Jem and the Holograms | A Ghost Story | The Bounty Hunter",
+  "id": "bw-p-nm3732465",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kesha",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gone with the Wind, But Don't Worry, We're Insured. conan_tbs, S3E68, 2013.\nIMDb: https://www.imdb.com/title/tt2814128/\n_search: Gone with the Wind, But Don't Worry, We're Insured | 2013 | S3E68",
+  "id": "bw-e-tt2814128",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gone with the Wind, But Don't Worry, We're Insured",
+  "type": "task"
+}

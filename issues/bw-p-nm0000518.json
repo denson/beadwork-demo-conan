@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Malkovich. b. 1953 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000518/\n_search: John Malkovich | Being John Malkovich | In the Line of Fire | Burn After Reading | RED",
+  "id": "bw-p-nm0000518",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Malkovich",
+  "type": "task"
+}

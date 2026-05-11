@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Noah Starr. b. 1980 | producer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1907999/\n_search: Noah Starr | From the Kitchens of... | Kimberly's Simply Southern | What Would Brian Boitano Make? | The Edge with Jake Sasseville",
+  "id": "bw-p-nm1907999",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Noah Starr",
+  "type": "task"
+}

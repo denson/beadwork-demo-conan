@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marina Franklin. actress, writer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1705625/\n_search: Marina Franklin | Trainwreck | 5 Pounds of Pressure | Spirit Cabinet | Divorce",
+  "id": "bw-p-nm1705625",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marina Franklin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Lidell. b. 1973 | composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2066596/\n_search: Jamie Lidell | Priceless | The Nines | How Do You Know | NCIS",
+  "id": "bw-p-nm2066596",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Lidell",
+  "type": "task"
+}

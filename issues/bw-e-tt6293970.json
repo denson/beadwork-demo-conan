@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke Wilson/Robert Kirkman/Sam Morril. conan_tbs, S7E15, 2016.\nRuntime: 42 min.\nIMDb rating: 5.7.\nIMDb: https://www.imdb.com/title/tt6293970/\n_search: Luke Wilson/Robert Kirkman/Sam Morril | 2016 | S7E15",
+  "id": "bw-e-tt6293970",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke Wilson/Robert Kirkman/Sam Morril",
+  "type": "task"
+}

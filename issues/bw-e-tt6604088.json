@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sir Patrick Stewart/Jerrod Carmichael/Kurt Braunohler. conan_tbs, S7E56, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6604088/\n_search: Sir Patrick Stewart/Jerrod Carmichael/Kurt Braunohler | 2017 | S7E56",
+  "id": "bw-e-tt6604088",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sir Patrick Stewart/Jerrod Carmichael/Kurt Braunohler",
+  "type": "task"
+}

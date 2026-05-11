@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Baratunde Thurston. producer, writer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3547470/\n_search: Baratunde Thurston | Dear White People | How to Be Black? | America Outdoors with Baratunde Thurston | The Daily Show",
+  "id": "bw-p-nm3547470",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Baratunde Thurston",
+  "type": "task"
+}

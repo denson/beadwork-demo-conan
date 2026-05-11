@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amber Cather. b. 1981 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1659343/\n_search: Amber Cather | Law \u0026 Order: Special Victims Unit | Guiding Light | Brother's Keeper | Duane Incarnate",
+  "id": "bw-p-nm1659343",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amber Cather",
+  "type": "task"
+}

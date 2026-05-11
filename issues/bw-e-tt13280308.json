@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Bert Kreischer. conan_tbs, S10E95, 2020.\nIMDb: https://www.imdb.com/title/tt13280308/\n_search: From Largo Theatre Bert Kreischer | 2020 | S10E95",
+  "id": "bw-e-tt13280308",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Bert Kreischer",
+  "type": "task"
+}

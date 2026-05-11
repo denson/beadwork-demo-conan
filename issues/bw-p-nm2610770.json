@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rostam Batmanglij. b. 1983 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2610770/\n_search: Rostam Batmanglij | The Twilight Saga: Eclipse | I Feel Pretty | The East | Paper Towns",
+  "id": "bw-p-nm2610770",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rostam Batmanglij",
+  "type": "task"
+}

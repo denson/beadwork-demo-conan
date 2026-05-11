@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Burnett. b. 1960 | producer, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0122407/\n_search: Mark Burnett | Shark Tank | The Voice | Ben-Hur | The Apprentice",
+  "id": "bw-p-nm0122407",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Burnett",
+  "type": "task"
+}

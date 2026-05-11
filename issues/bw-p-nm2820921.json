@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Ryan. director, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2820921/\n_search: Matthew Ryan | Strays Don't Sleep | Bones | House | The 24th Day",
+  "id": "bw-p-nm2820921",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Ryan",
+  "type": "task"
+}

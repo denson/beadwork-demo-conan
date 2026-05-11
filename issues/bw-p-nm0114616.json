@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ruth Brown. 1928–2006 | actress, soundtrack, archive_footage.\nDECEASED (1928–2006). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0114616/\n_search: Ruth Brown | Hairspray | The Hurricane | My Blueberry Nights | Soul Kitchen",
+  "id": "bw-p-nm0114616",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ruth Brown",
+  "type": "task"
+}

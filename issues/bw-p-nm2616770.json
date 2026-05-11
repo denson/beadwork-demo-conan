@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Campman. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2616770/\n_search: Rob Campman | Diamond Life | 106 \u0026 Park | Rap City | Jenny Jones",
+  "id": "bw-p-nm2616770",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Campman",
+  "type": "task"
+}

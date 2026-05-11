@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marianne Faithfull. 1946–2025 | actress, music_department, composer.\nDECEASED (1946–2025). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0265717/\n_search: Marianne Faithfull | Marie Antoinette | Irina Palm | The Girl on a Motorcycle | Dune: Part One",
+  "id": "bw-p-nm0265717",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marianne Faithfull",
+  "type": "task"
+}

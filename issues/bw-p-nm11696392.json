@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason \u0026 the Scorchers. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11696392/\n_search: Jason \u0026 the Scorchers | Squidbillies | The Old Grey Whistle Test | Century of Country",
+  "id": "bw-p-nm11696392",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason \u0026 the Scorchers",
+  "type": "task"
+}

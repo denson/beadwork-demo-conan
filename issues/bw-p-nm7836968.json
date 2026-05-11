@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fredrik Eriksson. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7836968/\n_search: Fredrik Eriksson | Mr. Peabody \u0026 Sherman | Manor of Darkness | The Elder Scrolls: A Promise Unfulfilled",
+  "id": "bw-p-nm7836968",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fredrik Eriksson",
+  "type": "task"
+}

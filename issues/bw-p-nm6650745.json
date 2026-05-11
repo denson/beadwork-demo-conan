@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Didier. editorial_department, producer, production_manager.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6650745/\n_search: Dan Didier | Remember Me | White Oleander | All the Real Girls | The Cleaner",
+  "id": "bw-p-nm6650745",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Didier",
+  "type": "task"
+}

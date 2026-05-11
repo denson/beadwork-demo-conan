@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "N.E.R.D.. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1697806/\n_search: N.E.R.D. | Kiss of the Dragon | xXx | Swordfish | The Fast and the Furious: Tokyo Drift",
+  "id": "bw-p-nm1697806",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "N.E.R.D.",
+  "type": "task"
+}

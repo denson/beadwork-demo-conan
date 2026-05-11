@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank McCourt. 1930–2009 | writer, actor, executive.\nDECEASED (1930–2009). Conan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0566660/\n_search: Frank McCourt | Angela's Ashes | Teacher Man | Angela's Christmas Wish | Angela's Ashes",
+  "id": "bw-p-nm0566660",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank McCourt",
+  "type": "task"
+}

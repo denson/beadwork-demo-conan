@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carrie Prejean. b. 1987 | archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3310901/\n_search: Carrie Prejean | Miss USA 2009 | Boost Mobile Pro | Troopathon 2009: Honor Their Service | Today",
+  "id": "bw-p-nm3310901",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carrie Prejean",
+  "type": "task"
+}

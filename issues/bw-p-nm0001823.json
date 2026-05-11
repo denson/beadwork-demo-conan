@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Waits. b. 1949 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001823/\n_search: Tom Waits | Seven Psychopaths | The Ballad of Buster Scruggs | Down by Law | Short Cuts",
+  "id": "bw-p-nm0001823",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Waits",
+  "type": "task"
+}

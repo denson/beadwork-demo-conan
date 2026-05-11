@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jane Pauley. b. 1950 | actress, archive_footage, archive_sound.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0667111/\n_search: Jane Pauley | Zoolander 2 | Madam Secretary | CBS News Sunday Morning with Jane Pauley | Frasier",
+  "id": "bw-p-nm0667111",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jane Pauley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Sharpton. b. 1954 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0789314/\n_search: Al Sharpton | Mr. Deeds | Malcolm X | Get on Up | Madea Goes to Jail",
+  "id": "bw-p-nm0789314",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Sharpton",
+  "type": "task"
+}

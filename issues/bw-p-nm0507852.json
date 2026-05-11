@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vicki Lewis. actress, soundtrack, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0507852/\n_search: Vicki Lewis | Finding Nemo | Finding Dory | Mousehunt | Godzilla",
+  "id": "bw-p-nm0507852",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vicki Lewis",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tara MacLean. b. 1973 | actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0533823/\n_search: Tara MacLean | Coyote Ugly | Teaching Mrs. Tingle | Bounce | Inventing the Abbotts",
+  "id": "bw-p-nm0533823",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tara MacLean",
+  "type": "task"
+}

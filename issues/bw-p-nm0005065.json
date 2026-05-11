@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quincy Jones. 1933–2024 | music_department, producer, composer.\nDECEASED (1933–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005065/\n_search: Quincy Jones | The Color Purple | In the Heat of the Night | The Getaway | X-Men: Days of Future Past",
+  "id": "bw-p-nm0005065",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quincy Jones",
+  "type": "task"
+}

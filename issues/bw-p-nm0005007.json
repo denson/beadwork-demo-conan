@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jill Hennessy. actress, director, producer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0005007/\n_search: Jill Hennessy | Crossing Jordan | Law \u0026 Order | Wild Hogs | City on a Hill",
+  "id": "bw-p-nm0005007",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jill Hennessy",
+  "type": "task"
+}

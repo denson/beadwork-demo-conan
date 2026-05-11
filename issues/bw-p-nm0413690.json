@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Jackson. b. 1954 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0413690/\n_search: Joe Jackson | The Big Hit | There's Something About Mary | This Means War | Things Heard \u0026 Seen",
+  "id": "bw-p-nm0413690",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Jackson",
+  "type": "task"
+}

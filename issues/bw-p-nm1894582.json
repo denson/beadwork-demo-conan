@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Miles Grose. writer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1894582/\n_search: Miles Grose | Ghost Town | One Course with JB Smoove | The Onion | Up All Night",
+  "id": "bw-p-nm1894582",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Miles Grose",
+  "type": "task"
+}

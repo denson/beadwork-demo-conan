@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bobby Reed. b. 1956 | actor, production_manager.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0715327/\n_search: Bobby Reed | Perry Mason | Grey's Anatomy | I Spit on Your Grave: Vengeance Is Mine | Parks and Recreation",
+  "id": "bw-p-nm0715327",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bobby Reed",
+  "type": "task"
+}

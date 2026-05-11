@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Bragg. b. 1957 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0103891/\n_search: Billy Bragg | Paper Towns | Love \u0026 Other Drugs | The Strangers | The Gambler",
+  "id": "bw-p-nm0103891",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Bragg",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Schwartz. b. 1981 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2355635/\n_search: Ben Schwartz | Parks and Recreation | Sonic the Hedgehog 3 | The Afterparty | Middleditch \u0026 Schwartz",
+  "id": "bw-p-nm2355635",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Schwartz",
+  "type": "task"
+}

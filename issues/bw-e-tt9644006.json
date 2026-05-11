@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Hader. conan_tbs, S9E3, 2019.\nRuntime: 30 min.\nIMDb rating: 8.5.\nIMDb: https://www.imdb.com/title/tt9644006/\n_search: Bill Hader | 2019 | S9E3",
+  "id": "bw-e-tt9644006",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Hader",
+  "type": "task"
+}

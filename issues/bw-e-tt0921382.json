@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sylvester Stallone/Carla Gugino/Matt Mays \u0026 El Torpedo. late_night, S14E59, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0921382/\n_search: Sylvester Stallone/Carla Gugino/Matt Mays \u0026 El Torpedo | 2006 | S14E59",
+  "id": "bw-e-tt0921382",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sylvester Stallone/Carla Gugino/Matt Mays \u0026 El Torpedo",
+  "type": "task"
+}

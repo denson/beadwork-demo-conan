@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Spicer. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1022950/\n_search: James Spicer | Edward Scissorhands | Clairvoyance the Ellis Files | Virtuous | Heavy Water",
+  "id": "bw-p-nm1022950",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Spicer",
+  "type": "task"
+}

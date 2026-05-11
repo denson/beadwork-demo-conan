@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Healy. music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0372379/\n_search: Scott Healy | The Big Short | Last Vegas | Messengers | All Bookies Wear Speedos",
+  "id": "bw-p-nm0372379",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Healy",
+  "type": "task"
+}

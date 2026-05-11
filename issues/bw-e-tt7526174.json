@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "'Weird Al' Yankovic/Taran Killam/Solomon Georgio. conan_tbs, S7E141, 2017.\nRuntime: 42 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt7526174/\n_search: 'Weird Al' Yankovic/Taran Killam/Solomon Georgio | 2017 | S7E141",
+  "id": "bw-e-tt7526174",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "'Weird Al' Yankovic/Taran Killam/Solomon Georgio",
+  "type": "task"
+}

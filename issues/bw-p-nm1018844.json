@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Rzeznik. b. 1965 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1018844/\n_search: Johnny Rzeznik | City of Angels | Transformers | Twister | Batman \u0026 Robin",
+  "id": "bw-p-nm1018844",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Rzeznik",
+  "type": "task"
+}

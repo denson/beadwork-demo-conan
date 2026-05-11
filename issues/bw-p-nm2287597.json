@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rachel Feinstein. actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2287597/\n_search: Rachel Feinstein | I Feel Pretty | Trainwreck | Top Five | Grand Theft Auto V",
+  "id": "bw-p-nm2287597",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rachel Feinstein",
+  "type": "task"
+}

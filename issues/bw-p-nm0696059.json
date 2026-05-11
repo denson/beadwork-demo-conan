@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laura Prepon. b. 1980 | actress, director, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0696059/\n_search: Laura Prepon | Orange Is the New Black | That '70s Show | The Hero | The Girl on the Train",
+  "id": "bw-p-nm0696059",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laura Prepon",
+  "type": "task"
+}

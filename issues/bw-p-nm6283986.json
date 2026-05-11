@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rock Candy Funk Party. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6283986/\n_search: Rock Candy Funk Party",
+  "id": "bw-p-nm6283986",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rock Candy Funk Party",
+  "type": "task"
+}

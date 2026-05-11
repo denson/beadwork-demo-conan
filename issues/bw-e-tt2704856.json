@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Farrah Fawcett/Ed Asner/Brian McCann. late_night, S1E168, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2704856/\n_search: Farrah Fawcett/Ed Asner/Brian McCann | 1994 | S1E168",
+  "id": "bw-e-tt2704856",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Farrah Fawcett/Ed Asner/Brian McCann",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Chalke. b. 1976 | actress, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0149950/\n_search: Sarah Chalke | Scrubs | Chaos Theory | Rick and Morty | Roseanne",
+  "id": "bw-p-nm0149950",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Chalke",
+  "type": "task"
+}

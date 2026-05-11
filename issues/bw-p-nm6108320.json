@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cary Ann Hearst. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6108320/\n_search: Cary Ann Hearst | A Walk in the Woods | This Game's Called Murder | Hux",
+  "id": "bw-p-nm6108320",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cary Ann Hearst",
+  "type": "task"
+}

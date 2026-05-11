@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Zoglin. b. 1950.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2959572/\n_search: Richard Zoglin | The Business of Comedy | The History of Comedy | American Masters | Make 'Em Laugh: The Funny Business of America",
+  "id": "bw-p-nm2959572",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:jibber_jabber",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Zoglin",
+  "type": "task"
+}

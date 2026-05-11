@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Denver. 1935–2005 | actor, soundtrack, archive_footage.\nDECEASED (1935–2005). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001134/\n_search: Bob Denver | Gilligan's Island | The Many Loves of Dobie Gillis | Back to the Beach | Rescue from Gilligan's Island",
+  "id": "bw-p-nm0001134",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Denver",
+  "type": "task"
+}

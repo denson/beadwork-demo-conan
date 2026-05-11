@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spin Doctors. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1488404/\n_search: Spin Doctors | Mortdecai | As Good as It Gets | Philadelphia | Love \u0026 Other Drugs",
+  "id": "bw-p-nm1488404",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spin Doctors",
+  "type": "task"
+}

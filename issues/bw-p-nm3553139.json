@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jameela Jamil. b. 1986 | actress, producer, composer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3553139/\n_search: Jameela Jamil | Love at First Sight | DC League of Super-Pets | The Good Place | People We Meet on Vacation",
+  "id": "bw-p-nm3553139",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jameela Jamil",
+  "type": "task"
+}

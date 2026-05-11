@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evan Rachel Wood. b. 1987 | actress, director, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0939697/\n_search: Evan Rachel Wood | Thirteen | Whatever Works | Westworld | Across the Universe",
+  "id": "bw-p-nm0939697",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evan Rachel Wood",
+  "type": "task"
+}

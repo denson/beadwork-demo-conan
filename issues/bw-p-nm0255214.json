@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lillian Ellison. 1923–2007 | actress, camera_department, archive_footage.\nDECEASED (1923–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0255214/\n_search: Lillian Ellison | WWWF Championship Wrestling | WWE Smackdown! | WWF All-Star Wrestling | WWF on MSG Network",
+  "id": "bw-p-nm0255214",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lillian Ellison",
+  "type": "task"
+}

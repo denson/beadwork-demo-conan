@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Waylon Krieger. b. 1973 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5823231/\n_search: Waylon Krieger | Ruta Madre | Tesla: Drive the Future | Chowdaheads | The Doors: Break On Thru - A Celebration Of Ray Manzarek",
+  "id": "bw-p-nm5823231",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Waylon Krieger",
+  "type": "task"
+}

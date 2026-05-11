@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Chappelle. b. 1973 | writer, producer, actor.\nConan-show appearances: 20\nIMDb: https://www.imdb.com/name/nm0152638/\n_search: Dave Chappelle | Chappelle's Show | Blue Streak | A Star Is Born | Robin Hood: Men in Tights",
+  "id": "bw-p-nm0152638",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Chappelle",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Wilcox. b. 1949 | music_department, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0928195/\n_search: David Wilcox | Cocktail | The Great Outdoors | The Corporation | Street Legal",
+  "id": "bw-p-nm0928195",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Wilcox",
+  "type": "task"
+}

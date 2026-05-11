@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Wahlberg/Elle Fanning/Judah \u0026 the Lion. conan_tbs, S7E29, 2017.\nRuntime: 42 min.\nIMDb rating: 6.7.\nIMDb: https://www.imdb.com/title/tt6395214/\n_search: Mark Wahlberg/Elle Fanning/Judah \u0026 the Lion | 2017 | S7E29",
+  "id": "bw-e-tt6395214",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Wahlberg/Elle Fanning/Judah \u0026 the Lion",
+  "type": "task"
+}

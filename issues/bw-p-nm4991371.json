@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Meg Myers. b. 1986 | composer, actress, costume_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4991371/\n_search: Meg Myers | Meg Myers: Anyway You Wanna Love | American Satan | QYou: Zone | QYou: Prime",
+  "id": "bw-p-nm4991371",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Meg Myers",
+  "type": "task"
+}

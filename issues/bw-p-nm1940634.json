@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Flanagan. producer, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1940634/\n_search: Bill Flanagan | Drawn \u0026 Recorded | VH1 Legends | Spectacle: Elvis Costello with... | CMT Crossroads",
+  "id": "bw-p-nm1940634",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Flanagan",
+  "type": "task"
+}

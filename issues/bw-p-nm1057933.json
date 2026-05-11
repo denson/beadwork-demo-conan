@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chester Bennington. 1976–2017 | actor, writer, composer.\nDECEASED (1976–2017). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1057933/\n_search: Chester Bennington | Crank | Transformers | Crank: High Voltage | Miami Vice",
+  "id": "bw-p-nm1057933",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chester Bennington",
+  "type": "task"
+}

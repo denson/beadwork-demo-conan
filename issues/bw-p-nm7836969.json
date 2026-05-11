@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sebastian Fritze. composer, music_department, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7836969/\n_search: Sebastian Fritze | Mr. Peabody \u0026 Sherman | Feel the Rhythm 2023 | Green and Gold | Full Swing",
+  "id": "bw-p-nm7836969",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sebastian Fritze",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Raquel Welch. 1940–2023 | actress, producer, writer.\nDECEASED (1940–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000079/\n_search: Raquel Welch | The Three Musketeers | Fantastic Voyage | Fathom | Myra Breckinridge",
+  "id": "bw-p-nm0000079",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Raquel Welch",
+  "type": "task"
+}

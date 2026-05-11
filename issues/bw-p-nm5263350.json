@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Joshua. b. 1989 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5263350/\n_search: Anthony Joshua | Formula 1 | Turnt | What's Up TV | Day of Reckoning",
+  "id": "bw-p-nm5263350",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Joshua",
+  "type": "task"
+}

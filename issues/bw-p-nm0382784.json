@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marc Hickox. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0382784/\n_search: Marc Hickox | Gossip | The Shakespeare Comedy Show | Silent But Deadly | The Monster",
+  "id": "bw-p-nm0382784",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marc Hickox",
+  "type": "task"
+}

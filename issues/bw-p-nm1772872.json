@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dilated Peoples. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1772872/\n_search: Dilated Peoples | The Girl Next Door | Step Brothers | Need for Speed: Underground | SSX 3",
+  "id": "bw-p-nm1772872",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dilated Peoples",
+  "type": "task"
+}

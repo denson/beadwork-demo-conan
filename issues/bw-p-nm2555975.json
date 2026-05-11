@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lamb of God. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2555975/\n_search: Lamb of God | Bill \u0026 Ted Face the Music | Iron Man 2 | Metal: A Headbanger's Journey | Saints Row 2",
+  "id": "bw-p-nm2555975",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lamb of God",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Will Ferrell. conan_tbs, S10E68, 2020.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt12616484/\n_search: From Largo Theatre Will Ferrell | 2020 | S10E68",
+  "id": "bw-e-tt12616484",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Will Ferrell",
+  "type": "task"
+}

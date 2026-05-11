@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathy Bates. b. 1948 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000870/\n_search: Kathy Bates | Misery | Dolores Claiborne | Titanic | Fried Green Tomatoes",
+  "id": "bw-p-nm0000870",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathy Bates",
+  "type": "task"
+}

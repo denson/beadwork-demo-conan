@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wolfgang Puck. b. 1949 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0699826/\n_search: Wolfgang Puck | Showgirls | The Weather Man | Tales from the Crypt | Who's the Boss?",
+  "id": "bw-p-nm0699826",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wolfgang Puck",
+  "type": "task"
+}

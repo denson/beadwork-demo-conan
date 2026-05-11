@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hannah Hooper. b. 1982 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4801631/\n_search: Hannah Hooper | Project Almanac | Paper Towns | The Sorcerer's Apprentice | Blended",
+  "id": "bw-p-nm4801631",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hannah Hooper",
+  "type": "task"
+}

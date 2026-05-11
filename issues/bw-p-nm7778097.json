@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Caleb Nott. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7778097/\n_search: Caleb Nott | Venom: Let There Be Carnage | Mythic Quest | Wonderland",
+  "id": "bw-p-nm7778097",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Caleb Nott",
+  "type": "task"
+}

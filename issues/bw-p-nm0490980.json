@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cyndi Lauper. b. 1953 | music_artist, actress, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0490980/\n_search: Cyndi Lauper | Vibes | Mad About You | The Goonies | The Adam Project",
+  "id": "bw-p-nm0490980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cyndi Lauper",
+  "type": "task"
+}

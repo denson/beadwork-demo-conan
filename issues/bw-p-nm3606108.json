@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Jones. b. 1987 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3606108/\n_search: Jon Jones | Edo's Crossing | The Cage | UFC 285 Embedded: Vlog Series | UFC 200 Greatest Fighters of All Time",
+  "id": "bw-p-nm3606108",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Jones",
+  "type": "task"
+}

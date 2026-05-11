@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Queenan. b. 1950 | writer, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0703095/\n_search: Joe Queenan | Twelve Steps to Death | Top Hate | The Counterfeit Moron | Beatles '64",
+  "id": "bw-p-nm0703095",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Queenan",
+  "type": "task"
+}

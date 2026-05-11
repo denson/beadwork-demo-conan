@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Customer Electronic Show with Bill Gates. late_night, S12E184, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1001018/\n_search: Customer Electronic Show with Bill Gates | 2005 | S12E184",
+  "id": "bw-e-tt1001018",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Customer Electronic Show with Bill Gates",
+  "type": "task"
+}

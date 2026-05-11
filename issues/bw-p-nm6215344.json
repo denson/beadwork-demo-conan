@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamestown Revival. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6215344/\n_search: Jamestown Revival | Bones | The Hills I Call Home | The Chef's Classic",
+  "id": "bw-p-nm6215344",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamestown Revival",
+  "type": "task"
+}

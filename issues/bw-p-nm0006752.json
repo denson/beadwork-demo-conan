@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Allen. 1921–2000 | writer, actor, producer.\nDECEASED (1921–2000). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0006752/\n_search: Steve Allen | The Benny Goodman Story | Casino | The Player | College Confidential",
+  "id": "bw-p-nm0006752",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Allen",
+  "type": "task"
+}

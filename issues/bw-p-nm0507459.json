@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lennox Lewis. b. 1965 | actor, producer, archive_footage.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0507459/\n_search: Lennox Lewis | Ocean's Eleven | Johnny Was | Unt. Lennox Boxing Competition Project | Lifted",
+  "id": "bw-p-nm0507459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lennox Lewis",
+  "type": "task"
+}

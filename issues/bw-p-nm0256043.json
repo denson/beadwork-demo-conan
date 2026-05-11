@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rahm Emanuel. b. 1959 | actor, executive, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0256043/\n_search: Rahm Emanuel | Madzilla! | Tony \u0026 Janina's American Wedding | Chicago Med | Chicago Fire",
+  "id": "bw-p-nm0256043",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rahm Emanuel",
+  "type": "task"
+}

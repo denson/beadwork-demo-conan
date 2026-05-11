@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nancy Sinatra. b. 1940 | actress, music_department, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005434/\n_search: Nancy Sinatra | Kill Bill: Vol. 1 | Speedway | You Only Live Twice | The Ghost in the Invisible Bikini",
+  "id": "bw-p-nm0005434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nancy Sinatra",
+  "type": "task"
+}

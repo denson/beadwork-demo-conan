@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eli Wallach. 1915–2014 | actor, producer, miscellaneous.\nDECEASED (1915–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0908919/\n_search: Eli Wallach | The Good, the Bad and the Ugly | The Magnificent Seven | Baby Doll | The Holiday",
+  "id": "bw-p-nm0908919",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eli Wallach",
+  "type": "task"
+}

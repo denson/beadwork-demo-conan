@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Allen. b. 1953 | actor, producer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000741/\n_search: Tim Allen | Toy Story | Home Improvement | Galaxy Quest | The Santa Clause 3: The Escape Clause",
+  "id": "bw-p-nm0000741",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Allen",
+  "type": "task"
+}

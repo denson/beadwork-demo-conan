@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dino Stamatopoulos. b. 1964 | writer, producer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0821786/\n_search: Dino Stamatopoulos | Community | Mary Shelley's Frankenhole | Mr. Show with Bob and David | Anomalisa",
+  "id": "bw-p-nm0821786",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dino Stamatopoulos",
+  "type": "task"
+}

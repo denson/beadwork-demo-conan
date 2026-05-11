@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joyce Brothers. 1927–2013 | actress, miscellaneous, archive_footage.\nDECEASED (1927–2013). Conan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0112579/\n_search: Joyce Brothers | Loaded Weapon 1 | The King of Comedy | Spy Hard | Van Wilder",
+  "id": "bw-p-nm0112579",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joyce Brothers",
+  "type": "task"
+}

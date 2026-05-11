@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Adomian. b. 1980 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1894391/\n_search: James Adomian | Harold \u0026 Kumar Escape from Guantanamo Bay | Trunk'd | California's Lost Gold | Maron in Space",
+  "id": "bw-p-nm1894391",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Adomian",
+  "type": "task"
+}

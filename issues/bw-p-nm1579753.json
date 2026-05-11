@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Whitney Cummings. b. 1982 | writer, actress, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1579753/\n_search: Whitney Cummings | Whitney | Made of Honor | The Ridiculous 6 | The Wedding Ringer",
+  "id": "bw-p-nm1579753",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Whitney Cummings",
+  "type": "task"
+}

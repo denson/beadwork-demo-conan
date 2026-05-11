@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carl Reiner. 1922–2020 | writer, producer, actor.\nDECEASED (1922–2020). Conan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0005348/\n_search: Carl Reiner | The Dick Van Dyke Show | Ocean's Eleven | The Jerk | Ocean's Thirteen",
+  "id": "bw-p-nm0005348",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carl Reiner",
+  "type": "task"
+}

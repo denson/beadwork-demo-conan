@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Paulson. b. 1974 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005299/\n_search: Sarah Paulson | 12 Years a Slave | Run | American Horror Story | Glass",
+  "id": "bw-p-nm0005299",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Paulson",
+  "type": "task"
+}

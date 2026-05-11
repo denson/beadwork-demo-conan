@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonah Hill. b. 1983 | actor, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm1706767/\n_search: Jonah Hill | 22 Jump Street | 21 Jump Street | The Wolf of Wall Street | Moneyball",
+  "id": "bw-p-nm1706767",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonah Hill",
+  "type": "task"
+}

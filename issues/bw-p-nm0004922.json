@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Schuyler Fisk. b. 1982 | actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004922/\n_search: Schuyler Fisk | Orange County | Snow Day | The Best of Me | Restless",
+  "id": "bw-p-nm0004922",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Schuyler Fisk",
+  "type": "task"
+}

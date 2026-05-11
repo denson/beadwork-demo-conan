@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Kiedis. b. 1962 | actor, composer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0452347/\n_search: Anthony Kiedis | Point Break | Twister | Say Anything | Flight",
+  "id": "bw-p-nm0452347",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Kiedis",
+  "type": "task"
+}

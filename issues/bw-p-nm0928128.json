@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phillip Wilburn. actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0928128/\n_search: Phillip Wilburn | Jimmy Kimmel Live! | Adam Ruins Everything | How I Met Your Mother",
+  "id": "bw-p-nm0928128",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phillip Wilburn",
+  "type": "task"
+}

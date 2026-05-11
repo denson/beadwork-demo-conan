@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Armie Hammer/Niecy Nash/Leon Bridges. conan_tbs, S5E122, 2015.\nIMDb: https://www.imdb.com/title/tt4859144/\n_search: Armie Hammer/Niecy Nash/Leon Bridges | 2015 | S5E122",
+  "id": "bw-e-tt4859144",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Armie Hammer/Niecy Nash/Leon Bridges",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aidan Quinn. b. 1959 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001644/\n_search: Aidan Quinn | Legends of the Fall | Desperately Seeking Susan | The Mission | Michael Collins",
+  "id": "bw-p-nm0001644",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aidan Quinn",
+  "type": "task"
+}

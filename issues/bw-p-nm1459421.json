@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Floyd Mayweather Jr.. b. 1977 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1459421/\n_search: Floyd Mayweather Jr. | The Boy | Arli$$ | Think Like a Man Too | All-Star Weekend",
+  "id": "bw-p-nm1459421",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Floyd Mayweather Jr.",
+  "type": "task"
+}

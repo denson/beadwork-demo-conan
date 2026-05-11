@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leona Lewis. b. 1985 | music_artist, actress, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2452244/\n_search: Leona Lewis | Avatar | No Strings Attached | Sex and the City 2 | Walking on Sunshine",
+  "id": "bw-p-nm2452244",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leona Lewis",
+  "type": "task"
+}

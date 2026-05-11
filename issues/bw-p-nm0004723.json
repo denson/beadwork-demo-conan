@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tyra Banks. b. 1973 | producer, writer, actress.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0004723/\n_search: Tyra Banks | Coyote Ugly | Tropic Thunder | America's Next Top Model | Love \u0026 Basketball",
+  "id": "bw-p-nm0004723",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tyra Banks",
+  "type": "task"
+}

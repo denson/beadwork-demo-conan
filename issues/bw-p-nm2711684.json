@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Flecktones. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2711684/\n_search: The Flecktones | Home Fries | Married... with Children | Rabbit Ears: The Creation | WoodSongs Old-Time Radio Hour",
+  "id": "bw-p-nm2711684",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Flecktones",
+  "type": "task"
+}

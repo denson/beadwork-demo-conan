@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Bakay. b. 1959 | producer, actor, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0048169/\n_search: Nick Bakay | Sabrina the Teenage Witch | Paul Blart: Mall Cop 2 | Zookeeper | The Angry Beavers",
+  "id": "bw-p-nm0048169",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Bakay",
+  "type": "task"
+}

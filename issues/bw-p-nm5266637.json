@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pentatonix. music_artist, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5266637/\n_search: Pentatonix | The Grinch | Pitch Perfect 2 | Daddy's Home 2 | Bones",
+  "id": "bw-p-nm5266637",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pentatonix",
+  "type": "task"
+}

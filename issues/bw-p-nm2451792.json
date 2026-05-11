@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Scott Jenkins. actor, producer, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2451792/\n_search: Jason Scott Jenkins | American Horror Story | Future Man | Miracle Workers | Shameless",
+  "id": "bw-p-nm2451792",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Scott Jenkins",
+  "type": "task"
+}

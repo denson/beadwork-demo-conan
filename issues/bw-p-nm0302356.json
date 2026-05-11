@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Gallagher. b. 1985 | actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0302356/\n_search: David Gallagher | 7th Heaven | Look Who's Talking Now | Super 8 | Kingdom Hearts 3D: Dream Drop Distance",
+  "id": "bw-p-nm0302356",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Gallagher",
+  "type": "task"
+}

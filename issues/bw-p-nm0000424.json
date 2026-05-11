@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Grant. b. 1960 | actor, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000424/\n_search: Hugh Grant | Love Actually | About a Boy | Four Weddings and a Funeral | Notting Hill",
+  "id": "bw-p-nm0000424",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Grant",
+  "type": "task"
+}

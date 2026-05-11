@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amber Heard. b. 1986 | actress, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1720028/\n_search: Amber Heard | Aquaman | The Rum Diary | 3 Days to Kill | Drive Angry",
+  "id": "bw-p-nm1720028",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amber Heard",
+  "type": "task"
+}

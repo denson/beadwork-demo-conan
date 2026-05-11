@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "William Safire. 1929–2009 | writer, archive_footage.\nDECEASED (1929–2009). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1262102/\n_search: William Safire | In Event of Moon Disaster | The Trials of Henry Kissinger | Al Franken: God Spoke | The Story of English",
+  "id": "bw-p-nm1262102",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "William Safire",
+  "type": "task"
+}

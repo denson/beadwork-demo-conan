@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlize Theron/Jerry Springer/Everclear. late_night, S6E35, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627176/\n_search: Charlize Theron/Jerry Springer/Everclear | 1998 | S6E35",
+  "id": "bw-e-tt0627176",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlize Theron/Jerry Springer/Everclear",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Foudy. b. 1971 | producer, actress, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1555433/\n_search: Julie Foudy | This Girl Wears Cleats | 30 for 30 Shorts | FIFA 2001: Major League Soccer | Heroics",
+  "id": "bw-p-nm1555433",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Foudy",
+  "type": "task"
+}

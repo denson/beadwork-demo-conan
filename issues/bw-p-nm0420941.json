@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patty Jenkins. b. 1971 | director, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0420941/\n_search: Patty Jenkins | Wonder Woman | Monster | The Killing | Arrested Development",
+  "id": "bw-p-nm0420941",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patty Jenkins",
+  "type": "task"
+}

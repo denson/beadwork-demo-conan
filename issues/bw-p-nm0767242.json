@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrea Savage. actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0767242/\n_search: Andrea Savage | I'm Sorry | Veep | Step Brothers | Episodes",
+  "id": "bw-p-nm0767242",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrea Savage",
+  "type": "task"
+}

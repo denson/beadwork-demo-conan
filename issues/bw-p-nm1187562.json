@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Girardi. production_manager, miscellaneous, production_designer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1187562/\n_search: Peter Girardi | Minoriteam | Saul of the Mole Men | Young Person's Guide to History | Harley Quinn",
+  "id": "bw-p-nm1187562",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Girardi",
+  "type": "task"
+}

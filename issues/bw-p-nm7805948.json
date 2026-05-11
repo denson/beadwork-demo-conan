@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Buckshot LeFonque. actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7805948/\n_search: Buckshot LeFonque | Late Show with David Letterman",
+  "id": "bw-p-nm7805948",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Buckshot LeFonque",
+  "type": "task"
+}

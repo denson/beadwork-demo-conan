@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Broderick/Michael Chiklis/David Feldman. late_night, S7E107, 2000.\nRuntime: 57 min.\nIMDb rating: 1.6.\nIMDb: https://www.imdb.com/title/tt0627361/\n_search: Matthew Broderick/Michael Chiklis/David Feldman | 2000 | S7E107",
+  "id": "bw-e-tt0627361",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Broderick/Michael Chiklis/David Feldman",
+  "type": "task"
+}

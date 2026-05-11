@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Brobdingnagian Abyssinian. conan_tbs, S1E83, 2011.\nRuntime: 60 min.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt1893592/\n_search: The Brobdingnagian Abyssinian | 2011 | S1E83",
+  "id": "bw-e-tt1893592",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Brobdingnagian Abyssinian",
+  "type": "task"
+}

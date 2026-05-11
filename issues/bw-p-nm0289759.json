@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Frampton. b. 1950 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0289759/\n_search: Peter Frampton | Sgt. Pepper's Lonely Hearts Club Band | Almost Famous | Dazed and Confused | Reality Bites",
+  "id": "bw-p-nm0289759",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Frampton",
+  "type": "task"
+}

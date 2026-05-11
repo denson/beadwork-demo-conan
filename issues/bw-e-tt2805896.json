@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mayor Giuliani/Jennifer Aniston/Alison Krauss. late_night, S2E105, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2805896/\n_search: Mayor Giuliani/Jennifer Aniston/Alison Krauss | 1995 | S2E105",
+  "id": "bw-e-tt2805896",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mayor Giuliani/Jennifer Aniston/Alison Krauss",
+  "type": "task"
+}

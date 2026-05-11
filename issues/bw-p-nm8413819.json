@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike 'McDuck' Olson. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8413819/\n_search: Mike 'McDuck' Olson | Late Show with David Letterman | The Ellen DeGeneres Show | The Late Show with Stephen Colbert | Today",
+  "id": "bw-p-nm8413819",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike 'McDuck' Olson",
+  "type": "task"
+}

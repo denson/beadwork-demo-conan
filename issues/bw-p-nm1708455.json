@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Herb Stempel. 1926–2020 | miscellaneous, archive_footage.\nDECEASED (1926–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1708455/\n_search: Herb Stempel | Quiz Show | Twenty-One | Archive of American Television | E! Mysteries \u0026 Scandals",
+  "id": "bw-p-nm1708455",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Herb Stempel",
+  "type": "task"
+}

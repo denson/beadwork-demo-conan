@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason-Shane Scott. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0779292/\n_search: Jason-Shane Scott | Famous in Love | One Life to Live | Dead to Me | Fatal Affair",
+  "id": "bw-p-nm0779292",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason-Shane Scott",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Monique Edwards. actress, producer, script_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0006720/\n_search: Monique Edwards | Lady Bird | The Social Network | How I Met Your Mother | Chicago Hope",
+  "id": "bw-p-nm0006720",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Monique Edwards",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Simpsons Writers Reunion. jibber_jabber, S1E5, 2013.\nIMDb rating: 8.4.\nIMDb: https://www.imdb.com/title/tt12168820/\n_search: The Simpsons Writers Reunion | 2013 | S1E5",
+  "id": "bw-e-tt12168820",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Simpsons Writers Reunion",
+  "type": "task"
+}

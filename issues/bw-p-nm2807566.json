@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Black Lips. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2807566/\n_search: Black Lips | Scott Pilgrim vs. the World | 500 Days of Summer | What to Expect When You're Expecting | The Kissing Booth",
+  "id": "bw-p-nm2807566",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Black Lips",
+  "type": "task"
+}

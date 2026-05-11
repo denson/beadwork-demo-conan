@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Fab Faux. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3127964/\n_search: The Fab Faux",
+  "id": "bw-p-nm3127964",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Fab Faux",
+  "type": "task"
+}

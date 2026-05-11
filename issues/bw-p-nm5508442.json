@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clarisse Abelarde. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5508442/\n_search: Clarisse Abelarde",
+  "id": "bw-p-nm5508442",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clarisse Abelarde",
+  "type": "task"
+}

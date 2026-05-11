@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elizabeth Mitchell. b. 1970 | actress, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0593310/\n_search: Elizabeth Mitchell | The Purge: Election Year | Running Scared | Frequency | Lost",
+  "id": "bw-p-nm0593310",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elizabeth Mitchell",
+  "type": "task"
+}

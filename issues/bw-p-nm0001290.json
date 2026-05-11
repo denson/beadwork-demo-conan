@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard E. Grant. b. 1957 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001290/\n_search: Richard E. Grant | Gosford Park | Can You Ever Forgive Me? | Hudson Hawk | Saltburn",
+  "id": "bw-p-nm0001290",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard E. Grant",
+  "type": "task"
+}

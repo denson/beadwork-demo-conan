@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dennis Quaid. b. 1954 | actor, producer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0000598/\n_search: Dennis Quaid | Far from Heaven | The Day After Tomorrow | Frequency | Innerspace",
+  "id": "bw-p-nm0000598",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dennis Quaid",
+  "type": "task"
+}

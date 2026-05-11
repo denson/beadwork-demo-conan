@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Ullberg. producer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1742570/\n_search: Adam Ullberg | I Love New York | Bridezillas | The Almost Impossible Gameshow | Stove Tots",
+  "id": "bw-p-nm1742570",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Ullberg",
+  "type": "task"
+}

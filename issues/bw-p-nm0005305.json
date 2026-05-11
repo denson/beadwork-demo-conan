@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Piper Perabo. b. 1976 | actor, actress, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005305/\n_search: Piper Perabo | Coyote Ugly | Yellowstone | The Prestige | Covert Affairs",
+  "id": "bw-p-nm0005305",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Piper Perabo",
+  "type": "task"
+}

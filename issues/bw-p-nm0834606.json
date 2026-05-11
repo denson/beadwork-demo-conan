@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sherry Stringfield. b. 1967 | actress, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0834606/\n_search: Sherry Stringfield | ER | The Stepfather | 54 | Guiding Light",
+  "id": "bw-p-nm0834606",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sherry Stringfield",
+  "type": "task"
+}

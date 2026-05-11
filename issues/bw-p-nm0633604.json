@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Noble. b. 1948 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0633604/\n_search: John Noble | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Two Towers | Running Scared | Fringe",
+  "id": "bw-p-nm0633604",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Noble",
+  "type": "task"
+}

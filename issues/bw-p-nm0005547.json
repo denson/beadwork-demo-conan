@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alexandra Wentworth. b. 1965 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005547/\n_search: Alexandra Wentworth | It's Complicated | Jerry Maguire | Nightcap | Office Space",
+  "id": "bw-p-nm0005547",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alexandra Wentworth",
+  "type": "task"
+}

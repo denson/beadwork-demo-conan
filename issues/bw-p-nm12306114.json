@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shawn Thayer. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm12306114/\n_search: Shawn Thayer",
+  "id": "bw-p-nm12306114",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shawn Thayer",
+  "type": "task"
+}

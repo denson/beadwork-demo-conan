@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eddie Napolillo. b. 1965 | actor, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1822410/\n_search: Eddie Napolillo | Sangre Negra... Black Blood | Movie 43 | Sangre Negra",
+  "id": "bw-p-nm1822410",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eddie Napolillo",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Parry. b. 1969 | director, writer, art_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1942896/\n_search: Bruce Parry | Going Tribal | Amazon | Tawai: A Voice from the Forest | Cannibals and Crampons",
+  "id": "bw-p-nm1942896",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Parry",
+  "type": "task"
+}

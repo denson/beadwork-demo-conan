@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Decline of Dee Klein. conan_tbs, S1E131, 2011.\nRuntime: 60 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt2016429/\n_search: The Decline of Dee Klein | 2011 | S1E131",
+  "id": "bw-e-tt2016429",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Decline of Dee Klein",
+  "type": "task"
+}

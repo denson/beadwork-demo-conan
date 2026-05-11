@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ivan Neville. b. 1959 | actor, music_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0627447/\n_search: Ivan Neville | Pump Up the Volume | My Stepmother Is an Alien | A Little Bit of Heaven | Captain America",
+  "id": "bw-p-nm0627447",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ivan Neville",
+  "type": "task"
+}

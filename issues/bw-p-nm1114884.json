@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelly Osbourne. b. 1984 | actress, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1114884/\n_search: Kelly Osbourne | Austin Powers in Goldmember | The 7D | So Undercover | Life as We Know It",
+  "id": "bw-p-nm1114884",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelly Osbourne",
+  "type": "task"
+}

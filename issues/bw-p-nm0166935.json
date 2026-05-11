@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roger Clinton. b. 1956 | actor, production_department, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0166935/\n_search: Roger Clinton | Fred Claus | Pumpkinhead II: Blood Wings | Spy Hard | Bio-Dome",
+  "id": "bw-p-nm0166935",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roger Clinton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Molly Shannon/Aaron Sorkin/Mo Welch. conan_tbs, S8E23, 2018.\nRuntime: 42 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt7857342/\n_search: Molly Shannon/Aaron Sorkin/Mo Welch | 2018 | S8E23",
+  "id": "bw-e-tt7857342",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Molly Shannon/Aaron Sorkin/Mo Welch",
+  "type": "task"
+}

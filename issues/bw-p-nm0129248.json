@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thomas Calabro. b. 1959 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0129248/\n_search: Thomas Calabro | Melrose Place | The Last Ship | The Bay | Dream Street",
+  "id": "bw-p-nm0129248",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thomas Calabro",
+  "type": "task"
+}

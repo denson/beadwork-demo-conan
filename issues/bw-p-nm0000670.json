@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lea Thompson. b. 1961 | actress, director, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000670/\n_search: Lea Thompson | Back to the Future | The Year of Spectacular Men | The Trouble with the Truth | Switched at Birth",
+  "id": "bw-p-nm0000670",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lea Thompson",
+  "type": "task"
+}

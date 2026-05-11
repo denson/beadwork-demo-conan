@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lester Holt/Sue Johanson/Ingrid Michaelson. late_night, S15E47, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1177605/\n_search: Lester Holt/Sue Johanson/Ingrid Michaelson | 2008 | S15E47",
+  "id": "bw-e-tt1177605",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lester Holt/Sue Johanson/Ingrid Michaelson",
+  "type": "task"
+}

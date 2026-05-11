@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Andriano. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1927753/\n_search: Dan Andriano | Scream | V/H/S | Cursed | Devil's Due",
+  "id": "bw-p-nm1927753",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Andriano",
+  "type": "task"
+}

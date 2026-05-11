@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zach Irons. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7749806/\n_search: Zach Irons | The Navigator Live | Analog in Vienna",
+  "id": "bw-p-nm7749806",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zach Irons",
+  "type": "task"
+}

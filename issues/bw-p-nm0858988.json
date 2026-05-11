@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Thomas. 1948–2017 | actor, writer, producer.\nDECEASED (1948–2017). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0858988/\n_search: Jay Thomas | Mr. Holland's Opus | The Santa Clause 3: The Escape Clause | The Santa Clause 2 | Murphy Brown",
+  "id": "bw-p-nm0858988",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Thomas",
+  "type": "task"
+}

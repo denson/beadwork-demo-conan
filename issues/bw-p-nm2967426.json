@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen Curry. b. 1988 | producer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2967426/\n_search: Stephen Curry | The Baddest Speechwriter of All | Finding Forrester | Off Fairfax | Breakthrough",
+  "id": "bw-p-nm2967426",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen Curry",
+  "type": "task"
+}

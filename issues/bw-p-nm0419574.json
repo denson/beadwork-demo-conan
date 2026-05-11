@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Oakerson. b. 1977 | writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0419574/\n_search: Jay Oakerson | Isn't It Romantic | Hustlers | Louie | Dave's Old Porn",
+  "id": "bw-p-nm0419574",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Oakerson",
+  "type": "task"
+}

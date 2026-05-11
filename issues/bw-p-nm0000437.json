@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Woody Harrelson. b. 1961 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000437/\n_search: Woody Harrelson | True Detective | The People vs. Larry Flynt | Natural Born Killers | Three Billboards Outside Ebbing, Missouri",
+  "id": "bw-p-nm0000437",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Woody Harrelson",
+  "type": "task"
+}

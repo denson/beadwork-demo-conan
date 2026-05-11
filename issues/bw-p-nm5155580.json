@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Wright. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5155580/\n_search: David Wright | Insane Coaster Wars",
+  "id": "bw-p-nm5155580",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Wright",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Oh Wonder. music_department, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7838901/\n_search: Oh Wonder | Collide | Unforgotten | Scream: The TV Series | Schloss Einstein",
+  "id": "bw-p-nm7838901",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Oh Wonder",
+  "type": "task"
+}

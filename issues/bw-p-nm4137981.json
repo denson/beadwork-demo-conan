@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ian Karmel. writer, actor, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4137981/\n_search: Ian Karmel | Carpool Karaoke: When Corden Met McCartney Live From Liverpool | Conan O'Brien: The Kennedy Center Mark Twain Prize for American Humor | 82nd Golden Globe Awards | The 70th Annual Tony Awards",
+  "id": "bw-p-nm4137981",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ian Karmel",
+  "type": "task"
+}

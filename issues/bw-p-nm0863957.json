@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Tingle. b. 1955 | actor, director, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0863957/\n_search: Jimmy Tingle | The Boondock Saints | Head of State | Next Stop Wonderland | Why Would a Comedian Run for Office?",
+  "id": "bw-p-nm0863957",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Tingle",
+  "type": "task"
+}

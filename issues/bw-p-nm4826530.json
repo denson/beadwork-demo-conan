@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lindsey Stirling. b. 1986 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4826530/\n_search: Lindsey Stirling | Pete's Dragon | A Ghost Story | The Old Man \u0026 the Gun | The Knight Before Christmas",
+  "id": "bw-p-nm4826530",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lindsey Stirling",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Duraso. actor, art_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3421567/\n_search: Paul Duraso | There Will Be Brawl | ACME Saturday Night | The Price of Air | The Hot 10",
+  "id": "bw-p-nm3421567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Duraso",
+  "type": "task"
+}

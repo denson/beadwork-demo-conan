@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Hogan. b. 1939 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001357/\n_search: Paul Hogan | Crocodile Dundee | Crocodile Dundee II | Crocodile Dundee in Los Angeles | Almost an Angel",
+  "id": "bw-p-nm0001357",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Hogan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackson Browne. b. 1948 | music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0115010/\n_search: Jackson Browne | Fast Times at Ridgemont High | Walk Hard: The Dewey Cox Story | Forrest Gump | RED",
+  "id": "bw-p-nm0115010",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackson Browne",
+  "type": "task"
+}

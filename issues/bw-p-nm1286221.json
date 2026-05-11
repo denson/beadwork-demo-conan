@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tracy Austin. b. 1962 | miscellaneous, actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1286221/\n_search: Tracy Austin | Scarecrow and Mrs. King | Mork \u0026 Mindy | Arli$$ | Phenom",
+  "id": "bw-p-nm1286221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tracy Austin",
+  "type": "task"
+}

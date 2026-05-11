@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Pietz. b. 1969 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0682970/\n_search: Amy Pietz | Paradise | Elle | The Office | Curb Your Enthusiasm",
+  "id": "bw-p-nm0682970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Pietz",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sheldon 'Shay' Haley. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1571610/\n_search: Sheldon 'Shay' Haley | The SpongeBob Movie: Sponge Out of Water | 90210 | Saturday Night Live | Top of the Pops",
+  "id": "bw-p-nm1571610",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sheldon 'Shay' Haley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harry Connick Jr./David Sedaris/Sarah McLachlan. late_night, S1E193, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2721790/\n_search: Harry Connick Jr./David Sedaris/Sarah McLachlan | 1994 | S1E193",
+  "id": "bw-e-tt2721790",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harry Connick Jr./David Sedaris/Sarah McLachlan",
+  "type": "task"
+}

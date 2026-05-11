@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maureen McCormick. b. 1956 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0566572/\n_search: Maureen McCormick | The Brady Bunch | The Brady Bunch Variety Hour | Aileron | Teen Angel",
+  "id": "bw-p-nm0566572",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maureen McCormick",
+  "type": "task"
+}

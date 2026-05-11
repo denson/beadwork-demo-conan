@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phish. music_department, sound_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1574735/\n_search: Phish | Colorado Inside Out | Bank Roll | Car Babes | Around the Fire",
+  "id": "bw-p-nm1574735",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phish",
+  "type": "task"
+}

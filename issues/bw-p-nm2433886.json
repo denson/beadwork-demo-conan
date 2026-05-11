@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Arthur Napiontek. b. 1987 | actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2433886/\n_search: Arthur Napiontek | Pineapple Express | Mulaney",
+  "id": "bw-p-nm2433886",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Arthur Napiontek",
+  "type": "task"
+}

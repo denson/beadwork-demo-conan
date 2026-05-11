@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barry Humphries. 1934–2023 | actor, writer, producer.\nDECEASED (1934–2023). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0402032/\n_search: Barry Humphries | The Hobbit: An Unexpected Journey | Finding Nemo | Nicholas Nickleby | Shock Treatment",
+  "id": "bw-p-nm0402032",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barry Humphries",
+  "type": "task"
+}

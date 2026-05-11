@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Todd Kerns. b. 1969 | actor, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0449608/\n_search: Todd Kerns | Taming Tammy | Horsey | Heels | The Red Fury",
+  "id": "bw-p-nm0449608",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Todd Kerns",
+  "type": "task"
+}

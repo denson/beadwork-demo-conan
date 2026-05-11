@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Curtis '50 Cent' Jackson/Anders Holm/Father John Misty. conan_tbs, S5E118, 2015.\nIMDb: https://www.imdb.com/title/tt4844560/\n_search: Curtis '50 Cent' Jackson/Anders Holm/Father John Misty | 2015 | S5E118",
+  "id": "bw-e-tt4844560",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Curtis '50 Cent' Jackson/Anders Holm/Father John Misty",
+  "type": "task"
+}

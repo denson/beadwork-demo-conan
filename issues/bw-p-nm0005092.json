@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry King. 1933–2021 | producer, actor, writer.\nDECEASED (1933–2021). Conan-show appearances: 16\nIMDb: https://www.imdb.com/name/nm0005092/\n_search: Larry King | Ghostbusters | Bee Movie | Enemy of the State | Dave",
+  "id": "bw-p-nm0005092",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry King",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clark Duke. actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0241173/\n_search: Clark Duke | Arkansas | Hot Tub Time Machine | Kick-Ass | The Office",
+  "id": "bw-p-nm0241173",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clark Duke",
+  "type": "task"
+}

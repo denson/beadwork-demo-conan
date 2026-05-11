@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Denise Richards. b. 1971 | actress, producer, executive.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000612/\n_search: Denise Richards | The World Is Not Enough | Starship Troopers | Wild Things | Love Actually",
+  "id": "bw-p-nm0000612",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Denise Richards",
+  "type": "task"
+}

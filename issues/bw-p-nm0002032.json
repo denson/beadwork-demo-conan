@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roger Daltrey. b. 1944 | music_artist, actor, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0002032/\n_search: Roger Daltrey | Lisztomania | Tommy | Mack the Knife | The Lost Boys",
+  "id": "bw-p-nm0002032",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roger Daltrey",
+  "type": "task"
+}

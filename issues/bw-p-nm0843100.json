@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wanda Sykes. b. 1964 | actress, producer, writer.\nConan-show appearances: 16 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0843100/\n_search: Wanda Sykes | Monster-in-Law | Ice Age: Continental Drift | Bad Moms | Evan Almighty",
+  "id": "bw-p-nm0843100",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wanda Sykes",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allan Houston. b. 1971 | actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0396796/\n_search: Allan Houston | Laws of Attraction | Black \u0026 White | The Yards | Blue Chips",
+  "id": "bw-p-nm0396796",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allan Houston",
+  "type": "task"
+}

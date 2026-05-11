@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Thomas. b. 1949 | writer, actor, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0858686/\n_search: Dave Thomas | The Blacklist | Arrested Development | Bones | Rat Race",
+  "id": "bw-p-nm0858686",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Thomas",
+  "type": "task"
+}

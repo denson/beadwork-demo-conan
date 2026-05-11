@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Superman Vs. Batman Vs. The Local Cape-Launderers Union. conan_tbs, S4E26, 2014.\nIMDb: https://www.imdb.com/title/tt3453400/\n_search: Superman Vs. Batman Vs. The Local Cape-Launderers Union | 2014 | S4E26",
+  "id": "bw-e-tt3453400",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Superman Vs. Batman Vs. The Local Cape-Launderers Union",
+  "type": "task"
+}

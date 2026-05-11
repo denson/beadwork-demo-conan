@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nina Hellman. b. 1967 | actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0375495/\n_search: Nina Hellman | Role Models | Wet Hot American Summer | Wanderlust | The King of Staten Island",
+  "id": "bw-p-nm0375495",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nina Hellman",
+  "type": "task"
+}

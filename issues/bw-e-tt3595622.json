@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fran Drescher/James McDaniel/Everything But The Girl. late_night, S3E141, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3595622/\n_search: Fran Drescher/James McDaniel/Everything But The Girl | 1996 | S3E141",
+  "id": "bw-e-tt3595622",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fran Drescher/James McDaniel/Everything But The Girl",
+  "type": "task"
+}

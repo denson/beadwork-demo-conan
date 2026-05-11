@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Miguel Ferrer. 1955–2017 | actor, director, cinematographer.\nDECEASED (1955–2017). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001208/\n_search: Miguel Ferrer | Crossing Jordan | Traffic | Twin Peaks: Fire Walk with Me | RoboCop",
+  "id": "bw-p-nm0001208",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Miguel Ferrer",
+  "type": "task"
+}

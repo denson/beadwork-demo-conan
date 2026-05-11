@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Louis-Dreyfus/Bradley Cooper/Sheryl Crow. tonight_show, S1E3, 2009.\nRuntime: 62 min.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt1445992/\n_search: Julia Louis-Dreyfus/Bradley Cooper/Sheryl Crow | 2009 | S1E3",
+  "id": "bw-e-tt1445992",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Louis-Dreyfus/Bradley Cooper/Sheryl Crow",
+  "type": "task"
+}

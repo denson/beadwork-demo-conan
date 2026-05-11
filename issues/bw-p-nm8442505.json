@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathan Stocker. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8442505/\n_search: Nathan Stocker | To All the Boys: Always and Forever | Boys at Twenty | The Cartographer",
+  "id": "bw-p-nm8442505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathan Stocker",
+  "type": "task"
+}

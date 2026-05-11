@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Ginger Went Down to Georgia. conan_tbs, S3E66, 2013.\nIMDb: https://www.imdb.com/title/tt2814122/\n_search: The Ginger Went Down to Georgia | 2013 | S3E66",
+  "id": "bw-e-tt2814122",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Ginger Went Down to Georgia",
+  "type": "task"
+}

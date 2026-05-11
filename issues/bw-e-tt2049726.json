@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Title the Announcer Didn't Read Right. conan_tbs, S1E139, 2011.\nRuntime: 60 min.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt2049726/\n_search: The Title the Announcer Didn't Read Right | 2011 | S1E139",
+  "id": "bw-e-tt2049726",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Title the Announcer Didn't Read Right",
+  "type": "task"
+}

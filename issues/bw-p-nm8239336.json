@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mattie Zufelt. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm8239336/\n_search: Mattie Zufelt | Spring Break Zombie Massacre | Best Summer Ever | Willie, Jamaley \u0026 The Cacacoon | Sam \u0026 Mattie Make a Zombie Movie",
+  "id": "bw-p-nm8239336",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mattie Zufelt",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Chavez. b. 1969 | actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1915187/\n_search: Johnny Chavez | Twin Peaks | No Time for Goodbye | NCIS | The Event",
+  "id": "bw-p-nm1915187",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Chavez",
+  "type": "task"
+}

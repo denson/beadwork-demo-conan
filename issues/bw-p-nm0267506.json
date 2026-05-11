@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Faris. b. 1976 | actress, producer, writer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0267506/\n_search: Anna Faris | The House Bunny | Just Friends | Scary Movie | Brokeback Mountain",
+  "id": "bw-p-nm0267506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Faris",
+  "type": "task"
+}

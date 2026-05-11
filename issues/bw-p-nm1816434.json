@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Big \u0026 Rich. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1816434/\n_search: Big \u0026 Rich | Footloose | Magic Mike | 72hrs the Hague: Western | Saving Grace",
+  "id": "bw-p-nm1816434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Big \u0026 Rich",
+  "type": "task"
+}

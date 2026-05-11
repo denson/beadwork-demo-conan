@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Capital Cities. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5706927/\n_search: Capital Cities | Toni Erdmann | Tammy | Office Christmas Party | One Small Hitch",
+  "id": "bw-p-nm5706927",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Capital Cities",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Citizen King. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3058871/\n_search: Citizen King | Mystery Men | The Animal | The Specials | Charmed",
+  "id": "bw-p-nm3058871",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Citizen King",
+  "type": "task"
+}

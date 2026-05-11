@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Cave. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8793912/\n_search: Sam Cave | Fantastic Four | Tony Hawk's Underground 2 | Cars: The Video Game | Midnight Club 3: DUB Edition",
+  "id": "bw-p-nm8793912",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Cave",
+  "type": "task"
+}

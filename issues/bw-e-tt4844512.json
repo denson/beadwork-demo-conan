@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Stars of The Hunger Games: Mockingjay - Part 2. conan_tbs, S5E113, 2015.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt4844512/\n_search: The Stars of The Hunger Games: Mockingjay - Part 2 | 2015 | S5E113",
+  "id": "bw-e-tt4844512",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Stars of The Hunger Games: Mockingjay - Part 2",
+  "type": "task"
+}

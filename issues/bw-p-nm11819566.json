@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cynthia Yee. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11819566/\n_search: Cynthia Yee | Strange Trips",
+  "id": "bw-p-nm11819566",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cynthia Yee",
+  "type": "task"
+}

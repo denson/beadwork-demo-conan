@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cynthia Garrett. b. 1964 | actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004952/\n_search: Cynthia Garrett | This Revolution | The God Man | Jerry Lewis MDA Labor Day Telethon | Crowned: The Mother of All Pageants",
+  "id": "bw-p-nm0004952",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cynthia Garrett",
+  "type": "task"
+}

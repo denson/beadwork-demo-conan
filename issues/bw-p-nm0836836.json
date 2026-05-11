@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeremy Suarez. b. 1990 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0836836/\n_search: Jeremy Suarez | Brother Bear | Jerry Maguire | Angry Video Game Nerd: The Movie | The Bernie Mac Show",
+  "id": "bw-p-nm0836836",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeremy Suarez",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Fisher. 1929–2018 | writer, script_department, miscellaneous.\nDECEASED (1929–2018). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0279453/\n_search: David Fisher | Fox Mystery Theater | Doctor Who | Search and Rescue: The Alpha Team | Made Man",
+  "id": "bw-p-nm0279453",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Fisher",
+  "type": "task"
+}

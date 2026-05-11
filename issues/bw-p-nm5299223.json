@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Logan Davis. composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5299223/\n_search: Logan Davis | Catwalk Kings | Austin City Limits | Late Show with David Letterman | Big Morning Buzz Live",
+  "id": "bw-p-nm5299223",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Logan Davis",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Michael Hall. b. 1968 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001309/\n_search: Anthony Michael Hall | War Machine | Live by Night | Foxcatcher | The Dark Knight",
+  "id": "bw-p-nm0001309",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Michael Hall",
+  "type": "task"
+}

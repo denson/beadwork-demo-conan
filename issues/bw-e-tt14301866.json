@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Jeffrey Dean Morgan. conan_tbs, S11E33, ?.\nIMDb: https://www.imdb.com/title/tt14301866/\n_search: From Largo Theatre Jeffrey Dean Morgan |  | S11E33",
+  "id": "bw-e-tt14301866",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Jeffrey Dean Morgan",
+  "type": "task"
+}

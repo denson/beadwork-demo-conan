@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Segal. 1924–2000 | actor.\nDECEASED (1924–2000). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1034255/\n_search: George Segal | Unstrap Me | House of the White People | Masters of Modern Sculpture Part III: The New World | George Segal",
+  "id": "bw-p-nm1034255",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Segal",
+  "type": "task"
+}

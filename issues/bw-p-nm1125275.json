@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Benioff. b. 1970 | writer, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1125275/\n_search: David Benioff | Game of Thrones | The Kite Runner | 25th Hour | 3 Body Problem",
+  "id": "bw-p-nm1125275",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Benioff",
+  "type": "task"
+}

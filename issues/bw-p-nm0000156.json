@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Goldblum. b. 1952 | actor, producer, writer.\nConan-show appearances: 24\nIMDb: https://www.imdb.com/name/nm0000156/\n_search: Jeff Goldblum | Jurassic Park | The Fly | The Grand Budapest Hotel | Independence Day",
+  "id": "bw-p-nm0000156",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Goldblum",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "In the Valley Below. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5914010/\n_search: In the Valley Below | Endless Love | Not My Day | The Pink Chateau | Lay It on Me",
+  "id": "bw-p-nm5914010",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "In the Valley Below",
+  "type": "task"
+}

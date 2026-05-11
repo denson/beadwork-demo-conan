@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Craig Bierko. b. 1964 | actor, writer, soundtrack.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0081572/\n_search: Craig Bierko | The Thirteenth Floor | The Long Kiss Goodnight | Scary Movie 4 | Cinderella Man",
+  "id": "bw-p-nm0081572",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Craig Bierko",
+  "type": "task"
+}

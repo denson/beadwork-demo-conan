@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cesar Placeres. music_department, sound_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm13087602/\n_search: Cesar Placeres | Return to Return to Nuke 'Em High Aka Vol. 2 | Return to Nuke 'Em High Volume 1 | Sweet 15: Quinceañera",
+  "id": "bw-p-nm13087602",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cesar Placeres",
+  "type": "task"
+}

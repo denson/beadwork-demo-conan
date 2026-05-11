@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandon T. Jackson. b. 1984 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1040365/\n_search: Brandon T. Jackson | Tropic Thunder | Percy Jackson \u0026 the Olympians: The Lightning Thief | Percy Jackson: Sea of Monsters | Roll Bounce",
+  "id": "bw-p-nm1040365",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandon T. Jackson",
+  "type": "task"
+}

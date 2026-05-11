@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Motion City Soundtrack. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2163218/\n_search: Motion City Soundtrack | John Tucker Must Die | Bad News Bears | Hotel for Dogs | Lily Darling",
+  "id": "bw-p-nm2163218",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Motion City Soundtrack",
+  "type": "task"
+}

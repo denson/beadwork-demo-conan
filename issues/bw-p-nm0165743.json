@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lynn Clayton. actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0165743/\n_search: Lynn Clayton | The Amazing Floydini | Girl Missing | The Look | Fox Mystery Theater",
+  "id": "bw-p-nm0165743",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lynn Clayton",
+  "type": "task"
+}

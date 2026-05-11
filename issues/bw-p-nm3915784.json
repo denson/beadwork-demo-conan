@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Boyega. b. 1992 | actor, producer, production_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3915784/\n_search: John Boyega | Star Wars: Episode VII - The Force Awakens | Attack the Block | Star Wars: Episode VIII - The Last Jedi | Pacific Rim: Uprising",
+  "id": "bw-p-nm3915784",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Boyega",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dominic Chianese. b. 1931 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0156940/\n_search: Dominic Chianese | The Sopranos | The Godfather Part II | And Justice for All | Dog Day Afternoon",
+  "id": "bw-p-nm0156940",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dominic Chianese",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Hefner. 1926–2017 | producer, actor, miscellaneous.\nDECEASED (1926–2017). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005005/\n_search: Hugh Hefner | Miss March | Hop | Beverly Hills Cop II | History of the World: Part I",
+  "id": "bw-p-nm0005005",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Hefner",
+  "type": "task"
+}

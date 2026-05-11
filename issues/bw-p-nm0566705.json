@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob McCoy. music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0566705/\n_search: Bob McCoy | The Wiz | Late Show with David Letterman | Late Night with David Letterman",
+  "id": "bw-p-nm0566705",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob McCoy",
+  "type": "task"
+}

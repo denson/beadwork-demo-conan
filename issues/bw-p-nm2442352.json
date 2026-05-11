@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Kelliher. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2442352/\n_search: Bill Kelliher | The Big Short | Monsters University | Better Living Through Chemistry | Need for Speed: Most Wanted",
+  "id": "bw-p-nm2442352",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Kelliher",
+  "type": "task"
+}

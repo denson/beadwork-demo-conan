@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sienna Miller. b. 1981 | actress, miscellaneous, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1092227/\n_search: Sienna Miller | G.I. Joe: The Rise of Cobra | American Sniper | Burnt | Layer Cake",
+  "id": "bw-p-nm1092227",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sienna Miller",
+  "type": "task"
+}

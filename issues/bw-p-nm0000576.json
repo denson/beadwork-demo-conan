@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Penn. b. 1960 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000576/\n_search: Sean Penn | Mystic River | 21 Grams | Dead Man Walking | One Battle After Another",
+  "id": "bw-p-nm0000576",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Penn",
+  "type": "task"
+}

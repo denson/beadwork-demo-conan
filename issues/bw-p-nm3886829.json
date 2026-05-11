@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dawes. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3886829/\n_search: Dawes | I Want You Back | Nashville | My Left Hand Man | The Warm-Up Guy",
+  "id": "bw-p-nm3886829",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dawes",
+  "type": "task"
+}

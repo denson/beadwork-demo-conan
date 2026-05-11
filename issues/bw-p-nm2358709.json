@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathan Fielder. b. 1983 | writer, actor, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2358709/\n_search: Nathan Fielder | The Curse | The Rehearsal | Nathan for You | Who Is America?",
+  "id": "bw-p-nm2358709",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathan Fielder",
+  "type": "task"
+}

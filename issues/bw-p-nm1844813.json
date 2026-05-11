@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joey Castillo. b. 1966 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1844813/\n_search: Joey Castillo | Saw II | Twin Peaks | The 4400 | Tormented",
+  "id": "bw-p-nm1844813",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joey Castillo",
+  "type": "task"
+}

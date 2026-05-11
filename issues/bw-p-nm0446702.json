@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Moira Kelly. b. 1968 | actress, director, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0446702/\n_search: Moira Kelly | One Tree Hill | Twin Peaks: Fire Walk with Me | The Lion King | The Cutting Edge",
+  "id": "bw-p-nm0446702",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Moira Kelly",
+  "type": "task"
+}

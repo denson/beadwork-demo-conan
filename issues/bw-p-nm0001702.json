@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roy Scheider. 1932–2008 | actor, producer, soundtrack.\nDECEASED (1932–2008). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001702/\n_search: Roy Scheider | Jaws | All That Jazz | The French Connection | Jaws 2",
+  "id": "bw-p-nm0001702",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roy Scheider",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan in Armenia. conan_tbs, S6E6, 2015.\nRuntime: 42 min.\nIMDb rating: 8.7.\nIMDb: https://www.imdb.com/title/tt5201002/\n_search: Conan in Armenia | 2015 | S6E6",
+  "id": "bw-e-tt5201002",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan in Armenia",
+  "type": "task"
+}

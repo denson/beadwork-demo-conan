@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erin Andrews/The Big Show. conan_tbs, S7E63, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6662978/\n_search: Erin Andrews/The Big Show | 2017 | S7E63",
+  "id": "bw-e-tt6662978",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erin Andrews/The Big Show",
+  "type": "task"
+}

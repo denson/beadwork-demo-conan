@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hayley Atwell. b. 1982 | actress, miscellaneous, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2017943/\n_search: Hayley Atwell | Captain America: The First Avenger | The Duchess | Mission: Impossible - Dead Reckoning Part One | Captain America: The Winter Soldier",
+  "id": "bw-p-nm2017943",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hayley Atwell",
+  "type": "task"
+}

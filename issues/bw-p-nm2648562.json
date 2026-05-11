@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marques Ray. b. 1981 | actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2648562/\n_search: Marques Ray | Our Footloose Remake | Kröd Mändoon and the Flaming Sword of Fire | Timer | Dr. Ken",
+  "id": "bw-p-nm2648562",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marques Ray",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Strumbellas. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7962820/\n_search: The Strumbellas | Degrassi: The Next Generation | This Life | Seasons | Regular Heroes",
+  "id": "bw-p-nm7962820",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Strumbellas",
+  "type": "task"
+}

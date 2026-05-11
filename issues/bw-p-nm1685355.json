@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Zimmerman. writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1685355/\n_search: Joe Zimmerman | Dry Bar Comedy | On Tour on Course | Joe Zimmerman: Cult Classic | This Week at the Comedy Cellar",
+  "id": "bw-p-nm1685355",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Zimmerman",
+  "type": "task"
+}

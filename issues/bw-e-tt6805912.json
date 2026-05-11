@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hank Azaria/Moshe Kasher/Vir Das. conan_tbs, S7E77, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6805912/\n_search: Hank Azaria/Moshe Kasher/Vir Das | 2017 | S7E77",
+  "id": "bw-e-tt6805912",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hank Azaria/Moshe Kasher/Vir Das",
+  "type": "task"
+}

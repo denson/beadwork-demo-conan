@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Madison Michelle. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4931269/\n_search: Madison Michelle",
+  "id": "bw-p-nm4931269",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Madison Michelle",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Collins. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8425221/\n_search: Paul Collins | Beirut: Elephant Gun | Later... With Jools Holland | Late Show with David Letterman | Late Night with Seth Meyers",
+  "id": "bw-p-nm8425221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Collins",
+  "type": "task"
+}

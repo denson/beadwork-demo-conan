@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "It's Gettin' Hard Out There for a Pope. conan_tbs, S1E105, 2011.\nRuntime: 60 min.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt1958287/\n_search: It's Gettin' Hard Out There for a Pope | 2011 | S1E105",
+  "id": "bw-e-tt1958287",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "It's Gettin' Hard Out There for a Pope",
+  "type": "task"
+}

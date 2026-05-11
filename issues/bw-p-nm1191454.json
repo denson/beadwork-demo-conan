@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Louis Walker. 1949–2025 | composer, actor, writer.\nDECEASED (1949–2025). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1191454/\n_search: Joe Louis Walker | Survive the Game | Two If by Sea | Mother | Feds",
+  "id": "bw-p-nm1191454",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Louis Walker",
+  "type": "task"
+}

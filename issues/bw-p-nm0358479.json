@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "M.C. Hammer. b. 1962 | actor, composer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0358479/\n_search: M.C. Hammer | The Addams Family | Zoolander 2 | Last Action Hero | The Fast and the Furious: Tokyo Drift",
+  "id": "bw-p-nm0358479",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "M.C. Hammer",
+  "type": "task"
+}

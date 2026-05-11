@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Katie Holmes. b. 1978 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0005017/\n_search: Katie Holmes | Batman Begins | Disturbing Behavior | Jack and Jill | Dawson's Creek",
+  "id": "bw-p-nm0005017",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Katie Holmes",
+  "type": "task"
+}

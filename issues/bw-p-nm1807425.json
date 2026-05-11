@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandon Johnson. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1807425/\n_search: Brandon Johnson | Ingrid Goes West | Get Him to the Greek | Rick and Morty | NTSF:SD:SUV",
+  "id": "bw-p-nm1807425",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandon Johnson",
+  "type": "task"
+}

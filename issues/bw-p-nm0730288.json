@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Robbins. b. 1960 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0730288/\n_search: Anthony Robbins | Shallow Hal | Sound of Freedom | City of Dreams | Man's Search for Meaning",
+  "id": "bw-p-nm0730288",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Robbins",
+  "type": "task"
+}

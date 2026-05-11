@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Amis. 1949–2023 | writer, actor, archive_footage.\nDECEASED (1949–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0025007/\n_search: Martin Amis | The Zone of Interest | Saturn 3 | London Fields | A High Wind in Jamaica",
+  "id": "bw-p-nm0025007",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Amis",
+  "type": "task"
+}

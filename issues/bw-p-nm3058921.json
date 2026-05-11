@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Local H. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3058921/\n_search: Local H | Big Nothing | Never Been Kissed | Hillbilly Elegy | Blackrock",
+  "id": "bw-p-nm3058921",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Local H",
+  "type": "task"
+}

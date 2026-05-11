@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Elliott. b. 1960 | actor, writer, producer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0254402/\n_search: Chris Elliott | Groundhog Day | There's Something About Mary | The Abyss | Cabin Boy",
+  "id": "bw-p-nm0254402",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Elliott",
+  "type": "task"
+}

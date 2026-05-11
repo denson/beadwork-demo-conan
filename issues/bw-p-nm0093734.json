@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Bonamassa. b. 1977 | actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0093734/\n_search: Joe Bonamassa | Joe Bonamassa Tales of Time- Live at Red Rocks | Joe Bonamassa Live at the Hollywood Bowl - with Orchestra | Joe Bonamassa: An Acoustic Evening at the Vienna Opera House | Joe Bonamassa: Live at the Greek Theatre",
+  "id": "bw-p-nm0093734",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Bonamassa",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Never Bring a Knife to a Hot Dog Eating Contest. conan_tbs, S2E151, 2012.\nIMDb: https://www.imdb.com/title/tt2459744/\n_search: Never Bring a Knife to a Hot Dog Eating Contest | 2012 | S2E151",
+  "id": "bw-e-tt2459744",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Never Bring a Knife to a Hot Dog Eating Contest",
+  "type": "task"
+}

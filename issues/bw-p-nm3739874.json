@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tillamook Cheddar. 1999–2014.\nDECEASED (1999–2014). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3739874/\n_search: Tillamook Cheddar",
+  "id": "bw-p-nm3739874",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tillamook Cheddar",
+  "type": "task"
+}

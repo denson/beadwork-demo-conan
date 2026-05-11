@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Theroux/Tony Hale/Shovels \u0026 Rope. conan_tbs, S4E128, 2014.\nIMDb: https://www.imdb.com/title/tt4094058/\n_search: Justin Theroux/Tony Hale/Shovels \u0026 Rope | 2014 | S4E128",
+  "id": "bw-e-tt4094058",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Theroux/Tony Hale/Shovels \u0026 Rope",
+  "type": "task"
+}

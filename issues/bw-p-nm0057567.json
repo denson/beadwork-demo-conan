@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Barris. 1929–2017 | producer, writer, actor.\nDECEASED (1929–2017). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0057567/\n_search: Chuck Barris | The Gong Show Movie | Confessions of a Dangerous Mind | X-Men: First Class | Teenage Mutant Ninja Turtles: Out of the Shadows",
+  "id": "bw-p-nm0057567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Barris",
+  "type": "task"
+}

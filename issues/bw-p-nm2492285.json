@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Marcus Haney. b. 1988 | director, camera_department, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2492285/\n_search: James Marcus Haney | Viola | Austin to Boston | Just. | This Distant Sea",
+  "id": "bw-p-nm2492285",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Marcus Haney",
+  "type": "task"
+}

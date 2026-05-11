@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lewis Del Mar. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8300417/\n_search: Lewis Del Mar | The Rookie | The Good Doctor | My Life Is Still Just A First Draft",
+  "id": "bw-p-nm8300417",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lewis Del Mar",
+  "type": "task"
+}

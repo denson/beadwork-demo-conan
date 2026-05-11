@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Kot. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1218680/\n_search: Greg Kot | Drive Somewhere: The Saga of the Vulgar Boatmen | Where Are You, Jay Bennett? | I Am Trying to Break Your Heart | Mavis!",
+  "id": "bw-p-nm1218680",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Kot",
+  "type": "task"
+}

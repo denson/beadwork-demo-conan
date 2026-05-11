@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bethany Cosentino. b. 1986 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3850172/\n_search: Bethany Cosentino | The First Time | Walk of Shame | Irreplaceable You | Waltz",
+  "id": "bw-p-nm3850172",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bethany Cosentino",
+  "type": "task"
+}

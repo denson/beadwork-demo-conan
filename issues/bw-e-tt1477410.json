@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Sweeney/Rip Taylor/Jonathan Richman. late_night, S1E40, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1477410/\n_search: Julia Sweeney/Rip Taylor/Jonathan Richman | 1993 | S1E40",
+  "id": "bw-e-tt1477410",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Sweeney/Rip Taylor/Jonathan Richman",
+  "type": "task"
+}

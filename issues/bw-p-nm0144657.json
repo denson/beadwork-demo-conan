@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Castellaneta. b. 1957 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0144657/\n_search: Dan Castellaneta | The Simpsons | The Simpsons Movie | The Simpsons: Hit \u0026 Run | Space Jam",
+  "id": "bw-p-nm0144657",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Castellaneta",
+  "type": "task"
+}

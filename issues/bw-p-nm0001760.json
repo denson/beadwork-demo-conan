@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tori Spelling. b. 1973 | actress, producer, music_department.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001760/\n_search: Tori Spelling | Scary Movie 2 | Beverly Hills, 90210 | Trick | The House of Yes",
+  "id": "bw-p-nm0001760",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tori Spelling",
+  "type": "task"
+}

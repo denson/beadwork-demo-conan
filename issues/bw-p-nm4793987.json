@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Issa Rae. b. 1985 | producer, actress, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4793987/\n_search: Issa Rae | Insecure | The Misadventures of Awkward Black Girl | Little",
+  "id": "bw-p-nm4793987",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Issa Rae",
+  "type": "task"
+}

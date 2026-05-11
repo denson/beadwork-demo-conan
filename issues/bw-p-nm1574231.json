@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Nichols. b. 1976 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1574231/\n_search: Joe Nichols | Life on the Line | Murder at Yellowstone City | My Son Hunter | Joe Nichols: Good Day for Living",
+  "id": "bw-p-nm1574231",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Nichols",
+  "type": "task"
+}

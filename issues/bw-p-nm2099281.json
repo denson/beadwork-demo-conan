@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Langhorne Slim. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2099281/\n_search: Langhorne Slim | Waitress | 21 \u0026 Over | Happy Death Day 2U | Syrup",
+  "id": "bw-p-nm2099281",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Langhorne Slim",
+  "type": "task"
+}

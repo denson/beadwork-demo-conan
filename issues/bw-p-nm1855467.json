@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clint Tauscher. b. 1969 | actor, assistant_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1855467/\n_search: Clint Tauscher | Interviewing Norman | Out of Time | The Stolen Moments of September | Minotaur",
+  "id": "bw-p-nm1855467",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clint Tauscher",
+  "type": "task"
+}

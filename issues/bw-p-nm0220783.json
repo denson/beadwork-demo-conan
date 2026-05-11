@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Des'ree. b. 1968 | actress, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0220783/\n_search: Des'ree | Romeo + Juliet | Captain Marvel | Nothing to Lose | The Next Karate Kid",
+  "id": "bw-p-nm0220783",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Des'ree",
+  "type": "task"
+}

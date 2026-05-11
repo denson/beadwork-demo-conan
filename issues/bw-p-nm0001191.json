@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sandler. b. 1966 | actor, producer, writer.\nConan-show appearances: 31\nIMDb: https://www.imdb.com/name/nm0001191/\n_search: Adam Sandler | The Waterboy | Big Daddy | The Wedding Singer | Little Nicky",
+  "id": "bw-p-nm0001191",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sandler",
+  "type": "task"
+}

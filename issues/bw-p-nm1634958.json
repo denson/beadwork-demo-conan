@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erin Foster. b. 1982 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1634958/\n_search: Erin Foster | Nobody Wants This | Cellular | He's Such a Girl | House",
+  "id": "bw-p-nm1634958",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erin Foster",
+  "type": "task"
+}

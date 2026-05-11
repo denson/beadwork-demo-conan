@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emily Catalano. actress, writer, editor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4785122/\n_search: Emily Catalano | Charlene | Barry | Stand Up Santa Cruz | Smarty Pants",
+  "id": "bw-p-nm4785122",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emily Catalano",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Ingram. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0408985/\n_search: Jack Ingram | Hope Floats | Black Dog | Bull Riders: Chasing the Dream | CMT Hot 20 Countdown",
+  "id": "bw-p-nm0408985",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Ingram",
+  "type": "task"
+}

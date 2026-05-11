@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Meese. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8435658/\n_search: Patrick Meese | Palmer | Sounds on 29th | Austin City Limits | Front Row Boston",
+  "id": "bw-p-nm8435658",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Meese",
+  "type": "task"
+}

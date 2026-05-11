@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Medeski Martin \u0026 Wood. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2905335/\n_search: Medeski Martin \u0026 Wood | Get Shorty | 360 | The End of Violence | Hamlet",
+  "id": "bw-p-nm2905335",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Medeski Martin \u0026 Wood",
+  "type": "task"
+}

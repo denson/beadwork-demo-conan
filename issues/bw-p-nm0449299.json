@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tig Notaro. b. 1971 | actress, writer, producer.\nConan-show appearances: 15\nIMDb: https://www.imdb.com/name/nm0449299/\n_search: Tig Notaro | One Mississippi | Army of the Dead | Tig Notaro: Drawn | Instant Family",
+  "id": "bw-p-nm0449299",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tig Notaro",
+  "type": "task"
+}

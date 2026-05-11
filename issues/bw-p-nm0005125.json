@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sanaa Lathan. actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005125/\n_search: Sanaa Lathan | Love \u0026 Basketball | Alien vs. Predator | Something New | The Perfect Guy",
+  "id": "bw-p-nm0005125",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sanaa Lathan",
+  "type": "task"
+}

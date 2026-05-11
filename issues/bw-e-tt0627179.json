@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Thompson/Joshua Jackson. late_night, S6E38, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627179/\n_search: Scott Thompson/Joshua Jackson | 1998 | S6E38",
+  "id": "bw-e-tt0627179",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Thompson/Joshua Jackson",
+  "type": "task"
+}

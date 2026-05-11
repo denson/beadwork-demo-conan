@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mika Tommola. writer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2715175/\n_search: Mika Tommola | Röyhkeä diplomaatti | Vaaleihin Tommolan kanssa | Ella and Friends 2 | Masked Singer Suomi",
+  "id": "bw-p-nm2715175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mika Tommola",
+  "type": "task"
+}

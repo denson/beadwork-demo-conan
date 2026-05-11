@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Paul/D'Arcy Carden/Kellen Erskine. conan_tbs, S8E30, 2018.\nRuntime: 42 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt7933276/\n_search: Aaron Paul/D'Arcy Carden/Kellen Erskine | 2018 | S8E30",
+  "id": "bw-e-tt7933276",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Paul/D'Arcy Carden/Kellen Erskine",
+  "type": "task"
+}

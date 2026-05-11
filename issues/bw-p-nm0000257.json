@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Alda. b. 1936 | actor, miscellaneous, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000257/\n_search: Alan Alda | M*A*S*H | The Four Seasons | Crimes and Misdemeanors | Marriage Story",
+  "id": "bw-p-nm0000257",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Alda",
+  "type": "task"
+}

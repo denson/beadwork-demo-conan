@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel Murray. b. 1963 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0615063/\n_search: Joel Murray | God Bless America | Mad Men | Dharma \u0026 Greg | The Artist",
+  "id": "bw-p-nm0615063",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel Murray",
+  "type": "task"
+}

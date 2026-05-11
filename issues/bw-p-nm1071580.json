@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emma Bolger. b. 1996 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1071580/\n_search: Emma Bolger | In America | Heidi | Proof | Intermission",
+  "id": "bw-p-nm1071580",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emma Bolger",
+  "type": "task"
+}

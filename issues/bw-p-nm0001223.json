@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lara Flynn Boyle. b. 1970 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001223/\n_search: Lara Flynn Boyle | Happiness | Men in Black II | Wayne's World | Twin Peaks",
+  "id": "bw-p-nm0001223",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lara Flynn Boyle",
+  "type": "task"
+}

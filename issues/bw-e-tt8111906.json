@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Goldblum/Sebastian Maniscalco/Nothing But Thieves. conan_tbs, S8E48, 2018.\nRuntime: 42 min.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt8111906/\n_search: Jeff Goldblum/Sebastian Maniscalco/Nothing But Thieves | 2018 | S8E48",
+  "id": "bw-e-tt8111906",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Goldblum/Sebastian Maniscalco/Nothing But Thieves",
+  "type": "task"
+}

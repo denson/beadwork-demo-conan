@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paula Zahn. b. 1956 | producer, actress, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0951995/\n_search: Paula Zahn | Murphy Brown | On the Case with Paula Zahn | Great Performances | P.S.",
+  "id": "bw-p-nm0951995",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paula Zahn",
+  "type": "task"
+}

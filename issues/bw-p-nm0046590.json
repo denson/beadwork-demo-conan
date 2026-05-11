@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ian Bagg. b. 1969 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0046590/\n_search: Ian Bagg | The Life Coach | Save the Mavericks | Purpose | Cradle Will Rock",
+  "id": "bw-p-nm0046590",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ian Bagg",
+  "type": "task"
+}

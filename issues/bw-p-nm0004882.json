@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil Donahue. 1935–2024 | actor, producer, director.\nDECEASED (1935–2024). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0004882/\n_search: Phil Donahue | Body of War | Donahue | The Bold and the Beautiful | Who's the Boss?",
+  "id": "bw-p-nm0004882",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil Donahue",
+  "type": "task"
+}

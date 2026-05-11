@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Chan/Simon Pegg/Just Jack. late_night, S14E176, 2007.\nRuntime: 57 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt1076497/\n_search: Jackie Chan/Simon Pegg/Just Jack | 2007 | S14E176",
+  "id": "bw-e-tt1076497",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Chan/Simon Pegg/Just Jack",
+  "type": "task"
+}

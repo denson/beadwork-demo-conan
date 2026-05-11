@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chazz Palminteri. b. 1952 | actor, writer, producer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0001590/\n_search: Chazz Palminteri | The Usual Suspects | A Bronx Tale | Bullets Over Broadway | A Guide to Recognizing Your Saints",
+  "id": "bw-p-nm0001590",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chazz Palminteri",
+  "type": "task"
+}

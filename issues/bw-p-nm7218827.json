@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hippo Campus. music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7218827/\n_search: Hippo Campus | To All the Boys: Always and Forever | CBS Saturday Morning | CBS Mornings",
+  "id": "bw-p-nm7218827",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hippo Campus",
+  "type": "task"
+}

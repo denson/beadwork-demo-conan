@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Duguid. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4097193/\n_search: Jim Duguid | Steel River | So You Think You Can Dance | Todd's Pop Song Reviews | Evening Urgant",
+  "id": "bw-p-nm4097193",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Duguid",
+  "type": "task"
+}

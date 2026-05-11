@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Marsden. b. 1973 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005188/\n_search: James Marsden | Hairspray | X-Men | Enchanted | 27 Dresses",
+  "id": "bw-p-nm0005188",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Marsden",
+  "type": "task"
+}

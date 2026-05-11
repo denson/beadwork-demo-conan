@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samuel Parker. actor, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7734619/\n_search: Samuel Parker | Transformers: The Last Knight | CSI: Vegas | Total Eclipse",
+  "id": "bw-p-nm7734619",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samuel Parker",
+  "type": "task"
+}

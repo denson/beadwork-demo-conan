@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Rock/Jennifer Esposito/Cubanismo. late_night, S6E140, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627255/\n_search: Chris Rock/Jennifer Esposito/Cubanismo | 1999 | S6E140",
+  "id": "bw-e-tt0627255",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Rock/Jennifer Esposito/Cubanismo",
+  "type": "task"
+}

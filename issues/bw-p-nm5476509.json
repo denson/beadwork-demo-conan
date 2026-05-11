@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hannah Marie Sack. actress, sound_department, casting_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5476509/\n_search: Hannah Marie Sack | Major Crimes | Dropout | Save Me",
+  "id": "bw-p-nm5476509",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hannah Marie Sack",
+  "type": "task"
+}

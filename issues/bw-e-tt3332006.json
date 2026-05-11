@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "In the Kingdom of the Blind, I Don't Have to Wear Pants. conan_tbs, S4E7, 2013.\nIMDb: https://www.imdb.com/title/tt3332006/\n_search: In the Kingdom of the Blind, I Don't Have to Wear Pants | 2013 | S4E7",
+  "id": "bw-e-tt3332006",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "In the Kingdom of the Blind, I Don't Have to Wear Pants",
+  "type": "task"
+}

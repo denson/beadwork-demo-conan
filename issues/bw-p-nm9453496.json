@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chase Ledgerwood. actor, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9453496/\n_search: Chase Ledgerwood | Ordinary Joe",
+  "id": "bw-p-nm9453496",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chase Ledgerwood",
+  "type": "task"
+}

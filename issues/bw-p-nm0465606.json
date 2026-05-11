@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Kooper. b. 1944 | composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0465606/\n_search: Al Kooper | Sneakers | Cry-Baby | Ricky Stanicky | Back to Black",
+  "id": "bw-p-nm0465606",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Kooper",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pierce The Veil. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5162505/\n_search: Pierce The Veil | Rock Band 4 | Tony Hawk's Proving Ground | Guitar Hero Live | Peta2 - Animals Don't Smoke",
+  "id": "bw-p-nm5162505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pierce The Veil",
+  "type": "task"
+}

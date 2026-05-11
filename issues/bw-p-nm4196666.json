@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Motörhead. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4196666/\n_search: Motörhead | Grosse Pointe Blank | Smokin' Aces | Shoot 'Em Up | Fighting with My Family",
+  "id": "bw-p-nm4196666",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Motörhead",
+  "type": "task"
+}

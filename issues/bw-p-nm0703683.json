@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Quindlen. b. 1952 | writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0703683/\n_search: Anna Quindlen | One True Thing | Black and Blue | Matter \u0026 Manner | Happily Ever After: Fairy Tales for Every Child",
+  "id": "bw-p-nm0703683",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Quindlen",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristen Bell. b. 1980 | actress, producer, writer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0068338/\n_search: Kristen Bell | Frozen | Veronica Mars | Veronica Mars | Forgetting Sarah Marshall",
+  "id": "bw-p-nm0068338",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristen Bell",
+  "type": "task"
+}

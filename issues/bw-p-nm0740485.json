@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Theodore Roosevelt. 1858–1919 | writer, producer, archive_footage.\nDECEASED (1858–1919). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0740485/\n_search: Theodore Roosevelt | Simple Gifts | The Republican National Convention | Womanhood, the Glory of the Nation | The River of Doubt",
+  "id": "bw-p-nm0740485",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Theodore Roosevelt",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Lowe. b. 1964 | actor, producer, writer.\nConan-show appearances: 12\nIMDb: https://www.imdb.com/name/nm0000507/\n_search: Rob Lowe | St. Elmo's Fire | Behind the Candelabra | The Outsiders | Wayne's World",
+  "id": "bw-p-nm0000507",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Lowe",
+  "type": "task"
+}

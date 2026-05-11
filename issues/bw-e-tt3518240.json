@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deborah Norville/Jane Pratt/John Prine. late_night, S3E2, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3518240/\n_search: Deborah Norville/Jane Pratt/John Prine | 1995 | S3E2",
+  "id": "bw-e-tt3518240",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deborah Norville/Jane Pratt/John Prine",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Hunter. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2543494/\n_search: James Hunter | My Mom's New Boyfriend | Criminal Minds | Resident Alien | Supernatural",
+  "id": "bw-p-nm2543494",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Hunter",
+  "type": "task"
+}

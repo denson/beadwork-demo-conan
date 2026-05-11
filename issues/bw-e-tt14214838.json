@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patricia Heaton/Patton Oswalt/Finch. late_night, S10E100, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt14214838/\n_search: Patricia Heaton/Patton Oswalt/Finch | 2003 | S10E100",
+  "id": "bw-e-tt14214838",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patricia Heaton/Patton Oswalt/Finch",
+  "type": "task"
+}

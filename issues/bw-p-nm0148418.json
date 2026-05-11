@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Cera. b. 1988 | actor, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0148418/\n_search: Michael Cera | Superbad | Scott Pilgrim vs. the World | Juno | Nick and Norah's Infinite Playlist",
+  "id": "bw-p-nm0148418",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Cera",
+  "type": "task"
+}

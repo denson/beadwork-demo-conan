@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nore Davis. b. 1984 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4347601/\n_search: Nore Davis | Guards | Go/Don't Go | Luke Cage | Grand Theft Auto IV: The Ballad of Gay Tony",
+  "id": "bw-p-nm4347601",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nore Davis",
+  "type": "task"
+}

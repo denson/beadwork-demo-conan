@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Walter Cronkite. 1916–2009 | actor, producer, editorial_department.\nDECEASED (1916–2009). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004847/\n_search: Walter Cronkite | Liberty's Kids | Cronkite Remembers | We're Back! A Dinosaur's Story | The Mary Tyler Moore Show",
+  "id": "bw-p-nm0004847",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Walter Cronkite",
+  "type": "task"
+}

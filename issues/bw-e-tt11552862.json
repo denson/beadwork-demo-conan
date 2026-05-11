@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sandler. conan_tbs, S9E123, 2019.\nRuntime: 21 min.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt11552862/\n_search: Adam Sandler | 2019 | S9E123",
+  "id": "bw-e-tt11552862",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sandler",
+  "type": "task"
+}

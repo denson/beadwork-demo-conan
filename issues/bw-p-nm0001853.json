@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vanessa Williams. b. 1963 | actress, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001853/\n_search: Vanessa Williams | Ugly Betty | Shaft | Eraser | Desperate Housewives",
+  "id": "bw-p-nm0001853",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vanessa Williams",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charles S. Frank. actor, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5827319/\n_search: Charles S. Frank | Doctor Rich King | Law Office of Michael Grants | Collide | Reaper",
+  "id": "bw-p-nm5827319",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charles S. Frank",
+  "type": "task"
+}

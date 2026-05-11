@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Connie Nielsen. b. 1965 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001567/\n_search: Connie Nielsen | Gladiator | One Hour Photo | Wonder Woman | Basic",
+  "id": "bw-p-nm0001567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Connie Nielsen",
+  "type": "task"
+}

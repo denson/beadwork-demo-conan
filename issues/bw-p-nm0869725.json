@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allen Toussaint. 1938–2015 | composer, actor, music_department.\nDECEASED (1938–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0869725/\n_search: Allen Toussaint | Guardians of the Galaxy: Vol. 2 | The Wolf of Wall Street | Hit and Run | The Hitchhiker's Guide to the Galaxy",
+  "id": "bw-p-nm0869725",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allen Toussaint",
+  "type": "task"
+}

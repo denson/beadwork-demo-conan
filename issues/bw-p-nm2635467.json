@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonas Brothers. music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2635467/\n_search: Jonas Brothers | Aquamarine | Jonas | Night at the Museum: Battle of the Smithsonian | Space Jam: A New Legacy",
+  "id": "bw-p-nm2635467",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonas Brothers",
+  "type": "task"
+}

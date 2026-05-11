@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Terry Jones. 1942–2020 | writer, actor, producer.\nDECEASED (1942–2020). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001402/\n_search: Terry Jones | Monty Python's the Meaning of Life | Monty Python and the Holy Grail | Monty Python's Life of Brian | The Wind in the Willows",
+  "id": "bw-p-nm0001402",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Terry Jones",
+  "type": "task"
+}

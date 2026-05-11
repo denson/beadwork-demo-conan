@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Derhak. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2296516/\n_search: Rob Derhak | Live at Moog | Wetlands Preserved: The Story of an Activist Nightclub | Moe: Live at the Fillmore | Computer Chronicles",
+  "id": "bw-p-nm2296516",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Derhak",
+  "type": "task"
+}

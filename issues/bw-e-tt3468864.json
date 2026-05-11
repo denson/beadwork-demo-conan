@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Breakfast at Tiffany's, Lunch at T.J. Maxxx. conan_tbs, S4E30, 2014.\nIMDb: https://www.imdb.com/title/tt3468864/\n_search: Breakfast at Tiffany's, Lunch at T.J. Maxxx | 2014 | S4E30",
+  "id": "bw-e-tt3468864",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Breakfast at Tiffany's, Lunch at T.J. Maxxx",
+  "type": "task"
+}

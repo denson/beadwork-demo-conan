@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brad Roelandt. editor, visual_effects, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3494490/\n_search: Brad Roelandt | Aaron and His Dad Try to Find Closure \u0026 Lucy Celebrates Andie's Birthday at Universal CityWalk Hollywood | Moon Quest | Between Two Ferns: The Movie",
+  "id": "bw-p-nm3494490",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brad Roelandt",
+  "type": "task"
+}

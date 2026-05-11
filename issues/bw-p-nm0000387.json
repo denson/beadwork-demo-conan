@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Englund. b. 1947 | actor, miscellaneous, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000387/\n_search: Robert Englund | A Nightmare on Elm Street | A Nightmare on Elm Street 4: The Dream Master | A Nightmare on Elm Street 3: Dream Warriors | Freddy vs. Jason",
+  "id": "bw-p-nm0000387",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Englund",
+  "type": "task"
+}

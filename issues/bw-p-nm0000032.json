@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlton Heston. 1923–2008 | actor, director, writer.\nDECEASED (1923–2008). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000032/\n_search: Charlton Heston | Ben-Hur | The Ten Commandments | The Omega Man | Touch of Evil",
+  "id": "bw-p-nm0000032",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlton Heston",
+  "type": "task"
+}

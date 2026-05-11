@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Time to Kill Time. conan_tbs, S3E58, 2013.\nIMDb: https://www.imdb.com/title/tt2756434/\n_search: A Time to Kill Time | 2013 | S3E58",
+  "id": "bw-e-tt2756434",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Time to Kill Time",
+  "type": "task"
+}

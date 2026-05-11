@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sela Ward/Keith Carradine/Todd Glass. late_night, S2E223, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3468706/\n_search: Sela Ward/Keith Carradine/Todd Glass | 1995 | S2E223",
+  "id": "bw-e-tt3468706",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sela Ward/Keith Carradine/Todd Glass",
+  "type": "task"
+}

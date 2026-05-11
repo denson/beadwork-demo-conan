@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicole Atkins. actress, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2788971/\n_search: Nicole Atkins | Pride of Lions | Bloodline | Loves Her Gun | Mars",
+  "id": "bw-p-nm2788971",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicole Atkins",
+  "type": "task"
+}

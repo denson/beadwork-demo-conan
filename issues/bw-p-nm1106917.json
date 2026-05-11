@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Greenberg. b. 1950 | producer, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1106917/\n_search: Peter Greenberg | Hidden Turkey | Hidden Canary Islands | Hidden Aegean | Tanzania: The Royal Tour",
+  "id": "bw-p-nm1106917",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Greenberg",
+  "type": "task"
+}

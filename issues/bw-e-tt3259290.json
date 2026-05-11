@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samuel L. Jackson/Chris Kattan/Julie Scardina. late_night, S4E15, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3259290/\n_search: Samuel L. Jackson/Chris Kattan/Julie Scardina | 1996 | S4E15",
+  "id": "bw-e-tt3259290",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samuel L. Jackson/Chris Kattan/Julie Scardina",
+  "type": "task"
+}

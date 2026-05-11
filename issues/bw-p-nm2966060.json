@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Punch Brothers. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2966060/\n_search: Punch Brothers | The Hunger Games | This Is 40 | Inside Llewyn Davis",
+  "id": "bw-p-nm2966060",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Punch Brothers",
+  "type": "task"
+}

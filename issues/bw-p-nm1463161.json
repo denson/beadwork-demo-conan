@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lou Dobbs. 1945–2024 | producer, writer, director.\nDECEASED (1945–2024). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1463161/\n_search: Lou Dobbs | State of Play | Lou Dobbs Tonight | Lou Dobbs Tonight | Moneyline",
+  "id": "bw-p-nm1463161",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lou Dobbs",
+  "type": "task"
+}

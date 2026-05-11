@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Offerman/Annabelle Wallis/Mark Normand. conan_tbs, S7E94, 2017.\nRuntime: 42 min.\nIMDb rating: 4.7.\nIMDb: https://www.imdb.com/title/tt6983814/\n_search: Nick Offerman/Annabelle Wallis/Mark Normand | 2017 | S7E94",
+  "id": "bw-e-tt6983814",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Offerman/Annabelle Wallis/Mark Normand",
+  "type": "task"
+}

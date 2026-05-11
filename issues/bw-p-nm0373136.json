@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mitch Hedberg. 1968–2005 | actor, writer, producer.\nDECEASED (1968–2005). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0373136/\n_search: Mitch Hedberg | Almost Famous | That '70s Show | Lords of Dogtown | Los Enchiladas!",
+  "id": "bw-p-nm0373136",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mitch Hedberg",
+  "type": "task"
+}

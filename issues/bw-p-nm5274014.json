@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "ZZ Ward. actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5274014/\n_search: ZZ Ward | We're the Millers | Veronica Mars | Cars 3 | Wally Got Wasted",
+  "id": "bw-p-nm5274014",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "ZZ Ward",
+  "type": "task"
+}

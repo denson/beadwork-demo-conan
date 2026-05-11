@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luis Fernandez-Gil. actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1507804/\n_search: Luis Fernandez-Gil | Club of Crows | Mayans M.C. | Ride the Eagle | Lucha Underground",
+  "id": "bw-p-nm1507804",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luis Fernandez-Gil",
+  "type": "task"
+}

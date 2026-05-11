@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adrian Martinez. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0553440/\n_search: Adrian Martinez | Focus | iGilbert | The Secret Life of Walter Mitty | Crutch",
+  "id": "bw-p-nm0553440",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adrian Martinez",
+  "type": "task"
+}

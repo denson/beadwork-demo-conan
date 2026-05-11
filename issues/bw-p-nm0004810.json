@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Carter. b. 1956 | producer, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004810/\n_search: Chris Carter | The X-Files | The X Files: I Want to Believe | The X Files | Untitled X-Files Reboot",
+  "id": "bw-p-nm0004810",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Carter",
+  "type": "task"
+}

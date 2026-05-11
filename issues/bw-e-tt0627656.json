@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Fallon/Anderson Cooper/Lewis Black. late_night, S12E108, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627656/\n_search: Jimmy Fallon/Anderson Cooper/Lewis Black | 2005 | S12E108",
+  "id": "bw-e-tt0627656",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Fallon/Anderson Cooper/Lewis Black",
+  "type": "task"
+}

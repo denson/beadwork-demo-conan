@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Donnas. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1697717/\n_search: The Donnas | Jawbreaker | I Love You, Man | The Hangover | Herbie: Fully Loaded",
+  "id": "bw-p-nm1697717",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Donnas",
+  "type": "task"
+}

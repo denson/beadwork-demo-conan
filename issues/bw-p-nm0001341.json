@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Florence Henderson. 1934–2016 | actress, producer, writer.\nDECEASED (1934–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001341/\n_search: Florence Henderson | The Brady Bunch | The Brady Bunch Variety Hour | The Brady Bunch Movie | Shakes the Clown",
+  "id": "bw-p-nm0001341",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Florence Henderson",
+  "type": "task"
+}

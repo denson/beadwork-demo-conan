@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mario Van Peebles/Leila Kenzle/The Meat Puppets. late_night, S3E20, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0769309/\n_search: Mario Van Peebles/Leila Kenzle/The Meat Puppets | 1995 | S3E20",
+  "id": "bw-e-tt0769309",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mario Van Peebles/Leila Kenzle/The Meat Puppets",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Herrmann. 1943–2014 | actor, miscellaneous, soundtrack.\nDECEASED (1943–2014). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001346/\n_search: Edward Herrmann | Overboard | The Lost Boys | Reds | Nixon",
+  "id": "bw-p-nm0001346",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Herrmann",
+  "type": "task"
+}

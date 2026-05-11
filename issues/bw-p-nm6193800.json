@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pun Yin. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6193800/\n_search: Pun Yin",
+  "id": "bw-p-nm6193800",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pun Yin",
+  "type": "task"
+}

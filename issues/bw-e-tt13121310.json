@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Melissa Villaseñor. conan_tbs, S10E87, 2020.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt13121310/\n_search: From Largo Theatre Melissa Villaseñor | 2020 | S10E87",
+  "id": "bw-e-tt13121310",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Melissa Villaseñor",
+  "type": "task"
+}

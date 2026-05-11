@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Go-Go's. actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1673768/\n_search: The Go-Go's | Spider-Man: Far from Home | RoboCop 3 | Fast Times at Ridgemont High | The Rules of Attraction",
+  "id": "bw-p-nm1673768",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Go-Go's",
+  "type": "task"
+}

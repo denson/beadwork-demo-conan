@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chiara Leonini. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9775856/\n_search: Chiara Leonini",
+  "id": "bw-p-nm9775856",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chiara Leonini",
+  "type": "task"
+}

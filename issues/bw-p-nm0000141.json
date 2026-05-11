@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Duchovny. b. 1960 | actor, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000141/\n_search: David Duchovny | The X-Files | The X Files | Californication | The X Files: I Want to Believe",
+  "id": "bw-p-nm0000141",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Duchovny",
+  "type": "task"
+}

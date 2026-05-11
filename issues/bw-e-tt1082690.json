@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Dole/Tisha Campbell/Possum Dixon. late_night, S1E108, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1082690/\n_search: Bob Dole/Tisha Campbell/Possum Dixon | 1994 | S1E108",
+  "id": "bw-e-tt1082690",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Dole/Tisha Campbell/Possum Dixon",
+  "type": "task"
+}

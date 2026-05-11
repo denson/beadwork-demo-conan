@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Voegele. b. 1986 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2890132/\n_search: Kate Voegele | One Tree Hill | Life Unexpected | Karaoke Revolution | So You Think You Can Dance",
+  "id": "bw-p-nm2890132",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Voegele",
+  "type": "task"
+}

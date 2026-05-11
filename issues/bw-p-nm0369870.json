@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J.R. Havlan. writer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0369870/\n_search: J.R. Havlan | The Daily Show | The Catskill Chainsaw Redemption | The Tonight Show Starring Jimmy Fallon | The Rally to Restore Sanity and/or Fear",
+  "id": "bw-p-nm0369870",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J.R. Havlan",
+  "type": "task"
+}

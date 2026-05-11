@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kobe Bryant. 1978–2020 | producer, actor, writer.\nDECEASED (1978–2020). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1101483/\n_search: Kobe Bryant | Dear Basketball | Daddy's Home | The Dreamer III | With the 8th Pick",
+  "id": "bw-p-nm1101483",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kobe Bryant",
+  "type": "task"
+}

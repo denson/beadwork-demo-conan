@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Lillard. b. 1970 | actor, producer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000498/\n_search: Matthew Lillard | Scooby-Doo | SLC Punk! | The Descendants | Scooby-Doo 2: Monsters Unleashed",
+  "id": "bw-p-nm0000498",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Lillard",
+  "type": "task"
+}

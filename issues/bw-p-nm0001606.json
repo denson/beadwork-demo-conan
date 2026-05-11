@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Penn. 1965–2006 | actor, producer, director.\nDECEASED (1965–2006). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001606/\n_search: Chris Penn | Short Cuts | Reservoir Dogs | True Romance | Footloose",
+  "id": "bw-p-nm0001606",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Penn",
+  "type": "task"
+}

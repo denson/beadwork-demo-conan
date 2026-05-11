@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Rannells. b. 1978 | actor, producer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0710330/\n_search: Andrew Rannells | A Simple Favor | The Prom | The Intern | Bachelorette",
+  "id": "bw-p-nm0710330",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Rannells",
+  "type": "task"
+}

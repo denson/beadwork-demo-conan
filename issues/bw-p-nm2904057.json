@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve 'Lips' Kudlow. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2904057/\n_search: Steve 'Lips' Kudlow | The Final Destination | It | Hillbilly Elegy | Anvil: The Story of Anvil",
+  "id": "bw-p-nm2904057",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve 'Lips' Kudlow",
+  "type": "task"
+}

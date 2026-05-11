@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pat Sajak. b. 1946 | producer, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0756929/\n_search: Pat Sajak | Wheel of Fortune | Airplane II: The Sequel | Santa Barbara | The A-Team",
+  "id": "bw-p-nm0756929",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pat Sajak",
+  "type": "task"
+}

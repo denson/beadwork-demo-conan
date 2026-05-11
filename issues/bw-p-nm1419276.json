@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evanescence. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1419276/\n_search: Evanescence | Underworld: Awakening | Daredevil | Terminator 5: Smert Gollivuda | Enter the Matrix",
+  "id": "bw-p-nm1419276",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evanescence",
+  "type": "task"
+}

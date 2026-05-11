@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gene Wilder. 1933–2016 | actor, writer, director.\nDECEASED (1933–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000698/\n_search: Gene Wilder | Willy Wonka \u0026 the Chocolate Factory | Young Frankenstein | The Producers | Silver Streak",
+  "id": "bw-p-nm0000698",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gene Wilder",
+  "type": "task"
+}

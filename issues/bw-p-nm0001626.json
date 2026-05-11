@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Plummer. 1929–2021 | actor, producer, music_department.\nDECEASED (1929–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001626/\n_search: Christopher Plummer | Beginners | The Insider | Remember | All the Money in the World",
+  "id": "bw-p-nm0001626",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Plummer",
+  "type": "task"
+}

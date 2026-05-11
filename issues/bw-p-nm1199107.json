@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zach Cregger. b. 1981 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1199107/\n_search: Zach Cregger | Barbarian | The Whitest Kids U'Know | Weapons | Sasquatch",
+  "id": "bw-p-nm1199107",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zach Cregger",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosa. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2948386/\n_search: Rosa",
+  "id": "bw-p-nm2948386",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosa",
+  "type": "task"
+}

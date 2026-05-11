@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Camille Paglia. b. 1947 | actress, archive_footage.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0656468/\n_search: Camille Paglia | The Watermelon Woman | Henry Fool | Glenda and Camille Do Downtown | What She Said: The Art of Pauline Kael",
+  "id": "bw-p-nm0656468",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Camille Paglia",
+  "type": "task"
+}

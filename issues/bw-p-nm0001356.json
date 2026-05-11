@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hulk Hogan. 1953–2025 | actor, producer, soundtrack.\nDECEASED (1953–2025). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001356/\n_search: Hulk Hogan | Rocky III | No Holds Barred | Suburban Commando | Mr. Nanny",
+  "id": "bw-p-nm0001356",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hulk Hogan",
+  "type": "task"
+}

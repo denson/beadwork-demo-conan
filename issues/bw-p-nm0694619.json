@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stefanie Powers. actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0694619/\n_search: Stefanie Powers | Hart to Hart | The Girl from U.N.C.L.E. | McLintock! | Herbie Rides Again",
+  "id": "bw-p-nm0694619",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stefanie Powers",
+  "type": "task"
+}

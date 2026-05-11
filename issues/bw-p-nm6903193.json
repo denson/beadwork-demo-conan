@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bj Gruber. b. 1990 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6903193/\n_search: Bj Gruber | The Queens Project | Younger | Alex Strangelove | Rockaway",
+  "id": "bw-p-nm6903193",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bj Gruber",
+  "type": "task"
+}

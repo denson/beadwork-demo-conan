@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grizzly Bear. composer, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2687282/\n_search: Grizzly Bear | Blue Valentine | The Twilight Saga: New Moon | The Dictator | Reaper",
+  "id": "bw-p-nm2687282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grizzly Bear",
+  "type": "task"
+}

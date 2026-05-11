@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Boghosian. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3623839/\n_search: Charlie Boghosian | Food Paradise | Guy's Grocery Games | Modern Marvels | Favorite Foods USA!",
+  "id": "bw-p-nm3623839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Boghosian",
+  "type": "task"
+}

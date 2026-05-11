@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jane Goodall. 1934–2025 | actress, miscellaneous, writer.\nDECEASED (1934–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0328762/\n_search: Jane Goodall | Jane | Untitled Jane Goodall Movie | People of the Forest: The Chimps of Gombe | Anyone Lived in a Pretty How Town",
+  "id": "bw-p-nm0328762",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jane Goodall",
+  "type": "task"
+}

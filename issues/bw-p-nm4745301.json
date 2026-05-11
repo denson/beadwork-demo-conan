@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Russell Wilson. b. 1988 | producer, actor, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4745301/\n_search: Russell Wilson | Entourage | Braddock | Sarah's Oil | National Champions",
+  "id": "bw-p-nm4745301",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Russell Wilson",
+  "type": "task"
+}

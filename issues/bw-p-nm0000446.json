@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mariel Hemingway. b. 1961 | actress, producer, executive.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000446/\n_search: Mariel Hemingway | Manhattan | Superman IV: The Quest for Peace | The Contender | Deconstructing Harry",
+  "id": "bw-p-nm0000446",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mariel Hemingway",
+  "type": "task"
+}

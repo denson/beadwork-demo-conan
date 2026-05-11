@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathan Cavaleri. b. 1982 | actor, composer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0146749/\n_search: Nathan Cavaleri | Camp Nowhere | Paws | Free Willy 2: The Adventure Home | Off the Ledge",
+  "id": "bw-p-nm0146749",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathan Cavaleri",
+  "type": "task"
+}

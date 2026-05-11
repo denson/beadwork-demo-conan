@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Artie Lange. b. 1967 | actor, writer, producer.\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm0005119/\n_search: Artie Lange | Mad TV | Howard Stern on Demand | Dirty Work | Elf",
+  "id": "bw-p-nm0005119",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Artie Lange",
+  "type": "task"
+}

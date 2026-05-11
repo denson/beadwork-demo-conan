@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Bloomberg. b. 1942 | actor, camera_department, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0089255/\n_search: Michael Bloomberg | The Adjustment Bureau | Focus | 30 Rock | Curb Your Enthusiasm",
+  "id": "bw-p-nm0089255",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Bloomberg",
+  "type": "task"
+}

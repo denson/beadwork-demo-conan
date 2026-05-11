@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cheryl Tiegs. b. 1947 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0862841/\n_search: Cheryl Tiegs | The Brown Bunny | Moonlighting | Just Shoot Me! | Childrens Hospital",
+  "id": "bw-p-nm0862841",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cheryl Tiegs",
+  "type": "task"
+}

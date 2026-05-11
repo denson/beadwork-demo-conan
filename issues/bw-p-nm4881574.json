@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Kyle. 1974–2013 | writer, producer, archive_footage.\nDECEASED (1974–2013). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4881574/\n_search: Chris Kyle | American Sniper | Stars Earn Stripes | Sons of Guns",
+  "id": "bw-p-nm4881574",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Kyle",
+  "type": "task"
+}

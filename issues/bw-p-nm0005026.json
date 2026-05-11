@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelly Hu. b. 1968 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005026/\n_search: Kelly Hu | The Scorpion King | X2: X-Men United | The Tournament | Friday the 13th Part VIII: Jason Takes Manhattan",
+  "id": "bw-p-nm0005026",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelly Hu",
+  "type": "task"
+}

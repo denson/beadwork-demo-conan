@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Metric. actor, composer, art_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1900479/\n_search: Metric | The Twilight Saga: Eclipse | Cosmopolis | Scott Pilgrim vs. the World | Zombieland",
+  "id": "bw-p-nm1900479",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Metric",
+  "type": "task"
+}

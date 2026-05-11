@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Willie Watson. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0914929/\n_search: Willie Watson | The Ballad of Buster Scruggs | Live by Night | Hail, Caesar! | Redeeming Love",
+  "id": "bw-p-nm0914929",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Willie Watson",
+  "type": "task"
+}

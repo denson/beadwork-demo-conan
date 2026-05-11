@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Abra Moore. b. 1969 | actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0600862/\n_search: Abra Moore | Cruel Intentions | Van Wilder | Sliding Doors | The Hot Chick",
+  "id": "bw-p-nm0600862",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Abra Moore",
+  "type": "task"
+}

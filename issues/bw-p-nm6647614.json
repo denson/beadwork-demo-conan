@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John D. Culver. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6647614/\n_search: John D. Culver | Carving A Life | 30 Days To Kick Ass Love | Daydream Hotel | The Last Resort",
+  "id": "bw-p-nm6647614",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John D. Culver",
+  "type": "task"
+}

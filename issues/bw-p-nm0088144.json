@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tempestt Bledsoe. b. 1973 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0088144/\n_search: Tempestt Bledsoe | The Cosby Show | ParaNorman | N-Secure | A Different World",
+  "id": "bw-p-nm0088144",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tempestt Bledsoe",
+  "type": "task"
+}

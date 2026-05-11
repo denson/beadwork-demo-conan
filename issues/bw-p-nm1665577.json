@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maria Bartiromo. b. 1967 | writer, producer, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1665577/\n_search: Maria Bartiromo | Arbitrage | The Taking of Pelham 123 | Wall Street: Money Never Sleeps | Mornings with Maria Bartiromo",
+  "id": "bw-p-nm1665577",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maria Bartiromo",
+  "type": "task"
+}

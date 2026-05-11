@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "White Denim. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4701007/\n_search: White Denim | Medicine for Melancholy | Best Man Down | Happy Tears | How to Make It in America",
+  "id": "bw-p-nm4701007",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "White Denim",
+  "type": "task"
+}

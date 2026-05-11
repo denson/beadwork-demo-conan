@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marla Maples. b. 1963 | actress, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005185/\n_search: Marla Maples | Executive Decision | Maximum Overdrive | Happiness | Loving Annabelle",
+  "id": "bw-p-nm0005185",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marla Maples",
+  "type": "task"
+}

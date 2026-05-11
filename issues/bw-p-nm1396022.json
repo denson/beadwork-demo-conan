@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Torv. b. 1979 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1396022/\n_search: Anna Torv | Fringe | The Last of Us | Heavenly Sword | The Newsreader",
+  "id": "bw-p-nm1396022",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Torv",
+  "type": "task"
+}

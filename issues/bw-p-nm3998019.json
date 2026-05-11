@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Wayne Davis. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3998019/\n_search: Billy Wayne Davis | Testify | False Colors | The Gutter | Ralphie May Filthy Animal Tour",
+  "id": "bw-p-nm3998019",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Wayne Davis",
+  "type": "task"
+}

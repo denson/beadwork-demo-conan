@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laverne Cox. b. 1972 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1209545/\n_search: Laverne Cox | Promising Young Woman | Orange Is the New Black | Musical Chairs | Clean Slate",
+  "id": "bw-p-nm1209545",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laverne Cox",
+  "type": "task"
+}

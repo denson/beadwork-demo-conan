@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Sedaris. b. 1961 | actress, writer, producer.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0781238/\n_search: Amy Sedaris | Elf | Strangers with Candy | Puss in Boots | Jennifer's Body",
+  "id": "bw-p-nm0781238",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Sedaris",
+  "type": "task"
+}

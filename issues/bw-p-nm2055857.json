@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Lorca. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2055857/\n_search: Daniel Lorca | Disturbia | My Bloody Valentine | John Tucker Must Die | Mr. Woodcock",
+  "id": "bw-p-nm2055857",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Lorca",
+  "type": "task"
+}

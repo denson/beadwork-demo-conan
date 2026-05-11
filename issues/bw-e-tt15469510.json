@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Claire Danes/Carson Kressley/Mavis Staples. late_night, S12E30, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt15469510/\n_search: Claire Danes/Carson Kressley/Mavis Staples | 2004 | S12E30",
+  "id": "bw-e-tt15469510",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Claire Danes/Carson Kressley/Mavis Staples",
+  "type": "task"
+}

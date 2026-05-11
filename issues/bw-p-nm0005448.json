@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marla Sokoloff. b. 1980 | actress, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005448/\n_search: Marla Sokoloff | The Practice | Dude, Where's My Car? | Sugar \u0026 Spice | Whatever It Takes",
+  "id": "bw-p-nm0005448",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marla Sokoloff",
+  "type": "task"
+}

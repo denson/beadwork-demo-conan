@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Schnier. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1864816/\n_search: Al Schnier | Live at Moog | Wetlands Preserved: The Story of an Activist Nightclub | Moe: Live at the Fillmore | Hitting the High Notes: 2004 High Sierra Music Festival",
+  "id": "bw-p-nm1864816",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Schnier",
+  "type": "task"
+}

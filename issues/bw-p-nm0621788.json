@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Niecy Nash. b. 1970 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0621788/\n_search: Niecy Nash | Reno 911! | Guess Who | Claws | Reno 911!: Miami",
+  "id": "bw-p-nm0621788",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Niecy Nash",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aubrey Manning. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2619132/\n_search: Aubrey Manning | Grey's Anatomy | Acapulco | Redemption Day | Ray Donovan",
+  "id": "bw-p-nm2619132",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aubrey Manning",
+  "type": "task"
+}

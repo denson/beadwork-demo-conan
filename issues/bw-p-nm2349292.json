@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michelle Obama. b. 1964 | producer, actress, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2349292/\n_search: Michelle Obama | Leave the World Behind | Bodkin | Parks and Recreation | Black-ish",
+  "id": "bw-p-nm2349292",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michelle Obama",
+  "type": "task"
+}

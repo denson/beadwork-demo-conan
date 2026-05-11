@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Flaherty. actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0280885/\n_search: Jim Flaherty | Beavis and Butt-Head Do America | Exposing the Order of the Serpentine | Wandering Off",
+  "id": "bw-p-nm0280885",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Flaherty",
+  "type": "task"
+}

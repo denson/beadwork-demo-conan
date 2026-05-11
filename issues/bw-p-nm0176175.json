@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Consuelos. b. 1971 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0176175/\n_search: Mark Consuelos | All My Children | 1-800-Missing | My Super Ex-Girlfriend | Cop Out",
+  "id": "bw-p-nm0176175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Consuelos",
+  "type": "task"
+}

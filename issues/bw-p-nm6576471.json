@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alingon Mitra. writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6576471/\n_search: Alingon Mitra | Adam Ruins Everything | The Daily Show | This Week at the Comedy Cellar | Last Comic Standing",
+  "id": "bw-p-nm6576471",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alingon Mitra",
+  "type": "task"
+}

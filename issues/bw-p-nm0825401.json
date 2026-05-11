@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Stein. b. 1944 | actor, miscellaneous, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0825401/\n_search: Ben Stein | Ferris Bueller's Day Off | The Mask | Son of the Mask | Planes, Trains \u0026 Automobiles",
+  "id": "bw-p-nm0825401",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Stein",
+  "type": "task"
+}

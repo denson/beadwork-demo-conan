@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wild Belle. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5378901/\n_search: Wild Belle | Pitch Perfect | I Care a Lot | The Way Way Back | Scream: The TV Series",
+  "id": "bw-p-nm5378901",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wild Belle",
+  "type": "task"
+}

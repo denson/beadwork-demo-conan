@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Corddry. b. 1971 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1117791/\n_search: Rob Corddry | Warm Bodies | Childrens Hospital | Hot Tub Time Machine | Hot Tub Time Machine 2",
+  "id": "bw-p-nm1117791",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Corddry",
+  "type": "task"
+}

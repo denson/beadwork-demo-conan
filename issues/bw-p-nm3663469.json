@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Claude Lemieux. b. 1965 | archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3663469/\n_search: Claude Lemieux | Sportpanorama | Unrivaled: Red Wings v. Avalanche | 1989 Stanley Cup Finals | 1986 Stanley Cup Finals",
+  "id": "bw-p-nm3663469",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Claude Lemieux",
+  "type": "task"
+}

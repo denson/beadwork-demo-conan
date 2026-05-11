@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Gondelman. writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4634236/\n_search: Josh Gondelman | Last Week Tonight with John Oliver | Desus \u0026 Mero | Ramsey Has a Time Machine | The Marvelous Mrs. Maisel",
+  "id": "bw-p-nm4634236",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Gondelman",
+  "type": "task"
+}

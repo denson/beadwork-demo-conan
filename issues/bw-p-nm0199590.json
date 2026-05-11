@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brittany Daniel. b. 1976 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0199590/\n_search: Brittany Daniel | Skyline | Club Dread | White Chicks | Sweet Valley High",
+  "id": "bw-p-nm0199590",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brittany Daniel",
+  "type": "task"
+}

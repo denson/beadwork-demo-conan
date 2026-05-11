@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew McMahon. b. 1982 | composer, actor, art_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2330188/\n_search: Andrew McMahon | Pete's Dragon | Aught to Be | Play the Game | Dear Jack",
+  "id": "bw-p-nm2330188",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew McMahon",
+  "type": "task"
+}

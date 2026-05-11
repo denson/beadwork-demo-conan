@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathy Bates. conan_tbs, S9E26, 2019.\nRuntime: 21 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt10023738/\n_search: Kathy Bates | 2019 | S9E26",
+  "id": "bw-e-tt10023738",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathy Bates",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Arnold Schwarzenegger. b. 1947 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000216/\n_search: Arnold Schwarzenegger | Terminator 2: Judgment Day | The 6th Day | The Terminator | Last Action Hero",
+  "id": "bw-p-nm0000216",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Arnold Schwarzenegger",
+  "type": "task"
+}

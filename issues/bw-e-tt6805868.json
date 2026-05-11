@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kumail Nanjiani/Adam Schiff/Real Estate. conan_tbs, S7E76, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6805868/\n_search: Kumail Nanjiani/Adam Schiff/Real Estate | 2017 | S7E76",
+  "id": "bw-e-tt6805868",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kumail Nanjiani/Adam Schiff/Real Estate",
+  "type": "task"
+}

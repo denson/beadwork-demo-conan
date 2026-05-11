@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The White Stripes. late_night, S16E98, 2009.\nRuntime: 57 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt1375140/\n_search: The White Stripes | 2009 | S16E98",
+  "id": "bw-e-tt1375140",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The White Stripes",
+  "type": "task"
+}

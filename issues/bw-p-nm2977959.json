@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andre Ethier. b. 1982 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2977959/\n_search: Andre Ethier | Lab Rats | The Bear | Bluetopia: The LA Dodgers Movie | The Cleveland Show",
+  "id": "bw-p-nm2977959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andre Ethier",
+  "type": "task"
+}

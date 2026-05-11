@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Recipe for Disaster, No Wait, Onion Soup. conan_tbs, S4E28, 2014.\nIMDb: https://www.imdb.com/title/tt3456136/\n_search: Recipe for Disaster, No Wait, Onion Soup | 2014 | S4E28",
+  "id": "bw-e-tt3456136",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Recipe for Disaster, No Wait, Onion Soup",
+  "type": "task"
+}

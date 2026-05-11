@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erik Charles Nielsen. actor, miscellaneous, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3121219/\n_search: Erik Charles Nielsen | Community | Grand Theft Auto V | Bad Milo! | Pound House",
+  "id": "bw-p-nm3121219",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erik Charles Nielsen",
+  "type": "task"
+}

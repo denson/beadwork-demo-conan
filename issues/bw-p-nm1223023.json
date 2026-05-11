@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nikki Reed. b. 1988 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1223023/\n_search: Nikki Reed | Thirteen | The Twilight Saga: Breaking Dawn - Part 2 | Twilight | The Twilight Saga: Eclipse",
+  "id": "bw-p-nm1223023",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nikki Reed",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trace Adkins. b. 1962 | music_artist, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0012081/\n_search: Trace Adkins | The Lincoln Lawyer | Old Henry | An American Carol | Moms' Night Out",
+  "id": "bw-p-nm0012081",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trace Adkins",
+  "type": "task"
+}

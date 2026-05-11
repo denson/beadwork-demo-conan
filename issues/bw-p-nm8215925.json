@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenny Hensley. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8215925/\n_search: Kenny Hensley | Wish I Was Here | The Hollars | The Only Living Boy in New York | Summer of 8",
+  "id": "bw-p-nm8215925",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenny Hensley",
+  "type": "task"
+}

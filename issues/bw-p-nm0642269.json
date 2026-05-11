@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Owen O'Neill. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0642269/\n_search: Owen O'Neill | Michael Collins | The Fitz | Performance | Screenplay",
+  "id": "bw-p-nm0642269",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Owen O'Neill",
+  "type": "task"
+}

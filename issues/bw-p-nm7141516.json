@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judah and the Lion. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7141516/\n_search: Judah and the Lion | The Starling | Where Hope Grows | Run the Race",
+  "id": "bw-p-nm7141516",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judah and the Lion",
+  "type": "task"
+}

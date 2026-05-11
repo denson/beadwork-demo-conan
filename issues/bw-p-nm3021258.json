@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Heller. editor, sound_department, editorial_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3021258/\n_search: Christopher Heller | Clueless Gamer | Conan Without Borders | The Special #2",
+  "id": "bw-p-nm3021258",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Heller",
+  "type": "task"
+}

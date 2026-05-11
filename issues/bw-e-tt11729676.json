@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Tyler Ferguson/Ray Harrington. conan_tbs, S10E11, 2020.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt11729676/\n_search: Jesse Tyler Ferguson/Ray Harrington | 2020 | S10E11",
+  "id": "bw-e-tt11729676",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Tyler Ferguson/Ray Harrington",
+  "type": "task"
+}

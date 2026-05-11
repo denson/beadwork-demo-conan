@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Leifer. b. 1956 | writer, producer, actress.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0500140/\n_search: Carol Leifer | Seinfeld | Hacks | Alright Already | Curb Your Enthusiasm",
+  "id": "bw-p-nm0500140",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Leifer",
+  "type": "task"
+}

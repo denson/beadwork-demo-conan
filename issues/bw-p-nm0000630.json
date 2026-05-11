@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Liev Schreiber. b. 1967 | actor, producer, miscellaneous.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000630/\n_search: Liev Schreiber | Spotlight | X-Men Origins: Wolverine | The Manchurian Candidate | Everything Is Illuminated",
+  "id": "bw-p-nm0000630",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Liev Schreiber",
+  "type": "task"
+}

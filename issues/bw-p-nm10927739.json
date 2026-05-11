@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Gawky. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm10927739/\n_search: Peter Gawky",
+  "id": "bw-p-nm10927739",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Gawky",
+  "type": "task"
+}

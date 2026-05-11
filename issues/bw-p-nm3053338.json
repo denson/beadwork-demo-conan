@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Margot Robbie. b. 1990 | actress, producer, executive.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3053338/\n_search: Margot Robbie | Suicide Squad | The Wolf of Wall Street | Barbie | Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+  "id": "bw-p-nm3053338",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Margot Robbie",
+  "type": "task"
+}

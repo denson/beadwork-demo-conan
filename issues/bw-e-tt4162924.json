@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teri Garr/Lush/Granny Rodeo Champ. late_night, S3E151, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4162924/\n_search: Teri Garr/Lush/Granny Rodeo Champ | 1996 | S3E151",
+  "id": "bw-e-tt4162924",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teri Garr/Lush/Granny Rodeo Champ",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evan Peters. b. 1987 | actor, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1404239/\n_search: Evan Peters | X-Men: Apocalypse | X-Men: Days of Future Past | X-Men: Dark Phoenix | Kick-Ass",
+  "id": "bw-p-nm1404239",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evan Peters",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Gotobed. writer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2992620/\n_search: Rob Gotobed | The Fast Show | Spitting Image | Big Train | The Smith \u0026 Jones Sketchbook",
+  "id": "bw-p-nm2992620",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Gotobed",
+  "type": "task"
+}

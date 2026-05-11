@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Bar Walks Into a Horse for a Change. conan_tbs, S3E133, 2013.\nIMDb: https://www.imdb.com/title/tt3171130/\n_search: A Bar Walks Into a Horse for a Change | 2013 | S3E133",
+  "id": "bw-e-tt3171130",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Bar Walks Into a Horse for a Change",
+  "type": "task"
+}

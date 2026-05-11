@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Master Gee. b. 1962 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1758967/\n_search: Master Gee | The Wedding Singer | Kangaroo Jack | Everybody Wants Some!! | 9-1-1",
+  "id": "bw-p-nm1758967",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Master Gee",
+  "type": "task"
+}

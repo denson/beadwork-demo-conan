@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Olga Kurylenko. b. 1979 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1385871/\n_search: Olga Kurylenko | Oblivion | Quantum of Solace | Hitman | Vampire Academy",
+  "id": "bw-p-nm1385871",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Olga Kurylenko",
+  "type": "task"
+}

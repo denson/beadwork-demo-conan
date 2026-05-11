@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sara Rehnmark. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3222768/\n_search: Sara Rehnmark | Love Tap | Chasing Robert | The Late Late Show with Craig Ferguson",
+  "id": "bw-p-nm3222768",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sara Rehnmark",
+  "type": "task"
+}

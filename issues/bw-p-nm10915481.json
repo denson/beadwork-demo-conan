@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "October Project. producer, director, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10915481/\n_search: October Project | Blown Away | Virtual Choir of Joy | Ready (Song of Inauguration) | Voyeur",
+  "id": "bw-p-nm10915481",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "October Project",
+  "type": "task"
+}

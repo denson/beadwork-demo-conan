@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Long Awaited Revenge of Zippy Smiles. conan_tbs, S3E33, 2013.\nIMDb: https://www.imdb.com/title/tt2647232/\n_search: The Long Awaited Revenge of Zippy Smiles | 2013 | S3E33",
+  "id": "bw-e-tt2647232",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Long Awaited Revenge of Zippy Smiles",
+  "type": "task"
+}

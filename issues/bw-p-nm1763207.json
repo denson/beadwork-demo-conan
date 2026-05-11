@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tegan and Sara. b. 1980 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1763207/\n_search: Tegan and Sara | The New Mutants | The Lego Movie | To All the Boys I've Loved Before | Happiest Season",
+  "id": "bw-p-nm1763207",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tegan and Sara",
+  "type": "task"
+}

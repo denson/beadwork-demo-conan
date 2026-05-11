@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roddy McDowall. 1928–1998 | actor, producer, director.\nDECEASED (1928–1998). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001522/\n_search: Roddy McDowall | Fright Night | How Green Was My Valley | Cleopatra | Conquest of the Planet of the Apes",
+  "id": "bw-p-nm0001522",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roddy McDowall",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Connor Ball. actor, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5914563/\n_search: Connor Ball | Show Dogs | Karate with Anne-Marie | Janoskians: Untold and Untrue",
+  "id": "bw-p-nm5914563",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Connor Ball",
+  "type": "task"
+}

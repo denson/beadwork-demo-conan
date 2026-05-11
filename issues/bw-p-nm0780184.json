@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Earl Scruggs. 1924–2012 | music_department, actor, composer.\nDECEASED (1924–2012). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0780184/\n_search: Earl Scruggs | Bonnie and Clyde | The Love Guru | Penguins of Madagascar | Fire Down Below",
+  "id": "bw-p-nm0780184",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Earl Scruggs",
+  "type": "task"
+}

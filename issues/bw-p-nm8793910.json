@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Hock. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8793910/\n_search: Matt Hock | Fantastic Four | Tony Hawk's Underground 2 | Cars: The Video Game | Midnight Club 3: DUB Edition",
+  "id": "bw-p-nm8793910",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Hock",
+  "type": "task"
+}

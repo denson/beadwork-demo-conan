@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jules Shear. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1328831/\n_search: Jules Shear | Tully | Table 19 | The Goonies | Zoom",
+  "id": "bw-p-nm1328831",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jules Shear",
+  "type": "task"
+}

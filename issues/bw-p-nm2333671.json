@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Rodgers. b. 1983 | producer, actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2333671/\n_search: Aaron Rodgers | The Office | Work Horses | Untitled Kenny Washington/Amazon MGM Studios Project | Key and Peele",
+  "id": "bw-p-nm2333671",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Rodgers",
+  "type": "task"
+}

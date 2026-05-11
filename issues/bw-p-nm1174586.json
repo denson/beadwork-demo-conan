@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Thompson. b. 1949 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1174586/\n_search: Richard Thompson | Looper | Resident Evil: Welcome to Raccoon City | The Night House | Gold",
+  "id": "bw-p-nm1174586",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Thompson",
+  "type": "task"
+}

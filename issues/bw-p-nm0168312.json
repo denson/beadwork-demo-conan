@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Cocker. 1944–2014 | actor, music_department, miscellaneous.\nDECEASED (1944–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0168312/\n_search: Joe Cocker | Across the Universe | The Bodyguard | Layer Cake | Blown Away",
+  "id": "bw-p-nm0168312",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Cocker",
+  "type": "task"
+}

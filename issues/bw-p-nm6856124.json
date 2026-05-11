@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Griffin. b. 1987 | actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6856124/\n_search: Billy Griffin | Wonder Man | Lanterns | Conceiving",
+  "id": "bw-p-nm6856124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Griffin",
+  "type": "task"
+}

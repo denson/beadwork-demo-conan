@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Jones. b. 1973 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0428319/\n_search: Jason Jones | The Detour | All About Steve | The Art of the Steal | Ham \u0026 Cheese",
+  "id": "bw-p-nm0428319",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Jones",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dennis Rodman/Eve Plumb/The Subdudes. late_night, S2E4, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1477418/\n_search: Dennis Rodman/Eve Plumb/The Subdudes | 1994 | S2E4",
+  "id": "bw-e-tt1477418",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dennis Rodman/Eve Plumb/The Subdudes",
+  "type": "task"
+}

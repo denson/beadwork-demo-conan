@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Delevantes. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10928351/\n_search: The Delevantes",
+  "id": "bw-p-nm10928351",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Delevantes",
+  "type": "task"
+}

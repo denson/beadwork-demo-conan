@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Angelina Jolie. b. 1975 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001401/\n_search: Angelina Jolie | Maleficent | Changeling | Lara Croft: Tomb Raider | Salt",
+  "id": "bw-p-nm0001401",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Angelina Jolie",
+  "type": "task"
+}

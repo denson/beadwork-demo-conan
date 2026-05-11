@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Chan/H. Keith Melton/Thora Birch. late_night, S3E178, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627000/\n_search: Jackie Chan/H. Keith Melton/Thora Birch | 1996 | S3E178",
+  "id": "bw-e-tt0627000",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Chan/H. Keith Melton/Thora Birch",
+  "type": "task"
+}

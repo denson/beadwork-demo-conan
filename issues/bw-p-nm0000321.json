@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabriel Byrne. b. 1950 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000321/\n_search: Gabriel Byrne | The Usual Suspects | End of Days | Hereditary | Miller's Crossing",
+  "id": "bw-p-nm0000321",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabriel Byrne",
+  "type": "task"
+}

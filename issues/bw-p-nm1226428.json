@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Campbell Brown. b. 1968 | actress, executive, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1226428/\n_search: Campbell Brown | Swing Vote | NBC Nightly News with Tom Llamas | 8 | Campbell Brown",
+  "id": "bw-p-nm1226428",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Campbell Brown",
+  "type": "task"
+}

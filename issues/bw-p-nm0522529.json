@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patty Loveless. b. 1957 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0522529/\n_search: Patty Loveless | A Few Good Men | Tin Cup | Black Dog | The Apostle",
+  "id": "bw-p-nm0522529",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patty Loveless",
+  "type": "task"
+}

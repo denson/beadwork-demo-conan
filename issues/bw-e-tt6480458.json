@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Jeong/Colin Hanks/K. Flay. conan_tbs, S7E41, 2017.\nRuntime: 42 min.\nIMDb rating: 5.7.\nIMDb: https://www.imdb.com/title/tt6480458/\n_search: Ken Jeong/Colin Hanks/K. Flay | 2017 | S7E41",
+  "id": "bw-e-tt6480458",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Jeong/Colin Hanks/K. Flay",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rita Rudner. b. 1953 | writer, actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0748852/\n_search: Rita Rudner | Peter's Friends | Tales from the Crypt | Love Hurts | The 75th Annual Academy Awards",
+  "id": "bw-p-nm0748852",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rita Rudner",
+  "type": "task"
+}

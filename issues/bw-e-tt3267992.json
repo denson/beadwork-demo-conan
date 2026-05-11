@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Throwing Shade Since 1993. conan_tbs, S3E150, 2013.\nIMDb: https://www.imdb.com/title/tt3267992/\n_search: Throwing Shade Since 1993 | 2013 | S3E150",
+  "id": "bw-e-tt3267992",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Throwing Shade Since 1993",
+  "type": "task"
+}

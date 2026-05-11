@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Hopping. miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9591282/\n_search: David Hopping | The Oscars",
+  "id": "bw-p-nm9591282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Hopping",
+  "type": "task"
+}

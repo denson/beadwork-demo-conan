@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "M. Night Shyamalan. b. 1970 | producer, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0796117/\n_search: M. Night Shyamalan | Signs | Lady in the Water | The Village | The Sixth Sense",
+  "id": "bw-p-nm0796117",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "M. Night Shyamalan",
+  "type": "task"
+}

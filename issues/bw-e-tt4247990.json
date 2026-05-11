@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Regis Philbin/Thomas Gibson/The Chieftains. late_night, S6E86, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4247990/\n_search: Regis Philbin/Thomas Gibson/The Chieftains | 1999 | S6E86",
+  "id": "bw-e-tt4247990",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Regis Philbin/Thomas Gibson/The Chieftains",
+  "type": "task"
+}

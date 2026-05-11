@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taking Back Sunday. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2285211/\n_search: Taking Back Sunday | Fantastic Four | Transformers: Revenge of the Fallen | Lethal Weapon | Friday Night Lights",
+  "id": "bw-p-nm2285211",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taking Back Sunday",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Sheen/Joe Manganiello/Marsha Ambrosius. conan_tbs, S4E108, 2014.\nIMDb: https://www.imdb.com/title/tt3870414/\n_search: Michael Sheen/Joe Manganiello/Marsha Ambrosius | 2014 | S4E108",
+  "id": "bw-e-tt3870414",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Sheen/Joe Manganiello/Marsha Ambrosius",
+  "type": "task"
+}

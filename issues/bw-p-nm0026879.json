@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Anderson. b. 1970 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0026879/\n_search: Jeff Anderson | Clerks | Clerks II | Zack and Miri Make a Porno | Jay and Silent Bob Strike Back",
+  "id": "bw-p-nm0026879",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Anderson",
+  "type": "task"
+}

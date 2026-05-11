@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Rachins. 1942–2024 | actor, writer, director.\nDECEASED (1942–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0705118/\n_search: Alan Rachins | Showgirls | L.A. Law | Dharma \u0026 Greg | Meet Wally Sparks",
+  "id": "bw-p-nm0705118",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Rachins",
+  "type": "task"
+}

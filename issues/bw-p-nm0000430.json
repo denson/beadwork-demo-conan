@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Guttenberg. b. 1958 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000430/\n_search: Steve Guttenberg | Three Men and a Baby | Short Circuit | Police Academy | Three Men and a Little Lady",
+  "id": "bw-p-nm0000430",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Guttenberg",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rozes. actress, cinematographer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7970843/\n_search: Rozes | The Clash | Beat Shazam | The Tonight Show Starring Jimmy Fallon",
+  "id": "bw-p-nm7970843",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rozes",
+  "type": "task"
+}

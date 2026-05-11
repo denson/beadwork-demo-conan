@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Ritter/Melissa Joan Hart/Smashing Pumpkins. late_night, S4E78, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt12360140/\n_search: John Ritter/Melissa Joan Hart/Smashing Pumpkins | 1997 | S4E78",
+  "id": "bw-e-tt12360140",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Ritter/Melissa Joan Hart/Smashing Pumpkins",
+  "type": "task"
+}

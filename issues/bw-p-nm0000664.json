@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Swayze. 1952–2009 | actor, producer, miscellaneous.\nDECEASED (1952–2009). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000664/\n_search: Patrick Swayze | Dirty Dancing | Ghost | Point Break | Road House",
+  "id": "bw-p-nm0000664",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Swayze",
+  "type": "task"
+}

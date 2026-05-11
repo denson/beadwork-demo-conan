@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brien. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2853820/\n_search: Brien | Commute",
+  "id": "bw-p-nm2853820",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brien",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Weiner. b. 1965 | producer, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1980806/\n_search: Matthew Weiner | Mad Men | The Sopranos | The Romanoffs | Are You Here",
+  "id": "bw-p-nm1980806",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Weiner",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen Hawking. 1942–2018 | actor, writer, production_department.\nDECEASED (1942–2018). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0370071/\n_search: Stephen Hawking | Star Trek: The Next Generation | Futurama: The Beast with a Billion Backs | A Brief History of Time | Futurama",
+  "id": "bw-p-nm0370071",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen Hawking",
+  "type": "task"
+}

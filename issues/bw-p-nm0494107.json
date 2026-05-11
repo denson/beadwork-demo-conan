@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Simon Le Bon. b. 1958 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0494107/\n_search: Simon Le Bon | The Saint | Donnie Darko | Layer Cake | Red Notice",
+  "id": "bw-p-nm0494107",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Simon Le Bon",
+  "type": "task"
+}

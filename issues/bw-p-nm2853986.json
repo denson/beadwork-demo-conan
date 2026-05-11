@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Cobe. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2853986/\n_search: Jake Cobe",
+  "id": "bw-p-nm2853986",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Cobe",
+  "type": "task"
+}

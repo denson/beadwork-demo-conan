@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trent Jackson. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4554799/\n_search: Trent Jackson | Late Show with David Letterman | The Tonight Show with Jay Leno | Live with Kelly and Mark",
+  "id": "bw-p-nm4554799",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trent Jackson",
+  "type": "task"
+}

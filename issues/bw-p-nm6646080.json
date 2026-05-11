@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Bauman. b. 1986 | writer, miscellaneous, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6646080/\n_search: Jeff Bauman | Stronger | Marathon: The Patriots Day Bombing | WGN Morning News | Today",
+  "id": "bw-p-nm6646080",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Bauman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carnie Wilson. b. 1968 | actress, composer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0933139/\n_search: Carnie Wilson | Bridesmaids | Harold \u0026 Kumar Go to White Castle | Whip It | Sabrina the Teenage Witch",
+  "id": "bw-p-nm0933139",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carnie Wilson",
+  "type": "task"
+}

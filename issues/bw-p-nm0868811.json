@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Torres. actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0868811/\n_search: Robert Torres | The Taking of Pelham 123 | Celebrity | Tio | Jus A Lil Off",
+  "id": "bw-p-nm0868811",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Torres",
+  "type": "task"
+}

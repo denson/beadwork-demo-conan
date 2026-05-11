@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Hornsby. b. 1954 | composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0395193/\n_search: Bruce Hornsby | Backdraft | Oldboy | World's Greatest Dad | Tin Cup",
+  "id": "bw-p-nm0395193",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Hornsby",
+  "type": "task"
+}

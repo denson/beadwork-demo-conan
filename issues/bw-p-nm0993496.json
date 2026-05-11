@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Connor. actress, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0993496/\n_search: Kate Connor | Fort McCoy | Mad Men | Truth Be Told | The Chicago 8",
+  "id": "bw-p-nm0993496",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Connor",
+  "type": "task"
+}

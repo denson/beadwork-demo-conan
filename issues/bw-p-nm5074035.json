@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Angel Olsen. actress, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5074035/\n_search: Angel Olsen | The Fundamentals of Caring | The Voyeurs | There's Someone Inside Your House | Horse Girl",
+  "id": "bw-p-nm5074035",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Angel Olsen",
+  "type": "task"
+}

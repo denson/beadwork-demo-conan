@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emily Mortimer. b. 1971 | actress, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0607865/\n_search: Emily Mortimer | Mary Poppins Returns | Lars and the Real Girl | Match Point | Transsiberian",
+  "id": "bw-p-nm0607865",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emily Mortimer",
+  "type": "task"
+}

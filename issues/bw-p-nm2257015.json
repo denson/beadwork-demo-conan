@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Bridge. production_designer, art_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2257015/\n_search: Josh Bridge | Call of Duty: Vanguard | Dead Rising 3 | Spyro Reignited Trilogy | Call of Duty: Infinite Warfare",
+  "id": "bw-p-nm2257015",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Bridge",
+  "type": "task"
+}

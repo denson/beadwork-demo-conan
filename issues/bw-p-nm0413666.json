@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Jackson. 1941–2026 | actor, producer, miscellaneous.\nDECEASED (1941–2026). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0413666/\n_search: Jesse Jackson | The Burning | S.O.S. - Saving Our Schools | Happily Ever After: Fairy Tales for Every Child | A Different World",
+  "id": "bw-p-nm0413666",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Jackson",
+  "type": "task"
+}

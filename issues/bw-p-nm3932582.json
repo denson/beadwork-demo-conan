@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessica Blair. actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3932582/\n_search: Jessica Blair | Adventures of the Naked Umbrella | Seagulls | Lost Angeles Ward | Bleeding Green",
+  "id": "bw-p-nm3932582",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessica Blair",
+  "type": "task"
+}

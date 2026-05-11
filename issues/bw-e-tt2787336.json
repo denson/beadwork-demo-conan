@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil Donahue/Caroline McKeldin/Rusted Root. late_night, S2E43, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2787336/\n_search: Phil Donahue/Caroline McKeldin/Rusted Root | 1994 | S2E43",
+  "id": "bw-e-tt2787336",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil Donahue/Caroline McKeldin/Rusted Root",
+  "type": "task"
+}

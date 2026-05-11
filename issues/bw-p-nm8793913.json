@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Damian Genuardi. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8793913/\n_search: Damian Genuardi | Fantastic Four | Tony Hawk's Underground 2 | Cars: The Video Game | Midnight Club 3: DUB Edition",
+  "id": "bw-p-nm8793913",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Damian Genuardi",
+  "type": "task"
+}

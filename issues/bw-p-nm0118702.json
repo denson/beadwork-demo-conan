@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "William F. Buckley. 1925–2008 | actor, miscellaneous, soundtrack.\nDECEASED (1925–2008). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0118702/\n_search: William F. Buckley | Manufacturing Consent: Noam Chomsky and the Media | ...and Then There's Claude. | Rowan \u0026 Martin's Laugh-In | LateLine",
+  "id": "bw-p-nm0118702",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "William F. Buckley",
+  "type": "task"
+}

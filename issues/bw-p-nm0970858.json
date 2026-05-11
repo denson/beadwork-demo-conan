@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ira Elliot. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0970858/\n_search: Ira Elliot | Disturbia | My Bloody Valentine | John Tucker Must Die | Mr. Woodcock",
+  "id": "bw-p-nm0970858",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ira Elliot",
+  "type": "task"
+}

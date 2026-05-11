@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pete Holmes. b. 1979 | actor, writer, producer.\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm2803399/\n_search: Pete Holmes | Dropout | Crashing | Woman of the Hour | The Best Christmas Pageant Ever",
+  "id": "bw-p-nm2803399",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pete Holmes",
+  "type": "task"
+}

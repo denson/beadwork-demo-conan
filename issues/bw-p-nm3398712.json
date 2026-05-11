@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Mays. 1958–2009 | actor, producer, archive_footage.\nDECEASED (1958–2009). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3398712/\n_search: Billy Mays | Pitchman: A Tribute to Billy Mays | Pitchmen | Grip Wrench Commercial | Turbo Tiger Infomercial",
+  "id": "bw-p-nm3398712",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Mays",
+  "type": "task"
+}

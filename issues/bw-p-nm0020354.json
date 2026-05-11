@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chad Allen. b. 1974 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0020354/\n_search: Chad Allen | Dr. Quinn, Medicine Woman | TerrorVision | Happy New Year, Charlie Brown | Third Man Out",
+  "id": "bw-p-nm0020354",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chad Allen",
+  "type": "task"
+}

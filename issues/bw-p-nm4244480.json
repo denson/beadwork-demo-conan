@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ed Gamble. b. 1986 | podcaster, writer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4244480/\n_search: Ed Gamble | The Island | Man Down | Almost Royal | Never Mind the Buzzcocks",
+  "id": "bw-p-nm4244480",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ed Gamble",
+  "type": "task"
+}

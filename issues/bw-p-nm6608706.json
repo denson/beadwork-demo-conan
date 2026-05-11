@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ethan Michael Mora. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6608706/\n_search: Ethan Michael Mora | Don't Worry, He Won't Get Far on Foot | Sun Dogs | Roadies | Black-ish",
+  "id": "bw-p-nm6608706",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ethan Michael Mora",
+  "type": "task"
+}

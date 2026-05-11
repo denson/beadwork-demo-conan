@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spalding Gray. 1941–2004 | actor, writer, archive_footage.\nDECEASED (1941–2004). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0336960/\n_search: Spalding Gray | Swimming to Cambodia | Kate \u0026 Leopold | The Killing Fields | Beaches",
+  "id": "bw-p-nm0336960",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spalding Gray",
+  "type": "task"
+}

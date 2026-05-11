@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Goodman/Drew Barrymore/Tony Randall. late_night, S1E1, 1993.\nRuntime: 57 min.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt0626968/\n_search: John Goodman/Drew Barrymore/Tony Randall | 1993 | S1E1",
+  "id": "bw-e-tt0626968",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Goodman/Drew Barrymore/Tony Randall",
+  "type": "task"
+}

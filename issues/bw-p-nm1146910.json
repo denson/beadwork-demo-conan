@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Coco Austin. b. 1979 | actress, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1146910/\n_search: Coco Austin | Law \u0026 Order: Special Victims Unit | Think Like a Man Too | Death for Hire: The Origin of Tehk City | Angel Blade",
+  "id": "bw-p-nm1146910",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Coco Austin",
+  "type": "task"
+}

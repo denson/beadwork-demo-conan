@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karen Duffy. b. 1962 | actress, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0240565/\n_search: Karen Duffy | Dumb and Dumber | Fantastic Mr. Fox | Blank Check | Celebrity",
+  "id": "bw-p-nm0240565",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karen Duffy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wendie Malick. b. 1950 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005176/\n_search: Wendie Malick | The American President | Waiting... | The Emperor's New Groove | Dream On",
+  "id": "bw-p-nm0005176",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wendie Malick",
+  "type": "task"
+}

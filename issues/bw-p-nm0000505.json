@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nia Long. b. 1970 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000505/\n_search: Nia Long | The Best Man | Big Momma's House | The Best Man Holiday | Boiler Room",
+  "id": "bw-p-nm0000505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nia Long",
+  "type": "task"
+}

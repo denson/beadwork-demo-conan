@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neil McCalmont. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6195498/\n_search: Neil McCalmont",
+  "id": "bw-p-nm6195498",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neil McCalmont",
+  "type": "task"
+}

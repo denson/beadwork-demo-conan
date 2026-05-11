@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Abe Vigoda. 1921–2016 | actor, archive_footage.\nDECEASED (1921–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001820/\n_search: Abe Vigoda | The Godfather | Good Burger | Barney Miller | Joe Versus the Volcano",
+  "id": "bw-p-nm0001820",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Abe Vigoda",
+  "type": "task"
+}

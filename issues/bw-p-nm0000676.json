@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Tucker. b. 1971 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000676/\n_search: Chris Tucker | Rush Hour | Rush Hour 2 | Silver Linings Playbook | Rush Hour 3",
+  "id": "bw-p-nm0000676",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Tucker",
+  "type": "task"
+}

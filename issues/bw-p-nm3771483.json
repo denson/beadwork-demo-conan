@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elly Kaye. actress, producer, production_designer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3771483/\n_search: Elly Kaye | The Bold and the Beautiful | Alien Dawn | Lifelines | The Golden State",
+  "id": "bw-p-nm3771483",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elly Kaye",
+  "type": "task"
+}

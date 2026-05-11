@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Asiago Index. conan_tbs, S1E51, 2011.\nRuntime: 60 min.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt1837781/\n_search: The Asiago Index | 2011 | S1E51",
+  "id": "bw-e-tt1837781",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Asiago Index",
+  "type": "task"
+}

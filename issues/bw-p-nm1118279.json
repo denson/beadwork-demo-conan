@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wylie Gustafson. b. 1961 | actor, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1118279/\n_search: Wylie Gustafson | Transamerica | The Smell of Success | The Slaughter Rule | EGG, the Arts Show",
+  "id": "bw-p-nm1118279",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wylie Gustafson",
+  "type": "task"
+}

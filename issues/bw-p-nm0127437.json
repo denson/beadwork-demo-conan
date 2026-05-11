@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jordi Caballero. actor, choreographer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0127437/\n_search: Jordi Caballero | Gaslit | Sex and the City | Hacks | Justified",
+  "id": "bw-p-nm0127437",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jordi Caballero",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ellie Goulding. b. 1986 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3716110/\n_search: Ellie Goulding | Fifty Shades of Grey | Divergent | Kingsman: The Secret Service | 2:22",
+  "id": "bw-p-nm3716110",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ellie Goulding",
+  "type": "task"
+}

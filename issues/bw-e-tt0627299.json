@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roshumba/Dave Foley/Joe Strummer. late_night, S7E43, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627299/\n_search: Roshumba/Dave Foley/Joe Strummer | 1999 | S7E43",
+  "id": "bw-e-tt0627299",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roshumba/Dave Foley/Joe Strummer",
+  "type": "task"
+}

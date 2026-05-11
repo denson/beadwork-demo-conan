@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shanara Gabrielle. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2273719/\n_search: Shanara Gabrielle | Books \u0026 Beans | The Look | House of Cards | Chicago Fire",
+  "id": "bw-p-nm2273719",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shanara Gabrielle",
+  "type": "task"
+}

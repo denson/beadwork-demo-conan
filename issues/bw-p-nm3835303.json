@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lizze Broadway. b. 1998 | actress, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3835303/\n_search: Lizze Broadway | Ghosted | Gen V | Here and Now | Based on a True Story",
+  "id": "bw-p-nm3835303",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lizze Broadway",
+  "type": "task"
+}

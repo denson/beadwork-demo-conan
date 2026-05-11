@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Smilez. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2614912/\n_search: Smilez | Diamond Life | 106 \u0026 Park | Selling Sunset | Rap City",
+  "id": "bw-p-nm2614912",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Smilez",
+  "type": "task"
+}

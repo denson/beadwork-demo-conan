@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Garth Brooks/Kevin Brennan/Kimberly Williams. late_night, S3E56, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3382892/\n_search: Garth Brooks/Kevin Brennan/Kimberly Williams | 1995 | S3E56",
+  "id": "bw-e-tt3382892",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Garth Brooks/Kevin Brennan/Kimberly Williams",
+  "type": "task"
+}

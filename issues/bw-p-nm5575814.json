@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gods Child. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5575814/\n_search: Gods Child",
+  "id": "bw-p-nm5575814",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gods Child",
+  "type": "task"
+}

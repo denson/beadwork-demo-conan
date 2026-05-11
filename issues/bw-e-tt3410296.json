@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mimi Rogers/Jennifer Grey/Nils Lofgren. late_night, S3E48, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3410296/\n_search: Mimi Rogers/Jennifer Grey/Nils Lofgren | 1995 | S3E48",
+  "id": "bw-e-tt3410296",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mimi Rogers/Jennifer Grey/Nils Lofgren",
+  "type": "task"
+}

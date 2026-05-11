@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Driver. b. 1983 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3485845/\n_search: Adam Driver | Star Wars: Episode VII - The Force Awakens | Paterson | Star Wars: Episode VIII - The Last Jedi | Marriage Story",
+  "id": "bw-p-nm3485845",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Driver",
+  "type": "task"
+}

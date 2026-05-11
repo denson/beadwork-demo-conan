@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim White. b. 1957 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0924967/\n_search: Jim White | Your Magic Touched Me | The Prophecy II | Late Show with David Letterman",
+  "id": "bw-p-nm0924967",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim White",
+  "type": "task"
+}

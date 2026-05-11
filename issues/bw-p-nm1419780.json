@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chingy. b. 1980 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1419780/\n_search: Chingy | xXx: State of the Union | Fantastic Four | Scary Movie 4 | Don't Look Up",
+  "id": "bw-p-nm1419780",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chingy",
+  "type": "task"
+}

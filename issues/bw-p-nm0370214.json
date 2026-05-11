@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ronnie Hawkins. 1935–2022 | actor, soundtrack, archive_footage.\nDECEASED (1935–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0370214/\n_search: Ronnie Hawkins | Heaven's Gate | The Last Waltz | Hello Mary Lou: Prom Night II | Renaldo and Clara",
+  "id": "bw-p-nm0370214",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ronnie Hawkins",
+  "type": "task"
+}

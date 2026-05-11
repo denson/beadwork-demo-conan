@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Hillstrand. miscellaneous, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2470858/\n_search: Andy Hillstrand | Deadliest Catch: Legend of the Wizard | After the Catch | American Chopper: The Series | The Insider",
+  "id": "bw-p-nm2470858",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Hillstrand",
+  "type": "task"
+}

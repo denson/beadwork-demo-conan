@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sandler/Joel McHale/Joss Stone with Raphael Saadiq. tonight_show, S1E143, 2010.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt1588140/\n_search: Adam Sandler/Joel McHale/Joss Stone with Raphael Saadiq | 2010 | S1E143",
+  "id": "bw-e-tt1588140",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sandler/Joel McHale/Joss Stone with Raphael Saadiq",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deftones. music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2475277/\n_search: Deftones | Escape from L.A. | Law Abiding Citizen | Furious 7 | House of Wax",
+  "id": "bw-p-nm2475277",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deftones",
+  "type": "task"
+}

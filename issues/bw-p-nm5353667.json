@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phoebe Bridgers. b. 1994 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5353667/\n_search: Phoebe Bridgers | I Saw the TV Glow | Between Two Ferns: The Movie | Primetime | 13 Reasons Why",
+  "id": "bw-p-nm5353667",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phoebe Bridgers",
+  "type": "task"
+}

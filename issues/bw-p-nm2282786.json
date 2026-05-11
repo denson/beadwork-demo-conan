@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Atmosphere. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2282786/\n_search: Atmosphere | Transporter 3 | Bad Biology | Goodbye World | Orange Is the New Black",
+  "id": "bw-p-nm2282786",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Atmosphere",
+  "type": "task"
+}

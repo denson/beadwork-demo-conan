@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Loggia. 1930–2015 | actor, director, miscellaneous.\nDECEASED (1930–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005162/\n_search: Robert Loggia | Big | Independence Day | Lost Highway | Scarface",
+  "id": "bw-p-nm0005162",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Loggia",
+  "type": "task"
+}

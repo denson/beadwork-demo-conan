@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Howie Mandel/Christina Hendricks/Rob Gleeson. conan_tbs, S4E70, 2014.\nIMDb: https://www.imdb.com/title/tt3655034/\n_search: Howie Mandel/Christina Hendricks/Rob Gleeson | 2014 | S4E70",
+  "id": "bw-e-tt3655034",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Howie Mandel/Christina Hendricks/Rob Gleeson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christina Tosi. b. 1981 | actress.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4761334/\n_search: Christina Tosi | The Bear | Unique Sweets | MasterChef: USA | Next Gen Chef",
+  "id": "bw-p-nm4761334",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christina Tosi",
+  "type": "task"
+}

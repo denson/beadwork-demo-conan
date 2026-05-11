@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laurence Fishburne. b. 1961 | actor, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000401/\n_search: Laurence Fishburne | The Matrix | Contagion | 21 | The Matrix Reloaded",
+  "id": "bw-p-nm0000401",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laurence Fishburne",
+  "type": "task"
+}

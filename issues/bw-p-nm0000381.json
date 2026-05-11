@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Edwards. b. 1962 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000381/\n_search: Anthony Edwards | ER | Top Gun | Zodiac | Revenge of the Nerds",
+  "id": "bw-p-nm0000381",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Edwards",
+  "type": "task"
+}

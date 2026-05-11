@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian D'Addario. b. 1997 | actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2637923/\n_search: Brian D'Addario | Easy | Runaways | How It Ends | You're the Worst",
+  "id": "bw-p-nm2637923",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian D'Addario",
+  "type": "task"
+}

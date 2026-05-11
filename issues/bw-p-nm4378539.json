@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kody Kavitha. b. 1991 | actress, director, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4378539/\n_search: Kody Kavitha | General Hospital | Dead End: Paranormal Park | Rise of the Teenage Mutant Ninja Turtles | Starfield",
+  "id": "bw-p-nm4378539",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kody Kavitha",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Waters/Stephanie Seymour/The Why Store. late_night, S4E97, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3672024/\n_search: John Waters/Stephanie Seymour/The Why Store | 1997 | S4E97",
+  "id": "bw-e-tt3672024",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Waters/Stephanie Seymour/The Why Store",
+  "type": "task"
+}

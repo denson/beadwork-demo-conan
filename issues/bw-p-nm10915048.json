@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Strausbaugh. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm10915048/\n_search: John Strausbaugh | 30 for 30",
+  "id": "bw-p-nm10915048",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Strausbaugh",
+  "type": "task"
+}

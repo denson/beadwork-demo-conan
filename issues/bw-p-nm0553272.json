@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wink Martindale. 1933–2025 | producer, writer, actor.\nDECEASED (1933–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0553272/\n_search: Wink Martindale | Second Honeymoon | Headline Chasers | The Lively Set | Bumper Stumpers",
+  "id": "bw-p-nm0553272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wink Martindale",
+  "type": "task"
+}

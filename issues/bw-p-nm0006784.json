@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Bickford. b. 1953 | actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0006784/\n_search: David Bickford | True Blood | American Crime Story | Crocodile Dundee in Los Angeles | Seize the Day",
+  "id": "bw-p-nm0006784",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Bickford",
+  "type": "task"
+}

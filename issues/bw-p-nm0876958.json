@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paige Turco. b. 1965 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0876958/\n_search: Paige Turco | Teenage Mutant Ninja Turtles II: The Secret of the Ooze | Teenage Mutant Ninja Turtles III | The Stepfather | Invincible",
+  "id": "bw-p-nm0876958",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paige Turco",
+  "type": "task"
+}

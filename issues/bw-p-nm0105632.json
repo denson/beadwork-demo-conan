@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Braudis. writer, actor, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0105632/\n_search: Bill Braudis | Dr. Katz, Professional Therapist | O'Grady | Home Movies | Raising Dad",
+  "id": "bw-p-nm0105632",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Braudis",
+  "type": "task"
+}

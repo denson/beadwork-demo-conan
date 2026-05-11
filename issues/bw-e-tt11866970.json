@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wanda Sykes. conan_tbs, S10E23, 2020.\nRuntime: 21 min.\nIMDb rating: 5.9.\nIMDb: https://www.imdb.com/title/tt11866970/\n_search: Wanda Sykes | 2020 | S10E23",
+  "id": "bw-e-tt11866970",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wanda Sykes",
+  "type": "task"
+}

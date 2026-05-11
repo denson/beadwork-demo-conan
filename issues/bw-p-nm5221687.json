@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kali Flanagan. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5221687/\n_search: Kali Flanagan | Toastmaster | True Blood | House on Fire | Away We Grow",
+  "id": "bw-p-nm5221687",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kali Flanagan",
+  "type": "task"
+}

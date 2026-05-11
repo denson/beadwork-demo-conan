@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Oscar Isaac. b. 1979 | actor, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1209966/\n_search: Oscar Isaac | Ex Machina | Inside Llewyn Davis | A Most Violent Year | Frankenstein",
+  "id": "bw-p-nm1209966",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Oscar Isaac",
+  "type": "task"
+}

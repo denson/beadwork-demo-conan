@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hans Scharler. producer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4204877/\n_search: Hans Scharler | Crafting Arzium | The Dreams in Gary's Basement | Greencastle | The Game Designers",
+  "id": "bw-p-nm4204877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hans Scharler",
+  "type": "task"
+}

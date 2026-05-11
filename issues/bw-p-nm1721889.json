@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank O'Connor. producer, miscellaneous, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1721889/\n_search: Frank O'Connor | Halo | Halo | Halo Legends | Halo 4",
+  "id": "bw-p-nm1721889",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank O'Connor",
+  "type": "task"
+}

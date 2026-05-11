@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dapper Dan. b. 1944 | actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7844852/\n_search: Dapper Dan | Luke Cage | Smoke DZA's Homegrown | Palms: Unstatus Quo | Kings from Queens: The Run DMC Story",
+  "id": "bw-p-nm7844852",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dapper Dan",
+  "type": "task"
+}

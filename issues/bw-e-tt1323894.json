@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Snoop Dogg/Brian Regan/Blitzen Trapper. late_night, S16E49, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1323894/\n_search: Snoop Dogg/Brian Regan/Blitzen Trapper | 2008 | S16E49",
+  "id": "bw-e-tt1323894",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Snoop Dogg/Brian Regan/Blitzen Trapper",
+  "type": "task"
+}

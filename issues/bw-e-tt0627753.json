@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Usher/Colin Quinn/Pink Martini. late_night, S13E40, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627753/\n_search: Usher/Colin Quinn/Pink Martini | 2005 | S13E40",
+  "id": "bw-e-tt0627753",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Usher/Colin Quinn/Pink Martini",
+  "type": "task"
+}

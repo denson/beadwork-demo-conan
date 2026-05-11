@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scotty McCreery. b. 1993 | music_artist, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4341913/\n_search: Scotty McCreery | American Idol | Five More Minutes: Moments Like These | America's Morning Headquarters | Five More Minutes",
+  "id": "bw-p-nm4341913",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scotty McCreery",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Margaret Cho/Malcolm McLaren/John Ridley. late_night, S2E132, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2833648/\n_search: Margaret Cho/Malcolm McLaren/John Ridley | 1995 | S2E132",
+  "id": "bw-e-tt2833648",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Margaret Cho/Malcolm McLaren/John Ridley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Matthews. b. 1945 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1236777/\n_search: Chris Matthews | The Campaign | Dave | Man of the Year | State of Play",
+  "id": "bw-p-nm1236777",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Matthews",
+  "type": "task"
+}

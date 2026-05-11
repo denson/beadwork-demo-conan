@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doug Stoley. actor, sound_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2290335/\n_search: Doug Stoley | Marc Maron: The Voice of Something | The Flying Scissors | At Home with Amy Sedaris | Thingstarter",
+  "id": "bw-p-nm2290335",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doug Stoley",
+  "type": "task"
+}

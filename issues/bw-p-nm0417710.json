@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Jankeloff. assistant_director, editorial_department, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0417710/\n_search: Mark Jankeloff | Saturday Night Live | The Tonight Show Starring Jimmy Fallon | Late Night with Conan O'Brien: The Best of Triumph the Insult Comic Dog",
+  "id": "bw-p-nm0417710",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Jankeloff",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Frost. 1939–2013 | producer, writer, actor.\nDECEASED (1939–2013). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0296484/\n_search: David Frost | Retreat | Rogue Trader | The Slipper and the Rose: The Story of Cinderella | The Rise and Rise of Michael Rimmer",
+  "id": "bw-p-nm0296484",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Frost",
+  "type": "task"
+}

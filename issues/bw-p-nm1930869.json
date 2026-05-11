@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Powter. b. 1971 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1930869/\n_search: Daniel Powter | Alvin and the Chipmunks | JonTron | I Love the New Millennium | Yu Yu Hakusho Abridged",
+  "id": "bw-p-nm1930869",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Powter",
+  "type": "task"
+}

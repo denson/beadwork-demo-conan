@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gilbert Gottfried/Mike Lupica/The Vacant Lot. late_night, S1E214, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2760674/\n_search: Gilbert Gottfried/Mike Lupica/The Vacant Lot | 1994 | S1E214",
+  "id": "bw-e-tt2760674",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gilbert Gottfried/Mike Lupica/The Vacant Lot",
+  "type": "task"
+}

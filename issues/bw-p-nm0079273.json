@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Bettany. b. 1971 | actor, producer, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0079273/\n_search: Paul Bettany | WandaVision",
+  "id": "bw-p-nm0079273",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Bettany",
+  "type": "task"
+}

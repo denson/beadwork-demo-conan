@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Bugg. b. 1994 | music_artist, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5450177/\n_search: Jake Bugg | The Fault in Our Stars | Dumb and Dumber To | Happy Valley | Alex Rider",
+  "id": "bw-p-nm5450177",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Bugg",
+  "type": "task"
+}

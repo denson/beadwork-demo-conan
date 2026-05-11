@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Lukas. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1328747/\n_search: Mike Lukas | Straight Dope | Club Dead | Some Kinda Joke",
+  "id": "bw-p-nm1328747",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Lukas",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sabi. b. 1987 | actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4590792/\n_search: Sabi | American Reunion | The Misadventures of Awkward Black Girl | The Vampire Diaries | Isa",
+  "id": "bw-p-nm4590792",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sabi",
+  "type": "task"
+}

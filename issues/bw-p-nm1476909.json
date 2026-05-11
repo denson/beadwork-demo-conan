@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Shea. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1476909/\n_search: Matt Shea | Silicon Valley | Bold Native | On My Block | On Call",
+  "id": "bw-p-nm1476909",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Shea",
+  "type": "task"
+}

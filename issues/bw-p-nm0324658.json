@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Walton Goggins. b. 1971 | actor, producer, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0324658/\n_search: Walton Goggins | Justified | The Hateful Eight | Predators | Django Unchained",
+  "id": "bw-p-nm0324658",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Walton Goggins",
+  "type": "task"
+}

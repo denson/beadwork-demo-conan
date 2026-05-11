@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kellen Erskine. writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2826060/\n_search: Kellen Erskine | Tuttle Twins | The Chosen Adventures | Dry Bar Unscripted | Dry Bar Comedy",
+  "id": "bw-p-nm2826060",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kellen Erskine",
+  "type": "task"
+}

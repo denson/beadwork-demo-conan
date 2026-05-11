@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Atheana Ritchie. writer, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1999295/\n_search: Atheana Ritchie | Keeping It 100 | Make Love Not War | Borderline Coyotes | The Bay",
+  "id": "bw-p-nm1999295",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Atheana Ritchie",
+  "type": "task"
+}

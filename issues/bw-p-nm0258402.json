@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Epps. b. 1970 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0258402/\n_search: Mike Epps | Resident Evil: Apocalypse | Friday After Next | The Hangover | Resident Evil: Extinction",
+  "id": "bw-p-nm0258402",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Epps",
+  "type": "task"
+}

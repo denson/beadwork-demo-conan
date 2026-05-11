@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen D'Angelo. actor, writer, executive.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2087924/\n_search: Stephen D'Angelo | F.B.A | Reign Supreme | Anabolic Life",
+  "id": "bw-p-nm2087924",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen D'Angelo",
+  "type": "task"
+}

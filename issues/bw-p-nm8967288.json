@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eli Michael Kaplan. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8967288/\n_search: Eli Michael Kaplan | Barry | Puppy Place | The Big Show Show | Child Support",
+  "id": "bw-p-nm8967288",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eli Michael Kaplan",
+  "type": "task"
+}

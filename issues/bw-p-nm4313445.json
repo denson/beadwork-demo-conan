@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Smothers Brothers. actor, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4313445/\n_search: Smothers Brothers | The Jonathan Winters Show | Glen Campbell: I'll Be Me | The 38th Annual Academy Awards | American Soundtrack: This Land Is Your Land",
+  "id": "bw-p-nm4313445",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Smothers Brothers",
+  "type": "task"
+}

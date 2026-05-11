@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Richardson. b. 1981 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1111809/\n_search: Jason Richardson | Like Mike | The Mermaid's Curse | Flintown Kids | Ballerz 'n Flint",
+  "id": "bw-p-nm1111809",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Richardson",
+  "type": "task"
+}

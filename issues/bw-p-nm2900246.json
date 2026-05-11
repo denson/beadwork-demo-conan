@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Deyo. sound_department, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2900246/\n_search: Tony Deyo | Joe List: Enough for Everybody | Jason Salmon: Biscuits \u0026 Gravity | Joe List: Small Ball | Caution to the Wind",
+  "id": "bw-p-nm2900246",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Deyo",
+  "type": "task"
+}

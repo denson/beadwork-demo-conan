@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "50 Cent. b. 1975 | music_artist, actor, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm1265067/\n_search: 50 Cent | Get Rich or Die Tryin' | Power | Escape Plan | The Frozen Ground",
+  "id": "bw-p-nm1265067",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "50 Cent",
+  "type": "task"
+}

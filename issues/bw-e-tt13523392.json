@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Ricky Gervais. conan_tbs, S10E106, 2020.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt13523392/\n_search: From Largo Theatre Ricky Gervais | 2020 | S10E106",
+  "id": "bw-e-tt13523392",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Ricky Gervais",
+  "type": "task"
+}

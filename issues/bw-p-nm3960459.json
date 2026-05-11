@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Lee. b. 1983 | writer, producer, actress.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3960459/\n_search: Jamie Lee | Ted Lasso | Crashing | Unsettling | Plan B",
+  "id": "bw-p-nm3960459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Lee",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Fratellis. music_artist, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2298826/\n_search: The Fratellis | Hot Fuzz | The Suicide Squad | Stuber | Cirque du Freak: The Vampire's Assistant",
+  "id": "bw-p-nm2298826",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Fratellis",
+  "type": "task"
+}

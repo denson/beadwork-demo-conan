@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spinal Tap. actor, soundtrack, archive_footage.\nConan-show appearances: 0 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm2346967/\n_search: Spinal Tap | Don't Tell Mom the Babysitter's Dead | Supernatural | It Might Get Loud | The T.V. Show",
+  "id": "bw-p-nm2346967",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spinal Tap",
+  "type": "task"
+}

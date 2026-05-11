@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Missio. composer, production_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9007916/\n_search: Missio | Deception | The Reason | Missio: I See You",
+  "id": "bw-p-nm9007916",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Missio",
+  "type": "task"
+}

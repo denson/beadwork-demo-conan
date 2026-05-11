@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Ashcroft. b. 1971 | actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1479214/\n_search: Richard Ashcroft | The Adjustment Bureau | The Beach | Cruel Intentions | The Girl Next Door",
+  "id": "bw-p-nm1479214",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Ashcroft",
+  "type": "task"
+}

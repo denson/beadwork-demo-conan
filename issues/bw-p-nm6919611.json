@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dina Hashem. writer, art_department, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6919611/\n_search: Dina Hashem | Sisters | The Comedy Show Show | The Daily Show | Urge",
+  "id": "bw-p-nm6919611",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dina Hashem",
+  "type": "task"
+}

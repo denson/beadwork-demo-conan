@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Okkervil River. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2756084/\n_search: Okkervil River | Cedar Rapids | A.C.O.D. | Cold Case | Maron",
+  "id": "bw-p-nm2756084",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Okkervil River",
+  "type": "task"
+}

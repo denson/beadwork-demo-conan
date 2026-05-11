@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Gonzalez. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8718502/\n_search: Jay Gonzalez | Athens Rising: The Sicyon Project: Volume One | Gilbert Lawand: Iraqi Born, Georgia Bred | Front Row Boston: In Studio | Live from the Artists Den",
+  "id": "bw-p-nm8718502",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Gonzalez",
+  "type": "task"
+}

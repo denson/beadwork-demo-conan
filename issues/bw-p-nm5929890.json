@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Riese. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5929890/\n_search: Martin Riese | Very Good for Hollywood: Österreicher- Innen in L.A. | What Lies Upstream | Nikki Fre$h",
+  "id": "bw-p-nm5929890",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Riese",
+  "type": "task"
+}

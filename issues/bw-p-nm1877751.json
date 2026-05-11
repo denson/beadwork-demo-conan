@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Love Jones. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1877751/\n_search: Love Jones | Split | Bad Roomies | The Tonight Show Starring Jimmy Fallon",
+  "id": "bw-p-nm1877751",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Love Jones",
+  "type": "task"
+}

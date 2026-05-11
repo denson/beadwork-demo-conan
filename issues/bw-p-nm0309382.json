@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leon Gast. 1936–2021 | director, producer, editor.\nDECEASED (1936–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0309382/\n_search: Leon Gast | When We Were Kings | Smash His Camera | The Trials of Muhammad Ali | Salsa",
+  "id": "bw-p-nm0309382",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leon Gast",
+  "type": "task"
+}

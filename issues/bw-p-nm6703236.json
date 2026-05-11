@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alex DiDonato. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6703236/\n_search: Alex DiDonato | Accident",
+  "id": "bw-p-nm6703236",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alex DiDonato",
+  "type": "task"
+}

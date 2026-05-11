@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cuba Gooding, Jr./Jackie Hoffman/Bruce Parry. late_night, S14E180, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1076501/\n_search: Cuba Gooding, Jr./Jackie Hoffman/Bruce Parry | 2007 | S14E180",
+  "id": "bw-e-tt1076501",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cuba Gooding, Jr./Jackie Hoffman/Bruce Parry",
+  "type": "task"
+}

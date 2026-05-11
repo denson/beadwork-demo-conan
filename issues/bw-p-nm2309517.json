@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Armie Hammer. b. 1986 | actor, producer, archive_footage.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm2309517/\n_search: Armie Hammer | Call Me by Your Name | The Social Network | The Lone Ranger | J. Edgar",
+  "id": "bw-p-nm2309517",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Armie Hammer",
+  "type": "task"
+}

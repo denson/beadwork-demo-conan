@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mitchie Brusco. actor, stunts.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2968045/\n_search: Mitchie Brusco | Next X | The Naked Brothers Band | SC Featured | Skateboard: Horizon Verticale",
+  "id": "bw-p-nm2968045",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mitchie Brusco",
+  "type": "task"
+}

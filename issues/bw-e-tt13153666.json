@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "DIY Conan. conan_tbs, S10E90, 2020.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt13153666/\n_search: DIY Conan | 2020 | S10E90",
+  "id": "bw-e-tt13153666",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "DIY Conan",
+  "type": "task"
+}

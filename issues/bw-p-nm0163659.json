@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Clark. b. 1964 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0163659/\n_search: Anthony Clark | The Rock | Yes, Dear | Dogfight | The Thing Called Love",
+  "id": "bw-p-nm0163659",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Clark",
+  "type": "task"
+}

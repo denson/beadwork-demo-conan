@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Catherine Adell. actress, special_effects, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1082444/\n_search: Catherine Adell | The Accountant 2 | 9-1-1 | Hacks | Monster",
+  "id": "bw-p-nm1082444",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Catherine Adell",
+  "type": "task"
+}

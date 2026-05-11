@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Crosby. music_department, composer, sound_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2004010/\n_search: Brian Crosby | The German | The Mercy | Estranged | Rory O'Shea Was Here",
+  "id": "bw-p-nm2004010",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Crosby",
+  "type": "task"
+}

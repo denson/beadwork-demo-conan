@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brad Wenzel. actor, writer, sound_department.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm6620850/\n_search: Brad Wenzel | Footlights | Patrick Hastie: I Will Fight All of You | Brad Wenzel: joke. joke. joke.",
+  "id": "bw-p-nm6620850",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brad Wenzel",
+  "type": "task"
+}

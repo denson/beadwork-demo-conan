@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Sinclair. b. 1984 | producer, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4161154/\n_search: Ben Sinclair | Night Swim | High Maintenance | High Maintenance | Thor: Love and Thunder",
+  "id": "bw-p-nm4161154",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Sinclair",
+  "type": "task"
+}

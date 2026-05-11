@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natalie Cohen. actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3545397/\n_search: Natalie Cohen | 2 Broke Girls | It's Always Sunny in Philadelphia | Death Valley | Tropic Thunder",
+  "id": "bw-p-nm3545397",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natalie Cohen",
+  "type": "task"
+}

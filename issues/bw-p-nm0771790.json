@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Schimmel. 1950–2010 | writer, actor, producer.\nDECEASED (1950–2010). Conan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0771790/\n_search: Robert Schimmel | Scary Movie 2 | A Low Down Dirty Shame | Dark Seduction | The Pitts",
+  "id": "bw-p-nm0771790",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Schimmel",
+  "type": "task"
+}

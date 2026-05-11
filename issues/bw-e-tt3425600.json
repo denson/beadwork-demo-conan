@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Klein/Thomas Hayden Church/Stan Lee. late_night, S3E43, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3425600/\n_search: Robert Klein/Thomas Hayden Church/Stan Lee | 1995 | S3E43",
+  "id": "bw-e-tt3425600",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Klein/Thomas Hayden Church/Stan Lee",
+  "type": "task"
+}

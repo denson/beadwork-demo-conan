@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bettye LaVette. b. 1946 | music_department, actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2082110/\n_search: Bettye LaVette | Blood Ties | Beast | We Still Kill the Old Way | Detroit 1-8-7",
+  "id": "bw-p-nm2082110",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bettye LaVette",
+  "type": "task"
+}

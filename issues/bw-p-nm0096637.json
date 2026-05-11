@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Borghese. actor, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0096637/\n_search: Paul Borghese | The Irishman | Back in the Day | The Family | 61*",
+  "id": "bw-p-nm0096637",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Borghese",
+  "type": "task"
+}

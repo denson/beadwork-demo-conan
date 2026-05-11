@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The LXD. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4218849/\n_search: The LXD | The LXD: The Legion of Extraordinary Dancers | The LXD: The Uprising Begins",
+  "id": "bw-p-nm4218849",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The LXD",
+  "type": "task"
+}

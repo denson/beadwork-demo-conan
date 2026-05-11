@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marisa Tomei/Gabrielle Union/Jackie Kashian. conan_tbs, S7E106, 2017.\nRuntime: 42 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt7129714/\n_search: Marisa Tomei/Gabrielle Union/Jackie Kashian | 2017 | S7E106",
+  "id": "bw-e-tt7129714",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marisa Tomei/Gabrielle Union/Jackie Kashian",
+  "type": "task"
+}

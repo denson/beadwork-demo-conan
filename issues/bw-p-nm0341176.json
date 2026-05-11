@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eddie Griffin. b. 1968 | actor, music_department, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0341176/\n_search: Eddie Griffin | Undercover Brother | Norbit | Deuce Bigalow: Male Gigolo | John Q",
+  "id": "bw-p-nm0341176",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eddie Griffin",
+  "type": "task"
+}

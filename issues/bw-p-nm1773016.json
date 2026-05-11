@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Third Eye Blind. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1773016/\n_search: Third Eye Blind | Game Night | Wild Things | Set It Up | Coyote Ugly",
+  "id": "bw-p-nm1773016",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Third Eye Blind",
+  "type": "task"
+}

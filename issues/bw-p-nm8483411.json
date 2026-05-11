@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Miguel Briseño. actor, director, cinematographer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8483411/\n_search: Miguel Briseño | Vide Noir | Alive from Whispering Pines | Front Row Boston | The Road to ACL",
+  "id": "bw-p-nm8483411",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Miguel Briseño",
+  "type": "task"
+}

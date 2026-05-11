@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Elden. actor, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1372691/\n_search: James Elden | Speak No Evil | Let Be | Momentum",
+  "id": "bw-p-nm1372691",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Elden",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Gunn. b. 1953 | producer, actor, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm2125540/\n_search: Tim Gunn | Project Runway | Sofia the First | An Apology to the Dead | Sex and the City 2",
+  "id": "bw-p-nm2125540",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Gunn",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Olin. director, producer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0646440/\n_search: Ken Olin | Tracker | This Is Us | Brothers \u0026 Sisters | Alias",
+  "id": "bw-p-nm0646440",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Olin",
+  "type": "task"
+}

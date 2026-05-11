@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ted Nugent. b. 1948 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0637823/\n_search: Ted Nugent | Superbad | The Heat | Pain \u0026 Gain | Lords of Dogtown",
+  "id": "bw-p-nm0637823",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ted Nugent",
+  "type": "task"
+}

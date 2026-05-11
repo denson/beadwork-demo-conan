@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Torre. b. 1940 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0868380/\n_search: Joe Torre | Castle | Analyze That | Taking Care of Business | More Than Just a Game: Baseball Remembers 9/11",
+  "id": "bw-p-nm0868380",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Torre",
+  "type": "task"
+}

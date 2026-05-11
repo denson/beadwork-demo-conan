@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jill Goodacre. b. 1964 | actress, director, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004969/\n_search: Jill Goodacre | Friends | Harry Connick Jr.: The New York Big Band Concert | Odd Jobs | Camp Wilder",
+  "id": "bw-p-nm0004969",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jill Goodacre",
+  "type": "task"
+}

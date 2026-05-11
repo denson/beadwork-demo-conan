@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrea Mitchell. b. 1946 | writer, producer, actress.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1193239/\n_search: Andrea Mitchell | NBC Nightly News with Tom Llamas | MSNBC Reports Andrea Mitchell Reports | Political Animals | 30 Rock",
+  "id": "bw-p-nm1193239",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrea Mitchell",
+  "type": "task"
+}

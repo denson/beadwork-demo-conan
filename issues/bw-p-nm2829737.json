@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabourey Sidibe. b. 1983 | actress, director, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2829737/\n_search: Gabourey Sidibe | Precious | Tower Heist | Seven Psychopaths | Antebellum",
+  "id": "bw-p-nm2829737",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabourey Sidibe",
+  "type": "task"
+}

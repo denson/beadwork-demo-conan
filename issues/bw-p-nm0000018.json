@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kirk Douglas. 1916–2020 | actor, producer, director.\nDECEASED (1916–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000018/\n_search: Kirk Douglas | Ace in the Hole | The Final Countdown | Spartacus | Lust for Life",
+  "id": "bw-p-nm0000018",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kirk Douglas",
+  "type": "task"
+}

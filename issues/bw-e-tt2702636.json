@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josie Bissett/Michael Kinsley/Junior Brown. late_night, S1E152, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2702636/\n_search: Josie Bissett/Michael Kinsley/Junior Brown | 1994 | S1E152",
+  "id": "bw-e-tt2702636",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josie Bissett/Michael Kinsley/Junior Brown",
+  "type": "task"
+}

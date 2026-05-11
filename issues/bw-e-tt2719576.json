@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leila Kenzle/Kim Coles/Al Kooper. late_night, S1E188, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2719576/\n_search: Leila Kenzle/Kim Coles/Al Kooper | 1994 | S1E188",
+  "id": "bw-e-tt2719576",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leila Kenzle/Kim Coles/Al Kooper",
+  "type": "task"
+}

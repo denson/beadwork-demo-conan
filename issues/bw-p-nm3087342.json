@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Herman Cain. 1945–2020 | writer, producer, actor.\nDECEASED (1945–2020). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3087342/\n_search: Herman Cain | No Time to Run | Poor to CEO | Gravity Hill Newsreel No. 4 | Janeane from Des Moines",
+  "id": "bw-p-nm3087342",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Herman Cain",
+  "type": "task"
+}

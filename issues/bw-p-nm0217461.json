@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy DellaValle. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0217461/\n_search: Jimmy DellaValle | Not For Nothin' | Lethal Weapon | America's Got Talent | The Sopranos",
+  "id": "bw-p-nm0217461",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy DellaValle",
+  "type": "task"
+}

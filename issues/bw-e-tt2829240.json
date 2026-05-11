@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Surprisingly Non-Ostentatious Summer Home of King Tut. conan_tbs, S3E71, 2013.\nIMDb: https://www.imdb.com/title/tt2829240/\n_search: The Surprisingly Non-Ostentatious Summer Home of King Tut | 2013 | S3E71",
+  "id": "bw-e-tt2829240",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Surprisingly Non-Ostentatious Summer Home of King Tut",
+  "type": "task"
+}

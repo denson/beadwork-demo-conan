@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Black. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3079795/\n_search: Richard Black",
+  "id": "bw-p-nm3079795",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Black",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ghostland Observatory. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2933124/\n_search: Ghostland Observatory | Southbound Heist | Home Free | Echotone | Austin City Limits",
+  "id": "bw-p-nm2933124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ghostland Observatory",
+  "type": "task"
+}

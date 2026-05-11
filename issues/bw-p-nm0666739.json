@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Paul. b. 1979 | actor, producer, miscellaneous.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0666739/\n_search: Aaron Paul | Breaking Bad | El Camino | Need for Speed | The Last House on the Left",
+  "id": "bw-p-nm0666739",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Paul",
+  "type": "task"
+}

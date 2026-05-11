@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kaley Cuoco. b. 1985 | actress, producer, miscellaneous.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0192505/\n_search: Kaley Cuoco | The Big Bang Theory | The Wedding Ringer | 8 Simple Rules | Virtuosity",
+  "id": "bw-p-nm0192505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kaley Cuoco",
+  "type": "task"
+}

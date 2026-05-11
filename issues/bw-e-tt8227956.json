@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Garlin/Hayley Atwell/Declan McKenna. conan_tbs, S8E59, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8227956/\n_search: Jeff Garlin/Hayley Atwell/Declan McKenna | 2018 | S8E59",
+  "id": "bw-e-tt8227956",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Garlin/Hayley Atwell/Declan McKenna",
+  "type": "task"
+}

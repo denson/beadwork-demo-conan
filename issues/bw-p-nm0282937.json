@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosie Flores. b. 1956 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0282937/\n_search: Rosie Flores | Terminal Velocity | Vendetta | Under Cover | Thrashin'",
+  "id": "bw-p-nm0282937",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosie Flores",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Soundgarden. music_artist, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2929375/\n_search: Soundgarden | The Avengers | Say Anything | True Romance | Blast from the Past",
+  "id": "bw-p-nm2929375",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Soundgarden",
+  "type": "task"
+}

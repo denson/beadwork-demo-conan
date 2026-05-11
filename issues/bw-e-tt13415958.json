@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "CONAN Repeat Election Night Special. conan_tbs, S10E99, 2020.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt13415958/\n_search: CONAN Repeat Election Night Special | 2020 | S10E99",
+  "id": "bw-e-tt13415958",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "CONAN Repeat Election Night Special",
+  "type": "task"
+}

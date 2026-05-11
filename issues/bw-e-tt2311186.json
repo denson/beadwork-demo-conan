@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jolt Cola Explosion at the Old Reference Factory. conan_tbs, S2E120, 2012.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt2311186/\n_search: Jolt Cola Explosion at the Old Reference Factory | 2012 | S2E120",
+  "id": "bw-e-tt2311186",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jolt Cola Explosion at the Old Reference Factory",
+  "type": "task"
+}

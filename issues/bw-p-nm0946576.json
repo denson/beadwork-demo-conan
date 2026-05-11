@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gina Yashere. b. 1974 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0946576/\n_search: Gina Yashere | Bob Hearts Abishola | Married Single Other | The Rubbish World of Dave Spud | Bromwell High",
+  "id": "bw-p-nm0946576",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gina Yashere",
+  "type": "task"
+}

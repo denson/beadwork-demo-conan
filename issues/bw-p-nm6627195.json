@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Candy Butchers. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6627195/\n_search: Candy Butchers | Did You Hear About the Morgans? | Zero Effect | Last Call with Carson Daly",
+  "id": "bw-p-nm6627195",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Candy Butchers",
+  "type": "task"
+}

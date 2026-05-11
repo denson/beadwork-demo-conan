@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Furlong. b. 1977 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000411/\n_search: Edward Furlong | Terminator 2: Judgment Day | Detroit Rock City | American History X | A Home of Our Own",
+  "id": "bw-p-nm0000411",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Furlong",
+  "type": "task"
+}

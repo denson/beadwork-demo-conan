@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dana Carvey. conan_tbs, S9E60, 2019.\nRuntime: 21 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt10438726/\n_search: Dana Carvey | 2019 | S9E60",
+  "id": "bw-e-tt10438726",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dana Carvey",
+  "type": "task"
+}

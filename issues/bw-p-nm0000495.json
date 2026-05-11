@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Téa Leoni. b. 1966 | actress, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000495/\n_search: Téa Leoni | The Family Man | Jurassic Park III | Deep Impact | Bad Boys",
+  "id": "bw-p-nm0000495",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Téa Leoni",
+  "type": "task"
+}

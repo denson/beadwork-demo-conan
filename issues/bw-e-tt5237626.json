@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Jones/Oliver Hudson. conan_tbs, S6E10, 2015.\nRuntime: 42 min.\nIMDb rating: 5.5.\nIMDb: https://www.imdb.com/title/tt5237626/\n_search: Tom Jones/Oliver Hudson | 2015 | S6E10",
+  "id": "bw-e-tt5237626",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Jones/Oliver Hudson",
+  "type": "task"
+}

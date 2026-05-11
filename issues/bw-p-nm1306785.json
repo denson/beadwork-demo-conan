@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yo La Tengo. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1306785/\n_search: Yo La Tengo | Shortbus | The Peanut Butter Falcon | Boyhood | Take Me Home Tonight",
+  "id": "bw-p-nm1306785",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yo La Tengo",
+  "type": "task"
+}

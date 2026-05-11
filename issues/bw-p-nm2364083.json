@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Craig Morgan. b. 1965 | actor, production_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2364083/\n_search: Craig Morgan | Rizzoli \u0026 Isles | CMT Hot 20 Countdown | West Rosencrantz | The Ballad of Davy Crockett",
+  "id": "bw-p-nm2364083",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Craig Morgan",
+  "type": "task"
+}

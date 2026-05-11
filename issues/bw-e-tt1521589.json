@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Moore/Seth MacFarlane/Rodrigo Y Gabriela. tonight_show, S1E77, 2009.\nIMDb rating: 6.9.\nIMDb: https://www.imdb.com/title/tt1521589/\n_search: Michael Moore/Seth MacFarlane/Rodrigo Y Gabriela | 2009 | S1E77",
+  "id": "bw-e-tt1521589",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Moore/Seth MacFarlane/Rodrigo Y Gabriela",
+  "type": "task"
+}

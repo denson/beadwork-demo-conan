@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jacqueline Fae. actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1194663/\n_search: Jacqueline Fae | My Best Friend's Girl | Silent But Deadly | Two Faced | Changing Hands",
+  "id": "bw-p-nm1194663",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jacqueline Fae",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tariq Nasheed. producer, director, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1821300/\n_search: Tariq Nasheed | Dark Medicine | Da Sweet Blood of Jesus | Wilmington on Fire | Hidden Colors 2: The Triumph of Melanin",
+  "id": "bw-p-nm1821300",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tariq Nasheed",
+  "type": "task"
+}

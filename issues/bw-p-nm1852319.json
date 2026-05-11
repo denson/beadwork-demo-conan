@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Belle \u0026 Sebastian. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1852319/\n_search: Belle \u0026 Sebastian | Forgetting Sarah Marshall | Definitely, Maybe | The Devil Wears Prada | Shallow Hal",
+  "id": "bw-p-nm1852319",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Belle \u0026 Sebastian",
+  "type": "task"
+}

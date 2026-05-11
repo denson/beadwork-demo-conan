@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Copeland. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7859006/\n_search: Andrew Copeland | 10 Things I Hate About You | The Wedding Planner | Bedazzled | Killing Gunther",
+  "id": "bw-p-nm7859006",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Copeland",
+  "type": "task"
+}

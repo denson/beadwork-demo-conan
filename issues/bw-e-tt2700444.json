@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gilbert Gottfried/Jamie Farr/The Radiators. late_night, S1E171, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2700444/\n_search: Gilbert Gottfried/Jamie Farr/The Radiators | 1994 | S1E171",
+  "id": "bw-e-tt2700444",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gilbert Gottfried/Jamie Farr/The Radiators",
+  "type": "task"
+}

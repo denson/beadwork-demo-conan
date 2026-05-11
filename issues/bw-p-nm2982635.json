@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Libertines. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2982635/\n_search: The Libertines | The Libertines: There Are No Innocent Bystanders | Children of Men | Kill Your Darlings | Steve Jobs",
+  "id": "bw-p-nm2982635",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Libertines",
+  "type": "task"
+}

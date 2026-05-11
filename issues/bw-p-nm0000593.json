@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelly Preston. 1962–2020 | actress, soundtrack, archive_footage.\nDECEASED (1962–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000593/\n_search: Kelly Preston | Battlefield Earth | The Cat in the Hat | Sky High | Jerry Maguire",
+  "id": "bw-p-nm0000593",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelly Preston",
+  "type": "task"
+}

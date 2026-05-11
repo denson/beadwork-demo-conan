@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay-Z. b. 1969 | music_artist, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0419650/\n_search: Jay-Z | The Harder They Fall | The Great Gatsby | Rush Hour | Safe House",
+  "id": "bw-p-nm0419650",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay-Z",
+  "type": "task"
+}

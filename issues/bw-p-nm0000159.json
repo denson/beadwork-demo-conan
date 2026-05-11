@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teri Hatcher. b. 1964 | actress, writer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000159/\n_search: Teri Hatcher | Tomorrow Never Dies | Desperate Housewives | Lois \u0026 Clark: The New Adventures of Superman | Spy Kids",
+  "id": "bw-p-nm0000159",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teri Hatcher",
+  "type": "task"
+}

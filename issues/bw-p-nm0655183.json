@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Valentina Pace. b. 1977 | actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0655183/\n_search: Valentina Pace | Prigionieri di un incubo | South Kensington | L'uomo spezzato | La figlia di Elisa - Ritorno a Rivombrosa",
+  "id": "bw-p-nm0655183",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Valentina Pace",
+  "type": "task"
+}

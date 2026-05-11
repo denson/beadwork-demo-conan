@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Thune. b. 1979 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2326897/\n_search: Nick Thune | Extract | Venom | The Possession of Hannah Grace | Knocked Up",
+  "id": "bw-p-nm2326897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Thune",
+  "type": "task"
+}

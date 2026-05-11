@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Mason. 1928–2021 | actor, writer, producer.\nDECEASED (1928–2021). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0556750/\n_search: Jackie Mason | The Jerk | History of the World: Part I | Caddyshack II | The Simpsons",
+  "id": "bw-p-nm0556750",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Mason",
+  "type": "task"
+}

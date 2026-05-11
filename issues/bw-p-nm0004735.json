@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Van Der Beek. 1977–2026 | actor, music_department, writer.\nDECEASED (1977–2026). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0004735/\n_search: James Van Der Beek | Dawson's Creek | Varsity Blues | The Rules of Attraction | What Would Diplo Do?",
+  "id": "bw-p-nm0004735",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Van Der Beek",
+  "type": "task"
+}

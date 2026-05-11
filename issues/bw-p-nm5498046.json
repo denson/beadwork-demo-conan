@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brittany Howard. b. 1988 | actress, writer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5498046/\n_search: Brittany Howard | Silver Linings Playbook | Joy | Everything, Everything | Just Mercy",
+  "id": "bw-p-nm5498046",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brittany Howard",
+  "type": "task"
+}

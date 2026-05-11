@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Koch. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4139834/\n_search: Jim Koch | Beer Wars | Sam Adams: Summer Ingredients | Brewland | Beer Pioneers",
+  "id": "bw-p-nm4139834",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Koch",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dishwalla. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004876/\n_search: Dishwalla | Blast from the Past | Stir of Echoes | Empire Records | American Pie",
+  "id": "bw-p-nm0004876",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dishwalla",
+  "type": "task"
+}

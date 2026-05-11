@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thenewno2. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3339282/\n_search: Thenewno2 | Beautiful Creatures | Molly's Game | Miniforce - New Heroes Rise | Dangerous Liaisons",
+  "id": "bw-p-nm3339282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thenewno2",
+  "type": "task"
+}

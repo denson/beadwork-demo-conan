@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Melissa McBride. b. 1965 | actress, producer, casting_director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0564350/\n_search: Melissa McBride | The Walking Dead | The Mist | The Dangerous Lives of Altar Boys | The Reconstruction of William Zero",
+  "id": "bw-p-nm0564350",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Melissa McBride",
+  "type": "task"
+}

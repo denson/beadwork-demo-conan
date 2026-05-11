@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mindy Kaling/Brent Morin/Purity Ring. conan_tbs, S5E61, 2015.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt4549920/\n_search: Mindy Kaling/Brent Morin/Purity Ring | 2015 | S5E61",
+  "id": "bw-e-tt4549920",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mindy Kaling/Brent Morin/Purity Ring",
+  "type": "task"
+}

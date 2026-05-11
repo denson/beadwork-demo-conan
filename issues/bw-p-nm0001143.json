@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Dillon. b. 1965 | actor, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001143/\n_search: Kevin Dillon | Poseidon | Platoon | The Blob | The Doors",
+  "id": "bw-p-nm0001143",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Dillon",
+  "type": "task"
+}

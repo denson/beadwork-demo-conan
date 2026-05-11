@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "KT Tunstall. b. 1975 | actress, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1787566/\n_search: KT Tunstall | Winter's Tale | Man of the Year | Million Dollar Arm | The Devil Wears Prada",
+  "id": "bw-p-nm1787566",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "KT Tunstall",
+  "type": "task"
+}

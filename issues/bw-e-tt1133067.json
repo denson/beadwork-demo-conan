@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew McConaughey/Karolina Kurkova/Hunter S. Thompson. late_night, S10E72, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1133067/\n_search: Matthew McConaughey/Karolina Kurkova/Hunter S. Thompson | 2003 | S10E72",
+  "id": "bw-e-tt1133067",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew McConaughey/Karolina Kurkova/Hunter S. Thompson",
+  "type": "task"
+}

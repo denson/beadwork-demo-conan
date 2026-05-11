@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Tillman. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4340215/\n_search: Christopher Tillman | Misusing Irony | The Distance Between | Single Parent Date Night | Bud Selig Must Die",
+  "id": "bw-p-nm4340215",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Tillman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Russell Howard. b. 1980 | writer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2224565/\n_search: Russell Howard | Russell Howard: Live | Russell Howard Live: Dingledodies | Russell Howard's Home Time | A Gert Lush Christmas",
+  "id": "bw-p-nm2224565",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Russell Howard",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theater: Gal Gadot. conan_tbs, S11E37, 2021.\nIMDb: https://www.imdb.com/title/tt14490070/\n_search: From Largo Theater: Gal Gadot | 2021 | S11E37",
+  "id": "bw-e-tt14490070",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theater: Gal Gadot",
+  "type": "task"
+}

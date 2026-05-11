@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joshua Lassman. casting_department, miscellaneous, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4045693/\n_search: Joshua Lassman | Wizardream | Glory Daze | Leaving Limbo | Eagleheart",
+  "id": "bw-p-nm4045693",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joshua Lassman",
+  "type": "task"
+}

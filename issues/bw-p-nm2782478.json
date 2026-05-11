@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Pope. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2782478/\n_search: Rob Pope | Matthias \u0026 Maxime | Amped: Freestyle Snowboarding | Forza Horizon 3 | Unemployed",
+  "id": "bw-p-nm2782478",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Pope",
+  "type": "task"
+}

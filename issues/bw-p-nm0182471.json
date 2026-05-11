@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Costas. b. 1952 | actor, miscellaneous, director.\nConan-show appearances: 20\nIMDb: https://www.imdb.com/name/nm0182471/\n_search: Bob Costas | BASEketball | Cars | Cars 3 | Pootie Tang",
+  "id": "bw-p-nm0182471",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Costas",
+  "type": "task"
+}

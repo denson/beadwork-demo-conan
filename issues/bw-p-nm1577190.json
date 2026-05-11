@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ye. b. 1977 | music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1577190/\n_search: Ye | The Great Gatsby | The Love Guru | Safe House | Mission: Impossible III",
+  "id": "bw-p-nm1577190",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ye",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rooney Mara. b. 1985 | actress, producer, costume_designer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1913734/\n_search: Rooney Mara | The Girl with the Dragon Tattoo | Carol | The Social Network | Women Talking",
+  "id": "bw-p-nm1913734",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rooney Mara",
+  "type": "task"
+}

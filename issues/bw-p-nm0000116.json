@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Cameron. b. 1954 | writer, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000116/\n_search: James Cameron | Avatar | Aliens | Terminator 2: Judgment Day | Avatar: The Way of Water",
+  "id": "bw-p-nm0000116",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Cameron",
+  "type": "task"
+}

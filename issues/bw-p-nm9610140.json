@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sotiris Eliopoulos. music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9610140/\n_search: Sotiris Eliopoulos | Sell Your House",
+  "id": "bw-p-nm9610140",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sotiris Eliopoulos",
+  "type": "task"
+}

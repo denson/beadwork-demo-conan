@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathy Najimy. b. 1957 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001562/\n_search: Kathy Najimy | Sister Act | Hocus Pocus | King of the Hill | Sister Act 2: Back in the Habit",
+  "id": "bw-p-nm0001562",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathy Najimy",
+  "type": "task"
+}

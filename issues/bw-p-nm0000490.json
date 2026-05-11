@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spike Lee. b. 1957 | director, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000490/\n_search: Spike Lee | Do the Right Thing | Malcolm X | She's Gotta Have It | Jungle Fever",
+  "id": "bw-p-nm0000490",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spike Lee",
+  "type": "task"
+}

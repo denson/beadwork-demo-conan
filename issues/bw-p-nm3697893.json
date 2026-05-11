@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nubs. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3697893/\n_search: Nubs | The Last Stop in Yuma County | The Pretenders",
+  "id": "bw-p-nm3697893",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nubs",
+  "type": "task"
+}

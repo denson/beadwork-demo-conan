@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Pullman. b. 1953 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000597/\n_search: Bill Pullman | Independence Day | Independence Day: Resurgence | Spaceballs | Lost Highway",
+  "id": "bw-p-nm0000597",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Pullman",
+  "type": "task"
+}

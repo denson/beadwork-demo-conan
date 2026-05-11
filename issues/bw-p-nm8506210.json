@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Cooties. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8506210/\n_search: The Cooties | Dad Friends | The Stand-Up Show with Katherine Ryan",
+  "id": "bw-p-nm8506210",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Cooties",
+  "type": "task"
+}

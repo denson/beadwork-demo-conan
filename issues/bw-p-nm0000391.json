@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rupert Everett. b. 1959 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000391/\n_search: Rupert Everett | My Best Friend's Wedding | Cemetery Man | The Happy Prince | An Ideal Husband",
+  "id": "bw-p-nm0000391",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rupert Everett",
+  "type": "task"
+}

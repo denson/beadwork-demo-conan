@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "She \u0026 Him. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3276124/\n_search: She \u0026 Him | Arrow | Miss Sixty | Meu Passado Me Condena: O Filme | Girlboss",
+  "id": "bw-p-nm3276124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "She \u0026 Him",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Corbin Bernsen/Sonia Braga/David Gail. late_night, S1E42, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1477412/\n_search: Corbin Bernsen/Sonia Braga/David Gail | 1993 | S1E42",
+  "id": "bw-e-tt1477412",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Corbin Bernsen/Sonia Braga/David Gail",
+  "type": "task"
+}

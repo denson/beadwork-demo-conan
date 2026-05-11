@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susan Sarandon. b. 1946 | actress, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000215/\n_search: Susan Sarandon | Thelma \u0026 Louise | Dead Man Walking | Stepmom | The Client",
+  "id": "bw-p-nm0000215",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susan Sarandon",
+  "type": "task"
+}

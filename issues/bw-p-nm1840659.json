@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nasim Pedrad. b. 1981 | actress, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1840659/\n_search: Nasim Pedrad | Despicable Me 2 | Cooties | Aladdin | The Lorax",
+  "id": "bw-p-nm1840659",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nasim Pedrad",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Irwin. producer, assistant_director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1685815/\n_search: John Irwin | Adam Sandler: Love You | House of Villains | Nate Bargatze: Hello World | Norm Macdonald: Nothing Special",
+  "id": "bw-p-nm1685815",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Irwin",
+  "type": "task"
+}

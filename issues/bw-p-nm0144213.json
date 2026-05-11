@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Cassidy. stunts, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0144213/\n_search: Kevin Cassidy | Black Panther | Avengers: Endgame | Guardians of the Galaxy Vol. 3 | Ant-Man and the Wasp",
+  "id": "bw-p-nm0144213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Cassidy",
+  "type": "task"
+}

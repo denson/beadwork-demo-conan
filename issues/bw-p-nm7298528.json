@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Nutter. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7298528/\n_search: Adam Nutter | D.E.B.S. | How to Deal | The Music, Live at the Blank Canvas | The Music: Live at Club Quattro",
+  "id": "bw-p-nm7298528",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Nutter",
+  "type": "task"
+}

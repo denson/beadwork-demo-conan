@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Hornby. b. 1957 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0394984/\n_search: Nick Hornby | Wild | Brooklyn | An Education | About a Boy",
+  "id": "bw-p-nm0394984",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Hornby",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lance Mackey. 1970–2022.\nDECEASED (1970–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3154968/\n_search: Lance Mackey | The Great Alone | Flying Wild Alaska | Yukon Men | Angry Planet",
+  "id": "bw-p-nm3154968",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lance Mackey",
+  "type": "task"
+}

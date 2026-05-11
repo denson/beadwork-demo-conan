@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Episode #3.140. late_night, S3E140, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt12345634/\n_search: Episode #3.140 | 1996 | S3E140",
+  "id": "bw-e-tt12345634",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Episode #3.140",
+  "type": "task"
+}

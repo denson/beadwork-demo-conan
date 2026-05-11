@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Baio. b. 1960 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000281/\n_search: Scott Baio | Superbabies: Baby Geniuses 2 | Happy Days | Arrested Development | The Bread, My Sweet",
+  "id": "bw-p-nm0000281",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Baio",
+  "type": "task"
+}

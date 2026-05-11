@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Fay. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9651624/\n_search: Bob Fay | Everything Sucks!",
+  "id": "bw-p-nm9651624",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Fay",
+  "type": "task"
+}

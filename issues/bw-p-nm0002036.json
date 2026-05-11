@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ann B. Davis. 1926–2014 | actress, soundtrack, archive_footage.\nDECEASED (1926–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0002036/\n_search: Ann B. Davis | The Brady Bunch | The Bob Cummings Show | The Brady Bunch Movie | The Brady Bunch Variety Hour",
+  "id": "bw-p-nm0002036",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ann B. Davis",
+  "type": "task"
+}

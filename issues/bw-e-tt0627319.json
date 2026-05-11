@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Angelina Jolie/Upright Citizens Brigade/Robert Urich. late_night, S7E65, 2000.\nRuntime: 57 min.\nIMDb rating: 3.8.\nIMDb: https://www.imdb.com/title/tt0627319/\n_search: Angelina Jolie/Upright Citizens Brigade/Robert Urich | 2000 | S7E65",
+  "id": "bw-e-tt0627319",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Angelina Jolie/Upright Citizens Brigade/Robert Urich",
+  "type": "task"
+}

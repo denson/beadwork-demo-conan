@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Death Takes a Time-Share. conan_tbs, S1E48, 2011.\nRuntime: 60 min.\nIMDb rating: 8.3.\nIMDb: https://www.imdb.com/title/tt1833922/\n_search: Death Takes a Time-Share | 2011 | S1E48",
+  "id": "bw-e-tt1833922",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Death Takes a Time-Share",
+  "type": "task"
+}

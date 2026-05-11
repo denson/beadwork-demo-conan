@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lil' Ed Williams. soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2522221/\n_search: Lil' Ed Williams | While You Were Sleeping | Blues America | I Can Only Be Mary Lane | Austin City Limits",
+  "id": "bw-p-nm2522221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lil' Ed Williams",
+  "type": "task"
+}

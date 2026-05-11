@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ronnie Dawson. 1939–2003 | actor, soundtrack.\nDECEASED (1939–2003). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1140342/\n_search: Ronnie Dawson | Primary Colors | 29 Palms | Rumble | Simpatico",
+  "id": "bw-p-nm1140342",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ronnie Dawson",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "LL Cool J. b. 1968 | actor, producer, miscellaneous.\nConan-show appearances: 12\nIMDb: https://www.imdb.com/name/nm0005112/\n_search: LL Cool J | Deep Blue Sea | Mindhunters | Deliver Us from Eva | Halloween H20: 20 Years Later",
+  "id": "bw-p-nm0005112",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "LL Cool J",
+  "type": "task"
+}

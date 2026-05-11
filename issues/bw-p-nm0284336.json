@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Follett. b. 1949 | writer, miscellaneous, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0284336/\n_search: Ken Follett | Eye of the Needle | White Wedding | Target | World Without End",
+  "id": "bw-p-nm0284336",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Follett",
+  "type": "task"
+}

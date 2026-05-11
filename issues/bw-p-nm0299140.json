@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nelly Furtado. b. 1978 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0299140/\n_search: Nelly Furtado | Max Payne | Lara Croft: Tomb Raider | CSI: NY | Wild Child",
+  "id": "bw-p-nm0299140",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nelly Furtado",
+  "type": "task"
+}

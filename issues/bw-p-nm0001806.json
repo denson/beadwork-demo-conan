@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Turturro. b. 1957 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001806/\n_search: John Turturro | Fading Gigolo | Barton Fink | O Brother, Where Art Thou? | Quiz Show",
+  "id": "bw-p-nm0001806",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Turturro",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josie Maran. b. 1978 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1036691/\n_search: Josie Maran | Van Helsing | Little Black Book | Van Helsing | Need for Speed: Most Wanted",
+  "id": "bw-p-nm1036691",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josie Maran",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Brown. actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0113935/\n_search: Julie Brown | Earth Girls Are Easy | Medusa: Dare to Be Truthful | Clueless | Attack of the 5 Ft. 2 Women",
+  "id": "bw-p-nm0113935",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Brown",
+  "type": "task"
+}

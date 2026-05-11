@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Riley Go. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6589605/\n_search: Riley Go | Punky Brewster | 9-1-1 | Good Trouble | NCIS: Origins",
+  "id": "bw-p-nm6589605",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Riley Go",
+  "type": "task"
+}

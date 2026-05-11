@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Keeler. b. 1976 | music_department, animation_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1862221/\n_search: Jesse Keeler | Scott Pilgrim vs. the World | Ghost Rider: Spirit of Vengeance | Abductions with the Alter Boy | College",
+  "id": "bw-p-nm1862221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Keeler",
+  "type": "task"
+}

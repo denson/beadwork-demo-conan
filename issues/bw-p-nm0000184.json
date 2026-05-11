@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Lucas. b. 1944 | writer, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000184/\n_search: George Lucas | Star Wars: Episode IV - A New Hope | THX 1138 | American Graffiti | Raiders of the Lost Ark",
+  "id": "bw-p-nm0000184",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Lucas",
+  "type": "task"
+}

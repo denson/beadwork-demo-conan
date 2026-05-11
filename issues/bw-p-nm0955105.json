@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Remy Zero. music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0955105/\n_search: Remy Zero | Garden State | The Invisible | Just Married | Never Been Kissed",
+  "id": "bw-p-nm0955105",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Remy Zero",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leeza Gibbons/Julie White/David Feldman. late_night, S2E164, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3466598/\n_search: Leeza Gibbons/Julie White/David Feldman | 1995 | S2E164",
+  "id": "bw-e-tt3466598",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leeza Gibbons/Julie White/David Feldman",
+  "type": "task"
+}

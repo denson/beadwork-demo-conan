@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hayes. miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4236902/\n_search: Chris Hayes",
+  "id": "bw-p-nm4236902",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hayes",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Hajjar. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2345745/\n_search: Tony Hajjar | The Invisible | Splinter Cell: Blacklist | Sugar | Startup U",
+  "id": "bw-p-nm2345745",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Hajjar",
+  "type": "task"
+}

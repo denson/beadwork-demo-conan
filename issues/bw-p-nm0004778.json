@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adrien Brody. b. 1973 | actor, producer, composer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0004778/\n_search: Adrien Brody | The Pianist | The Grand Budapest Hotel | Detachment | The Brutalist",
+  "id": "bw-p-nm0004778",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adrien Brody",
+  "type": "task"
+}

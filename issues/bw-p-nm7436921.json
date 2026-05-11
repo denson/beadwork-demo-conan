@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cody Jinks. music_artist, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7436921/\n_search: Cody Jinks | Sawyer Brown: Get Me to the Stage on Time | Lone Star Roads | WWE Monday Night RAW",
+  "id": "bw-p-nm7436921",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cody Jinks",
+  "type": "task"
+}

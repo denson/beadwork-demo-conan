@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ugly Kid Joe. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2262923/\n_search: Ugly Kid Joe | Wayne's World | Poison Ivy | 20 to 1 | Beavis and Butt-Head",
+  "id": "bw-p-nm2262923",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ugly Kid Joe",
+  "type": "task"
+}

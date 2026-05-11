@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Dewees. b. 1976 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2217088/\n_search: James Dewees | The Man with the Iron Fists | (Romance) in the Digital Age | Buddy Boy | Matthias \u0026 Maxime",
+  "id": "bw-p-nm2217088",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Dewees",
+  "type": "task"
+}

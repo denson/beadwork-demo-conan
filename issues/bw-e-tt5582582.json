@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Bernthal/Richard Linklater/Omarion. conan_tbs, S6E63, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5582582/\n_search: Jon Bernthal/Richard Linklater/Omarion | 2016 | S6E63",
+  "id": "bw-e-tt5582582",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Bernthal/Richard Linklater/Omarion",
+  "type": "task"
+}

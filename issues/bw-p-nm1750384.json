@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Carmichael. b. 1979 | actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1750384/\n_search: Jesse Carmichael | Love Actually | The Wedding Date | Mindhunters | Something's Gotta Give",
+  "id": "bw-p-nm1750384",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Carmichael",
+  "type": "task"
+}

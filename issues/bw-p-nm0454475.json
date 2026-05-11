@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "B.B. King. 1925–2015 | music_artist, actor, music_department.\nDECEASED (1925–2015). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0454475/\n_search: B.B. King | Blues Brothers 2000 | The Fugitive | Spies Like Us | RoboCop 3",
+  "id": "bw-p-nm0454475",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "B.B. King",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susie Essman. b. 1955 | actress, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0261435/\n_search: Susie Essman | Curb Your Enthusiasm | Bolt | Cop Out | Volcano",
+  "id": "bw-p-nm0261435",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susie Essman",
+  "type": "task"
+}

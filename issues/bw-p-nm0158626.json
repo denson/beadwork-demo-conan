@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Cho. b. 1972 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0158626/\n_search: John Cho | Star Trek | Harold \u0026 Kumar Go to White Castle | Searching | Star Trek Into Darkness",
+  "id": "bw-p-nm0158626",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Cho",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pete Rose. 1941–2024 | actor, archive_footage, archive_sound.\nDECEASED (1941–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0741607/\n_search: Pete Rose | Babe Ruth | Arli$$ | WrestleMania XIV | Between Brothers",
+  "id": "bw-p-nm0741607",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pete Rose",
+  "type": "task"
+}

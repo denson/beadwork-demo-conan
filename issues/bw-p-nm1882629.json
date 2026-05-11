@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rachel Maddow. b. 1973 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1882629/\n_search: Rachel Maddow | The Rachel Maddow Show | The Ides of March | Red, White \u0026 Royal Blue | House of Cards",
+  "id": "bw-p-nm1882629",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rachel Maddow",
+  "type": "task"
+}

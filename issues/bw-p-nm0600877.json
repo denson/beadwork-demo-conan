@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "P!nk. b. 1979 | music_artist, music_department, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0600877/\n_search: P!nk | Thanks for Sharing | Charlie's Angels: Full Throttle | Moulin Rouge! | Happy Feet Two",
+  "id": "bw-p-nm0600877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "P!nk",
+  "type": "task"
+}

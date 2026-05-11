@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dick Dale. 1937–2019 | actor, composer, soundtrack.\nDECEASED (1937–2019). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0197673/\n_search: Dick Dale | Escape from L.A. | The Rum Diary | Back to the Beach | Beach Party",
+  "id": "bw-p-nm0197673",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dick Dale",
+  "type": "task"
+}

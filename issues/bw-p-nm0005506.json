@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ivana Trump. 1949–2022 | actress, writer, miscellaneous.\nDECEASED (1949–2022). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005506/\n_search: Ivana Trump | The First Wives Club | Pan Tau | For Love Alone: The Ivana Trump Story | Pizza Hut: Entitled to Half Featuring Donald Trump Commercial",
+  "id": "bw-p-nm0005506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ivana Trump",
+  "type": "task"
+}

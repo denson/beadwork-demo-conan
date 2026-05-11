@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Rector. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3929182/\n_search: Ben Rector | Person of Interest | Some Kind of Beautiful | One Small Hitch | October Baby",
+  "id": "bw-p-nm3929182",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Rector",
+  "type": "task"
+}

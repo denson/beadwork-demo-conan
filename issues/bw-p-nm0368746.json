@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Hatch. b. 1961 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0368746/\n_search: Richard Hatch | Another Gay Movie | Becker | Son of the Beach | Survivor",
+  "id": "bw-p-nm0368746",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Hatch",
+  "type": "task"
+}

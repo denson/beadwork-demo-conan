@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sara Foster. b. 1981 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1246371/\n_search: Sara Foster | D.E.B.S. | The Big Bounce | Nobody Wants This | Psych:9",
+  "id": "bw-p-nm1246371",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sara Foster",
+  "type": "task"
+}

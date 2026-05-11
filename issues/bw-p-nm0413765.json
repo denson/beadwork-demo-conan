@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "La Toya Jackson. b. 1956 | actress, producer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0413765/\n_search: La Toya Jackson | Michael | Counterstrike | 21 Days | The Last Sharknado: It's About Time",
+  "id": "bw-p-nm0413765",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "La Toya Jackson",
+  "type": "task"
+}

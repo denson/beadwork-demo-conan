@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Lawrence. writer, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4227392/\n_search: Mike Lawrence | Triumph's Election Watch 2016 | Saturday Night Live | Upload | 82nd Golden Globe Awards",
+  "id": "bw-p-nm4227392",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Lawrence",
+  "type": "task"
+}

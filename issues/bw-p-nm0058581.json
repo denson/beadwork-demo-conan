@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Bartha. b. 1978 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0058581/\n_search: Justin Bartha | Gigli | The Hangover | National Treasure | National Treasure: Book of Secrets",
+  "id": "bw-p-nm0058581",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Bartha",
+  "type": "task"
+}

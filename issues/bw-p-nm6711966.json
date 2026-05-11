@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucas Krystek. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6711966/\n_search: Lucas Krystek | F9: The Fast Saga | Sallywood | Ado | Fishbowl California",
+  "id": "bw-p-nm6711966",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucas Krystek",
+  "type": "task"
+}

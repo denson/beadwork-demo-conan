@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neil Flynn. b. 1960 | actor, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0283568/\n_search: Neil Flynn | Mean Girls | Scrubs | Magnolia | The Fugitive",
+  "id": "bw-p-nm0283568",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neil Flynn",
+  "type": "task"
+}

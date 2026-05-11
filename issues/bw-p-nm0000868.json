@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justine Bateman. b. 1966 | writer, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000868/\n_search: Justine Bateman | Violet | Five Minutes | Family Ties | Arrested Development",
+  "id": "bw-p-nm0000868",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justine Bateman",
+  "type": "task"
+}

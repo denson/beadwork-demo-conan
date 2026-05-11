@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Coburn/Stuttering John/Marshall Crenshaw. late_night, S1E167, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2704842/\n_search: James Coburn/Stuttering John/Marshall Crenshaw | 1994 | S1E167",
+  "id": "bw-e-tt2704842",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Coburn/Stuttering John/Marshall Crenshaw",
+  "type": "task"
+}

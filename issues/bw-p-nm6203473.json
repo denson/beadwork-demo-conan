@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kid Ink. b. 1986 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6203473/\n_search: Kid Ink | How to Be Single | Furious 7 | F9: The Fast Saga | Unfinished Business",
+  "id": "bw-p-nm6203473",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kid Ink",
+  "type": "task"
+}

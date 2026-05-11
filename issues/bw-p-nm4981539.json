@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Death From Above 1979. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4981539/\n_search: Death From Above 1979 | Scott Pilgrim vs. the World | Ghost Rider: Spirit of Vengeance | College | Battlefield: Hardline",
+  "id": "bw-p-nm4981539",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Death From Above 1979",
+  "type": "task"
+}

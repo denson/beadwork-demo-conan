@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Gallagher. b. 1955 | actor, writer, soundtrack.\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm0001251/\n_search: Peter Gallagher | American Beauty | The O.C. | Mr. Deeds | While You Were Sleeping",
+  "id": "bw-p-nm0001251",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Gallagher",
+  "type": "task"
+}

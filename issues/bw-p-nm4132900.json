@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Glenn Boozan. writer, actress, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4132900/\n_search: Glenn Boozan | I Love You, America | Katie: A Lady | Dropout",
+  "id": "bw-p-nm4132900",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Glenn Boozan",
+  "type": "task"
+}

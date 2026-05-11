@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lyle Lovett. b. 1957 | music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005164/\n_search: Lyle Lovett | Short Cuts | The Crying Game | The Player | Nothing to Lose",
+  "id": "bw-p-nm0005164",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lyle Lovett",
+  "type": "task"
+}

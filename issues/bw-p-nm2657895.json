@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J. Kristopher. actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2657895/\n_search: J. Kristopher | Parenthood | Wheels | Straight Outta Compton",
+  "id": "bw-p-nm2657895",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J. Kristopher",
+  "type": "task"
+}

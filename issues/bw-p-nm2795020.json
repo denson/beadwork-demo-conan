@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Br549. soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2795020/\n_search: Br549 | The Big Empty | Clay Pigeons | Happy, Texas | Marty's Christmas Party",
+  "id": "bw-p-nm2795020",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Br549",
+  "type": "task"
+}

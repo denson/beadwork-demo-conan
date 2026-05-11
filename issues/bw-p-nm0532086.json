@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephanie Mace. actress, production_department, production_designer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0532086/\n_search: Stephanie Mace | Crank | Gamer | The Lincoln Lawyer | The Midnight Meat Train",
+  "id": "bw-p-nm0532086",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephanie Mace",
+  "type": "task"
+}

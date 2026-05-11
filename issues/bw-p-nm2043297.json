@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Margot Leitman. b. 1978 | actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2043297/\n_search: Margot Leitman | Cheap Seats: Without Ron Parker | Stevie TV | The Actress",
+  "id": "bw-p-nm2043297",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Margot Leitman",
+  "type": "task"
+}

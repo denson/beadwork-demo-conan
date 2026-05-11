@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniella Sarahyba. b. 1984 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2317459/\n_search: Daniella Sarahyba | Belíssima | Irrational Heart | Jovens Tardes | Sports Illustrated: Swimsuit 2007",
+  "id": "bw-p-nm2317459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniella Sarahyba",
+  "type": "task"
+}

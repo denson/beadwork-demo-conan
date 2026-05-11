@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Willard Scott. 1934–2021 | actor, archive_footage, archive_sound.\nDECEASED (1934–2021). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0779912/\n_search: Willard Scott | Bozo the Clown | Commander Retro | McDonaldland | Valerie",
+  "id": "bw-p-nm0779912",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Willard Scott",
+  "type": "task"
+}

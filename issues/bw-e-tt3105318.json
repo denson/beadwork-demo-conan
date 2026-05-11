@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Egg Police: Omelet You Go with a Warning. conan_tbs, S3E123, 2013.\nIMDb: https://www.imdb.com/title/tt3105318/\n_search: Egg Police: Omelet You Go with a Warning | 2013 | S3E123",
+  "id": "bw-e-tt3105318",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Egg Police: Omelet You Go with a Warning",
+  "type": "task"
+}

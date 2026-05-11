@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucius. composer, music_department, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5860537/\n_search: Lucius | If I Stay | Midnight Sun | Split | The Protector",
+  "id": "bw-p-nm5860537",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucius",
+  "type": "task"
+}

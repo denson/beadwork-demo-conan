@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tove Lo. b. 1987 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6241336/\n_search: Tove Lo | Fifty Shades of Grey | The Divergent Series: Allegiant | Power Rangers | Fifty Shades Darker",
+  "id": "bw-p-nm6241336",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tove Lo",
+  "type": "task"
+}

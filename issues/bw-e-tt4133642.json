@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chelsea Handler/Nicholas Hoult/Gerard Way. conan_tbs, S4E148, 2014.\nIMDb: https://www.imdb.com/title/tt4133642/\n_search: Chelsea Handler/Nicholas Hoult/Gerard Way | 2014 | S4E148",
+  "id": "bw-e-tt4133642",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chelsea Handler/Nicholas Hoult/Gerard Way",
+  "type": "task"
+}

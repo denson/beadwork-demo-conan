@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Delia. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8424018/\n_search: Bill Delia | Late Show with David Letterman",
+  "id": "bw-p-nm8424018",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Delia",
+  "type": "task"
+}

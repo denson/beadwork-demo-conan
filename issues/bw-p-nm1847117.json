@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Janelle Monáe. b. 1985 | music_artist, actress, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1847117/\n_search: Janelle Monáe | Hidden Figures | Moonlight | Glass Onion | Antebellum",
+  "id": "bw-p-nm1847117",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Janelle Monáe",
+  "type": "task"
+}

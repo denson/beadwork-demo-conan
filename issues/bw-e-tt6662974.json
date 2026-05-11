@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Garlin/Adam Pally. conan_tbs, S7E61, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6662974/\n_search: Jeff Garlin/Adam Pally | 2017 | S7E61",
+  "id": "bw-e-tt6662974",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Garlin/Adam Pally",
+  "type": "task"
+}

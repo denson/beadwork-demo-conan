@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joshua Erenberg. actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3858902/\n_search: Joshua Erenberg | The Green Hornet | The Incredible Burt Wonderstone | Crisis | Suburgatory",
+  "id": "bw-p-nm3858902",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joshua Erenberg",
+  "type": "task"
+}

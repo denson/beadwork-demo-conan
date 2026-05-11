@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sachs. executive producer.\nConan-show appearances: 0\n_search: Adam Sachs",
+  "id": "bw-p-team-adam-sachs",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sachs",
+  "type": "task"
+}

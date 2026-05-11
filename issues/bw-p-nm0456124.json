@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruno Kirby. 1949–2006 | actor, director, writer.\nDECEASED (1949–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0456124/\n_search: Bruno Kirby | City Slickers | When Harry Met Sally... | Good Morning, Vietnam | The Basketball Diaries",
+  "id": "bw-p-nm0456124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruno Kirby",
+  "type": "task"
+}

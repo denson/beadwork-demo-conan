@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kiersey Clemons. b. 1993 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4169922/\n_search: Kiersey Clemons | Dope | Sweetheart | Lady and the Tramp | Hearts Beat Loud",
+  "id": "bw-p-nm4169922",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kiersey Clemons",
+  "type": "task"
+}

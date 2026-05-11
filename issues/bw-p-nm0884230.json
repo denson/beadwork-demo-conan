@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Valentine. b. 1961 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0884230/\n_search: Gary Valentine | Here Comes the Boom | The King of Queens | Zookeeper | Jack and Jill",
+  "id": "bw-p-nm0884230",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Valentine",
+  "type": "task"
+}

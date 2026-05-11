@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mitch Grassi. b. 1992 | actor, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6377239/\n_search: Mitch Grassi | The Grinch | Pitch Perfect 2 | Bones | Meet Me Next Christmas",
+  "id": "bw-p-nm6377239",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mitch Grassi",
+  "type": "task"
+}

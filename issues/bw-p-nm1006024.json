@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alicia Keys. b. 1981 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1006024/\n_search: Alicia Keys | The Secret Life of Bees | Smokin' Aces | The Nanny Diaries | The Amazing Spider-Man 2",
+  "id": "bw-p-nm1006024",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alicia Keys",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Epic Soundtracks. 1959–1997 | actor, soundtrack.\nDECEASED (1959–1997). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0323991/\n_search: Epic Soundtracks | Wings of Desire | Honey Baby | (This Is Known as) the Blues Scale",
+  "id": "bw-p-nm0323991",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Epic Soundtracks",
+  "type": "task"
+}

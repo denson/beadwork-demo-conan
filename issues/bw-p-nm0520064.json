@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Lopez. b. 1961 | producer, actor, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0520064/\n_search: George Lopez | George Lopez | Valentine's Day | The Adventures of Sharkboy and Lavagirl 3-D | Blue Beetle",
+  "id": "bw-p-nm0520064",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Lopez",
+  "type": "task"
+}

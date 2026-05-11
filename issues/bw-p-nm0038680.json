@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ashanti. b. 1980 | music_artist, actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0038680/\n_search: Ashanti | Coach Carter | John Tucker Must Die | Resident Evil: Extinction | Stuck",
+  "id": "bw-p-nm0038680",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ashanti",
+  "type": "task"
+}

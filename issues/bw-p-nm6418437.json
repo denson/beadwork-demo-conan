@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Margaret Glaspy. music_department, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6418437/\n_search: Margaret Glaspy | A Walk Into a Split Mind | The Rookie | Concrete Underground",
+  "id": "bw-p-nm6418437",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Margaret Glaspy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Heather Locklear. b. 1961 | actress, producer, soundtrack.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000181/\n_search: Heather Locklear | Melrose Place | The Perfect Man | The Return of Swamp Thing | Money Talks",
+  "id": "bw-p-nm0000181",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Heather Locklear",
+  "type": "task"
+}

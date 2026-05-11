@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bridgette Wilson-Sampras. b. 1973 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0933098/\n_search: Bridgette Wilson-Sampras | Mortal Kombat | Billy Madison | I Know What You Did Last Summer | Last Action Hero",
+  "id": "bw-p-nm0933098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bridgette Wilson-Sampras",
+  "type": "task"
+}

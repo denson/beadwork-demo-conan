@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tame Impala. music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4648914/\n_search: Tame Impala | Divergent | The Kids Are All Right | The Fifth Estate | Entourage",
+  "id": "bw-p-nm4648914",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tame Impala",
+  "type": "task"
+}

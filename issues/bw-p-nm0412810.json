@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ayumi Iizuka. actress, writer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0412810/\n_search: Ayumi Iizuka | Modern Family | Parenthood | The Big Bang Theory | Jimmy Kimmel Live!",
+  "id": "bw-p-nm0412810",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ayumi Iizuka",
+  "type": "task"
+}

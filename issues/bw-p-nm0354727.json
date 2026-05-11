@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Halberstam. 1934–2007 | writer, archive_footage.\nDECEASED (1934–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0354727/\n_search: David Halberstam | Rowing Through | The Fifties | In the Year of the Pig | Citizen: The Political Life of Allard K. Lowenstein",
+  "id": "bw-p-nm0354727",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Halberstam",
+  "type": "task"
+}

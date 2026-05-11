@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kiefer Sutherland. b. 1966 | actor, producer, miscellaneous.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000662/\n_search: Kiefer Sutherland | 24 | Phone Booth | Mirrors | Melancholia",
+  "id": "bw-p-nm0000662",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kiefer Sutherland",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Claudia Black. b. 1972 | actress, miscellaneous, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0085227/\n_search: Claudia Black | Farscape: The Peacekeeper Wars | Farscape | Uncharted: The Lost Legacy | Pitch Black",
+  "id": "bw-p-nm0085227",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Claudia Black",
+  "type": "task"
+}

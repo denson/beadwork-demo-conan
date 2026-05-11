@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyle Gass. b. 1960 | actor, writer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0309307/\n_search: Kyle Gass | Tenacious D in the Pick of Destiny | Elf | Tenacious D | The Cable Guy",
+  "id": "bw-p-nm0309307",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyle Gass",
+  "type": "task"
+}

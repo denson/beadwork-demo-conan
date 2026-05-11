@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul McCartney. b. 1942 | music_artist, composer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005200/\n_search: Paul McCartney | Sgt. Pepper's Lonely Hearts Club Band | A Hard Day's Night | Yellow Submarine | The Beatles: Get Back",
+  "id": "bw-p-nm0005200",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul McCartney",
+  "type": "task"
+}

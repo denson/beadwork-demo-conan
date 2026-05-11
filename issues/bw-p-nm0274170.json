@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Geraldine A. Ferraro. 1935–2011 | actress, archive_footage.\nDECEASED (1935–2011). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0274170/\n_search: Geraldine A. Ferraro | Contact | Murphy Brown | Happily Ever After: Fairy Tales for Every Child | Your Total Health",
+  "id": "bw-p-nm0274170",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Geraldine A. Ferraro",
+  "type": "task"
+}

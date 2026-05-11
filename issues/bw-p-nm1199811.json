@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Masi Oka. actor, visual_effects, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1199811/\n_search: Masi Oka | Heroes | Hawaii Five-0 | The Meg | Get Smart",
+  "id": "bw-p-nm1199811",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Masi Oka",
+  "type": "task"
+}

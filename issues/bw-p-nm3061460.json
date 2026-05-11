@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Pallin. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3061460/\n_search: Adam Pallin | The Final Destination | Mirror Mirror | Runner Runner | What's Your Number?",
+  "id": "bw-p-nm3061460",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Pallin",
+  "type": "task"
+}

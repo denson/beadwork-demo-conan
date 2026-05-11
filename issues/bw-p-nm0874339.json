@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Donald Trump. b. 1946 | producer, actor, writer.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0874339/\n_search: Donald Trump | The Apprentice | Home Alone 2: Lost in New York | Celebrity | Two Weeks Notice",
+  "id": "bw-p-nm0874339",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Donald Trump",
+  "type": "task"
+}

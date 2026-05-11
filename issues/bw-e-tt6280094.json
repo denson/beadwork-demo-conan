@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel McHale/Kate Mara/Alice Wetterlund. conan_tbs, S7E11, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6280094/\n_search: Joel McHale/Kate Mara/Alice Wetterlund | 2016 | S7E11",
+  "id": "bw-e-tt6280094",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel McHale/Kate Mara/Alice Wetterlund",
+  "type": "task"
+}

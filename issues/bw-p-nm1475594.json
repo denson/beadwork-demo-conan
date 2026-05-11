@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Channing Tatum. b. 1980 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1475594/\n_search: Channing Tatum | 21 Jump Street | White House Down | 22 Jump Street | Foxcatcher",
+  "id": "bw-p-nm1475594",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Channing Tatum",
+  "type": "task"
+}

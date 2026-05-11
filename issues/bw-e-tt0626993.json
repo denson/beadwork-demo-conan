@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Klein/Katherine Heigl/Squirrel Nut Zippers. late_night, S2E196, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0626993/\n_search: Robert Klein/Katherine Heigl/Squirrel Nut Zippers | 1995 | S2E196",
+  "id": "bw-e-tt0626993",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Klein/Katherine Heigl/Squirrel Nut Zippers",
+  "type": "task"
+}

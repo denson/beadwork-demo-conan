@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "And the Wind Cries \"Sausage\". conan_tbs, S2E100, 2012.\nIMDb rating: 6.9.\nIMDb: https://www.imdb.com/title/tt2205218/\n_search: And the Wind Cries \"Sausage\" | 2012 | S2E100",
+  "id": "bw-e-tt2205218",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "And the Wind Cries \"Sausage\"",
+  "type": "task"
+}

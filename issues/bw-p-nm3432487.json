@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelli Stoner. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3432487/\n_search: Kelli Stoner | True Love | Human Zoo 2 | Human Zoo | Yellow",
+  "id": "bw-p-nm3432487",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelli Stoner",
+  "type": "task"
+}

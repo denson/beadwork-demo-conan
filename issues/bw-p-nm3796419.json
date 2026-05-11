@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Local Natives. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3796419/\n_search: Local Natives | Staten Island Summer | Paradise | Mt. Washington | Style-City Music Presents",
+  "id": "bw-p-nm3796419",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Local Natives",
+  "type": "task"
+}

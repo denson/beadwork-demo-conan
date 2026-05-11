@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Cornell. 1964–2017 | actor, composer, writer.\nDECEASED (1964–2017). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0180225/\n_search: Chris Cornell | Casino Royale | Machine Gun Preacher | Man of Steel | The Avengers",
+  "id": "bw-p-nm0180225",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Cornell",
+  "type": "task"
+}

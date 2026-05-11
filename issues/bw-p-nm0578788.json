@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carlos Mencia. b. 1967 | writer, producer, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0578788/\n_search: Carlos Mencia | The Heartbreak Kid | Our Family Wedding | Mind of Mencia | Outta Time",
+  "id": "bw-p-nm0578788",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carlos Mencia",
+  "type": "task"
+}

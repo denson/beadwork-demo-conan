@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "At the Drive-In. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6183981/\n_search: At the Drive-In | Book of Shadows: Blair Witch 2 | Sugar | Tony Hawk: Shred | Sucker",
+  "id": "bw-p-nm6183981",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "At the Drive-In",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Blue Rodeo. music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3101153/\n_search: Blue Rodeo | Navy Seals | Postcards from the Edge | Gunless | Friday the 13th: The Series",
+  "id": "bw-p-nm3101153",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Blue Rodeo",
+  "type": "task"
+}

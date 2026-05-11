@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Bottle Rockets. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2771978/\n_search: The Bottle Rockets | Waitress | BASEketball | Strange Weather | American Music: Off the Record",
+  "id": "bw-p-nm2771978",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Bottle Rockets",
+  "type": "task"
+}

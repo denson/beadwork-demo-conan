@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan St. Germain. writer, actor, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm3999347/\n_search: Dan St. Germain | Superior Donuts | Alternatino with Arturo Castro | Immoral Compass | 10 Things",
+  "id": "bw-p-nm3999347",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan St. Germain",
+  "type": "task"
+}

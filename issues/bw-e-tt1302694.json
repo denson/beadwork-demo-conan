@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Louis-Dreyfus/Michael Cera/Nate Bargatze. late_night, S16E21, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1302694/\n_search: Julia Louis-Dreyfus/Michael Cera/Nate Bargatze | 2008 | S16E21",
+  "id": "bw-e-tt1302694",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Louis-Dreyfus/Michael Cera/Nate Bargatze",
+  "type": "task"
+}

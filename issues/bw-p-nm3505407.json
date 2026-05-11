@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyle Bode. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3505407/\n_search: Kyle Bode | Penny | Baby Geniuses and the Space Baby | Baby Geniuses and the Treasures of Egypt | Winx Club",
+  "id": "bw-p-nm3505407",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyle Bode",
+  "type": "task"
+}

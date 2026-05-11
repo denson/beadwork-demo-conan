@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karl T. Wright. actor, music_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0942550/\n_search: Karl T. Wright | Atypical | Star Trek: Picard | Teacher of the Year | Shameless",
+  "id": "bw-p-nm0942550",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karl T. Wright",
+  "type": "task"
+}

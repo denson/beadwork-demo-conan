@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samuel L. Jackson/Richard Lewis/Brad Paisley. late_night, S13E2, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627711/\n_search: Samuel L. Jackson/Richard Lewis/Brad Paisley | 2005 | S13E2",
+  "id": "bw-e-tt0627711",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samuel L. Jackson/Richard Lewis/Brad Paisley",
+  "type": "task"
+}

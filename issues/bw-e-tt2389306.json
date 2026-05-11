@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Surprisingly Well-Adjusted Later Life of Honey Boo Boo. conan_tbs, S2E136, 2012.\nIMDb: https://www.imdb.com/title/tt2389306/\n_search: The Surprisingly Well-Adjusted Later Life of Honey Boo Boo | 2012 | S2E136",
+  "id": "bw-e-tt2389306",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Surprisingly Well-Adjusted Later Life of Honey Boo Boo",
+  "type": "task"
+}

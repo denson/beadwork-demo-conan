@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ethan Hawke. b. 1970 | actor, producer, writer.\nConan-show appearances: 15\nIMDb: https://www.imdb.com/name/nm0000160/\n_search: Ethan Hawke | Training Day | Before Sunrise | Before Midnight | Before Sunset",
+  "id": "bw-p-nm0000160",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ethan Hawke",
+  "type": "task"
+}

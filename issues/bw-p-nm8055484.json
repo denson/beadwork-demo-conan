@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rebecca Lovell. director, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8055484/\n_search: Rebecca Lovell | Heels | Lost Songs: The Basement Tapes Continued | Front Row Boston",
+  "id": "bw-p-nm8055484",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rebecca Lovell",
+  "type": "task"
+}

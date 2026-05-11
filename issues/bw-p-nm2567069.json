@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Apples in Stereo. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2567069/\n_search: The Apples in Stereo | The Powerpuff Girls | Girl Walks Into a Bar | The Last International Playboy | Watching the Detectives",
+  "id": "bw-p-nm2567069",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Apples in Stereo",
+  "type": "task"
+}

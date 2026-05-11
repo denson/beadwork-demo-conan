@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Mara. b. 1983 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0544718/\n_search: Kate Mara | Fantastic Four | Happythankyoumoreplease | Shooter | The Martian",
+  "id": "bw-p-nm0544718",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Mara",
+  "type": "task"
+}

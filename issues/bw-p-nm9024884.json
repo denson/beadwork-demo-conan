@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Edwards. writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9024884/\n_search: Richard Edwards | The Age of Wildness and Permission | At the Bottom of Timeless Sea - or - Cecil and Adina | Tell Me More About Evil | Now That We Have Expired",
+  "id": "bw-p-nm9024884",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Edwards",
+  "type": "task"
+}

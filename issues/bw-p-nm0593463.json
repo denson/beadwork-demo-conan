@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Cameron Mitchell. b. 1963 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0593463/\n_search: John Cameron Mitchell | Hedwig and the Angry Inch | Shortbus | How to Talk to Girls at Parties | Rabbit Hole",
+  "id": "bw-p-nm0593463",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Cameron Mitchell",
+  "type": "task"
+}

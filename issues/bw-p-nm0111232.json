@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Brokaw. b. 1940 | writer, actor, producer.\nConan-show appearances: 23\nIMDb: https://www.imdb.com/name/nm0111232/\n_search: Tom Brokaw | NBC Nightly News with Tom Llamas | Dateline NBC | Toots | Music and the Spoken Word",
+  "id": "bw-p-nm0111232",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Brokaw",
+  "type": "task"
+}

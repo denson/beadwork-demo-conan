@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Goldstein. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2970788/\n_search: Sam Goldstein",
+  "id": "bw-p-nm2970788",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Goldstein",
+  "type": "task"
+}

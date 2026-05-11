@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Black. b. 1955 | actress, music_department, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0085421/\n_search: Mary Black | Gangs of New York | Extra Ordinary | The Most Fertile Man in Ireland | Once in a Blue Moon",
+  "id": "bw-p-nm0085421",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Black",
+  "type": "task"
+}

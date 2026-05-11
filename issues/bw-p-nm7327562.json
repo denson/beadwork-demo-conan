@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Valentina Gordon. b. 2010 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7327562/\n_search: Valentina Gordon | American Housewife | The Young and the Restless | Fatal Beauty | Velvet Buzzsaw",
+  "id": "bw-p-nm7327562",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Valentina Gordon",
+  "type": "task"
+}

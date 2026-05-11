@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Simple Plan. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1325881/\n_search: Simple Plan | The New Guy | Scooby-Doo 2: Monsters Unleashed | The Hot Chick | Mommy",
+  "id": "bw-p-nm1325881",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Simple Plan",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dwayne Johnson. b. 1972 | actor, producer, writer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0425005/\n_search: Dwayne Johnson | Black Adam | Jumanji: Welcome to the Jungle | Journey 2: The Mysterious Island | Baywatch",
+  "id": "bw-p-nm0425005",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dwayne Johnson",
+  "type": "task"
+}

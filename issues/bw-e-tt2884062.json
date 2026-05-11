@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Return of the Dawn of the Sequel III. conan_tbs, S3E78, 2013.\nIMDb: https://www.imdb.com/title/tt2884062/\n_search: Return of the Dawn of the Sequel III | 2013 | S3E78",
+  "id": "bw-e-tt2884062",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Return of the Dawn of the Sequel III",
+  "type": "task"
+}

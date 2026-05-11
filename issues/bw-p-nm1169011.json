@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Groban. b. 1981 | music_artist, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1169011/\n_search: Josh Groban | Troy | The Polar Express | Beauty and the Beast | Muppets Most Wanted",
+  "id": "bw-p-nm1169011",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Groban",
+  "type": "task"
+}

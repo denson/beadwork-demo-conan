@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spanic Boys. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4065897/\n_search: Spanic Boys | Lewis \u0026 Clark \u0026 George | Saturday Night Live | Late Night with David Letterman",
+  "id": "bw-p-nm4065897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spanic Boys",
+  "type": "task"
+}

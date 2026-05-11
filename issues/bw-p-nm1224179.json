@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beckie King. b. 1979 | actress, miscellaneous, visual_effects.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1224179/\n_search: Beckie King | Halo: The Master Chief Collection | A Christmas Carol | Wet Hot American Summer: First Day of Camp | The Mudge Boy",
+  "id": "bw-p-nm1224179",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beckie King",
+  "type": "task"
+}

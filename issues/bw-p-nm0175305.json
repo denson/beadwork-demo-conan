@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Connolly. b. 1974 | actor, director, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0175305/\n_search: Kevin Connolly | Entourage | The Notebook | Entourage | John Q",
+  "id": "bw-p-nm0175305",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Connolly",
+  "type": "task"
+}

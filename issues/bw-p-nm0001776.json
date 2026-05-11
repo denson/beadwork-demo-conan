@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sting. b. 1951 | music_artist, actor, composer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001776/\n_search: Sting | Dune | The Emperor's New Groove | Zoolander 2 | Cold Mountain",
+  "id": "bw-p-nm0001776",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sting",
+  "type": "task"
+}

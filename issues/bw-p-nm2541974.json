@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jai Courtney. b. 1986 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2541974/\n_search: Jai Courtney | Terminator Genisys | Divergent | Suicide Squad | A Good Day to Die Hard",
+  "id": "bw-p-nm2541974",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jai Courtney",
+  "type": "task"
+}

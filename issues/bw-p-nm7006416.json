@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "D.J. Demers. actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm7006416/\n_search: D.J. Demers | One More Time | Born in '86 | Murdoch Mysteries | D.J. Demers: [Indistinct Chatter]",
+  "id": "bw-p-nm7006416",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "D.J. Demers",
+  "type": "task"
+}

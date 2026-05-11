@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Liz Plonka. director, assistant_director, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0687390/\n_search: Liz Plonka | Louie | The Wayne Brady Show | Sabrina the Teenage Witch | Chocolate News",
+  "id": "bw-p-nm0687390",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Liz Plonka",
+  "type": "task"
+}

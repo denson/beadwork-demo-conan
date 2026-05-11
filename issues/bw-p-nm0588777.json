@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry Miller. b. 1953 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0588777/\n_search: Larry Miller | 10 Things I Hate About You | A Mighty Wind | The Nutty Professor | Pretty Woman",
+  "id": "bw-p-nm0588777",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry Miller",
+  "type": "task"
+}

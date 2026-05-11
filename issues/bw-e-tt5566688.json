@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rashida Jones/Sheamus/Margo Price. conan_tbs, S6E60, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5566688/\n_search: Rashida Jones/Sheamus/Margo Price | 2016 | S6E60",
+  "id": "bw-e-tt5566688",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rashida Jones/Sheamus/Margo Price",
+  "type": "task"
+}

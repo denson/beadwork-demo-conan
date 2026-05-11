@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ted Danson/Gad Elmaleh/Josh Abbott Band. conan_tbs, S7E32, 2017.\nRuntime: 42 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt6426672/\n_search: Ted Danson/Gad Elmaleh/Josh Abbott Band | 2017 | S7E32",
+  "id": "bw-e-tt6426672",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ted Danson/Gad Elmaleh/Josh Abbott Band",
+  "type": "task"
+}

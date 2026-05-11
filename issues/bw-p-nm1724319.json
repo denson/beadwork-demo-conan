@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sebastian Maniscalco. b. 1973 | actor, producer, miscellaneous.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm1724319/\n_search: Sebastian Maniscalco | Green Book | IF | About My Father | The Super Mario Bros. Movie",
+  "id": "bw-p-nm1724319",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sebastian Maniscalco",
+  "type": "task"
+}

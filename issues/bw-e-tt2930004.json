@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Foxworthy/Kate Mulgrew/Julie Scardina. late_night, S3E138, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2930004/\n_search: Jeff Foxworthy/Kate Mulgrew/Julie Scardina | 1996 | S3E138",
+  "id": "bw-e-tt2930004",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Foxworthy/Kate Mulgrew/Julie Scardina",
+  "type": "task"
+}

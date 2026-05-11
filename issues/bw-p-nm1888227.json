@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Hibbard. b. 1977 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1888227/\n_search: Andrew Hibbard | The Idol | ER | Anger Management | The Hunter",
+  "id": "bw-p-nm1888227",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Hibbard",
+  "type": "task"
+}

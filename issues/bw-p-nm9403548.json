@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dynamic Diplomats of Double Dutch. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9403548/\n_search: Dynamic Diplomats of Double Dutch",
+  "id": "bw-p-nm9403548",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dynamic Diplomats of Double Dutch",
+  "type": "task"
+}

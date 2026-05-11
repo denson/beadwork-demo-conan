@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Talib Kweli. b. 1975 | actor, producer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1252067/\n_search: Talib Kweli | Superbad | Freedom Writers | Stick It | The Sisterhood of the Traveling Pants 2",
+  "id": "bw-p-nm1252067",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Talib Kweli",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "No Time for Tetherball. conan_tbs, S1E18, 2010.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt1788026/\n_search: No Time for Tetherball | 2010 | S1E18",
+  "id": "bw-e-tt1788026",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "No Time for Tetherball",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Dean Anderson. b. 1950 | actor, producer, executive.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000760/\n_search: Richard Dean Anderson | Stargate SG-1 | MacGyver | Stargate: Atlantis | Stargate: Continuum",
+  "id": "bw-p-nm0000760",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Dean Anderson",
+  "type": "task"
+}

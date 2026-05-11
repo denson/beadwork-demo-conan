@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "G. Love \u0026 Special Sauce. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6304601/\n_search: G. Love \u0026 Special Sauce | Cellular | Friends with Benefits | Can't Hardly Wait | Muppets from Space",
+  "id": "bw-p-nm6304601",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "G. Love \u0026 Special Sauce",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mimi Rogers/Louis C.K./Mafia Chef Joe Iannuzzi. late_night, S1E21, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3453542/\n_search: Mimi Rogers/Louis C.K./Mafia Chef Joe Iannuzzi | 1993 | S1E21",
+  "id": "bw-e-tt3453542",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mimi Rogers/Louis C.K./Mafia Chef Joe Iannuzzi",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Rob Lowe. conan_tbs, S10E69, 2020.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt12616486/\n_search: From Largo Theatre Rob Lowe | 2020 | S10E69",
+  "id": "bw-e-tt12616486",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Rob Lowe",
+  "type": "task"
+}

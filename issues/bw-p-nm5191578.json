@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doug Fine. director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5191578/\n_search: Doug Fine | American Hemp Farmer | Melissa Harris-Perry",
+  "id": "bw-p-nm5191578",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doug Fine",
+  "type": "task"
+}

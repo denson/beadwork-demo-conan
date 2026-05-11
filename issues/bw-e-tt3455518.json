@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Sweeney/Michael Chiklis/Jonathan Richman. late_night, S1E165, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3455518/\n_search: Julia Sweeney/Michael Chiklis/Jonathan Richman | 1994 | S1E165",
+  "id": "bw-e-tt3455518",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Sweeney/Michael Chiklis/Jonathan Richman",
+  "type": "task"
+}

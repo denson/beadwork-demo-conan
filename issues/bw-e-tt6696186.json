@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Terry Crews/Andy Daly/Strand of Oaks. conan_tbs, S7E66, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6696186/\n_search: Terry Crews/Andy Daly/Strand of Oaks | 2017 | S7E66",
+  "id": "bw-e-tt6696186",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Terry Crews/Andy Daly/Strand of Oaks",
+  "type": "task"
+}

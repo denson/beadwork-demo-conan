@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "William Wegman. actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0917503/\n_search: William Wegman | Joe's Apartment | Dog Baseball | Dog Duet | Alphabet Soup",
+  "id": "bw-p-nm0917503",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "William Wegman",
+  "type": "task"
+}

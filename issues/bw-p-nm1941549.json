@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gomez. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1941549/\n_search: Gomez | Gone in 60 Seconds | The Hitcher | Forces of Nature | Catch and Release",
+  "id": "bw-p-nm1941549",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gomez",
+  "type": "task"
+}

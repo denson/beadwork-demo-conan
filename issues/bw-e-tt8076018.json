@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Short/Natalie Zea/Michael Longfellow. conan_tbs, S8E43, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8076018/\n_search: Martin Short/Natalie Zea/Michael Longfellow | 2018 | S8E43",
+  "id": "bw-e-tt8076018",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Short/Natalie Zea/Michael Longfellow",
+  "type": "task"
+}

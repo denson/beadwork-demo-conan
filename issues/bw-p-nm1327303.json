@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jen Kirkman. writer, actress, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm1327303/\n_search: Jen Kirkman | The Marvelous Mrs. Maisel | Jen Kirkman: Just Keep Livin? | Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine) | 'Tis the Season to be Merry",
+  "id": "bw-p-nm1327303",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jen Kirkman",
+  "type": "task"
+}

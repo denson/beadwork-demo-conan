@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dracula Meets Frankenstein, But Only for Coffee. conan_tbs, S2E161, 2012.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt2491246/\n_search: Dracula Meets Frankenstein, But Only for Coffee | 2012 | S2E161",
+  "id": "bw-e-tt2491246",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dracula Meets Frankenstein, But Only for Coffee",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Leno. b. 1950 | producer, writer, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005143/\n_search: Jay Leno | The Tonight Show with Jay Leno | Dave | Space Cowboys | Contact",
+  "id": "bw-p-nm0005143",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Leno",
+  "type": "task"
+}

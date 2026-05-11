@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kwame Jackson. b. 1975 | composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1525970/\n_search: Kwame Jackson | The Memo | The Apprentice | The Annual AAFA Image Awards | Dreamers: The Story of Kappa Alpha Psi",
+  "id": "bw-p-nm1525970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kwame Jackson",
+  "type": "task"
+}

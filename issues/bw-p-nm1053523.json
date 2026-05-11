@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dante. b. 1970 | manager, casting_director, casting_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1053523/\n_search: Dante | Unfallen | Last Comic Standing | Fashion Police | Bro, What Happened?",
+  "id": "bw-p-nm1053523",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dante",
+  "type": "task"
+}

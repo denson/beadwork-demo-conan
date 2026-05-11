@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quinn Sullivan. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5903738/\n_search: Quinn Sullivan | Eric Clapton's Crossroads Guitar Festival 2013 | The Torch | Monochrome: Black, White and Blue",
+  "id": "bw-p-nm5903738",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quinn Sullivan",
+  "type": "task"
+}

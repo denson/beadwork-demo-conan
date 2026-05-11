@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Loni Anderson. 1945–2025 | actress, soundtrack, archive_footage.\nDECEASED (1945–2025). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000756/\n_search: Loni Anderson | WKRP in Cincinnati | A Night at the Roxbury | Stroker Ace | All Dogs Go to Heaven",
+  "id": "bw-p-nm0000756",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Loni Anderson",
+  "type": "task"
+}

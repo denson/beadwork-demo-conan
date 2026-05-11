@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessica Chastain. b. 1977 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1567113/\n_search: Jessica Chastain | Zero Dark Thirty | Crimson Peak | Molly's Game | The Help",
+  "id": "bw-p-nm1567113",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessica Chastain",
+  "type": "task"
+}

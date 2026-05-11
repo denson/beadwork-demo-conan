@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Street Drum Corps. composer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2188589/\n_search: Street Drum Corps | Heart Squared | Hell's Kitchen | Warped Hall of Fame",
+  "id": "bw-p-nm2188589",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Street Drum Corps",
+  "type": "task"
+}

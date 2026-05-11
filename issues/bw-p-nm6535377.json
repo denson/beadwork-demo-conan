@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Echosmith. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6535377/\n_search: Echosmith | Endless Love | Operation Christmas Drop | Selling Sunset | The Space Between",
+  "id": "bw-p-nm6535377",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Echosmith",
+  "type": "task"
+}

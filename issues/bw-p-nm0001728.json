@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wallace Shawn. b. 1943 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001728/\n_search: Wallace Shawn | My Dinner with Andre | The Princess Bride | Clueless | The Incredibles",
+  "id": "bw-p-nm0001728",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wallace Shawn",
+  "type": "task"
+}

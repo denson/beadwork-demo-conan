@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Busch. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2547573/\n_search: Michael Busch | Human Giant | Pretty Little Liars | The Quest for the Golden Hot Dog",
+  "id": "bw-p-nm2547573",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Busch",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sloan. b. 1991 | actor, director, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1822569/\n_search: Sloan | The Virgin Suicides | The Girl Next Door | First Round Down | Girl Walks Into a Bar",
+  "id": "bw-p-nm1822569",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sloan",
+  "type": "task"
+}

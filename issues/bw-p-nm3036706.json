@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Prior. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3036706/\n_search: Anna Prior | NME Awards 2012",
+  "id": "bw-p-nm3036706",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Prior",
+  "type": "task"
+}

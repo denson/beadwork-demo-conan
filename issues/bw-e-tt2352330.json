@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Green Lantern 2: Just Kidding, That Won't Happen. conan_tbs, S2E126, 2012.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt2352330/\n_search: The Green Lantern 2: Just Kidding, That Won't Happen | 2012 | S2E126",
+  "id": "bw-e-tt2352330",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Green Lantern 2: Just Kidding, That Won't Happen",
+  "type": "task"
+}

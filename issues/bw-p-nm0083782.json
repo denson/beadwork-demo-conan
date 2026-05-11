@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Birt. b. 1965 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0083782/\n_search: Christopher Birt | The Bodyguard | Crimson Tide | Wolf | That's My Bush!",
+  "id": "bw-p-nm0083782",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Birt",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ed Koch/Matty Rich/Kristin Hersh. late_night, S1E148, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2702608/\n_search: Ed Koch/Matty Rich/Kristin Hersh | 1994 | S1E148",
+  "id": "bw-e-tt2702608",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ed Koch/Matty Rich/Kristin Hersh",
+  "type": "task"
+}

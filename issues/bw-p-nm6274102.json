@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Hale. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6274102/\n_search: Jeff Hale",
+  "id": "bw-p-nm6274102",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Hale",
+  "type": "task"
+}

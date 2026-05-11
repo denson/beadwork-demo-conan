@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessica Biel. b. 1982 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0004754/\n_search: Jessica Biel | The Illusionist | Total Recall | Next | The Texas Chainsaw Massacre",
+  "id": "bw-p-nm0004754",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessica Biel",
+  "type": "task"
+}

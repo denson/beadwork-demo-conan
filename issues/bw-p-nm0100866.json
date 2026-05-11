@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Bowen. b. 1970 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0100866/\n_search: Julie Bowen | Modern Family | Happy Gilmore | Ed | Totally Killer",
+  "id": "bw-p-nm0100866",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Bowen",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Retta. actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0802876/\n_search: Retta | Parks and Recreation | Dragon Wars: D-War | Fracture | The Lego Ninjago Movie",
+  "id": "bw-p-nm0802876",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Retta",
+  "type": "task"
+}

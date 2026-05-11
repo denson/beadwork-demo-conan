@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wesley Snipes/Louie Anderson/Drew Lynch. conan_tbs, S7E114, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt7231316/\n_search: Wesley Snipes/Louie Anderson/Drew Lynch | 2017 | S7E114",
+  "id": "bw-e-tt7231316",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wesley Snipes/Louie Anderson/Drew Lynch",
+  "type": "task"
+}

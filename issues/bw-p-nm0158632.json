@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Margaret Cho. b. 1968 | actress, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0158632/\n_search: Margaret Cho | Margaret Cho: PsyCHO | 30 Rock | All-American Girl | Fire Island",
+  "id": "bw-p-nm0158632",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Margaret Cho",
+  "type": "task"
+}

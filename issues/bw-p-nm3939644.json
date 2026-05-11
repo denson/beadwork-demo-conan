@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deanna Pak. actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3939644/\n_search: Deanna Pak | Fatal Attraction | The Resident | Bronx SIU | Prom Ride",
+  "id": "bw-p-nm3939644",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deanna Pak",
+  "type": "task"
+}

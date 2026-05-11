@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "O'Shea Jackson Jr.. b. 1991 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6578009/\n_search: O'Shea Jackson Jr. | Straight Outta Compton | Ingrid Goes West | Godzilla: King of the Monsters | Cocaine Bear",
+  "id": "bw-p-nm6578009",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "O'Shea Jackson Jr.",
+  "type": "task"
+}

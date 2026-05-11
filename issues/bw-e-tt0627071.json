@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Springer/Melinda Clarke/David Brenner. late_night, S5E71, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627071/\n_search: Jerry Springer/Melinda Clarke/David Brenner | 1998 | S5E71",
+  "id": "bw-e-tt0627071",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Springer/Melinda Clarke/David Brenner",
+  "type": "task"
+}

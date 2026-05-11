@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Parnell. b. 1967 | actor, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0663177/\n_search: Chris Parnell | Rick and Morty | Walk Hard: The Dewey Cox Story | Hot Rod | Anchorman: The Legend of Ron Burgundy",
+  "id": "bw-p-nm0663177",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Parnell",
+  "type": "task"
+}

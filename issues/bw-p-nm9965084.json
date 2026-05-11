@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Arnold. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9965084/\n_search: Tim Arnold | Hart of Dixie | Danville 2nd Ward Young Men | Jimmy Kimmel Live!",
+  "id": "bw-p-nm9965084",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Arnold",
+  "type": "task"
+}

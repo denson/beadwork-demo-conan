@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Brokaw/Roger Bart/John Pizzarelli. late_night, S12E139, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627683/\n_search: Tom Brokaw/Roger Bart/John Pizzarelli | 2005 | S12E139",
+  "id": "bw-e-tt0627683",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Brokaw/Roger Bart/John Pizzarelli",
+  "type": "task"
+}

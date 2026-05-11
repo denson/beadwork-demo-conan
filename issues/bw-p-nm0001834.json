@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Damon Wayans. b. 1960 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001834/\n_search: Damon Wayans | My Wife and Kids | The Last Boy Scout | Earth Girls Are Easy | Major Payne",
+  "id": "bw-p-nm0001834",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Damon Wayans",
+  "type": "task"
+}

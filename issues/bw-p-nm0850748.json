@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandon Tartikoff. 1949–1997 | writer, producer, actor.\nDECEASED (1949–1997). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0850748/\n_search: Brandon Tartikoff | Beggars and Choosers | ALF | Arli$$ | Monterey Jack",
+  "id": "bw-p-nm0850748",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandon Tartikoff",
+  "type": "task"
+}

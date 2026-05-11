@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judah Akers. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8710175/\n_search: Judah Akers | The Starling | Run the Race | Front and Center",
+  "id": "bw-p-nm8710175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judah Akers",
+  "type": "task"
+}

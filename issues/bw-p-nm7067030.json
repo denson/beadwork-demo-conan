@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samantha Gordon. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7067030/\n_search: Samantha Gordon | Neon Arcade",
+  "id": "bw-p-nm7067030",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samantha Gordon",
+  "type": "task"
+}

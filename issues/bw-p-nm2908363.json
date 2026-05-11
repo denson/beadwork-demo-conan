@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vampire Weekend. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2908363/\n_search: Vampire Weekend | The Twilight Saga: Eclipse | Paper Towns | The Kids Are All Right | Boyhood",
+  "id": "bw-p-nm2908363",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vampire Weekend",
+  "type": "task"
+}

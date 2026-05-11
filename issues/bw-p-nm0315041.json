@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ricky Gervais. b. 1961 | writer, producer, actor.\nConan-show appearances: 20\nIMDb: https://www.imdb.com/name/nm0315041/\n_search: Ricky Gervais | The Office | The Invention of Lying | Extras | Ghost Town",
+  "id": "bw-p-nm0315041",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ricky Gervais",
+  "type": "task"
+}

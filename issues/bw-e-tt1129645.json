@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Graham/Isaac Hayes/Kasey Chambers. late_night, S10E132, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1129645/\n_search: Lauren Graham/Isaac Hayes/Kasey Chambers | 2003 | S10E132",
+  "id": "bw-e-tt1129645",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Graham/Isaac Hayes/Kasey Chambers",
+  "type": "task"
+}

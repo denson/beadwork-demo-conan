@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "All Quiet on the Western Front, Until Someone's Car Alarm Went Off. conan_tbs, S3E28, 2013.\nIMDb: https://www.imdb.com/title/tt2631794/\n_search: All Quiet on the Western Front, Until Someone's Car Alarm Went Off | 2013 | S3E28",
+  "id": "bw-e-tt2631794",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "All Quiet on the Western Front, Until Someone's Car Alarm Went Off",
+  "type": "task"
+}

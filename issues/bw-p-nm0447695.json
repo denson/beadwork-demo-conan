@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Kendrick. b. 1985 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0447695/\n_search: Anna Kendrick | Up in the Air | Pitch Perfect | Pitch Perfect 3 | Woman of the Hour",
+  "id": "bw-p-nm0447695",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Kendrick",
+  "type": "task"
+}

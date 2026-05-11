@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Hudson/Tim Daly/Bang Camaro. late_night, S16E70, 2009.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1323844/\n_search: Kate Hudson/Tim Daly/Bang Camaro | 2009 | S16E70",
+  "id": "bw-e-tt1323844",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Hudson/Tim Daly/Bang Camaro",
+  "type": "task"
+}

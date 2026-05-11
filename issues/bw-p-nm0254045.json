@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Linda Ellerbee. b. 1944 | producer, writer, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0254045/\n_search: Linda Ellerbee | Nick News | Our World | When I Was a Girl | Baby Boom",
+  "id": "bw-p-nm0254045",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Linda Ellerbee",
+  "type": "task"
+}

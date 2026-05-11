@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Silverman. b. 1970 | actress, writer, producer.\nConan-show appearances: 17 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0798971/\n_search: Sarah Silverman | Wreck-It Ralph | Ralph Breaks the Internet | School of Rock | The Sarah Silverman Program.",
+  "id": "bw-p-nm0798971",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Silverman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Hart. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5740235/\n_search: Daniel Hart | The Old Man \u0026 the Gun | A Ghost Story | SMILF | The Green Knight",
+  "id": "bw-p-nm5740235",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Hart",
+  "type": "task"
+}

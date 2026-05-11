@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Reagan/Ellen Cleghorne/The Juliana Hatfield Three. late_night, S1E14, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1415431/\n_search: Ron Reagan/Ellen Cleghorne/The Juliana Hatfield Three | 1993 | S1E14",
+  "id": "bw-e-tt1415431",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Reagan/Ellen Cleghorne/The Juliana Hatfield Three",
+  "type": "task"
+}

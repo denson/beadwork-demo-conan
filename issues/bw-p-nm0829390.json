@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "French Stewart. b. 1964 | actor, producer, executive.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0829390/\n_search: French Stewart | 3rd Rock from the Sun | Inspector Gadget 2 | Broken Arrow | Love Stinks",
+  "id": "bw-p-nm0829390",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "French Stewart",
+  "type": "task"
+}

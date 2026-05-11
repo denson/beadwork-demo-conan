@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laird Hamilton. b. 1964 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0358007/\n_search: Laird Hamilton | Die Another Day | Waterworld | Point Break | The Descendants",
+  "id": "bw-p-nm0358007",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laird Hamilton",
+  "type": "task"
+}

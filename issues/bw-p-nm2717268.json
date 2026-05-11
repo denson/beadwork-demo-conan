@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Austin Trace. actor, cinematographer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2717268/\n_search: Austin Trace | Beneath the Leaves | Generation | Game Shakers | Shining Vale",
+  "id": "bw-p-nm2717268",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Austin Trace",
+  "type": "task"
+}

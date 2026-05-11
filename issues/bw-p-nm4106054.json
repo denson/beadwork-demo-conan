@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Pacino. producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4106054/\n_search: Michael Pacino | Guava Island | Papa Hemingway in Cuba | Gordon Ramsay: Uncharted | Watt's World",
+  "id": "bw-p-nm4106054",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Pacino",
+  "type": "task"
+}

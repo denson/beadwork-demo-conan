@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Suzanne Somers. 1946–2023 | actress, composer, producer.\nDECEASED (1946–2023). Conan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001755/\n_search: Suzanne Somers | Three's Company | Serial Mom | Step by Step | She's the Sheriff",
+  "id": "bw-p-nm0001755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Suzanne Somers",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seven Mary Three. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2926786/\n_search: Seven Mary Three | The Crow: City of Angels | Crazy/Beautiful | Cold Case | Hurricane Streets",
+  "id": "bw-p-nm2926786",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seven Mary Three",
+  "type": "task"
+}

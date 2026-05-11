@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey Toobin. b. 1960 | writer, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1422020/\n_search: Jeffrey Toobin | American Crime Story | Get Me Roger Stone | O.J.: Made in America | Connie Chung Tonight",
+  "id": "bw-p-nm1422020",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey Toobin",
+  "type": "task"
+}

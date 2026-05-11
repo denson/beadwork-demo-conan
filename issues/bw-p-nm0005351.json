@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ryan Reynolds. b. 1976 | actor, producer, writer.\nConan-show appearances: 9 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0005351/\n_search: Ryan Reynolds | Deadpool 2 | Deadpool | Deadpool \u0026 Wolverine | Buried",
+  "id": "bw-p-nm0005351",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ryan Reynolds",
+  "type": "task"
+}

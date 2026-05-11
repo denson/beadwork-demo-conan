@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James McAvoy. b. 1979 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0564215/\n_search: James McAvoy | Filth | Split | Atonement | The Last King of Scotland",
+  "id": "bw-p-nm0564215",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James McAvoy",
+  "type": "task"
+}

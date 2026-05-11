@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Double-Fudging of Vanessa Del Rio. conan_tbs, S1E57, 2011.\nRuntime: 60 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt1847840/\n_search: The Double-Fudging of Vanessa Del Rio | 2011 | S1E57",
+  "id": "bw-e-tt1847840",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Double-Fudging of Vanessa Del Rio",
+  "type": "task"
+}

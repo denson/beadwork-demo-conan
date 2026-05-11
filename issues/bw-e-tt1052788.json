@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tea Leoni/Tyrese Gibson/The White Stripes. late_night, S14E157, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1052788/\n_search: Tea Leoni/Tyrese Gibson/The White Stripes | 2007 | S14E157",
+  "id": "bw-e-tt1052788",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tea Leoni/Tyrese Gibson/The White Stripes",
+  "type": "task"
+}

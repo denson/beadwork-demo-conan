@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hardwick/Keizo Shimamoto/David Gray. conan_tbs, S4E129, 2014.\nIMDb: https://www.imdb.com/title/tt4094078/\n_search: Chris Hardwick/Keizo Shimamoto/David Gray | 2014 | S4E129",
+  "id": "bw-e-tt4094078",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hardwick/Keizo Shimamoto/David Gray",
+  "type": "task"
+}

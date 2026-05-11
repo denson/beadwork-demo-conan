@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Todd Solondz. b. 1959 | director, writer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001754/\n_search: Todd Solondz | Welcome to the Dollhouse | Happiness | Wiener-Dog | Life During Wartime",
+  "id": "bw-p-nm0001754",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Todd Solondz",
+  "type": "task"
+}

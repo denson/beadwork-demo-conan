@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leslie Bibb. b. 1973 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0004753/\n_search: Leslie Bibb | Iron Man | Law Abiding Citizen | Miss Nobody | Iron Man 2",
+  "id": "bw-p-nm0004753",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leslie Bibb",
+  "type": "task"
+}

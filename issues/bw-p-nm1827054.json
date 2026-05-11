@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Lamm. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1827054/\n_search: Steven Lamm | Murder by Medic | The View | The Daily Show | The Wendy Williams Show",
+  "id": "bw-p-nm1827054",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Lamm",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2172089/\n_search: James | Heat | The World's End | One Day | Me and Earl and the Dying Girl",
+  "id": "bw-p-nm2172089",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James",
+  "type": "task"
+}

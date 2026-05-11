@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Rockwell. b. 1968 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005377/\n_search: Sam Rockwell | Moon | Three Billboards Outside Ebbing, Missouri | Confessions of a Dangerous Mind | Seven Psychopaths",
+  "id": "bw-p-nm0005377",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Rockwell",
+  "type": "task"
+}

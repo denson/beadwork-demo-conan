@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maria Menounos. b. 1978 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1172764/\n_search: Maria Menounos | Fantastic Four | Entourage | Kickin' It Old Skool | One Tree Hill",
+  "id": "bw-p-nm1172764",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maria Menounos",
+  "type": "task"
+}

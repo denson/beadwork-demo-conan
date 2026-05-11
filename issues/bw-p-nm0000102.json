@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Bacon. b. 1958 | actor, producer, director.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0000102/\n_search: Kevin Bacon | Footloose | Hollow Man | The Woodsman | Mystic River",
+  "id": "bw-p-nm0000102",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Bacon",
+  "type": "task"
+}

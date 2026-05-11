@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Giddings. b. 1984 | actor, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3204061/\n_search: Justin Giddings | Skin Deep | Outpost | When We Get There | Pretty Little Liars",
+  "id": "bw-p-nm3204061",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Giddings",
+  "type": "task"
+}

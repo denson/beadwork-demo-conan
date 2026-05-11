@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kourtney Kardashian. b. 1979 | producer, actress, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1966407/\n_search: Kourtney Kardashian | He's All That | Keeping Up with the Kardashians | One Life to Live | Calabasas Behind the Gates",
+  "id": "bw-p-nm1966407",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kourtney Kardashian",
+  "type": "task"
+}

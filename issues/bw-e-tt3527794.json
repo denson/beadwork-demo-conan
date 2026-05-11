@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ellen Cleghorne/Clea Lewis/Colin Quinn. late_night, S3E11, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3527794/\n_search: Ellen Cleghorne/Clea Lewis/Colin Quinn | 1995 | S3E11",
+  "id": "bw-e-tt3527794",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ellen Cleghorne/Clea Lewis/Colin Quinn",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Morris Chestnut. b. 1969 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004820/\n_search: Morris Chestnut | Kick-Ass 2 | The Best Man | The Call | Under Siege 2: Dark Territory",
+  "id": "bw-p-nm0004820",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Morris Chestnut",
+  "type": "task"
+}

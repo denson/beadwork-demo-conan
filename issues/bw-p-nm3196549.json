@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Drago. actor, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3196549/\n_search: Matt Drago | Somewhere in Montana | Cuisine de la 'Pocalypse | WWJD What Would Jesus Do? The Journey Continues | The Package",
+  "id": "bw-p-nm3196549",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Drago",
+  "type": "task"
+}

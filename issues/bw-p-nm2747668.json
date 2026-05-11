@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Santino. b. 1983 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2747668/\n_search: Andrew Santino | Ricky Stanicky | Game Over, Man! | The Disaster Artist | Happy Gilmore 2",
+  "id": "bw-p-nm2747668",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Santino",
+  "type": "task"
+}

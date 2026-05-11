@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Regina Taylor. b. 1960 | actress, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0853040/\n_search: Regina Taylor | Courage Under Fire | I'll Fly Away | The Unit | The Negotiator",
+  "id": "bw-p-nm0853040",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Regina Taylor",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Last Shadow Puppets. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3039480/\n_search: The Last Shadow Puppets | Glastonbury 2016 | Late Night with Seth Meyers | Later... With Jools Holland | Shockwaves NME Awards 2009",
+  "id": "bw-p-nm3039480",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Last Shadow Puppets",
+  "type": "task"
+}

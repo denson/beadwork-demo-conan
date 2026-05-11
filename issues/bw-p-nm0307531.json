@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Garlin. b. 1962 | actor, producer, director.\nConan-show appearances: 28\nIMDb: https://www.imdb.com/name/nm0307531/\n_search: Jeff Garlin | Curb Your Enthusiasm | Safety Not Guaranteed | WALL·E | The Bounty Hunter",
+  "id": "bw-p-nm0307531",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Garlin",
+  "type": "task"
+}

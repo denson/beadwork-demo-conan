@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Bear. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4545959/\n_search: Christopher Bear | Past Lives | High Maintenance | Blue Valentine | Home",
+  "id": "bw-p-nm4545959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Bear",
+  "type": "task"
+}

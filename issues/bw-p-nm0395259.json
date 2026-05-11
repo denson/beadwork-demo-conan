@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Horovitz. b. 1966 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0395259/\n_search: Adam Horovitz | While We're Young | Spider-Man: No Way Home | Real Steel | Star Trek",
+  "id": "bw-p-nm0395259",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Horovitz",
+  "type": "task"
+}

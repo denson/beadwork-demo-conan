@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Russell Brand. b. 1975 | producer, writer, actor.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm1258970/\n_search: Russell Brand | Arthur | Forgetting Sarah Marshall | Get Him to the Greek | Rock of Ages",
+  "id": "bw-p-nm1258970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Russell Brand",
+  "type": "task"
+}

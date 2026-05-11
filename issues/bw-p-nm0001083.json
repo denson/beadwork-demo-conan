@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Cryer. b. 1965 | actor, producer, director.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0001083/\n_search: Jon Cryer | Two and a Half Men | Pretty in Pink | Superman IV: The Quest for Peace | Hot Shots!",
+  "id": "bw-p-nm0001083",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Cryer",
+  "type": "task"
+}

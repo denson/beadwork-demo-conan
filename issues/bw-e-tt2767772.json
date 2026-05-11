@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Octopus Was a Master Pickpocket in Highly Specific Circumstances. conan_tbs, S3E59, 2013.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt2767772/\n_search: The Octopus Was a Master Pickpocket in Highly Specific Circumstances | 2013 | S3E59",
+  "id": "bw-e-tt2767772",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Octopus Was a Master Pickpocket in Highly Specific Circumstances",
+  "type": "task"
+}

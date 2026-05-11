@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey Gaines. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4815292/\n_search: Jeffrey Gaines | All My Children | So You Think You Can Dance | Good Day PA!",
+  "id": "bw-p-nm4815292",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey Gaines",
+  "type": "task"
+}

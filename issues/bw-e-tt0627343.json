@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rupert Everett/George Stephanopoulos/Ainsley Harriott. late_night, S7E89, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627343/\n_search: Rupert Everett/George Stephanopoulos/Ainsley Harriott | 2000 | S7E89",
+  "id": "bw-e-tt0627343",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rupert Everett/George Stephanopoulos/Ainsley Harriott",
+  "type": "task"
+}

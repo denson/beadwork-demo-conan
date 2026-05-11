@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cobie Smulders. b. 1982 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1130627/\n_search: Cobie Smulders | The Avengers | Avengers: Age of Ultron | Safe Haven | How I Met Your Mother",
+  "id": "bw-p-nm1130627",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cobie Smulders",
+  "type": "task"
+}

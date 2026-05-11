@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amber Rose. b. 1983 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2527621/\n_search: Amber Rose | School Dance | Inside Amy Schumer | Sister Code | J.A.W.",
+  "id": "bw-p-nm2527621",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amber Rose",
+  "type": "task"
+}

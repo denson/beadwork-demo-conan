@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Meyers. b. 1973 | writer, actor, producer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm1024878/\n_search: Seth Meyers | New Year's Eve | Documentary Now! | Saturday Night Live | Late Night with Seth Meyers",
+  "id": "bw-p-nm1024878",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Meyers",
+  "type": "task"
+}

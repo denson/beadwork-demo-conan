@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "R.L. Burnside. 1926–2005 | music_department, composer, soundtrack.\nDECEASED (1926–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0122945/\n_search: R.L. Burnside | Footloose | Bullet to the Head | Black Snake Moan | The Reaping",
+  "id": "bw-p-nm0122945",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "R.L. Burnside",
+  "type": "task"
+}

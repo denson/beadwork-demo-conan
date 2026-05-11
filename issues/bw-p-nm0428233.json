@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Howard Jones. b. 1955 | actor, composer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0428233/\n_search: Howard Jones | Better Off Dead | Bumblebee | The Conjuring: Last Rites | Eddie the Eagle",
+  "id": "bw-p-nm0428233",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Howard Jones",
+  "type": "task"
+}

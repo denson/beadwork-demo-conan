@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Goran Visnjic. b. 1972 | actor, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0899681/\n_search: Goran Visnjic | The Girl with the Dragon Tattoo | ER | Beginners | The Counselor",
+  "id": "bw-p-nm0899681",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Goran Visnjic",
+  "type": "task"
+}

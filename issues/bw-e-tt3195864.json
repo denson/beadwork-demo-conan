@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Goodzilla: The Giant Lizard Who Taught Reading Skills. conan_tbs, S3E138, 2013.\nIMDb: https://www.imdb.com/title/tt3195864/\n_search: Goodzilla: The Giant Lizard Who Taught Reading Skills | 2013 | S3E138",
+  "id": "bw-e-tt3195864",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Goodzilla: The Giant Lizard Who Taught Reading Skills",
+  "type": "task"
+}

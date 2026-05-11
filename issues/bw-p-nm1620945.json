@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scissor Sisters. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1620945/\n_search: Scissor Sisters | Layer Cake | Seeking a Friend for the End of the World | How to Lose Friends \u0026 Alienate People | Jackass Presents: Bad Grandpa",
+  "id": "bw-p-nm1620945",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scissor Sisters",
+  "type": "task"
+}

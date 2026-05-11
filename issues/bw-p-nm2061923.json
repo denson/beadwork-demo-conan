@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeezy. b. 1977 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2061923/\n_search: Jeezy | The Bling Ring | Hustlers | This Christmas | Vice",
+  "id": "bw-p-nm2061923",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeezy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mt. Joy. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9597956/\n_search: Mt. Joy | Lethal Weapon | Instinct | Boy on the Moon | Mt. Joy: Live from Red Rocks Amphitheatre",
+  "id": "bw-p-nm9597956",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mt. Joy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yogi Berra/Vendela/Hugh Fink. late_night, S5E105, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627100/\n_search: Yogi Berra/Vendela/Hugh Fink | 1998 | S5E105",
+  "id": "bw-e-tt0627100",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yogi Berra/Vendela/Hugh Fink",
+  "type": "task"
+}

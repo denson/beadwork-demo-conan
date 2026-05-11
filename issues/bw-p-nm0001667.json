@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Rhys Meyers. b. 1977 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001667/\n_search: Jonathan Rhys Meyers | The 12th Man | Vikings | The Tudors | Elvis",
+  "id": "bw-p-nm0001667",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Rhys Meyers",
+  "type": "task"
+}

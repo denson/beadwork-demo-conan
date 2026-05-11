@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean 'Diddy' Combs. b. 1969 | music_artist, producer, actor.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0004835/\n_search: Sean 'Diddy' Combs | Get Him to the Greek | Godzilla | Monster's Ball | Bad Boys II",
+  "id": "bw-p-nm0004835",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean 'Diddy' Combs",
+  "type": "task"
+}

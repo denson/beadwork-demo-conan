@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rubén Albarrán. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1243955/\n_search: Rubén Albarrán | Y tu mamá también | The Book of Life | Entre lo profano y lo divino | Un Viaje",
+  "id": "bw-p-nm1243955",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rubén Albarrán",
+  "type": "task"
+}

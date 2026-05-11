@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jayma Mays. b. 1979 | actress, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1724323/\n_search: Jayma Mays | Epic Movie | Red Eye | American Made | The Smurfs",
+  "id": "bw-p-nm1724323",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jayma Mays",
+  "type": "task"
+}

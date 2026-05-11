@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bradley Whitford. b. 1959 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0925966/\n_search: Bradley Whitford | The West Wing | Get Out | Saving Mr. Banks | The Cabin in the Woods",
+  "id": "bw-p-nm0925966",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bradley Whitford",
+  "type": "task"
+}

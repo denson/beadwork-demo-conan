@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Dunn. 1935–2010 | actor.\nDECEASED (1935–2010). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2457364/\n_search: Richard Dunn | Love Chronicles | Parks and Recreation | The Hunted: Terms of Extermination",
+  "id": "bw-p-nm2457364",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Dunn",
+  "type": "task"
+}

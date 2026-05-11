@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Einstein. 1942–2019 | writer, actor, producer.\nDECEASED (1942–2019). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0251872/\n_search: Bob Einstein | Bizarre | Super Dave | Curb Your Enthusiasm | Super Dave's Spike Tacular",
+  "id": "bw-p-nm0251872",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Einstein",
+  "type": "task"
+}

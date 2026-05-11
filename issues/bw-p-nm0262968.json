@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lee Evans. b. 1964 | actor, writer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0262968/\n_search: Lee Evans | The Fifth Element | There's Something About Mary | Mousehunt | The Medallion",
+  "id": "bw-p-nm0262968",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lee Evans",
+  "type": "task"
+}

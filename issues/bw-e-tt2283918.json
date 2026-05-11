@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Slaughterdeath 4: Hurtfest in Scartown. conan_tbs, S2E115, 2012.\nIMDb: https://www.imdb.com/title/tt2283918/\n_search: Slaughterdeath 4: Hurtfest in Scartown | 2012 | S2E115",
+  "id": "bw-e-tt2283918",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Slaughterdeath 4: Hurtfest in Scartown",
+  "type": "task"
+}

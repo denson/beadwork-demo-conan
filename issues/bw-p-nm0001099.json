@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Daniels. b. 1955 | actor, producer, writer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0001099/\n_search: Jeff Daniels | The Squid and the Whale | Arachnophobia | The Purple Rose of Cairo | Dumb and Dumber",
+  "id": "bw-p-nm0001099",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Daniels",
+  "type": "task"
+}

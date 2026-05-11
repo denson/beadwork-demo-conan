@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Bailey. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3060935/\n_search: Richard Bailey",
+  "id": "bw-p-nm3060935",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Bailey",
+  "type": "task"
+}

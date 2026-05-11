@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mira Sorvino. b. 1967 | actress, producer, soundtrack.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0000227/\n_search: Mira Sorvino | Mighty Aphrodite | The Replacement Killers | The Final Cut | Romy and Michele's High School Reunion",
+  "id": "bw-p-nm0000227",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mira Sorvino",
+  "type": "task"
+}

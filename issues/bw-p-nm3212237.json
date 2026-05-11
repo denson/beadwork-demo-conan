@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Cronick. costume_designer, costume_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3212237/\n_search: Scott Cronick | The Pete Holmes Show | Raal | You're Welcome America: A Final Night With George W. Bush",
+  "id": "bw-p-nm3212237",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Cronick",
+  "type": "task"
+}

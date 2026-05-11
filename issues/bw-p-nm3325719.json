@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James S.W. Lee. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3325719/\n_search: James S.W. Lee | Dollhouse | Southland | How to Get Away with Murder | Spa Night",
+  "id": "bw-p-nm3325719",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James S.W. Lee",
+  "type": "task"
+}

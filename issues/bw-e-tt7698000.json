@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Denis Leary/Frankie Shaw/Khalid Rahmaan. conan_tbs, S8E15, 2017.\nRuntime: 42 min.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt7698000/\n_search: Denis Leary/Frankie Shaw/Khalid Rahmaan | 2017 | S8E15",
+  "id": "bw-e-tt7698000",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Denis Leary/Frankie Shaw/Khalid Rahmaan",
+  "type": "task"
+}

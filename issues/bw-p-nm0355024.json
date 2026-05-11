@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Hale. b. 1970 | actor, producer, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0355024/\n_search: Tony Hale | Arrested Development | Veep | Toy Story 4 | American Ultra",
+  "id": "bw-p-nm0355024",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Hale",
+  "type": "task"
+}

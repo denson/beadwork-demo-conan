@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gordon Ramsay. b. 1966 | producer, writer, miscellaneous.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1451059/\n_search: Gordon Ramsay | Hell's Kitchen | Love's Kitchen | Smurfs: The Lost Village | MasterChef: USA",
+  "id": "bw-p-nm1451059",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gordon Ramsay",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Annabella Sciorra. b. 1960 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001711/\n_search: Annabella Sciorra | The Hand That Rocks the Cradle | Jungle Fever",
+  "id": "bw-p-nm0001711",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Annabella Sciorra",
+  "type": "task"
+}

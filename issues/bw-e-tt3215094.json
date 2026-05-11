@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Word-For-Word Re-enactment of This Afternoon's Queen Latifah Episode. conan_tbs, S3E147, 2013.\nIMDb: https://www.imdb.com/title/tt3215094/\n_search: A Word-For-Word Re-enactment of This Afternoon's Queen Latifah Episode | 2013 | S3E147",
+  "id": "bw-e-tt3215094",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Word-For-Word Re-enactment of This Afternoon's Queen Latifah Episode",
+  "type": "task"
+}

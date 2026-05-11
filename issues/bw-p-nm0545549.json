@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey M. Marchetti. art_department, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0545549/\n_search: Jeffrey M. Marchetti | The Sopranos | Paintball the Movie: Court Jesters | Violet \u0026 Daisy | The Only Living Boy in New York",
+  "id": "bw-p-nm0545549",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey M. Marchetti",
+  "type": "task"
+}

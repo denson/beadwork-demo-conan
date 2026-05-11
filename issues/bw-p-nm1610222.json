@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Levi MacDougall. writer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1610222/\n_search: Levi MacDougall | Important Things with Demetri Martin | Comedy Now! | The Pickles Shane",
+  "id": "bw-p-nm1610222",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Levi MacDougall",
+  "type": "task"
+}

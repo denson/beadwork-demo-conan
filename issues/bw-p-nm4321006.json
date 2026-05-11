@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Red. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4321006/\n_search: Red | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm4321006",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Red",
+  "type": "task"
+}

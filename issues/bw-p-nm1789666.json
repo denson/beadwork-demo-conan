@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Malley. b. 1963 | composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1789666/\n_search: Matthew Malley | Shrek 2 | Mr. Deeds | Something Borrowed | Go Gladys!",
+  "id": "bw-p-nm1789666",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Malley",
+  "type": "task"
+}

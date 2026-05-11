@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessie Gaskell. writer, producer, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3000629/\n_search: Jessie Gaskell | Dorm Life | Leo",
+  "id": "bw-p-nm3000629",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessie Gaskell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barry Manilow. b. 1943 | music_artist, actor, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005180/\n_search: Barry Manilow | Thumbelina | Hellboy II: The Golden Army | Transsiberian | Pretty in Pink",
+  "id": "bw-p-nm0005180",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barry Manilow",
+  "type": "task"
+}

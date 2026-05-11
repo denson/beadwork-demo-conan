@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rorke Denver. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4918786/\n_search: Rorke Denver | Act of Valor | Stars in the Sky: A Hunting Story | American Grit | MeatEater",
+  "id": "bw-p-nm4918786",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rorke Denver",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Miranda Kathleen. actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5021481/\n_search: Miranda Kathleen | On My Block | Psychopaths | Gentlemen's Fury: Reloaded | 1 Night in San Diego",
+  "id": "bw-p-nm5021481",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Miranda Kathleen",
+  "type": "task"
+}

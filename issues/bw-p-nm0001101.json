@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ted Danson. b. 1947 | actor, producer, writer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0001101/\n_search: Ted Danson | Cheers | The Good Place | Body Heat | Three Men and a Little Lady",
+  "id": "bw-p-nm0001101",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ted Danson",
+  "type": "task"
+}

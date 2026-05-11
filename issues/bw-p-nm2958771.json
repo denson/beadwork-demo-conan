@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yael Naim. b. 1978 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2958771/\n_search: Yael Naim | The House Bunny | Wild Target | The Ten Commandments | Post Grad",
+  "id": "bw-p-nm2958771",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yael Naim",
+  "type": "task"
+}

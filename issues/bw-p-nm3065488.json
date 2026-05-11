@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timbuk 3. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3065488/\n_search: Timbuk 3 | Tommy Boy | The Texas Chainsaw Massacre 2 | Something Wild | D.O.A.",
+  "id": "bw-p-nm3065488",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timbuk 3",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mari Karatsu. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10348090/\n_search: Mari Karatsu",
+  "id": "bw-p-nm10348090",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mari Karatsu",
+  "type": "task"
+}

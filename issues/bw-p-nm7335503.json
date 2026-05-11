@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Nelson Harris. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7335503/\n_search: Sam Nelson Harris | Sonic the Hedgehog | Suicide Squad | Hellboy | Transformers: The Last Knight",
+  "id": "bw-p-nm7335503",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Nelson Harris",
+  "type": "task"
+}

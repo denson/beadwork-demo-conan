@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Flea. b. 1962 | music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0281359/\n_search: Flea | Baby Driver | Boy Erased | Back to the Future Part II | The Big Lebowski",
+  "id": "bw-p-nm0281359",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Flea",
+  "type": "task"
+}

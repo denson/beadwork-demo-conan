@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Palahniuk. b. 1962 | writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0657333/\n_search: Chuck Palahniuk | Fight Club | Choke | Lullaby | Snuff",
+  "id": "bw-p-nm0657333",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Palahniuk",
+  "type": "task"
+}

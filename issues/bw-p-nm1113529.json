@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Bourdain. 1956–2018 | producer, writer, miscellaneous.\nDECEASED (1956–2018). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1113529/\n_search: Anthony Bourdain | Anthony Bourdain: No Reservations | Anthony Bourdain: Parts Unknown | The Big Short | The Mind of a Chef",
+  "id": "bw-p-nm1113529",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Bourdain",
+  "type": "task"
+}

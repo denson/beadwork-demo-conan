@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Sorkin. b. 1961 | writer, producer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0815070/\n_search: Aaron Sorkin | The West Wing | A Few Good Men | The Trial of the Chicago 7 | Molly's Game",
+  "id": "bw-p-nm0815070",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Sorkin",
+  "type": "task"
+}

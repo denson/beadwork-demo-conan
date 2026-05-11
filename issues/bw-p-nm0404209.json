@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Warren Hutcherson. b. 1963 | producer, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0404209/\n_search: Warren Hutcherson | The Bernie Mac Show | Men of a Certain Age | Raven's Home | Saturday Night Live",
+  "id": "bw-p-nm0404209",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Warren Hutcherson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Felton. b. 1987 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0271657/\n_search: Tom Felton | Harry Potter and the Half-Blood Prince | Harry Potter and the Sorcerer's Stone | Harry Potter and the Prisoner of Azkaban | Rise of the Planet of the Apes",
+  "id": "bw-p-nm0271657",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Felton",
+  "type": "task"
+}

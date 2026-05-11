@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenny Rogers. 1938–2020 | music_artist, actor, writer.\nDECEASED (1938–2020). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0737006/\n_search: Kenny Rogers | Six Pack | Polar | No Escape | Faster",
+  "id": "bw-p-nm0737006",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenny Rogers",
+  "type": "task"
+}

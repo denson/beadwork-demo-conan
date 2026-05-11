@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Fehn. b. 1973 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0270446/\n_search: Chris Fehn | Rollerball | Officer Downe | Slipknot - Rock in Rio 2011 | Slipknot: (sic)nesses",
+  "id": "bw-p-nm0270446",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Fehn",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samantha Bee. b. 1969 | producer, actress, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1200650/\n_search: Samantha Bee | Full Frontal with Samantha Bee | Whatever Works | The Love Guru | Sisters",
+  "id": "bw-p-nm1200650",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samantha Bee",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathon Aherne. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8409480/\n_search: Jonathon Aherne | Chalet Girl | T in the Park 2010 | Live from Abbey Road | Amp'd Up",
+  "id": "bw-p-nm8409480",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathon Aherne",
+  "type": "task"
+}

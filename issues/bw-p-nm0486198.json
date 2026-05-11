@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ted Lange. b. 1948 | actor, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0486198/\n_search: Ted Lange | The Love Boat | Prophet Nat | Othello | In the Heat of the Night",
+  "id": "bw-p-nm0486198",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ted Lange",
+  "type": "task"
+}

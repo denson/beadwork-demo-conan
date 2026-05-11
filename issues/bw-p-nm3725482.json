@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul 'Pauly D' DelVecchio. b. 1980 | actor, music_artist, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3725482/\n_search: Paul 'Pauly D' DelVecchio | Jersey Shore | The Pauly D Project | Spring Break Zombie Massacre | Jersey Shore: Family Vacation",
+  "id": "bw-p-nm3725482",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul 'Pauly D' DelVecchio",
+  "type": "task"
+}

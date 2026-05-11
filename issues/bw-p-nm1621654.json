@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Todd Lynn. actor, writer, archive_footage.\nDECEASED (None–2012). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1621654/\n_search: Todd Lynn | My Wife and Kids | BET's Comicview | Comedy Central Presents | The Bad Boys of Comedy",
+  "id": "bw-p-nm1621654",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Todd Lynn",
+  "type": "task"
+}

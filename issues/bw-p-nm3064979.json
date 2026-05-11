@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David George Gordon. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3064979/\n_search: David George Gordon | Buggin' Out | Weird, True \u0026 Freaky | Just in with Laura Ingraham",
+  "id": "bw-p-nm3064979",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David George Gordon",
+  "type": "task"
+}

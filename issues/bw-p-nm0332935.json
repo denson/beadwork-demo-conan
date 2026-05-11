@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lon Gowan. actor, stunts, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0332935/\n_search: Lon Gowan | Superman | The Naked Gun | Hal \u0026 Harper | Us",
+  "id": "bw-p-nm0332935",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lon Gowan",
+  "type": "task"
+}

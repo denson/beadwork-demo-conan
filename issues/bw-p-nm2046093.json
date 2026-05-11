@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Hiatt and the North Mississippi All-Stars. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2046093/\n_search: John Hiatt and the North Mississippi All-Stars | The Late Late Show with Craig Ferguson | Last Call with Carson Daly",
+  "id": "bw-p-nm2046093",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Hiatt and the North Mississippi All-Stars",
+  "type": "task"
+}

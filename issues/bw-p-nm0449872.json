@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nancy Kerrigan. b. 1969 | actress, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0449872/\n_search: Nancy Kerrigan | Blades of Glory | Lucy Is A Good Girl | Fairy Tales on Ice: Alice Through the Looking Glass | Boy Meets World",
+  "id": "bw-p-nm0449872",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nancy Kerrigan",
+  "type": "task"
+}

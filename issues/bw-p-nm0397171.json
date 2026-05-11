@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bryce Dallas Howard. b. 1981 | actress, director, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0397171/\n_search: Bryce Dallas Howard | Jurassic World: Dominion | The Help | Black Mirror | The Mandalorian",
+  "id": "bw-p-nm0397171",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bryce Dallas Howard",
+  "type": "task"
+}

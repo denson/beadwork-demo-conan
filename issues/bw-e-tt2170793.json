@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Out with the Old, in with the Hastily-Repainted Old. conan_tbs, S2E26, 2012.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt2170793/\n_search: Out with the Old, in with the Hastily-Repainted Old | 2012 | S2E26",
+  "id": "bw-e-tt2170793",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Out with the Old, in with the Hastily-Repainted Old",
+  "type": "task"
+}

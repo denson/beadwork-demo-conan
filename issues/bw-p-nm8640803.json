@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lady Velvet Steel. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8640803/\n_search: Lady Velvet Steel | BadTime Stories | Die Schmerz-Schülerin",
+  "id": "bw-p-nm8640803",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lady Velvet Steel",
+  "type": "task"
+}

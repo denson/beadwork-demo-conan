@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vincent Pastore. b. 1946 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0665114/\n_search: Vincent Pastore | The Sopranos | Revolver | Shark Tale | Carlito's Way",
+  "id": "bw-p-nm0665114",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vincent Pastore",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Regrettes. music_department, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8912817/\n_search: The Regrettes | The Spiderwick Chronicles | The Last Word | Unpregnant | The Dr. Martens Presents: Music \u0026 Film",
+  "id": "bw-p-nm8912817",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Regrettes",
+  "type": "task"
+}

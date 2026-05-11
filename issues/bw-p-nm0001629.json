@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Pollak. b. 1957 | actor, producer, writer.\nConan-show appearances: 21\nIMDb: https://www.imdb.com/name/nm0001629/\n_search: Kevin Pollak | The Usual Suspects | End of Days | The Whole Ten Yards | A Few Good Men",
+  "id": "bw-p-nm0001629",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Pollak",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jodie Foster/Gad Elmaleh/Mike Posner. conan_tbs, S6E83, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5699960/\n_search: Jodie Foster/Gad Elmaleh/Mike Posner | 2016 | S6E83",
+  "id": "bw-e-tt5699960",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jodie Foster/Gad Elmaleh/Mike Posner",
+  "type": "task"
+}

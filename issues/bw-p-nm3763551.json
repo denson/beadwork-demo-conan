@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Japandroids. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3763551/\n_search: Japandroids | Late Show with David Letterman | Late Night with Seth Meyers | Last Call with Carson Daly",
+  "id": "bw-p-nm3763551",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Japandroids",
+  "type": "task"
+}

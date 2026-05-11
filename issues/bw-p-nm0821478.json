@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lesley Stahl. b. 1941 | actress, archive_footage, archive_sound.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0821478/\n_search: Lesley Stahl | Marcel the Shell with Shoes On | Eagle Eye | Transformers: Rise of the Beasts | Madagascar: Escape 2 Africa",
+  "id": "bw-p-nm0821478",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lesley Stahl",
+  "type": "task"
+}

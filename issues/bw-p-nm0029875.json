@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kurt Angle. b. 1968 | actor, production_manager, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0029875/\n_search: Kurt Angle | Warrior | Pain \u0026 Gain | The Last Witch Hunter | Pro Wrestlers vs Zombies",
+  "id": "bw-p-nm0029875",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kurt Angle",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathalie Emmanuel. b. 1989 | actress, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2812026/\n_search: Nathalie Emmanuel | Furious 7 | Maze Runner: The Scorch Trials | Megalopolis | Game of Thrones",
+  "id": "bw-p-nm2812026",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathalie Emmanuel",
+  "type": "task"
+}

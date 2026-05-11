@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "RJ Mitte. b. 1992 | actor, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2666409/\n_search: RJ Mitte | Breaking Bad | The Guardians of Justice (Will Save You!) | The Recall | The Oak Room",
+  "id": "bw-p-nm2666409",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "RJ Mitte",
+  "type": "task"
+}

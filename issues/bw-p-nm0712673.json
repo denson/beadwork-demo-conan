@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hardy Rawls. b. 1952 | actor, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0712673/\n_search: Hardy Rawls | Cape Fear | The Adventures of Pete \u0026 Pete | See No Evil, Hear No Evil | Real Men",
+  "id": "bw-p-nm0712673",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hardy Rawls",
+  "type": "task"
+}

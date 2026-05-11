@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pam Grier/Bill Bellamy/Sprung Monkey. late_night, S5E167, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4227748/\n_search: Pam Grier/Bill Bellamy/Sprung Monkey | 1998 | S5E167",
+  "id": "bw-e-tt4227748",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pam Grier/Bill Bellamy/Sprung Monkey",
+  "type": "task"
+}

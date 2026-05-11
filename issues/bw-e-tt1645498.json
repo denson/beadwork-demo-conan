@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Van Dyke/Andy Kindler/Judd Nelson. late_night, S4E107, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1645498/\n_search: Jerry Van Dyke/Andy Kindler/Judd Nelson | 1997 | S4E107",
+  "id": "bw-e-tt1645498",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Van Dyke/Andy Kindler/Judd Nelson",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joan Rivers. 1933–2014 | writer, actress, producer.\nDECEASED (1933–2014). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001672/\n_search: Joan Rivers | Spaceballs | Iron Man 3 | Serial Mom | Rabbit Test",
+  "id": "bw-p-nm0001672",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joan Rivers",
+  "type": "task"
+}

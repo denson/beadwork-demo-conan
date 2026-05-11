@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pierce Brosnan. b. 1953 | actor, producer, executive.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000112/\n_search: Pierce Brosnan | The World Is Not Enough | Mamma Mia! | The Thomas Crown Affair | Tomorrow Never Dies",
+  "id": "bw-p-nm0000112",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pierce Brosnan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Provenza. b. 1957 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0699037/\n_search: Paul Provenza | The Aristocrats | Northern Exposure | You Are Here: A Dylan Brody Project | Survival Quest",
+  "id": "bw-p-nm0699037",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Provenza",
+  "type": "task"
+}

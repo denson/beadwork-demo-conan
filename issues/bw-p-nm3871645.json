@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Far East Movement. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3871645/\n_search: Far East Movement | Zoolander 2 | Stuber | The Fast and the Furious: Tokyo Drift | Piranha 3D",
+  "id": "bw-p-nm3871645",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Far East Movement",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josie Bissett. b. 1970 | actress, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0084327/\n_search: Josie Bissett | Melrose Place | The Secret Life of the American Teenager | Wedding March 5: My Boyfriend's Back | When Calls the Heart",
+  "id": "bw-p-nm0084327",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josie Bissett",
+  "type": "task"
+}

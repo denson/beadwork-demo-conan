@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ashley MacIsaac. b. 1975 | actor, music_department, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0532893/\n_search: Ashley MacIsaac | Lost Girl | The Hanging Garden | Rare Birds | Black Swan",
+  "id": "bw-p-nm0532893",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ashley MacIsaac",
+  "type": "task"
+}

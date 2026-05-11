@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ricki Lake. b. 1968 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001442/\n_search: Ricki Lake | Hairspray | Serial Mom | Cry-Baby | Hairspray",
+  "id": "bw-p-nm0001442",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ricki Lake",
+  "type": "task"
+}

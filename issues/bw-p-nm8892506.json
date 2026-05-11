@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Saxhaug. producer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8892506/\n_search: Tim Saxhaug | Nina of the Woods | Bough Brothers | Criminal Minds | Sanctified",
+  "id": "bw-p-nm8892506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Saxhaug",
+  "type": "task"
+}

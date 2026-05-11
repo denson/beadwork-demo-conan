@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pam Tillis. b. 1957 | actress, composer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0863382/\n_search: Pam Tillis | Rising Sun | Thelma \u0026 Louise | Police Academy 2: Their First Assignment | Diagnosis Murder",
+  "id": "bw-p-nm0863382",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pam Tillis",
+  "type": "task"
+}

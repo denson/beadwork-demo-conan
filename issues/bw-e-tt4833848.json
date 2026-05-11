@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ice Cube/Christina Tosi/Tame Impala. conan_tbs, S5E76, 2015.\nIMDb: https://www.imdb.com/title/tt4833848/\n_search: Ice Cube/Christina Tosi/Tame Impala | 2015 | S5E76",
+  "id": "bw-e-tt4833848",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ice Cube/Christina Tosi/Tame Impala",
+  "type": "task"
+}

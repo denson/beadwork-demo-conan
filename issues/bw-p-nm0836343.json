@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Sturgess. b. 1978 | actor, music_department, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0836343/\n_search: Jim Sturgess | 21 | Across the Universe | Cloud Atlas | The Best Offer",
+  "id": "bw-p-nm0836343",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Sturgess",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Blackberry Smoke. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5515361/\n_search: Blackberry Smoke | 21 Days Under the Sky | Blackberry Smoke with Bob Weir: An Evening at TRI | Arizona Seaside | Blackberry Smoke Homecoming: Live in Atlanta",
+  "id": "bw-p-nm5515361",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Blackberry Smoke",
+  "type": "task"
+}

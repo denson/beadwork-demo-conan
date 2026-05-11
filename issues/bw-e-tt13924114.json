@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Kyra Sedgwick. conan_tbs, S11E11, 2021.\nIMDb: https://www.imdb.com/title/tt13924114/\n_search: From Largo Theatre Kyra Sedgwick | 2021 | S11E11",
+  "id": "bw-e-tt13924114",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Kyra Sedgwick",
+  "type": "task"
+}

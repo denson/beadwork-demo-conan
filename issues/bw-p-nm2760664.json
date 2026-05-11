@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jacob Anderson. b. 1990 | actor, director, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2760664/\n_search: Jacob Anderson | Game of Thrones | Interview with the Vampire | Overlord | 4.3.2.1.",
+  "id": "bw-p-nm2760664",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jacob Anderson",
+  "type": "task"
+}

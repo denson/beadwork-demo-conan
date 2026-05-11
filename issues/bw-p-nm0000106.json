@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Drew Barrymore. b. 1975 | writer, producer, actress.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000106/\n_search: Drew Barrymore | Charlie's Angels | 50 First Dates | Never Been Kissed | Ever After: A Cinderella Story",
+  "id": "bw-p-nm0000106",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Drew Barrymore",
+  "type": "task"
+}

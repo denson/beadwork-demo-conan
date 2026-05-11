@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paulie Litt. b. 1995 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1445789/\n_search: Paulie Litt | Speed Racer | Eternal Sunshine of the Spotless Mind | Jersey Girl | Hope \u0026 Faith",
+  "id": "bw-p-nm1445789",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paulie Litt",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shawn Hatosy. b. 1975 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004999/\n_search: Shawn Hatosy | The Pitt | Animal Kingdom | Southland | The Faculty",
+  "id": "bw-p-nm0004999",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shawn Hatosy",
+  "type": "task"
+}

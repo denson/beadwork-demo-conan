@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ricki Bhullar. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3969893/\n_search: Ricki Bhullar | The Tale | Grimm | Z Nation | Grey's Anatomy",
+  "id": "bw-p-nm3969893",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ricki Bhullar",
+  "type": "task"
+}

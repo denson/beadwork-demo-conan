@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kellan Lutz/Kate McKinnon/Gary Vider. conan_tbs, S4E91, 2014.\nIMDb: https://www.imdb.com/title/tt3768412/\n_search: Kellan Lutz/Kate McKinnon/Gary Vider | 2014 | S4E91",
+  "id": "bw-e-tt3768412",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kellan Lutz/Kate McKinnon/Gary Vider",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pat McGuire. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2111049/\n_search: Pat McGuire | Southie | A Bright Shining Lie | Songs \u0026 Stories: New York Remembers Rory Gallagher",
+  "id": "bw-p-nm2111049",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pat McGuire",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Molly Shannon. b. 1964 | actress, writer, producer.\nConan-show appearances: 17\nIMDb: https://www.imdb.com/name/nm0788340/\n_search: Molly Shannon | Superstar | Never Been Kissed | Other People | Scary Movie 4",
+  "id": "bw-p-nm0788340",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Molly Shannon",
+  "type": "task"
+}

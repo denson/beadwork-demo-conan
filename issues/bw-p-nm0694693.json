@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susan Powter. b. 1957 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0694693/\n_search: Susan Powter | The Fresh Prince of Bel-Air | Diagnosis Murder | Women of the House | Stop the Insanity: Finding Susan Powter",
+  "id": "bw-p-nm0694693",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susan Powter",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Woods. b. 1947 | actor, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000249/\n_search: James Woods | Vampires | Hercules | The Virgin Suicides | Videodrome",
+  "id": "bw-p-nm0000249",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Woods",
+  "type": "task"
+}

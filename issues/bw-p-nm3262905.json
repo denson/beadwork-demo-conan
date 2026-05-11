@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zac Brown Band. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3262905/\n_search: Zac Brown Band | I Am Number Four | The Do-Over | Vacation | Trouble with the Curve",
+  "id": "bw-p-nm3262905",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zac Brown Band",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timothy Busfield. b. 1957 | actor, director, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0124079/\n_search: Timothy Busfield | The West Wing | Thirtysomething | Field of Dreams | Revenge of the Nerds",
+  "id": "bw-p-nm0124079",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timothy Busfield",
+  "type": "task"
+}

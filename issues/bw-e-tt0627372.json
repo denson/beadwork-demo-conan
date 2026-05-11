@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tyra Banks/Peter Gallagher. late_night, S7E118, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627372/\n_search: Tyra Banks/Peter Gallagher | 2000 | S7E118",
+  "id": "bw-e-tt0627372",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tyra Banks/Peter Gallagher",
+  "type": "task"
+}

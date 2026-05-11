@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Del McCoury Band. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4549698/\n_search: The Del McCoury Band | Earl Scruggs' 100th Birthday Celebration | The Marty Stuart Show | The Moment: Bonnaroo | Grand Ole Opry",
+  "id": "bw-p-nm4549698",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Del McCoury Band",
+  "type": "task"
+}

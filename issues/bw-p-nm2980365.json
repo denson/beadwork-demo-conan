@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Novak Djokovic. b. 1987 | actor, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2980365/\n_search: Novak Djokovic | The Game Changers | Six Kings Slam: Call of the Kings | Wimbledon | French Open Live 2016",
+  "id": "bw-p-nm2980365",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Novak Djokovic",
+  "type": "task"
+}

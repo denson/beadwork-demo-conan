@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Palin. b. 1943 | writer, actor, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001589/\n_search: Michael Palin | Monty Python and the Holy Grail | Monty Python's the Meaning of Life | Monty Python's Life of Brian | Time Bandits",
+  "id": "bw-p-nm0001589",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Palin",
+  "type": "task"
+}

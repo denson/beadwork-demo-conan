@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leslie Jones. b. 1967 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0428656/\n_search: Leslie Jones | Ghostbusters | Coming 2 America | Masterminds | The Angry Birds Movie 2",
+  "id": "bw-p-nm0428656",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leslie Jones",
+  "type": "task"
+}

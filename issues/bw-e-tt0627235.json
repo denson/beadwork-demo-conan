@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Michelle Gellar/Camryn Manheim/Maria Bamford. late_night, S6E115, 1999.\nRuntime: 57 min.\nIMDb rating: 3.8.\nIMDb: https://www.imdb.com/title/tt0627235/\n_search: Sarah Michelle Gellar/Camryn Manheim/Maria Bamford | 1999 | S6E115",
+  "id": "bw-e-tt0627235",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Michelle Gellar/Camryn Manheim/Maria Bamford",
+  "type": "task"
+}

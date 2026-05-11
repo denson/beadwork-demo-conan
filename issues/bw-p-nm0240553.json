@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Duffy. b. 1953 | actor, camera_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0240553/\n_search: Joe Duffy | The House That Zombies Built | The Redline: Subway Life in Los Angeles | Jacker 3: Road to Hell | Invasion",
+  "id": "bw-p-nm0240553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Duffy",
+  "type": "task"
+}

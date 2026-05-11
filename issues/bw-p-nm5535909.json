@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Celso Chavez. 1968–2012 | actor.\nDECEASED (1968–2012). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5535909/\n_search: Celso Chavez | Never Get Outta the Boat | Only Once in a Lifetime",
+  "id": "bw-p-nm5535909",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Celso Chavez",
+  "type": "task"
+}

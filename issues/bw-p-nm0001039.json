@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Charvet. b. 1972 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001039/\n_search: David Charvet | Melrose Place | Prisoners of the Sun | Baywatch | Baywatch: Forbidden Paradise",
+  "id": "bw-p-nm0001039",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Charvet",
+  "type": "task"
+}

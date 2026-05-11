@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Nishio. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11628197/\n_search: Daniel Nishio | Don't Worry Darling",
+  "id": "bw-p-nm11628197",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Nishio",
+  "type": "task"
+}

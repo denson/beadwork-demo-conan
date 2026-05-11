@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lou Diamond Phillips. b. 1962 | actor, director, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001617/\n_search: Lou Diamond Phillips | Courage Under Fire | Young Guns | Stand and Deliver | The Big Hit",
+  "id": "bw-p-nm0001617",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lou Diamond Phillips",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicollette Sheridan. b. 1963 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001733/\n_search: Nicollette Sheridan | Desperate Housewives | Spy Hard | Knots Landing | Code Name: The Cleaner",
+  "id": "bw-p-nm0001733",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicollette Sheridan",
+  "type": "task"
+}

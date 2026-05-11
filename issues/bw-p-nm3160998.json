@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Veruca Salt. actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3160998/\n_search: Veruca Salt | Tank Girl | Jawbreaker | Young Adult | Freeway II: Confessions of a Trickbaby",
+  "id": "bw-p-nm3160998",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Veruca Salt",
+  "type": "task"
+}

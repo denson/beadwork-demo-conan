@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Brumage. costume_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1723790/\n_search: Bruce Brumage | Saturday Night Live | Saturday Night Live Weekend Update Halftime Special | Late Night with Conan O'Brien: 10th Anniversary Special",
+  "id": "bw-p-nm1723790",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Brumage",
+  "type": "task"
+}

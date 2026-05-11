@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen King. b. 1947 | writer, producer, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000175/\n_search: Stephen King | Maximum Overdrive | Creepshow | Sleepwalkers | The Shawshank Redemption",
+  "id": "bw-p-nm0000175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen King",
+  "type": "task"
+}

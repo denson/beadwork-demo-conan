@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Murder at the Murder Trial. conan_tbs, S1E95, 2011.\nRuntime: 60 min.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt1936233/\n_search: Murder at the Murder Trial | 2011 | S1E95",
+  "id": "bw-e-tt1936233",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Murder at the Murder Trial",
+  "type": "task"
+}

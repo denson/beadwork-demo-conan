@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay McDowell. actor, editorial_department, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0375222/\n_search: Jay McDowell | Night of the Living Dead | Teenage Tupelo | CMT Crossroads | Austin City Limits",
+  "id": "bw-p-nm0375222",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay McDowell",
+  "type": "task"
+}

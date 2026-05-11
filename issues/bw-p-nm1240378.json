@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Miller. actor, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1240378/\n_search: Tim Miller | Bull | House of Cards | Law \u0026 Order: Special Victims Unit | Mr. Robot",
+  "id": "bw-p-nm1240378",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Miller",
+  "type": "task"
+}

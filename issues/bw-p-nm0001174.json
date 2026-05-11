@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barbara Eden. actress, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001174/\n_search: Barbara Eden | I Dream of Jeannie | Harper Valley P.T.A. | Voyage to the Bottom of the Sea | Sabrina the Teenage Witch",
+  "id": "bw-p-nm0001174",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barbara Eden",
+  "type": "task"
+}

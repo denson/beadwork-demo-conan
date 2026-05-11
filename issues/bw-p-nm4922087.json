@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phillip Phillips. b. 1990 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4922087/\n_search: Phillip Phillips | American Idol | The Amazing Spider-Man 2 | Grudge Match | Parental Guidance",
+  "id": "bw-p-nm4922087",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phillip Phillips",
+  "type": "task"
+}

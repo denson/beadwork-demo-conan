@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicole Kidman/Maggie Grace/Aloe Blacc. conan_tbs, S5E28, 2015.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt4431318/\n_search: Nicole Kidman/Maggie Grace/Aloe Blacc | 2015 | S5E28",
+  "id": "bw-e-tt4431318",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicole Kidman/Maggie Grace/Aloe Blacc",
+  "type": "task"
+}

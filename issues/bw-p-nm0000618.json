@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Isabella Rossellini. b. 1952 | actress, director, writer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0000618/\n_search: Isabella Rossellini | Blue Velvet | Death Becomes Her | Conclave | Fearless",
+  "id": "bw-p-nm0000618",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Isabella Rossellini",
+  "type": "task"
+}

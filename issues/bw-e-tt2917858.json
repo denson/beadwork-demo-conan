@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Thompson/Lee Roy Parnell. late_night, S3E117, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2917858/\n_search: Scott Thompson/Lee Roy Parnell | 1996 | S3E117",
+  "id": "bw-e-tt2917858",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Thompson/Lee Roy Parnell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tripping Daisy. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1904553/\n_search: Tripping Daisy | The Craft | Basquiat | Popaganda: The Art and Crimes of Ron English | Beavis and Butt-Head",
+  "id": "bw-p-nm1904553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tripping Daisy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Delinquent Habits. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1346325/\n_search: Delinquent Habits | The Rundown | Den of Thieves | Harsh Times | Bulletproof",
+  "id": "bw-p-nm1346325",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Delinquent Habits",
+  "type": "task"
+}

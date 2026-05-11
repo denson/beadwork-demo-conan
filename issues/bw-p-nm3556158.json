@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Ziff. b. 1991 | actor, producer, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3556158/\n_search: Matthew Ziff | Treachery | Kickboxer: Vengeance | The Martial Arts Kid | Online Abduction",
+  "id": "bw-p-nm3556158",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Ziff",
+  "type": "task"
+}

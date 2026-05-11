@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hoodie Allen. b. 1988 | actor, music_department, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5139902/\n_search: Hoodie Allen | Jake and Amir | Your Favorite Martian | Geoffrey the Dumbass | Off Days",
+  "id": "bw-p-nm5139902",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hoodie Allen",
+  "type": "task"
+}

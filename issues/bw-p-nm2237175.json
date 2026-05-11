@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Clark Jr.. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2237175/\n_search: Gary Clark Jr. | Deepwater Horizon | Venom | Justice League | Stand Up Guys",
+  "id": "bw-p-nm2237175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Clark Jr.",
+  "type": "task"
+}

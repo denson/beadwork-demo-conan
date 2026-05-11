@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Skastafarians. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm10930135/\n_search: The Skastafarians",
+  "id": "bw-p-nm10930135",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Skastafarians",
+  "type": "task"
+}

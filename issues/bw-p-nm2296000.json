@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Baron Vaughn. b. 1980 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2296000/\n_search: Baron Vaughn | Mystery Science Theater 3000 | Scare Package | Cloverfield | Black Dynamite",
+  "id": "bw-p-nm2296000",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Baron Vaughn",
+  "type": "task"
+}

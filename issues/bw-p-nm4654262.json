@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wyatt Griswold. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4654262/\n_search: Wyatt Griswold | Sofia the First | The Dog Who Saved the Holidays | The Labyrinth | The Loud House",
+  "id": "bw-p-nm4654262",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wyatt Griswold",
+  "type": "task"
+}

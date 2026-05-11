@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daisy Fuentes. b. 1966 | actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004942/\n_search: Daisy Fuentes | Baywatch | Happily Ever After: Fairy Tales for Every Child | Loving | Curdled",
+  "id": "bw-p-nm0004942",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daisy Fuentes",
+  "type": "task"
+}

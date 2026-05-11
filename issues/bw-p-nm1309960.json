@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justine Frischmann. b. 1969 | director, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1309960/\n_search: Justine Frischmann | Captain Marvel | The Craft | Pride and Glory | Not Another Teen Movie",
+  "id": "bw-p-nm1309960",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justine Frischmann",
+  "type": "task"
+}

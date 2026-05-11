@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jaylen Moore. actor, producer, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1272578/\n_search: Jaylen Moore | Six | Homeland | NCIS: Los Angeles | Hot Pursuit",
+  "id": "bw-p-nm1272578",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jaylen Moore",
+  "type": "task"
+}

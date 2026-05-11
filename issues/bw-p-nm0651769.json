@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sharon Osbourne. b. 1952 | producer, actress, miscellaneous.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0651769/\n_search: Sharon Osbourne | It's a Boy Girl Thing | Austin Powers in Goldmember | Garfield: A Tail of Two Kitties | Supergirl",
+  "id": "bw-p-nm0651769",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sharon Osbourne",
+  "type": "task"
+}

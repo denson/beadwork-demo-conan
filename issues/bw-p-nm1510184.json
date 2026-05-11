@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joss Stone. b. 1987 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1510184/\n_search: Joss Stone | Eragon | James Bond 007: Blood Stone | Fantastic Four | It's Complicated",
+  "id": "bw-p-nm1510184",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joss Stone",
+  "type": "task"
+}

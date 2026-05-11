@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Malkovich/Craig T. Nelson. late_night, S5E87, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627083/\n_search: John Malkovich/Craig T. Nelson | 1998 | S5E87",
+  "id": "bw-e-tt0627083",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Malkovich/Craig T. Nelson",
+  "type": "task"
+}

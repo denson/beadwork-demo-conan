@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kim Kardashian. b. 1980 | producer, actress, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2578007/\n_search: Kim Kardashian | Temptation: Confessions of a Marriage Counselor | Disaster Movie | Ocean's Eight | Keeping Up with the Kardashians",
+  "id": "bw-p-nm2578007",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kim Kardashian",
+  "type": "task"
+}

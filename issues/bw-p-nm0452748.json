@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rya Kihlstedt. b. 1969 | actress, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0452748/\n_search: Rya Kihlstedt | Home Alone 3 | Deep Impact | Final Destination: Bloodlines | Dexter",
+  "id": "bw-p-nm0452748",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rya Kihlstedt",
+  "type": "task"
+}

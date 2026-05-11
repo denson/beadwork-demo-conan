@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Gourley. b. 1973 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1750822/\n_search: Matt Gourley | Drunk History | Kidding | Adventure Time | Community",
+  "id": "bw-p-nm1750822",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Gourley",
+  "type": "task"
+}

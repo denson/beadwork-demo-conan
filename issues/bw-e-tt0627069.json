@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Keaton/Denver Broncos Offensive Line/Angelina Jolie. late_night, S5E69, 1998.\nRuntime: 57 min.\nIMDb rating: 4.2.\nIMDb: https://www.imdb.com/title/tt0627069/\n_search: Michael Keaton/Denver Broncos Offensive Line/Angelina Jolie | 1998 | S5E69",
+  "id": "bw-e-tt0627069",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Keaton/Denver Broncos Offensive Line/Angelina Jolie",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eddie Dunn. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5258780/\n_search: Eddie Dunn | The Little Tin Man | Fear Town, USA | The UCBW | Gramps",
+  "id": "bw-p-nm5258780",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eddie Dunn",
+  "type": "task"
+}

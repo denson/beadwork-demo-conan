@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dustin Kensrue. b. 1980 | composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1742124/\n_search: Dustin Kensrue | My Super Psycho Sweet 16 | SSX 3 | Tony Hawk's American Wasteland | Forza Horizon 3",
+  "id": "bw-p-nm1742124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dustin Kensrue",
+  "type": "task"
+}

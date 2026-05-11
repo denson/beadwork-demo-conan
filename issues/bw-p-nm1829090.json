@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Rich. b. 1974 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1829090/\n_search: John Rich | Footloose | Did You Hear About the Morgans? | Magic Mike | The Sisterhood of the Traveling Pants 2",
+  "id": "bw-p-nm1829090",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Rich",
+  "type": "task"
+}

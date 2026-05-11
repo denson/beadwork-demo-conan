@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natalie Prass. actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4563146/\n_search: Natalie Prass | To All the Boys I've Loved Before | Vinyl | Irreplaceable You | Sara's Game ~ a Rural Autumn",
+  "id": "bw-p-nm4563146",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natalie Prass",
+  "type": "task"
+}

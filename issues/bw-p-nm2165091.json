@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Bury. producer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2165091/\n_search: Sean Bury | The Prototype | Dropout | Our RoboCop Remake | YouCube",
+  "id": "bw-p-nm2165091",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Bury",
+  "type": "task"
+}

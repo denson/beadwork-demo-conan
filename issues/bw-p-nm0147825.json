@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cedric The Entertainer. b. 1964 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0147825/\n_search: Cedric The Entertainer | Barbershop | Be Cool | Johnson Family Vacation | A Haunted House",
+  "id": "bw-p-nm0147825",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cedric The Entertainer",
+  "type": "task"
+}

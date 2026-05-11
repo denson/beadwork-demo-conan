@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Alan Grier. b. 1956 | actor, writer, producer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0004979/\n_search: David Alan Grier | Joe Pickett | Dad Stop Embarrassing Me! | The Wiz Live! | A Soldier's Play",
+  "id": "bw-p-nm0004979",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Alan Grier",
+  "type": "task"
+}

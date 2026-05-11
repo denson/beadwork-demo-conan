@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Leguizamo/George Takei/The Bravery. late_night, S15E89, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1214412/\n_search: John Leguizamo/George Takei/The Bravery | 2008 | S15E89",
+  "id": "bw-e-tt1214412",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Leguizamo/George Takei/The Bravery",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugo Chávez. 1954–2013 | archive_footage.\nDECEASED (1954–2013). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1382342/\n_search: Hugo Chávez | The War on Democracy | The Revolution Will Not Be Televised | Dictatorships, Drugs, Violence: Latin America and the USA | Nosotros del Bauen",
+  "id": "bw-p-nm1382342",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugo Chávez",
+  "type": "task"
+}

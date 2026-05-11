@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Winona Ryder. b. 1971 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000213/\n_search: Winona Ryder | Little Women | Alien: Resurrection | Dracula | Mermaids",
+  "id": "bw-p-nm0000213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Winona Ryder",
+  "type": "task"
+}

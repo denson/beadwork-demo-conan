@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Day/Rob Gronkowski/Daniel Sloss. conan_tbs, S6E38, 2016.\nRuntime: 42 min.\nIMDb rating: 5.1.\nIMDb: https://www.imdb.com/title/tt5424394/\n_search: Charlie Day/Rob Gronkowski/Daniel Sloss | 2016 | S6E38",
+  "id": "bw-e-tt5424394",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Day/Rob Gronkowski/Daniel Sloss",
+  "type": "task"
+}

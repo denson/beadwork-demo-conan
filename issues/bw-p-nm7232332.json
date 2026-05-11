@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karen Fukuhara. b. 1992 | actress, miscellaneous, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7232332/\n_search: Karen Fukuhara | Suicide Squad | The Boys | Bullet Train | The Boy and the Heron",
+  "id": "bw-p-nm7232332",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karen Fukuhara",
+  "type": "task"
+}

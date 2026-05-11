@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Hall Jr.. b. 1974 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1651082/\n_search: Gary Hall Jr. | One on One | Baywatch | Sydney 2000: Games of the XXVII Olympiad | Channel 4 News",
+  "id": "bw-p-nm1651082",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Hall Jr.",
+  "type": "task"
+}

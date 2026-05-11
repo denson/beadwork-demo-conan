@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leah Krinsky. writer, producer, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0471378/\n_search: Leah Krinsky | Dennis Miller Live | The Mind of the Married Man | Not Necessarily the Election",
+  "id": "bw-p-nm0471378",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leah Krinsky",
+  "type": "task"
+}

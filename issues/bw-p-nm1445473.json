@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taylor Goldsmith. b. 1985 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1445473/\n_search: Taylor Goldsmith | This Is Us | The Rocker | I Want You Back | Daisy Jones \u0026 The Six",
+  "id": "bw-p-nm1445473",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taylor Goldsmith",
+  "type": "task"
+}

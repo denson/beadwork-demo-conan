@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wayne Newton. b. 1942 | actor, producer, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0628611/\n_search: Wayne Newton | Vegas Vacation | Licence to Kill | The Adventures of Ford Fairlane | Matchstick Men",
+  "id": "bw-p-nm0628611",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wayne Newton",
+  "type": "task"
+}

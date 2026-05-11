@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fionn Regan. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1925903/\n_search: Fionn Regan | Having You | 25 km/h | The Life and the Agony | Grey's Anatomy",
+  "id": "bw-p-nm1925903",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fionn Regan",
+  "type": "task"
+}

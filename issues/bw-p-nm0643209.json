@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Ober. 1957–2009 | producer, writer, actor.\nDECEASED (1957–2009). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0643209/\n_search: Ken Ober | Loaded Weapon 1 | Parenthood | Mind of Mencia | The New Adventures of Old Christine",
+  "id": "bw-p-nm0643209",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Ober",
+  "type": "task"
+}

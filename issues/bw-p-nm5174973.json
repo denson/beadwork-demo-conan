@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sklar Brothers. writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm5174973/\n_search: Sklar Brothers | Tweekly News | Dumb People Town | The Stand-Up Show with Jon Dore | 100 Greatest Songs of the '80s",
+  "id": "bw-p-nm5174973",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sklar Brothers",
+  "type": "task"
+}

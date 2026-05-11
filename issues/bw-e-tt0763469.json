@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Gore/Bruce Springsteen \u0026 The E Street Band. late_night, S10E45, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0763469/\n_search: Al Gore/Bruce Springsteen \u0026 The E Street Band | 2002 | S10E45",
+  "id": "bw-e-tt0763469",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Gore/Bruce Springsteen \u0026 The E Street Band",
+  "type": "task"
+}

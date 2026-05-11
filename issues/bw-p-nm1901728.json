@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emily Topper. cinematographer, camera_department, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1901728/\n_search: Emily Topper | All Fall Down | Judy Blume Forever | Sparks | Minding Swarthmore",
+  "id": "bw-p-nm1901728",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emily Topper",
+  "type": "task"
+}

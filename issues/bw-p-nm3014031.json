@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rachel Brosnahan. b. 1990 | actress, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3014031/\n_search: Rachel Brosnahan | The Marvelous Mrs. Maisel | Superman | House of Cards | Patriots Day",
+  "id": "bw-p-nm3014031",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rachel Brosnahan",
+  "type": "task"
+}

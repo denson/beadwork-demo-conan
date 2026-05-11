@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Public Enemy. actor, music_department, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2162228/\n_search: Public Enemy | Do the Right Thing | Star Trek Beyond | End of Watch | Friday Night Lights",
+  "id": "bw-p-nm2162228",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Public Enemy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Cassidy/Eric Schaeffer \u0026 David Lardner Ward/Tom Agna. late_night, S1E186, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2719558/\n_search: David Cassidy/Eric Schaeffer \u0026 David Lardner Ward/Tom Agna | 1994 | S1E186",
+  "id": "bw-e-tt2719558",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Cassidy/Eric Schaeffer \u0026 David Lardner Ward/Tom Agna",
+  "type": "task"
+}

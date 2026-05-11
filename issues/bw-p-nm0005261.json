@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brittany Murphy. 1977–2009 | actress, producer, soundtrack.\nDECEASED (1977–2009). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005261/\n_search: Brittany Murphy | Clueless | Just Married | 8 Mile | Uptown Girls",
+  "id": "bw-p-nm0005261",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brittany Murphy",
+  "type": "task"
+}

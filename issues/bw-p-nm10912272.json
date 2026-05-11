@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Caroline McKeldin. (no IMDb bio data).\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm10912272/\n_search: Caroline McKeldin",
+  "id": "bw-p-nm10912272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Caroline McKeldin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandon Loeser. b. 1973 | actor, stunts, production_designer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1501286/\n_search: Brandon Loeser | Superman | Skeleton Crew | Jury Duty Presents",
+  "id": "bw-p-nm1501286",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandon Loeser",
+  "type": "task"
+}

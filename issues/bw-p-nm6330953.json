@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff King. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6330953/\n_search: Jeff King | Alaska's Great Race | Modern Marvels",
+  "id": "bw-p-nm6330953",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff King",
+  "type": "task"
+}

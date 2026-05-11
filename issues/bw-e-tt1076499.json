@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Glenn Close/Michael Cera/Modest Mouse. late_night, S14E178, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1076499/\n_search: Glenn Close/Michael Cera/Modest Mouse | 2007 | S14E178",
+  "id": "bw-e-tt1076499",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Glenn Close/Michael Cera/Modest Mouse",
+  "type": "task"
+}

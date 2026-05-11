@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Setzer. b. 1959 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005410/\n_search: Brian Setzer | La Bamba | Deep Rising | The Mask | Once Upon a Time in Mexico",
+  "id": "bw-p-nm0005410",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Setzer",
+  "type": "task"
+}

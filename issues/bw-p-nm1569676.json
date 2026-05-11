@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stomp. actor, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1569676/\n_search: Stomp | Roseanne | Die Eisprinzessin | Mad About You | Just for Laughs",
+  "id": "bw-p-nm1569676",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stomp",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Kind. b. 1956 | actor, writer, soundtrack.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0454236/\n_search: Richard Kind | Argo | Inside Out | A Serious Man | A Bug's Life",
+  "id": "bw-p-nm0454236",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Kind",
+  "type": "task"
+}

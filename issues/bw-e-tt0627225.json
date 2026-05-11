@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lyle Lovett/David Brenner/Amy Sedaris. late_night, S6E97, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627225/\n_search: Lyle Lovett/David Brenner/Amy Sedaris | 1999 | S6E97",
+  "id": "bw-e-tt0627225",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lyle Lovett/David Brenner/Amy Sedaris",
+  "type": "task"
+}

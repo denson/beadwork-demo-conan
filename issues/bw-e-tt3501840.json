@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Cheadle/Josh Hopkins/Hard Working Americans. conan_tbs, S4E39, 2014.\nIMDb: https://www.imdb.com/title/tt3501840/\n_search: Don Cheadle/Josh Hopkins/Hard Working Americans | 2014 | S4E39",
+  "id": "bw-e-tt3501840",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Cheadle/Josh Hopkins/Hard Working Americans",
+  "type": "task"
+}

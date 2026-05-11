@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Lawrence. b. 1990 | actress, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm2225369/\n_search: Jennifer Lawrence | The Hunger Games | Silver Linings Playbook | American Hustle | X-Men: First Class",
+  "id": "bw-p-nm2225369",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Lawrence",
+  "type": "task"
+}

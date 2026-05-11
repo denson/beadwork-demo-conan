@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susan Casey. b. 1966 | actress, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3535326/\n_search: Susan Casey | Water Man | I Hate Being Single | Gigs",
+  "id": "bw-p-nm3535326",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susan Casey",
+  "type": "task"
+}

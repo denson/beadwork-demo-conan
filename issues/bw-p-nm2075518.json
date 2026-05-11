@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bec Asha. b. 1983 | actress, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2075518/\n_search: Bec Asha | Bigger Than the Beatles | Blue Heelers | The Cheerleader Diaries | Shades of Saffron",
+  "id": "bw-p-nm2075518",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bec Asha",
+  "type": "task"
+}

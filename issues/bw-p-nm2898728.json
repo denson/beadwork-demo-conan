@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Ramsey. b. 1980 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2898728/\n_search: John Ramsey | The Shooter: A Breaking News Story | Above Average Presents | Baby Attack Ad | Whiteman College Admissions Video",
+  "id": "bw-p-nm2898728",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Ramsey",
+  "type": "task"
+}

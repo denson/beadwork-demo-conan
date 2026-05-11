@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyan Douglas. b. 1970 | actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1390233/\n_search: Kyan Douglas | Queer Eye | Begin Again | Living with Fran | Kathy Griffin: My Life on the D-List",
+  "id": "bw-p-nm1390233",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyan Douglas",
+  "type": "task"
+}

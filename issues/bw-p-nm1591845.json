@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fred Fugen. actor, stunts, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1591845/\n_search: Fred Fugen | Arif V 216 | Soul Flyers - A wingsuit trip in Reunion Island | Burj Khalifa Pinnacle Base Jump | PlayGravity 2",
+  "id": "bw-p-nm1591845",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fred Fugen",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrice O'Neal. 1969–2011 | actor, writer, producer.\nDECEASED (1969–2011). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1169306/\n_search: Patrice O'Neal | 25th Hour | Chappelle's Show | In the Cut | Head of State",
+  "id": "bw-p-nm1169306",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrice O'Neal",
+  "type": "task"
+}

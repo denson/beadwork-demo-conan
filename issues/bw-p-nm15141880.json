@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Austin Gohn. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm15141880/\n_search: Austin Gohn",
+  "id": "bw-p-nm15141880",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Austin Gohn",
+  "type": "task"
+}

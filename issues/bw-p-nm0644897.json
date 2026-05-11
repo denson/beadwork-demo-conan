@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sandra Oh. b. 1971 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0644897/\n_search: Sandra Oh | Killing Eve | Sideways | Grey's Anatomy | Under the Tuscan Sun",
+  "id": "bw-p-nm0644897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sandra Oh",
+  "type": "task"
+}

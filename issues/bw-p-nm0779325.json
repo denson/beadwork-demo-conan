@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jill Scott. b. 1972 | actress, producer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0779325/\n_search: Jill Scott | Why Did I Get Married? | Why Did I Get Married Too? | The No. 1 Ladies' Detective Agency | Get on Up",
+  "id": "bw-p-nm0779325",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jill Scott",
+  "type": "task"
+}

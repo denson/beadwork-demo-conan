@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rachael Yamagata. b. 1977 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1763235/\n_search: Rachael Yamagata | Hope Springs | In Her Shoes | The Sisterhood of the Traveling Pants | Monster-in-Law",
+  "id": "bw-p-nm1763235",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rachael Yamagata",
+  "type": "task"
+}

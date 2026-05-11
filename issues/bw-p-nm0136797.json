@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Carell. b. 1962 | actor, producer, writer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0136797/\n_search: Steve Carell | The Office | The 40-Year-Old Virgin | Foxcatcher | The Big Short",
+  "id": "bw-p-nm0136797",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Carell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joan Jett \u0026 The Blackhearts. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1880571/\n_search: Joan Jett \u0026 The Blackhearts | Ready Player One | The Covenant | Charlie's Angels | Kick-Ass",
+  "id": "bw-p-nm1880571",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joan Jett \u0026 The Blackhearts",
+  "type": "task"
+}

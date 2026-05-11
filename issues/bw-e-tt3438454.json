@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Foxworthy/Angie Everhart/David Hume Kennerly. late_night, S3E21, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3438454/\n_search: Jeff Foxworthy/Angie Everhart/David Hume Kennerly | 1995 | S3E21",
+  "id": "bw-e-tt3438454",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Foxworthy/Angie Everhart/David Hume Kennerly",
+  "type": "task"
+}

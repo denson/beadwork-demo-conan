@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Hopkins. b. 1970 | actor, director, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005020/\n_search: Josh Hopkins | The Perfect Storm | G.I. Jane | Only the Brave | Without a Trace",
+  "id": "bw-p-nm0005020",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Hopkins",
+  "type": "task"
+}

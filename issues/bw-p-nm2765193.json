@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Gosselin. b. 1975 | producer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2765193/\n_search: Kate Gosselin | Jon \u0026 Kate Plus 8 | Surviving Sextuplets and Twins | Kate Plus 8 | American Chopper: The Series",
+  "id": "bw-p-nm2765193",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Gosselin",
+  "type": "task"
+}

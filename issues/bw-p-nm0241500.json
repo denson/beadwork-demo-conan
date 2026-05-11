@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Francis Dumaurier. b. 1947 | actor, sound_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0241500/\n_search: Francis Dumaurier | A Perfect Murder | Beavis and Butt-Head Do America | Great Expectations | Kate \u0026 Leopold",
+  "id": "bw-p-nm0241500",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Francis Dumaurier",
+  "type": "task"
+}

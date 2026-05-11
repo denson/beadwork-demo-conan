@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Burt Ward. b. 1945 | actor, visual_effects, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0911431/\n_search: Burt Ward | Batman | Batman: The Movie | Out of Time | Bulletproof Monk",
+  "id": "bw-p-nm0911431",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Burt Ward",
+  "type": "task"
+}

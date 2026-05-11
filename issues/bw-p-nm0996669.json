@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Common. b. 1972 | actor, producer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0996669/\n_search: Common | John Wick: Chapter 2 | Wanted | Smokin' Aces | Suicide Squad",
+  "id": "bw-p-nm0996669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Common",
+  "type": "task"
+}

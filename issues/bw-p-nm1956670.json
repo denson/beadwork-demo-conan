@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Pharcyde. actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1956670/\n_search: The Pharcyde | Street Fighter | The Gentlemen | Mid90s | Tag",
+  "id": "bw-p-nm1956670",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Pharcyde",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Vowell. b. 1969 | actress, writer, miscellaneous.\nConan-show appearances: 16\nIMDb: https://www.imdb.com/name/nm1102970/\n_search: Sarah Vowell | The Incredibles | Incredibles 2 | The Incredibles: When Danger Calls | The Incredibles: The Video Game",
+  "id": "bw-p-nm1102970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Vowell",
+  "type": "task"
+}

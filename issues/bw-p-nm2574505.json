@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael William Arnold. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2574505/\n_search: Michael William Arnold | My Name Is Khan | Spork | Kickin' It | Opposite Day",
+  "id": "bw-p-nm2574505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael William Arnold",
+  "type": "task"
+}

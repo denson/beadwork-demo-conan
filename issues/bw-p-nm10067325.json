@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rasputina. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10067325/\n_search: Rasputina",
+  "id": "bw-p-nm10067325",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rasputina",
+  "type": "task"
+}

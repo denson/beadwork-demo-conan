@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Imperioli. b. 1966 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0408284/\n_search: Michael Imperioli | The Sopranos | Summer of Sam | GoodFellas | The Lovely Bones",
+  "id": "bw-p-nm0408284",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Imperioli",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Danza. b. 1951 | actor, producer, miscellaneous.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0001103/\n_search: Tony Danza | Don Jon | Who's the Boss? | Taxi | Angels in the Outfield",
+  "id": "bw-p-nm0001103",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Danza",
+  "type": "task"
+}

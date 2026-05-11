@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Carrigan. b. 1979 | composer, writer, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1752085/\n_search: Ben Carrigan | Intermission | Garden Party | Hollyoaks | The Career Comedian",
+  "id": "bw-p-nm1752085",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Carrigan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Carville/Amy Brenneman/Love Jones. late_night, S1E78, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2259845/\n_search: James Carville/Amy Brenneman/Love Jones | 1994 | S1E78",
+  "id": "bw-e-tt2259845",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Carville/Amy Brenneman/Love Jones",
+  "type": "task"
+}

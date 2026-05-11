@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Debbie Matenopoulos. b. 1974 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0558244/\n_search: Debbie Matenopoulos | Celebrity Deathmatch | American Dreams | The Image of You | Endsville",
+  "id": "bw-p-nm0558244",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Debbie Matenopoulos",
+  "type": "task"
+}

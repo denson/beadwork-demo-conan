@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Ross. writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0743550/\n_search: Jon Ross | Not Necessarily the News | This Just In | Marvin Marvin | Father of the Pride",
+  "id": "bw-p-nm0743550",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Ross",
+  "type": "task"
+}

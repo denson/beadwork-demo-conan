@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Amps. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3549719/\n_search: The Amps | All Over Me",
+  "id": "bw-p-nm3549719",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Amps",
+  "type": "task"
+}

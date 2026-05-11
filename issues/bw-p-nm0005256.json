@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bridget Moynahan. b. 1971 | actress, director, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005256/\n_search: Bridget Moynahan | I, Robot | Battle Los Angeles | John Wick | Lord of War",
+  "id": "bw-p-nm0005256",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bridget Moynahan",
+  "type": "task"
+}

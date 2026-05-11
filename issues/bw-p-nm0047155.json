@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Bailey. b. 1965 | actor, writer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0047155/\n_search: Bill Bailey | Hot Fuzz | The Hitchhiker's Guide to the Galaxy | Black Books | Chalet Girl",
+  "id": "bw-p-nm0047155",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Bailey",
+  "type": "task"
+}

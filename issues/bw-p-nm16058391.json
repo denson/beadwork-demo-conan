@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Makira. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm16058391/\n_search: Makira",
+  "id": "bw-p-nm16058391",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Makira",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bette Midler. b. 1945 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000541/\n_search: Bette Midler | Beaches | The First Wives Club | Hocus Pocus | Ruthless People",
+  "id": "bw-p-nm0000541",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bette Midler",
+  "type": "task"
+}

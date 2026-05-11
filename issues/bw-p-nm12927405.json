@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Be Your Own Pet. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm12927405/\n_search: Be Your Own Pet",
+  "id": "bw-p-nm12927405",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Be Your Own Pet",
+  "type": "task"
+}

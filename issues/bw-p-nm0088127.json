@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alexis Bledel. b. 1981 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0088127/\n_search: Alexis Bledel | The Sisterhood of the Traveling Pants | Gilmore Girls | Sin City | Tuck Everlasting",
+  "id": "bw-p-nm0088127",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alexis Bledel",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rachel Bilson. b. 1981 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1377375/\n_search: Rachel Bilson | Jumper | The O.C. | The Last Kiss | The To-Do List",
+  "id": "bw-p-nm1377375",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rachel Bilson",
+  "type": "task"
+}

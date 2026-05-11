@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Derek Trucks Band. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11113495/\n_search: The Derek Trucks Band | The Original Guitar Hero and the Power of Music",
+  "id": "bw-p-nm11113495",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Derek Trucks Band",
+  "type": "task"
+}

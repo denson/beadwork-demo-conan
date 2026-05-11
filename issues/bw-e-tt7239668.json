@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Franken/Kate Micucci/Portugal. The Man. conan_tbs, S7E116, 2017.\nRuntime: 42 min.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt7239668/\n_search: Al Franken/Kate Micucci/Portugal. The Man | 2017 | S7E116",
+  "id": "bw-e-tt7239668",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Franken/Kate Micucci/Portugal. The Man",
+  "type": "task"
+}

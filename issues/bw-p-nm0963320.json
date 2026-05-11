@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Anderson. b. 1990 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0963320/\n_search: Jamie Anderson | Olympic Dreams | Sochi 2014: XXII Olympic Winter Games | Yoga Euphoria | Red Bull Signature Series",
+  "id": "bw-p-nm0963320",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Anderson",
+  "type": "task"
+}

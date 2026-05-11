@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeanne Carr. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5194705/\n_search: Jeanne Carr | Transformers: War for Cybertron Trilogy | Jimmy Kimmel: Talk Show Hosts Are Liberal - Because It Requires Intelligence!",
+  "id": "bw-p-nm5194705",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeanne Carr",
+  "type": "task"
+}

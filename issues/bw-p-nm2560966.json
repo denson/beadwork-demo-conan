@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Stofer. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2560966/\n_search: Jimmy Stofer | American Murder: Laci Peterson | The Night House | The Menendez Brothers | Drunk Bus",
+  "id": "bw-p-nm2560966",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Stofer",
+  "type": "task"
+}

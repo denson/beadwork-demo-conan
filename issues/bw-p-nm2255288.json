@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eliza Coupe. b. 1981 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2255288/\n_search: Eliza Coupe | Happy Endings | Future Man | Benched | Casual",
+  "id": "bw-p-nm2255288",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eliza Coupe",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teri Hatcher/Jerry Springer/Al Kooper. late_night, S2E120, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2811486/\n_search: Teri Hatcher/Jerry Springer/Al Kooper | 1995 | S2E120",
+  "id": "bw-e-tt2811486",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teri Hatcher/Jerry Springer/Al Kooper",
+  "type": "task"
+}

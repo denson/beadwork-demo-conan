@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Lee. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6223209/\n_search: Julie Lee",
+  "id": "bw-p-nm6223209",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Lee",
+  "type": "task"
+}

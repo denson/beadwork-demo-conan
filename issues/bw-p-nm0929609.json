@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fred Willard. 1933–2020 | actor, writer, soundtrack.\nDECEASED (1933–2020). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0929609/\n_search: Fred Willard | Best in Show | A Mighty Wind | Anchorman: The Legend of Ron Burgundy | Harold \u0026 Kumar Go to White Castle",
+  "id": "bw-p-nm0929609",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fred Willard",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Griffith. 1926–2012 | actor, producer, miscellaneous.\nDECEASED (1926–2012). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0341431/\n_search: Andy Griffith | The Andy Griffith Show | Waitress | Matlock | A Face in the Crowd",
+  "id": "bw-p-nm0341431",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Griffith",
+  "type": "task"
+}

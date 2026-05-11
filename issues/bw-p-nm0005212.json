@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ian McKellen. b. 1939 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005212/\n_search: Ian McKellen | The Lord of the Rings: The Fellowship of the Ring | Gods and Monsters | The Lord of the Rings: The Return of the King | Richard III",
+  "id": "bw-p-nm0005212",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ian McKellen",
+  "type": "task"
+}

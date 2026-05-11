@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeremy Wade. b. 1956 | actor, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3953654/\n_search: Jeremy Wade | Blood Lake: Attack of the Killer Lampreys | Jeremy Wade's Mighty Rivers | River Monsters | River Monsters: The Lost Reels",
+  "id": "bw-p-nm3953654",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeremy Wade",
+  "type": "task"
+}

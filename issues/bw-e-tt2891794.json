@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sir Arthur Conan Doyle \u0026 the Ruination of His Middle Name. conan_tbs, S3E81, 2013.\nIMDb: https://www.imdb.com/title/tt2891794/\n_search: Sir Arthur Conan Doyle \u0026 the Ruination of His Middle Name | 2013 | S3E81",
+  "id": "bw-e-tt2891794",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sir Arthur Conan Doyle \u0026 the Ruination of His Middle Name",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shannon Hastings. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4808318/\n_search: Shannon Hastings | 74th Annual Miss America Pageant",
+  "id": "bw-p-nm4808318",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shannon Hastings",
+  "type": "task"
+}

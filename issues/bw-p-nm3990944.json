@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Pritchard. composer, actress, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3990944/\n_search: Lauren Pritchard | (Romance) in the Digital Age | A Simple Favor | I Give It a Year | Nights in Rodanthe",
+  "id": "bw-p-nm3990944",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Pritchard",
+  "type": "task"
+}

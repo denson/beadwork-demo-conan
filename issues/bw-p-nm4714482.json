@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff the Brotherhood. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4714482/\n_search: Jeff the Brotherhood | Cedar Rapids | Grand Theft Auto V | For the Love of Music: The Story of Nashville",
+  "id": "bw-p-nm4714482",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff the Brotherhood",
+  "type": "task"
+}

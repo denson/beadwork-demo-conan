@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samuel Thacker. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3573539/\n_search: Samuel Thacker | The Teen Tech Team | Chalk | Eating Matzoh | Duck",
+  "id": "bw-p-nm3573539",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samuel Thacker",
+  "type": "task"
+}

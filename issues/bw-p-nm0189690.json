@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rodney Crowell. b. 1950 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0189690/\n_search: Rodney Crowell | Raw Deal | For Love of the Game | The Firm | Promised Land",
+  "id": "bw-p-nm0189690",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rodney Crowell",
+  "type": "task"
+}

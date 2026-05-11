@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Leguizamo/Phylicia Rashad/October Project. late_night, S1E138, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2689448/\n_search: John Leguizamo/Phylicia Rashad/October Project | 1994 | S1E138",
+  "id": "bw-e-tt2689448",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Leguizamo/Phylicia Rashad/October Project",
+  "type": "task"
+}

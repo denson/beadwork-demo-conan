@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Blind Boys of Alabama. music_department, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1569175/\n_search: The Blind Boys of Alabama | Rabbit-Proof Fence | Brother Bear | Hop | Lost",
+  "id": "bw-p-nm1569175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Blind Boys of Alabama",
+  "type": "task"
+}

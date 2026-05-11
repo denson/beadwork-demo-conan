@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Rado. b. 1990 | composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3066892/\n_search: Jonathan Rado | We Are Your Friends | Alice | The Mayor of Mott Street | Friday Night Football",
+  "id": "bw-p-nm3066892",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Rado",
+  "type": "task"
+}

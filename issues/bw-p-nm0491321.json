@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chyna. 1969–2016 | actress, producer, archive_footage.\nDECEASED (1969–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0491321/\n_search: Chyna | Frank McKlusky, C.I. | WWE Smackdown! | A Night at the Silent Movie Theater | Cougar Club",
+  "id": "bw-p-nm0491321",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chyna",
+  "type": "task"
+}

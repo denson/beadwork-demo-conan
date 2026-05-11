@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "JoAnna Garcia Swisher. b. 1979 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0305272/\n_search: JoAnna Garcia Swisher | Not Another Teen Movie | Reba | The Internship | Are You Afraid of the Dark?",
+  "id": "bw-p-nm0305272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "JoAnna Garcia Swisher",
+  "type": "task"
+}

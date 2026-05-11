@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Lynch. b. 1953 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0528438/\n_search: Ron Lynch | Home Movies | RVC: The Lone Shopping Network | Too Late | Lovespring International",
+  "id": "bw-p-nm0528438",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Lynch",
+  "type": "task"
+}

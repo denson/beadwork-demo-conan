@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Mayan Hunky Firefighter Calendar. conan_tbs, S2E133, 2012.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt2380364/\n_search: The Mayan Hunky Firefighter Calendar | 2012 | S2E133",
+  "id": "bw-e-tt2380364",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Mayan Hunky Firefighter Calendar",
+  "type": "task"
+}

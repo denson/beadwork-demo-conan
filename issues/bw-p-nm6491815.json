@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alicia Bognanno. sound_department, actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6491815/\n_search: Alicia Bognanno | The Spy Who Dumped Me | Her Smell | Closer to God | Tell Us About It Presents: Disrespecting Luna",
+  "id": "bw-p-nm6491815",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alicia Bognanno",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "José Andrés. b. 1969 | miscellaneous, actor, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2731877/\n_search: José Andrés | Hannibal | Eat the World with Emeril Lagasse | Firebuds | Vamos a cocinar",
+  "id": "bw-p-nm2731877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "José Andrés",
+  "type": "task"
+}

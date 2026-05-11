@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ed Koch/Levon Helm. late_night, S1E36, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1477406/\n_search: Ed Koch/Levon Helm | 1993 | S1E36",
+  "id": "bw-e-tt1477406",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ed Koch/Levon Helm",
+  "type": "task"
+}

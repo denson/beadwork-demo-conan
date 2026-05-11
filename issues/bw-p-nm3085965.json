@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Perfect Circle. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3085965/\n_search: A Perfect Circle | Resident Evil: Afterlife | The Taking of Pelham 123 | Underworld | Constantine",
+  "id": "bw-p-nm3085965",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Perfect Circle",
+  "type": "task"
+}

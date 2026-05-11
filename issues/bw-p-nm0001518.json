@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dylan McDermott. b. 1961 | actor, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001518/\n_search: Dylan McDermott | The Practice | The Perks of Being a Wallflower | Olympus Has Fallen | Steel Magnolias",
+  "id": "bw-p-nm0001518",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dylan McDermott",
+  "type": "task"
+}

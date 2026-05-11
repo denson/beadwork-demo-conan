@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eartha Kitt. 1927–2008 | music_artist, actress, soundtrack.\nDECEASED (1927–2008). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0457755/\n_search: Eartha Kitt | The Emperor's New Groove | Holes | Boomerang | Erik the Viking",
+  "id": "bw-p-nm0457755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eartha Kitt",
+  "type": "task"
+}

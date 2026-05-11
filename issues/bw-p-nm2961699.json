@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Strahs. art_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2961699/\n_search: Paul Strahs | Santa Barbara | Sunset Beach",
+  "id": "bw-p-nm2961699",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Strahs",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neal Coty. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6547844/\n_search: Neal Coty",
+  "id": "bw-p-nm6547844",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neal Coty",
+  "type": "task"
+}

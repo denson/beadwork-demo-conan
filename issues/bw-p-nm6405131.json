@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Blaylock. actor.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm6405131/\n_search: Jimmy Blaylock | Memphis Wrestling | The Kings of Tupelo: A Southern Crime Saga | America's Funniest Home Videos",
+  "id": "bw-p-nm6405131",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Blaylock",
+  "type": "task"
+}

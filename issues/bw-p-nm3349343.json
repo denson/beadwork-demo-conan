@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Kemp. b. 1984 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3349343/\n_search: Matt Kemp | Bluetopia: The LA Dodgers Movie | Sunday Night Baseball | The Cleveland Show | MLB on Fox",
+  "id": "bw-p-nm3349343",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Kemp",
+  "type": "task"
+}

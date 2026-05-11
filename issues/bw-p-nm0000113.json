@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sandra Bullock. b. 1964 | producer, actress, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000113/\n_search: Sandra Bullock | The Proposal | Miss Congeniality | Speed | Gravity",
+  "id": "bw-p-nm0000113",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sandra Bullock",
+  "type": "task"
+}

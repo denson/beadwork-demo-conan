@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patricia Arquette. b. 1968 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000099/\n_search: Patricia Arquette | True Romance | Boyhood | Medium | Stigmata",
+  "id": "bw-p-nm0000099",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patricia Arquette",
+  "type": "task"
+}

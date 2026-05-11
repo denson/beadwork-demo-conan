@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Chon. b. 1981 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2014390/\n_search: Justin Chon | Blue Bayou | Twilight | Gook | The Twilight Saga: Eclipse",
+  "id": "bw-p-nm2014390",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Chon",
+  "type": "task"
+}

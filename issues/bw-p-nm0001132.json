@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judi Dench. b. 1934 | actress, music_department, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001132/\n_search: Judi Dench | Skyfall | Notes on a Scandal | Shakespeare in Love | The Best Exotic Marigold Hotel",
+  "id": "bw-p-nm0001132",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judi Dench",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke Mossman. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8435659/\n_search: Luke Mossman | Unfollower | The Good Doctor | The Rookie | The Tonight Show Starring Jimmy Fallon",
+  "id": "bw-p-nm8435659",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke Mossman",
+  "type": "task"
+}

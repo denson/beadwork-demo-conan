@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Robbins. b. 1958 | actor, producer, director.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0000209/\n_search: Tim Robbins | Mystic River | The Player | Howard the Duck | The Shawshank Redemption",
+  "id": "bw-p-nm0000209",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Robbins",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Ritter. b. 1976 | composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1861492/\n_search: Josh Ritter | Aloha | Stronger | The Hollars | Freeheld",
+  "id": "bw-p-nm1861492",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Ritter",
+  "type": "task"
+}

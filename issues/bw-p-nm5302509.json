@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kendrick Lamar. b. 1987 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5302509/\n_search: Kendrick Lamar | Black Panther | The Amazing Spider-Man 2 | Divergent | The First Purge",
+  "id": "bw-p-nm5302509",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kendrick Lamar",
+  "type": "task"
+}

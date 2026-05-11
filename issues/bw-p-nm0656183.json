@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Geraldine Page. 1924–1987 | actress, soundtrack, archive_footage.\nDECEASED (1924–1987). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0656183/\n_search: Geraldine Page | Sweet Bird of Youth | The Trip to Bountiful | Interiors | Hondo",
+  "id": "bw-p-nm0656183",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Geraldine Page",
+  "type": "task"
+}

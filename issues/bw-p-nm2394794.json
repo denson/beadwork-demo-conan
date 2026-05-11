@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karen Gillan. b. 1987 | actress, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2394794/\n_search: Karen Gillan | Selfie | Guardians of the Galaxy | Not Another Happy Ending | Avengers: Endgame",
+  "id": "bw-p-nm2394794",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karen Gillan",
+  "type": "task"
+}

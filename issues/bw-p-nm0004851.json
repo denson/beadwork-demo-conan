@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Penélope Cruz. b. 1974 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004851/\n_search: Penélope Cruz | Vicky Cristina Barcelona | Vanilla Sky | Volver | Pirates of the Caribbean: On Stranger Tides",
+  "id": "bw-p-nm0004851",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Penélope Cruz",
+  "type": "task"
+}

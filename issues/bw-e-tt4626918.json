@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosario Dawson/Barney Frank/Royal Blood. conan_tbs, S5E77, 2015.\nIMDb: https://www.imdb.com/title/tt4626918/\n_search: Rosario Dawson/Barney Frank/Royal Blood | 2015 | S5E77",
+  "id": "bw-e-tt4626918",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosario Dawson/Barney Frank/Royal Blood",
+  "type": "task"
+}

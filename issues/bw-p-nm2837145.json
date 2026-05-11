@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim DeRogatis. archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2837145/\n_search: Jim DeRogatis | Out of the Loop | Beautiful Noise | R. Kelly: The Verdict | A Box Full of Rocks: The El Cajon Years of Lester Bangs",
+  "id": "bw-p-nm2837145",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim DeRogatis",
+  "type": "task"
+}

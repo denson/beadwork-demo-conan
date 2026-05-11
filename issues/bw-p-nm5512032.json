@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Newman. music_department, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5512032/\n_search: Joe Newman | The Discovery | Captain America: Civil War | Bright | How to Be Single",
+  "id": "bw-p-nm5512032",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Newman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Workman. b. 1980 | transportation_department, actor, production_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0941469/\n_search: Jimmy Workman | The Addams Family | Addams Family Values | Star Trek | Star Trek: Insurrection",
+  "id": "bw-p-nm0941469",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Workman",
+  "type": "task"
+}

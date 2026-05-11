@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeanne Young. actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5649428/\n_search: Jeanne Young | My Name WAS Peter (2023-) | Free Byrd | Where Sleeping Dogs Lie | The Rogues of Flat Oak",
+  "id": "bw-p-nm5649428",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeanne Young",
+  "type": "task"
+}

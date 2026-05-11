@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianna Margulies/DL Hughley/Jewel. late_night, S10E130, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1199073/\n_search: Julianna Margulies/DL Hughley/Jewel | 2003 | S10E130",
+  "id": "bw-e-tt1199073",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianna Margulies/DL Hughley/Jewel",
+  "type": "task"
+}

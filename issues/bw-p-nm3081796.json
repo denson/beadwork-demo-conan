@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Yeun. b. 1983 | actor, producer, soundtrack.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm3081796/\n_search: Steven Yeun | Minari | Mayhem | Nope | I Origins",
+  "id": "bw-p-nm3081796",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Yeun",
+  "type": "task"
+}

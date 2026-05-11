@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerrod Carmichael. b. 1987 | producer, writer, actor.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm4273797/\n_search: Jerrod Carmichael | On the Count of Three | 8 | The Carmichael Show | Home Videos",
+  "id": "bw-p-nm4273797",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerrod Carmichael",
+  "type": "task"
+}

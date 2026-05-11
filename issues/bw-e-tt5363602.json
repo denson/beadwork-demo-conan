@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Black/Rob Kazinsky/Ty Dolla $ign. conan_tbs, S6E36, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5363602/\n_search: Jack Black/Rob Kazinsky/Ty Dolla $ign | 2016 | S6E36",
+  "id": "bw-e-tt5363602",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Black/Rob Kazinsky/Ty Dolla $ign",
+  "type": "task"
+}

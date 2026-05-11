@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timothy Thomas Brown. stunts, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1676508/\n_search: Timothy Thomas Brown | Run All Night | Rebel Moon - Part One: A Child of Fire | Thor | Resident Evil: Extinction",
+  "id": "bw-p-nm1676508",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timothy Thomas Brown",
+  "type": "task"
+}

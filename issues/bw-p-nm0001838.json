@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rachel Weisz. b. 1970 | actress, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001838/\n_search: Rachel Weisz | The Constant Gardener | The Lobster | Disobedience | The Mummy",
+  "id": "bw-p-nm0001838",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rachel Weisz",
+  "type": "task"
+}

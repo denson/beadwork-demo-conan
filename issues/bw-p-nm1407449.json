@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Cave \u0026 The Bad Seeds. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1407449/\n_search: Nick Cave \u0026 The Bad Seeds | The Lobster | Zack Snyder's Justice League | About Time | Cirque du Freak: The Vampire's Assistant",
+  "id": "bw-p-nm1407449",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Cave \u0026 The Bad Seeds",
+  "type": "task"
+}

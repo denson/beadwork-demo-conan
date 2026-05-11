@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pat Finn. 1965–2025 | actor, writer.\nDECEASED (1965–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0278156/\n_search: Pat Finn | The Middle | It's Complicated | I Am Chris Farley | Seinfeld",
+  "id": "bw-p-nm0278156",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pat Finn",
+  "type": "task"
+}

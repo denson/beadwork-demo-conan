@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ruth Westheimer. 1928–2024 | actress, producer, archive_footage.\nDECEASED (1928–2024). Conan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0922756/\n_search: Ruth Westheimer | Electric Dreams | One Woman or Two | Ask Dr. Ruth | Dr. Ruth's House",
+  "id": "bw-p-nm0922756",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ruth Westheimer",
+  "type": "task"
+}

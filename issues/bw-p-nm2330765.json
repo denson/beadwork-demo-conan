@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Galactic. composer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2330765/\n_search: Galactic | Spider-Man: Homecoming | Now You See Me | The Mechanic | Girls Trip",
+  "id": "bw-p-nm2330765",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Galactic",
+  "type": "task"
+}

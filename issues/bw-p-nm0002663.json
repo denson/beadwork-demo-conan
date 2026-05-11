@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diane Ladd. 1935–2025 | actress, producer, director.\nDECEASED (1935–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0002663/\n_search: Diane Ladd | Wild at Heart | Alice Doesn't Live Here Anymore | Joy | Chinatown",
+  "id": "bw-p-nm0002663",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diane Ladd",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeremy Faccone. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5919862/\n_search: Jeremy Faccone | Beautiful Creatures | Dead Dicks | Arthur | Bong Appétit",
+  "id": "bw-p-nm5919862",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeremy Faccone",
+  "type": "task"
+}

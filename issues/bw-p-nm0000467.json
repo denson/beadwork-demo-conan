@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Johnson. b. 1949 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000467/\n_search: Don Johnson | Miami Vice | A Boy and His Dog | Django Unchained | Knives Out",
+  "id": "bw-p-nm0000467",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Johnson",
+  "type": "task"
+}

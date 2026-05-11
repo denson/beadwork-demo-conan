@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jane Krakowski. b. 1968 | actress, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005105/\n_search: Jane Krakowski | 30 Rock | National Lampoon's Vacation | Ally McBeal | The Flintstones in Viva Rock Vegas",
+  "id": "bw-p-nm0005105",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jane Krakowski",
+  "type": "task"
+}

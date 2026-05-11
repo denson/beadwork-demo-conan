@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan at Home - Chris Gethard. conan_tbs, S10E58, 2020.\nIMDb rating: 6.3.\nIMDb: https://www.imdb.com/title/tt12317884/\n_search: Conan at Home - Chris Gethard | 2020 | S10E58",
+  "id": "bw-e-tt12317884",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan at Home - Chris Gethard",
+  "type": "task"
+}

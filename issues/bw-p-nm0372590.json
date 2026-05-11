@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Reverend Horton Heat. b. 1959 | actor, composer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0372590/\n_search: Reverend Horton Heat | Suicide Kings | Killer Joe | Coyote Ugly | Varsity Blues",
+  "id": "bw-p-nm0372590",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Reverend Horton Heat",
+  "type": "task"
+}

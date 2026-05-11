@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neil Young. b. 1945 | music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0949918/\n_search: Neil Young | Dead Man | Philadelphia | Human Highway | Hotel Artemis",
+  "id": "bw-p-nm0949918",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neil Young",
+  "type": "task"
+}

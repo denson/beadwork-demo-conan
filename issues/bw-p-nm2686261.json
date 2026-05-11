@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Ewens. actor, stunts, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2686261/\n_search: Martin Ewens | Sherlock Holmes | Red Oaks | Person of Interest | Turn: Washington's Spies",
+  "id": "bw-p-nm2686261",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Ewens",
+  "type": "task"
+}

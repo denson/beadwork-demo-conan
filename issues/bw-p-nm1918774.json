@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Simply Red. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1918774/\n_search: Simply Red | American Psycho | Frantic | Ghosts of Girlfriends Past | 24 Hour Party People",
+  "id": "bw-p-nm1918774",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Simply Red",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Sharpe and the Magnetic Zeros. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3648289/\n_search: Edward Sharpe and the Magnetic Zeros | What If | Stuck in Love. | What to Expect When You're Expecting | Focus",
+  "id": "bw-p-nm3648289",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Sharpe and the Magnetic Zeros",
+  "type": "task"
+}

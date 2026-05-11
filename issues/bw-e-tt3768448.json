@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Favreau/Rob Riggle/Echosmith. conan_tbs, S4E94, 2014.\nIMDb: https://www.imdb.com/title/tt3768448/\n_search: Jon Favreau/Rob Riggle/Echosmith | 2014 | S4E94",
+  "id": "bw-e-tt3768448",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Favreau/Rob Riggle/Echosmith",
+  "type": "task"
+}

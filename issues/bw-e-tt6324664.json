@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Pratt/Tom Papa/The Naked and Famous. conan_tbs, S7E20, 2016.\nRuntime: 42 min.\nIMDb rating: 5.3.\nIMDb: https://www.imdb.com/title/tt6324664/\n_search: Chris Pratt/Tom Papa/The Naked and Famous | 2016 | S7E20",
+  "id": "bw-e-tt6324664",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Pratt/Tom Papa/The Naked and Famous",
+  "type": "task"
+}

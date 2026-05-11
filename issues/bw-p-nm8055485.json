@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larkin Poe. director, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8055485/\n_search: Larkin Poe | The Rookie | Heels | Andy Frasco's World-Saving Shitshow | Bluestown Rising",
+  "id": "bw-p-nm8055485",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larkin Poe",
+  "type": "task"
+}

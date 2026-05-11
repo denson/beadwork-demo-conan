@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J.W. Hart. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2123345/\n_search: J.W. Hart | PBR Global Cup: Price for Glory | Justin McBride: Live at Billy Bob's Texas | Untamed \u0026 Uncut | Cowboys of Thunder",
+  "id": "bw-p-nm2123345",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J.W. Hart",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Melanie Mayron. b. 1952 | director, actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0563039/\n_search: Melanie Mayron | The Hunting Wives | Julia | Jane the Virgin | Thirtysomething",
+  "id": "bw-p-nm0563039",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Melanie Mayron",
+  "type": "task"
+}

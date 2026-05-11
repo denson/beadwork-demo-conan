@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Milk Carton Kids. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4858072/\n_search: The Milk Carton Kids | Promised Land | Hard Sun | Don't Think Twice | Bones",
+  "id": "bw-p-nm4858072",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Milk Carton Kids",
+  "type": "task"
+}

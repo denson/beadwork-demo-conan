@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phantom Planet. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1582666/\n_search: Phantom Planet | The Amazing Spider-Man | All About Steve | Not Another Teen Movie | Orange County",
+  "id": "bw-p-nm1582666",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phantom Planet",
+  "type": "task"
+}

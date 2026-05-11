@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karen Duffy/Peter Fonda/The Golden Palominos. late_night, S1E150, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2705536/\n_search: Karen Duffy/Peter Fonda/The Golden Palominos | 1994 | S1E150",
+  "id": "bw-e-tt2705536",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karen Duffy/Peter Fonda/The Golden Palominos",
+  "type": "task"
+}

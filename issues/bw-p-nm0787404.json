@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shaggy. b. 1968 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0787404/\n_search: Shaggy | No Time to Die | Money Train | Speed 2: Cruise Control | George of the Jungle",
+  "id": "bw-p-nm0787404",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shaggy",
+  "type": "task"
+}

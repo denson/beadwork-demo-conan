@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vintage Trouble. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5054277/\n_search: Vintage Trouble | Posthumous | The Rookie | Kittens in a Cage",
+  "id": "bw-p-nm5054277",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vintage Trouble",
+  "type": "task"
+}

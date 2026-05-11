@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "French Stewart/Jeff Greenfield/Monster Magnet. late_night, S5E157, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4227684/\n_search: French Stewart/Jeff Greenfield/Monster Magnet | 1998 | S5E157",
+  "id": "bw-e-tt4227684",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "French Stewart/Jeff Greenfield/Monster Magnet",
+  "type": "task"
+}

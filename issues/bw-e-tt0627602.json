@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Colin Farrell/Craig Bierko/Sparta. late_night, S12E47, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627602/\n_search: Colin Farrell/Craig Bierko/Sparta | 2004 | S12E47",
+  "id": "bw-e-tt0627602",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Colin Farrell/Craig Bierko/Sparta",
+  "type": "task"
+}

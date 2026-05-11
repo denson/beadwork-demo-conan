@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Shimabukuro. b. 1976 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2168955/\n_search: Jake Shimabukuro | Just Go with It | Hula Girls | Sideways | Get a Job",
+  "id": "bw-p-nm2168955",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Shimabukuro",
+  "type": "task"
+}

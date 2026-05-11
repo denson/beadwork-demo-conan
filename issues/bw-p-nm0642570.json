@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "P.J. O'Rourke. 1947–2022 | writer, actor, producer.\nDECEASED (1947–2022). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0642570/\n_search: P.J. O'Rourke | Easy Money | True Blood | Drunk Stoned Brilliant Dead | Your Mommy Kills Animals!",
+  "id": "bw-p-nm0642570",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "P.J. O'Rourke",
+  "type": "task"
+}

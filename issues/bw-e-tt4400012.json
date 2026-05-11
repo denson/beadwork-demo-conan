@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Cryer/Katharine McPhee/Bob Odenkirk. conan_tbs, S4E156, 2014.\nIMDb: https://www.imdb.com/title/tt4400012/\n_search: Jon Cryer/Katharine McPhee/Bob Odenkirk | 2014 | S4E156",
+  "id": "bw-e-tt4400012",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Cryer/Katharine McPhee/Bob Odenkirk",
+  "type": "task"
+}

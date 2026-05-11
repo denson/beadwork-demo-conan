@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Armstrong. b. 1965 | actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1180192/\n_search: Tim Armstrong | Derailed | Bulletproof Monk | Idle Hands | John Tucker Must Die",
+  "id": "bw-p-nm1180192",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Armstrong",
+  "type": "task"
+}

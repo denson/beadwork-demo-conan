@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathan Lane. b. 1956 | actor, producer, soundtrack.\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm0001447/\n_search: Nathan Lane | The Producers | The Birdcage | The Lion King | Mousehunt",
+  "id": "bw-p-nm0001447",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathan Lane",
+  "type": "task"
+}

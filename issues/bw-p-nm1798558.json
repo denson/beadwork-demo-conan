@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Violent Femmes. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1798558/\n_search: Violent Femmes | Grosse Pointe Blank | The Crow | Mystery Men | The Infiltrator",
+  "id": "bw-p-nm1798558",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Violent Femmes",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Danny DeVito. b. 1944 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000362/\n_search: Danny DeVito | Matilda | The War of the Roses | Taxi | Batman Returns",
+  "id": "bw-p-nm0000362",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Danny DeVito",
+  "type": "task"
+}

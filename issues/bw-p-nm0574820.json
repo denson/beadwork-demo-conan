@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter McWilliams. 1949–2000 | director, actor, writer.\nDECEASED (1949–2000). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0574820/\n_search: Peter McWilliams | The Thorn | The Reggae Movie | The Unexplained",
+  "id": "bw-p-nm0574820",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter McWilliams",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Swae Lee. b. 1993 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6611654/\n_search: Swae Lee | Spider-Man: Into the Spider-Verse | Shang-Chi and the Legend of the Ten Rings | The First Purge | Suicide Squad",
+  "id": "bw-p-nm6611654",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Swae Lee",
+  "type": "task"
+}

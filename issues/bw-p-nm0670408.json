@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Simon Pegg. b. 1970 | actor, writer, producer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0670408/\n_search: Simon Pegg | The World's End | Shaun of the Dead | Hot Fuzz | Star Trek",
+  "id": "bw-p-nm0670408",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Simon Pegg",
+  "type": "task"
+}

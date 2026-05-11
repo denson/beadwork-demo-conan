@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tanisha Long. actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3304680/\n_search: Tanisha Long | Admission | Mike and Dave Need Wedding Dates | Crazy Ex-Girlfriend | Friends of the People",
+  "id": "bw-p-nm3304680",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tanisha Long",
+  "type": "task"
+}

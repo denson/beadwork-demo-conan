@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nate Silver. b. 1978 | producer, actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3156370/\n_search: Nate Silver | Leche con Cereal | The Collectors | Backfire: How to Destroy a Presidential Candidate | The Simpsons",
+  "id": "bw-p-nm3156370",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:jibber_jabber",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nate Silver",
+  "type": "task"
+}

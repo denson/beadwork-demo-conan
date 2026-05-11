@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ruby Rose. b. 1986 | actress, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3199307/\n_search: Ruby Rose | Orange Is the New Black | Break Free | xXx: Return of Xander Cage | John Wick: Chapter 2",
+  "id": "bw-p-nm3199307",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ruby Rose",
+  "type": "task"
+}

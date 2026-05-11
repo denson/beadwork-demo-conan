@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allison Janney/Nate Diaz/Autolux. conan_tbs, S6E117, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5909504/\n_search: Allison Janney/Nate Diaz/Autolux | 2016 | S6E117",
+  "id": "bw-e-tt5909504",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allison Janney/Nate Diaz/Autolux",
+  "type": "task"
+}

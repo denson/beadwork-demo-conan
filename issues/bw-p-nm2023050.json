@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Darren Criss. b. 1987 | actor, composer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2023050/\n_search: Darren Criss | Glee | Little White Lie | A Very Potter Musical | American Crime Story",
+  "id": "bw-p-nm2023050",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Darren Criss",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Gates. b. 1955 | actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0309540/\n_search: Bill Gates | Frasier | Donkey.bas | Source Code: My Beginnings | The Big Bang Theory",
+  "id": "bw-p-nm0309540",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Gates",
+  "type": "task"
+}

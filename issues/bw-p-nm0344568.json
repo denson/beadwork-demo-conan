@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Grundy. b. 1945 | actor, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0344568/\n_search: Hugh Grundy | Bunny Lake Is Missing | The Zombies: Hung Up on a Dream | Ready, Steady, Go!",
+  "id": "bw-p-nm0344568",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Grundy",
+  "type": "task"
+}

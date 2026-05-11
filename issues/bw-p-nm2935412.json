@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Black Mountain. composer, miscellaneous, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2935412/\n_search: Black Mountain | Hall Pass | Repeaters | Solitary Man | A Case of You",
+  "id": "bw-p-nm2935412",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Black Mountain",
+  "type": "task"
+}

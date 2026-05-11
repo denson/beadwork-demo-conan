@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Todd Snider. 1966–2025 | composer, writer, actor.\nDECEASED (1966–2025). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1546910/\n_search: Todd Snider | Hard Luck Love Song | The Locksmith | Long Road Home | The Tonight Show Starring Jimmy Fallon",
+  "id": "bw-p-nm1546910",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Todd Snider",
+  "type": "task"
+}

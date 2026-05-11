@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Franken. b. 1951 | writer, producer, actor.\nConan-show appearances: 27\nIMDb: https://www.imdb.com/name/nm0291253/\n_search: Al Franken | Saturday Night Live | Stuart Saves His Family | Trading Places | LateLine",
+  "id": "bw-p-nm0291253",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Franken",
+  "type": "task"
+}

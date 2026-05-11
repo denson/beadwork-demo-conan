@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chyna/Wanda Sykes. late_night, S8E65, 2001.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3743752/\n_search: Chyna/Wanda Sykes | 2001 | S8E65",
+  "id": "bw-e-tt3743752",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chyna/Wanda Sykes",
+  "type": "task"
+}

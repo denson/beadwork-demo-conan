@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeremy Popoff. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1394666/\n_search: Jeremy Popoff | Mr. Deeds | Crossroads | Central Intelligence | The Replacements",
+  "id": "bw-p-nm1394666",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeremy Popoff",
+  "type": "task"
+}

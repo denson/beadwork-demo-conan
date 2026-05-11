@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Anthony Higgins. b. 1961 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0383371/\n_search: David Anthony Higgins | Malcolm in the Middle | Mike \u0026 Molly | The Wrong Guy | American Horror Story",
+  "id": "bw-p-nm0383371",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Anthony Higgins",
+  "type": "task"
+}

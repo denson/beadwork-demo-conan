@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chesley Sullenberger. b. 1951 | actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3314810/\n_search: Chesley Sullenberger | Sully | Daddy's Home 2 | Horizon | Downfall: The Case Against Boeing",
+  "id": "bw-p-nm3314810",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chesley Sullenberger",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Delbert McClinton. b. 1940 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0565875/\n_search: Delbert McClinton | Howard the Duck | Groundhog Day | An Unfinished Life | The Cutting Edge",
+  "id": "bw-p-nm0565875",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Delbert McClinton",
+  "type": "task"
+}

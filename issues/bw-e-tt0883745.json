@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Spader/Ruben Studdard/Kenny Chesney. late_night, S11E72, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0883745/\n_search: James Spader/Ruben Studdard/Kenny Chesney | 2004 | S11E72",
+  "id": "bw-e-tt0883745",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Spader/Ruben Studdard/Kenny Chesney",
+  "type": "task"
+}

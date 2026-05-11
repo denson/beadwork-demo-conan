@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lordi. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11741555/\n_search: Lordi | Eurovision laulukilpailu 2007 - Suomen Karsinta | Yu-Gi-Oh! 5D's One-Shot Parody Special | Yle Olohuone | Eurovision's Greatest Hits",
+  "id": "bw-p-nm11741555",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lordi",
+  "type": "task"
+}

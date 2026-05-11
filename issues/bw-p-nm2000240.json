@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Butch Walker. b. 1969 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2000240/\n_search: Butch Walker | Agent Cody Banks | A Lot Like Love | The Peanut Butter Falcon | Big Hero 6",
+  "id": "bw-p-nm2000240",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Butch Walker",
+  "type": "task"
+}

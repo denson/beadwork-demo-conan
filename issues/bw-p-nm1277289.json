@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Raphael Saadiq. b. 1966 | composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1277289/\n_search: Raphael Saadiq | Mudbound | Insecure | Abduction | Lovecraft Country",
+  "id": "bw-p-nm1277289",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Raphael Saadiq",
+  "type": "task"
+}

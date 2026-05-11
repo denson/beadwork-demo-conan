@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Oyelowo/Jimmy Pardo/Margo Price. conan_tbs, S8E44, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8076022/\n_search: David Oyelowo/Jimmy Pardo/Margo Price | 2018 | S8E44",
+  "id": "bw-e-tt8076022",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Oyelowo/Jimmy Pardo/Margo Price",
+  "type": "task"
+}

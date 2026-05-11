@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eduardo Suárez. b. 1971 | producer, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1462119/\n_search: Eduardo Suárez | Los simuladores | Me caigo de risa | Otro rollo con: Adal Ramones | ¿Y ahora qué hago?",
+  "id": "bw-p-nm1462119",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eduardo Suárez",
+  "type": "task"
+}

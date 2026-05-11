@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zach Woods. b. 1984 | actor, writer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm2046855/\n_search: Zach Woods | The Other Guys | The Lego Ninjago Movie | Silicon Valley | In the Loop",
+  "id": "bw-p-nm2046855",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zach Woods",
+  "type": "task"
+}

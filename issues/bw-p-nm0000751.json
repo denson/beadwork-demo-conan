@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Suzy Amis. b. 1962 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000751/\n_search: Suzy Amis | The Usual Suspects | Blown Away | Titanic | The Ballad of Little Jo",
+  "id": "bw-p-nm0000751",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Suzy Amis",
+  "type": "task"
+}

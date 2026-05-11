@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "András Simonyi. miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2383445/\n_search: András Simonyi | A Bang-Jensen-Ügy | Free to Rock | Great Day Washington",
+  "id": "bw-p-nm2383445",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "András Simonyi",
+  "type": "task"
+}

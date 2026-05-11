@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joshua Bell. b. 1967 | music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0068310/\n_search: Joshua Bell | Defiance | The Flowers of War | The Red Violin | Angels \u0026 Demons",
+  "id": "bw-p-nm0068310",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joshua Bell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edie Falco/Mayor Jason West/The Allman Brothers Band. late_night, S11E86, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627520/\n_search: Edie Falco/Mayor Jason West/The Allman Brothers Band | 2004 | S11E86",
+  "id": "bw-e-tt0627520",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edie Falco/Mayor Jason West/The Allman Brothers Band",
+  "type": "task"
+}

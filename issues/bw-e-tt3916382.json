@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Megan Fox/Todd Glass. conan_tbs, S4E118, 2014.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt3916382/\n_search: Megan Fox/Todd Glass | 2014 | S4E118",
+  "id": "bw-e-tt3916382",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Megan Fox/Todd Glass",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Maher/Eddie Griffin/Dante. late_night, S2E108, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2805922/\n_search: Bill Maher/Eddie Griffin/Dante | 1995 | S2E108",
+  "id": "bw-e-tt2805922",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Maher/Eddie Griffin/Dante",
+  "type": "task"
+}

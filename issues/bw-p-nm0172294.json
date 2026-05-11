@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edwyn Collins. b. 1959 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0172294/\n_search: Edwyn Collins | Austin Powers: International Man of Mystery | Charlie's Angels: Full Throttle | Empire Records | Bachelorette",
+  "id": "bw-p-nm0172294",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edwyn Collins",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charles S. Dutton. b. 1951 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001165/\n_search: Charles S. Dutton | Alien³ | Gothika | A Time to Kill | Legion",
+  "id": "bw-p-nm0001165",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charles S. Dutton",
+  "type": "task"
+}

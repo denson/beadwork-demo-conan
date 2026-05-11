@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Love Hewitt. b. 1979 | actress, producer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0001349/\n_search: Jennifer Love Hewitt | I Know What You Did Last Summer | I Still Know What You Did Last Summer | The Tuxedo | Heartbreakers",
+  "id": "bw-p-nm0001349",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Love Hewitt",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kermit the Frog. actor, assistant, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1463454/\n_search: Kermit the Frog | Atop the Fourth Wall | Paul Williams: Still Alive | Happy Birthday, Bob! | The Muppet Show",
+  "id": "bw-p-nm1463454",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kermit the Frog",
+  "type": "task"
+}

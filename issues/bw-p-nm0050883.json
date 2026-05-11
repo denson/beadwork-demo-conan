@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Ballmer. b. 1956 | actor, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0050883/\n_search: Steve Ballmer | The Simpsons | Jerry West: The Logo | Triumph of the Nerds | Nerds 2.0.1: A Brief History of the Internet",
+  "id": "bw-p-nm0050883",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Ballmer",
+  "type": "task"
+}

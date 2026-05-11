@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leslie Nielsen. 1926–2010 | actor, producer, writer.\nDECEASED (1926–2010). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000558/\n_search: Leslie Nielsen | Airplane! | The Naked Gun 2½: The Smell of Fear | The Naked Gun: From the Files of Police Squad! | Wrongfully Accused",
+  "id": "bw-p-nm0000558",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leslie Nielsen",
+  "type": "task"
+}

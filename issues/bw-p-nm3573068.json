@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Das EFX. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3573068/\n_search: Das EFX | Shaft | The Babysitter: Killer Queen | Martha \u0026 Niki | Something from Nothing: The Art of Rap",
+  "id": "bw-p-nm3573068",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Das EFX",
+  "type": "task"
+}

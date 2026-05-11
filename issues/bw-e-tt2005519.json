@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "I Know Why the Caged Bird Sings Karaoke. conan_tbs, S1E126, 2011.\nRuntime: 60 min.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt2005519/\n_search: I Know Why the Caged Bird Sings Karaoke | 2011 | S1E126",
+  "id": "bw-e-tt2005519",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "I Know Why the Caged Bird Sings Karaoke",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Charles. b. 1971 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001038/\n_search: Josh Charles | Dead Poets Society | Four Brothers | S.W.A.T. | The Good Wife",
+  "id": "bw-p-nm0001038",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Charles",
+  "type": "task"
+}

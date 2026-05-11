@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Palczewski. camera_department, cinematographer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1724061/\n_search: James Palczewski | Late Night with Conan O'Brien: 10th Anniversary Special | Taylor Swift: The Eras Tour",
+  "id": "bw-p-nm1724061",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Palczewski",
+  "type": "task"
+}

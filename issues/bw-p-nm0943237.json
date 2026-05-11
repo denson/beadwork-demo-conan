@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Wuhl. b. 1951 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0943237/\n_search: Robert Wuhl | Arli$$ | Batman | Bull Durham | Good Morning, Vietnam",
+  "id": "bw-p-nm0943237",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Wuhl",
+  "type": "task"
+}

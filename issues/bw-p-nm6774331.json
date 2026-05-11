@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "BJ the Chicago Kid. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6774331/\n_search: BJ the Chicago Kid | Queen \u0026 Slim | Fatherhood | White Crack Bastard | Grand Theft Auto V",
+  "id": "bw-p-nm6774331",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "BJ the Chicago Kid",
+  "type": "task"
+}

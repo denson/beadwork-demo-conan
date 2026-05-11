@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dirk Nowitzki. b. 1978 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1185851/\n_search: Dirk Nowitzki | Hustle | Like Mike | Welcome to NBA Lane | Legends of the Lane",
+  "id": "bw-p-nm1185851",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dirk Nowitzki",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shudder to Think. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3075889/\n_search: Shudder to Think | Velvet Goldmine | First Love, Last Rites | High Art | Hurricane of Fun: The Making of Wet Hot",
+  "id": "bw-p-nm3075889",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shudder to Think",
+  "type": "task"
+}

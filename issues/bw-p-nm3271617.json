@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lambchop. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3271617/\n_search: Lambchop | You Tell Me | Moving On | Far Off Town Dunedin to Nashville | Lucy Barks!",
+  "id": "bw-p-nm3271617",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lambchop",
+  "type": "task"
+}

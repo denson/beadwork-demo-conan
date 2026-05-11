@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dorian Harewood. b. 1950 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0002126/\n_search: Dorian Harewood | Full Metal Jacket | Space Jam | Sudden Death | Assault on Precinct 13",
+  "id": "bw-p-nm0002126",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dorian Harewood",
+  "type": "task"
+}

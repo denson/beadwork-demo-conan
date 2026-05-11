@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fitz and The Tantrums. music_artist, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6911225/\n_search: Fitz and The Tantrums | Power Rangers | Friends with Benefits | Arthur | Horrible Bosses",
+  "id": "bw-p-nm6911225",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fitz and The Tantrums",
+  "type": "task"
+}

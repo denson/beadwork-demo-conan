@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kittie. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2203251/\n_search: Kittie | Murder by Numbers | Diary of a Wimpy Kid: Rodrick Rules | Dare Me | Project Gotham Racing 2",
+  "id": "bw-p-nm2203251",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kittie",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ana Gasteyer/George Stephanopoulos/Paula Cale. late_night, S6E106, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4249334/\n_search: Ana Gasteyer/George Stephanopoulos/Paula Cale | 1999 | S6E106",
+  "id": "bw-e-tt4249334",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ana Gasteyer/George Stephanopoulos/Paula Cale",
+  "type": "task"
+}

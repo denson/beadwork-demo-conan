@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Isaac Carpenter. music_department, cinematographer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2005483/\n_search: Isaac Carpenter | The Spectacular Now | Wanderlust | The Way Way Back | They Came Together",
+  "id": "bw-p-nm2005483",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Isaac Carpenter",
+  "type": "task"
+}

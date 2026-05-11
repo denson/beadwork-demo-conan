@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ronnie Spector. 1943–2022 | actress, writer, music_department.\nDECEASED (1943–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0817491/\n_search: Ronnie Spector | Jingle All the Way | The Santa Clause 2 | Just One of the Guys | The Hooker with a Heart of Gold",
+  "id": "bw-p-nm0817491",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ronnie Spector",
+  "type": "task"
+}

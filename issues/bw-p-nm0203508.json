@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tommy Davidson. b. 1963 | actor, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0203508/\n_search: Tommy Davidson | Right to Offend: The Black Comedy Revolution | In Living Color | Martin: The Reunion | Sherri",
+  "id": "bw-p-nm0203508",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tommy Davidson",
+  "type": "task"
+}

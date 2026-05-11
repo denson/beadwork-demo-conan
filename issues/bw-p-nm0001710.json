@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Schwimmer. b. 1966 | actor, director, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001710/\n_search: David Schwimmer | Friends | Six Days Seven Nights | Big Nothing | Band of Brothers",
+  "id": "bw-p-nm0001710",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Schwimmer",
+  "type": "task"
+}

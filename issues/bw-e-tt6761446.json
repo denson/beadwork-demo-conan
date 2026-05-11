@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jenna Elfman/David Koechner/Ian Abramson. conan_tbs, S7E68, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6761446/\n_search: Jenna Elfman/David Koechner/Ian Abramson | 2017 | S7E68",
+  "id": "bw-e-tt6761446",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jenna Elfman/David Koechner/Ian Abramson",
+  "type": "task"
+}

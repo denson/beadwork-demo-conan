@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Chapman. producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8464549/\n_search: Will Chapman | Everybody Is Looking for Some Light | Today",
+  "id": "bw-p-nm8464549",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Chapman",
+  "type": "task"
+}

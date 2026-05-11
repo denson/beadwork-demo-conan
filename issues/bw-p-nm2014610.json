@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marian Rosin. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2014610/\n_search: Marian Rosin | UFO Fever | The Onion | Thanksgiving | Dropout",
+  "id": "bw-p-nm2014610",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marian Rosin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nancy O'Dell. b. 1966 | actress, producer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0640669/\n_search: Nancy O'Dell | Scream 3 | Thank You for Smoking | Scream 4 | Outta Time",
+  "id": "bw-p-nm0640669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nancy O'Dell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jodelle Ferland. b. 1994 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0272706/\n_search: Jodelle Ferland | Case 39 | Silent Hill | Tideland | The Tall Man",
+  "id": "bw-p-nm0272706",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jodelle Ferland",
+  "type": "task"
+}

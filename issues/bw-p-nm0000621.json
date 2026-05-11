@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kurt Russell. b. 1951 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000621/\n_search: Kurt Russell | Escape from New York | The Hateful Eight | Escape from L.A. | The Thing",
+  "id": "bw-p-nm0000621",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kurt Russell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spencer Page. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6984689/\n_search: Spencer Page | The Equalizer | Fast \u0026 Furious Presents: Hobbs \u0026 Shaw | American Made | This Means War",
+  "id": "bw-p-nm6984689",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spencer Page",
+  "type": "task"
+}

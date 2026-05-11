@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Belzer. 1944–2023 | actor, writer, producer.\nDECEASED (1944–2023). Conan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0001938/\n_search: Richard Belzer | Law \u0026 Order: Special Victims Unit | Homicide: Life on the Street | Scarface | Species II",
+  "id": "bw-p-nm0001938",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Belzer",
+  "type": "task"
+}

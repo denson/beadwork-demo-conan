@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sterling K. Brown. b. 1976 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1250791/\n_search: Sterling K. Brown | Black Panther | American Fiction | Waves | Hotel Artemis",
+  "id": "bw-p-nm1250791",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sterling K. Brown",
+  "type": "task"
+}

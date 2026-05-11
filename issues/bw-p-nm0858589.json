@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carla Thomas. b. 1942 | actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0858589/\n_search: Carla Thomas | Baby Driver | White Boy Rick | Resident Alien | The Butcher",
+  "id": "bw-p-nm0858589",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carla Thomas",
+  "type": "task"
+}

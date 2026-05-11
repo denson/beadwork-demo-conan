@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sharon Jones. 1956–2016 | actress, music_department, composer.\nDECEASED (1956–2016). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1392716/\n_search: Sharon Jones | The Great Debaters | The Wolf of Wall Street | Good Luck Chuck | Waitress",
+  "id": "bw-p-nm1392716",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sharon Jones",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hot Hot Heat. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3166567/\n_search: Hot Hot Heat | John Tucker Must Die | Sex Drive | The Sisterhood of the Traveling Pants 2 | Psych",
+  "id": "bw-p-nm3166567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hot Hot Heat",
+  "type": "task"
+}

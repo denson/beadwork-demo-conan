@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neal McDonough. b. 1966 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0568180/\n_search: Neal McDonough | Minority Report | Captain America: The First Avenger | The Guardian | Boomtown",
+  "id": "bw-p-nm0568180",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neal McDonough",
+  "type": "task"
+}

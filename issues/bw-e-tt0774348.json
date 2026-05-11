@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yasmine Bleeth/Owen Wilson/Joey Slotnick. late_night, S3E101, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0774348/\n_search: Yasmine Bleeth/Owen Wilson/Joey Slotnick | 1996 | S3E101",
+  "id": "bw-e-tt0774348",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yasmine Bleeth/Owen Wilson/Joey Slotnick",
+  "type": "task"
+}

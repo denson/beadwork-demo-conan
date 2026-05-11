@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Drea de Matteo. b. 1972 | actress, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005576/\n_search: Drea de Matteo | The Sopranos | Assault on Precinct 13 | Swordfish | Joey",
+  "id": "bw-p-nm0005576",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Drea de Matteo",
+  "type": "task"
+}

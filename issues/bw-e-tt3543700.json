@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "LL Cool J/Blake Clark/Cindy Adams. late_night, S3E17, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3543700/\n_search: LL Cool J/Blake Clark/Cindy Adams | 1995 | S3E17",
+  "id": "bw-e-tt3543700",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "LL Cool J/Blake Clark/Cindy Adams",
+  "type": "task"
+}

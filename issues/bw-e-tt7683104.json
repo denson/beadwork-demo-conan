@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rainn Wilson/Angela Kinsey/Ivan Decker. conan_tbs, S8E9, 2017.\nRuntime: 42 min.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt7683104/\n_search: Rainn Wilson/Angela Kinsey/Ivan Decker | 2017 | S8E9",
+  "id": "bw-e-tt7683104",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rainn Wilson/Angela Kinsey/Ivan Decker",
+  "type": "task"
+}

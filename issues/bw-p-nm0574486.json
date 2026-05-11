@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa McRee. b. 1961 | actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0574486/\n_search: Lisa McRee | Terminator Genisys | The Comey Rule | LA Times Today | Lifetime Magazine",
+  "id": "bw-p-nm0574486",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa McRee",
+  "type": "task"
+}

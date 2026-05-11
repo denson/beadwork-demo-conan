@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dr. Ruth Westheimer/Ron Silver/Chet Atkins. late_night, S3E144, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4162874/\n_search: Dr. Ruth Westheimer/Ron Silver/Chet Atkins | 1996 | S3E144",
+  "id": "bw-e-tt4162874",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dr. Ruth Westheimer/Ron Silver/Chet Atkins",
+  "type": "task"
+}

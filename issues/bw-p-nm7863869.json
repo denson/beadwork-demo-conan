@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Margo Price. actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7863869/\n_search: Margo Price | Palmer | Big Mouth | Saturday Night Live | Women Who Rock",
+  "id": "bw-p-nm7863869",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Margo Price",
+  "type": "task"
+}

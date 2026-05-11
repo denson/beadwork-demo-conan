@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Rogers. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5190746/\n_search: Jimmy Rogers | Supernatural | Horsey",
+  "id": "bw-p-nm5190746",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Rogers",
+  "type": "task"
+}

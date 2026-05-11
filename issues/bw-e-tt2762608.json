@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Shaya/D.B. Sweeney/Mazzy Star. late_night, S1E222, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2762608/\n_search: Carol Shaya/D.B. Sweeney/Mazzy Star | 1994 | S1E222",
+  "id": "bw-e-tt2762608",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Shaya/D.B. Sweeney/Mazzy Star",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Francis Ford Coppola. b. 1939 | producer, director, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000338/\n_search: Francis Ford Coppola | Apocalypse Now | The Conversation | The Godfather | The Godfather Part II",
+  "id": "bw-p-nm0000338",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Francis Ford Coppola",
+  "type": "task"
+}

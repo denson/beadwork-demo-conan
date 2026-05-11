@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Cassidy. 1950–2017 | actor, music_department, producer.\nDECEASED (1950–2017). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0144180/\n_search: David Cassidy | The Partridge Family | Ant-Man and the Wasp | Police Story | Ask Harriet",
+  "id": "bw-p-nm0144180",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Cassidy",
+  "type": "task"
+}

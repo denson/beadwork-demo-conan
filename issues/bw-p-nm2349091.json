@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tina Pina Trachtenburg. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2349091/\n_search: Tina Pina Trachtenburg | Hipster Vice | Trachtenburg Family Slideshow Players: Off and on Broadway | The Kelly Clarkson Show",
+  "id": "bw-p-nm2349091",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tina Pina Trachtenburg",
+  "type": "task"
+}

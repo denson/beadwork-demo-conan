@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenny Irwin Jr.. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4272136/\n_search: Kenny Irwin Jr.",
+  "id": "bw-p-nm4272136",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenny Irwin Jr.",
+  "type": "task"
+}

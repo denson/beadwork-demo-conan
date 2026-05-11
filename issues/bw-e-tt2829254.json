@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beer Squad: Battle in Sudsville. conan_tbs, S3E72, 2013.\nIMDb: https://www.imdb.com/title/tt2829254/\n_search: Beer Squad: Battle in Sudsville | 2013 | S3E72",
+  "id": "bw-e-tt2829254",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beer Squad: Battle in Sudsville",
+  "type": "task"
+}

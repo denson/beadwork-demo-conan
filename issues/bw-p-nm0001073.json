@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Courteney Cox. b. 1964 | actress, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001073/\n_search: Courteney Cox | Friends | Scream | Scream 3 | Scream 2",
+  "id": "bw-p-nm0001073",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Courteney Cox",
+  "type": "task"
+}

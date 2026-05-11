@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Lieberman. 1942–2024 | archive_footage.\nDECEASED (1942–2024). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1060452/\n_search: Joe Lieberman | And Then the Climate Changed | Centered: Joe Lieberman | The Strange History of Don't Ask, Don't Tell | The MoveOn.org Story",
+  "id": "bw-p-nm1060452",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Lieberman",
+  "type": "task"
+}

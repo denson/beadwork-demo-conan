@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Omar Epps. b. 1973 | actor, music_department, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0004898/\n_search: Omar Epps | Love \u0026 Basketball | House | Brother | Juice",
+  "id": "bw-p-nm0004898",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Omar Epps",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cheap Applause from the Best Audience in the World. conan_tbs, S2E47, 2012.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt2239425/\n_search: Cheap Applause from the Best Audience in the World | 2012 | S2E47",
+  "id": "bw-e-tt2239425",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cheap Applause from the Best Audience in the World",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Momoa. b. 1979 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0597388/\n_search: Jason Momoa | Aquaman | A Minecraft Movie | Aquaman and the Lost Kingdom | Road to Paloma",
+  "id": "bw-p-nm0597388",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Momoa",
+  "type": "task"
+}

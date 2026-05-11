@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul B. Cummings. producer, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2650185/\n_search: Paul B. Cummings | Rick and Morty: C-132 | Summer Memories",
+  "id": "bw-p-nm2650185",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul B. Cummings",
+  "type": "task"
+}

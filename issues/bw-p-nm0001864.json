@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Noah Wyle. b. 1971 | actor, producer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0001864/\n_search: Noah Wyle | ER | Donnie Darko | A Few Good Men | The Librarian III: The Curse of the Judas Chalice",
+  "id": "bw-p-nm0001864",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Noah Wyle",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The 2nd Annual Scrapisode. conan_tbs, S5E135, 2015.\nRuntime: 41 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt4963216/\n_search: The 2nd Annual Scrapisode | 2015 | S5E135",
+  "id": "bw-e-tt4963216",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The 2nd Annual Scrapisode",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ashley Greene. b. 1987 | actress, production_department, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2230865/\n_search: Ashley Greene | The Twilight Saga: Breaking Dawn - Part 1 | Twilight | The Twilight Saga: New Moon | The Twilight Saga: Eclipse",
+  "id": "bw-p-nm2230865",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ashley Greene",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Ferguson. writer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4329054/\n_search: David Ferguson | Michael Bolton's Big, Sexy Valentine's Day Special | John Mulaney Presents: Everybody's in LA | Everybody's Live with John Mulaney | I Love You, America",
+  "id": "bw-p-nm4329054",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Ferguson",
+  "type": "task"
+}

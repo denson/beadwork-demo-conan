@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rick Cerone. b. 1954.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0148725/\n_search: Rick Cerone | Monday Night Baseball | Sunday Night Baseball | 1981 American League Championship Series | 1980 American League Championship Series",
+  "id": "bw-p-nm0148725",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rick Cerone",
+  "type": "task"
+}

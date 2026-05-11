@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Geraldo Rivera. b. 1943 | actor, writer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0729273/\n_search: Geraldo Rivera | Contact | All About Steve | Grumpier Old Men | Primary Colors",
+  "id": "bw-p-nm0729273",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Geraldo Rivera",
+  "type": "task"
+}

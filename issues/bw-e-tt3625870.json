@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mira Sorvino/David Paymer/Goo Goo Dolls. late_night, S3E189, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3625870/\n_search: Mira Sorvino/David Paymer/Goo Goo Dolls | 1996 | S3E189",
+  "id": "bw-e-tt3625870",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mira Sorvino/David Paymer/Goo Goo Dolls",
+  "type": "task"
+}

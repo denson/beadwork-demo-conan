@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Duvall. 1931–2026 | actor, producer, director.\nDECEASED (1931–2026). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000380/\n_search: Robert Duvall | The Apostle | Tender Mercies | The Judge | The Godfather",
+  "id": "bw-p-nm0000380",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Duvall",
+  "type": "task"
+}

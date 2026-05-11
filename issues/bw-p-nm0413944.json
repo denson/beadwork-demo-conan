@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil Jackson. b. 1945 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0413944/\n_search: Phil Jackson | Detail | Three-Peat: The Chicago Bulls' Historic Third Championship Season | Unconquered | Four Square Miles to Glory",
+  "id": "bw-p-nm0413944",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil Jackson",
+  "type": "task"
+}

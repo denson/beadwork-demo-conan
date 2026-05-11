@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Lee Curtis. b. 1958 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000130/\n_search: Jamie Lee Curtis | True Lies | Halloween | Everything Everywhere All at Once | Halloween",
+  "id": "bw-p-nm0000130",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Lee Curtis",
+  "type": "task"
+}

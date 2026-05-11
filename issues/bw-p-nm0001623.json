@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maria Pitillo. b. 1966 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001623/\n_search: Maria Pitillo | Godzilla | Chaplin | True Romance | Natural Born Killers",
+  "id": "bw-p-nm0001623",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maria Pitillo",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dirty Projectors. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3633347/\n_search: Dirty Projectors | Things Heard \u0026 Seen | Afternoon Delight | Dirty Projectors: Gun Has No Trigger | Hi Custodian",
+  "id": "bw-p-nm3633347",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dirty Projectors",
+  "type": "task"
+}

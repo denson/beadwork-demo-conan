@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jean-Claude Van Damme. b. 1960 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000241/\n_search: Jean-Claude Van Damme | Double Impact | Double Team | Hard Target | Kickboxer",
+  "id": "bw-p-nm0000241",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jean-Claude Van Damme",
+  "type": "task"
+}

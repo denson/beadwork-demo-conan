@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Patton Oswalt. conan_tbs, S10E76, ?.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt12317906/\n_search: From Largo Theatre Patton Oswalt |  | S10E76",
+  "id": "bw-e-tt12317906",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Patton Oswalt",
+  "type": "task"
+}

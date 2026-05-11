@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yelawolf. b. 1979 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4128654/\n_search: Yelawolf | Ride Along | Step Up: Revolution | The Peanut Butter Falcon | NBA 2K12",
+  "id": "bw-p-nm4128654",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yelawolf",
+  "type": "task"
+}

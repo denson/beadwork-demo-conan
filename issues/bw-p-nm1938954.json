@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hansen. b. 1959 | producer, actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1938954/\n_search: Chris Hansen | Dateline NBC | To Catch a Predator | 30 Rock | The Boys",
+  "id": "bw-p-nm1938954",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hansen",
+  "type": "task"
+}

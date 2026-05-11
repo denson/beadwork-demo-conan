@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stacy Jones. b. 1970 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1396916/\n_search: Stacy Jones | Insomnia | 10 Things I Hate About You | Van Wilder | American Wedding",
+  "id": "bw-p-nm1396916",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stacy Jones",
+  "type": "task"
+}

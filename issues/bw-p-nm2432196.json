@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Wu. b. 1980 | actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2432196/\n_search: John Wu | Bull | DMZ | Power Book III: Raising Kanan | FBI: Most Wanted",
+  "id": "bw-p-nm2432196",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Wu",
+  "type": "task"
+}

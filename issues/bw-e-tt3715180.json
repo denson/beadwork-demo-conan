@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rudolph Giuliani/Isaac Hayes. late_night, S8E33, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3715180/\n_search: Rudolph Giuliani/Isaac Hayes | 2000 | S8E33",
+  "id": "bw-e-tt3715180",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rudolph Giuliani/Isaac Hayes",
+  "type": "task"
+}

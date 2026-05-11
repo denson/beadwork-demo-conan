@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Giamatti/Alyson Hannigan/Bad Religion. late_night, S15E5, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1101815/\n_search: Paul Giamatti/Alyson Hannigan/Bad Religion | 2007 | S15E5",
+  "id": "bw-e-tt1101815",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Giamatti/Alyson Hannigan/Bad Religion",
+  "type": "task"
+}

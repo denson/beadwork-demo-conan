@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Turducken Kerfuffle. conan_tbs, S1E12, 2010.\nRuntime: 60 min.\nIMDb rating: 8.6.\nIMDb: https://www.imdb.com/title/tt1780017/\n_search: The Turducken Kerfuffle | 2010 | S1E12",
+  "id": "bw-e-tt1780017",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Turducken Kerfuffle",
+  "type": "task"
+}

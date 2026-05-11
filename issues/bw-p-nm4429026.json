@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emma Shannon. actress, miscellaneous, sound_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4429026/\n_search: Emma Shannon | Pretty Freekin Scary | Grease: Rise of the Pink Ladies | The Righteous Gemstones | Finding Dory",
+  "id": "bw-p-nm4429026",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emma Shannon",
+  "type": "task"
+}

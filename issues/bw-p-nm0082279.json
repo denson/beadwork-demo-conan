@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Estlin. actress, editorial_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0082279/\n_search: Jennifer Estlin | Proven Innocent | Chicago P.D. | Law \u0026 Order | Everything Fun You Could Possibly Do in Aledo, Illinois",
+  "id": "bw-p-nm0082279",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Estlin",
+  "type": "task"
+}

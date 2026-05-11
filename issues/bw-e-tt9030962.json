@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey Dean Morgan/Jamie Neumann/Chad Daniels. conan_tbs, S8E111, 2018.\nRuntime: 42 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt9030962/\n_search: Jeffrey Dean Morgan/Jamie Neumann/Chad Daniels | 2018 | S8E111",
+  "id": "bw-e-tt9030962",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey Dean Morgan/Jamie Neumann/Chad Daniels",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Verlander. b. 1983 | archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2966788/\n_search: Justin Verlander | Sunday Night Baseball | 2006 American League Championship Series | The 2017 World Series | 2019 World Series",
+  "id": "bw-p-nm2966788",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Verlander",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kid 'N Play. actor, miscellaneous, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3126192/\n_search: Kid 'N Play | Point Blank | House Party | Class Act | House Party 3",
+  "id": "bw-p-nm3126192",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kid 'N Play",
+  "type": "task"
+}

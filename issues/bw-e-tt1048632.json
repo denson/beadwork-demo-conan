@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Williams/Leslie Mann/Los Straightjackets with Big Sandy. late_night, S14E147, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1048632/\n_search: Brian Williams/Leslie Mann/Los Straightjackets with Big Sandy | 2007 | S14E147",
+  "id": "bw-e-tt1048632",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Williams/Leslie Mann/Los Straightjackets with Big Sandy",
+  "type": "task"
+}

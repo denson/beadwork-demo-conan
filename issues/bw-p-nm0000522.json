@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vanessa Marcil. b. 1968 | actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000522/\n_search: Vanessa Marcil | The Rock | General Hospital | Las Vegas | Beverly Hills, 90210",
+  "id": "bw-p-nm0000522",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vanessa Marcil",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Thompson. b. 1959 | actor, writer, producer.\nConan-show appearances: 22\nIMDb: https://www.imdb.com/name/nm0860690/\n_search: Scott Thompson | The Kids in the Hall | The Pacifier | But I'm Chris Jericho! | Kids in the Hall: Brain Candy",
+  "id": "bw-p-nm0860690",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Thompson",
+  "type": "task"
+}

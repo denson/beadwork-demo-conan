@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alex Morgan. b. 1989 | producer, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4906598/\n_search: Alex Morgan | Alex \u0026 Me | Nike FC Presents the Footballverse | The Kicks | FIFA Women's World Cup France 2019",
+  "id": "bw-p-nm4906598",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alex Morgan",
+  "type": "task"
+}

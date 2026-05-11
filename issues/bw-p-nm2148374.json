@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Afro Celt Sound System. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2148374/\n_search: Afro Celt Sound System | Tristan + Isolde | Gangs of New York | Hotel Rwanda | Stigmata",
+  "id": "bw-p-nm2148374",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Afro Celt Sound System",
+  "type": "task"
+}

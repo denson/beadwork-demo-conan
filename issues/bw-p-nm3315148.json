@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Boyd. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3315148/\n_search: Julia Boyd | The Pitt | Shameless | Scream Queens | Baskets",
+  "id": "bw-p-nm3315148",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Boyd",
+  "type": "task"
+}

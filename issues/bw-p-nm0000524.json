@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Stuart Masterson. b. 1966 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000524/\n_search: Mary Stuart Masterson | Benny \u0026 Joon | Some Kind of Wonderful | Fried Green Tomatoes | Bad Girls",
+  "id": "bw-p-nm0000524",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Stuart Masterson",
+  "type": "task"
+}

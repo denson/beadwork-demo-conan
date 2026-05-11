@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ronda Rousey. b. 1987 | actress, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm3313925/\n_search: Ronda Rousey | Furious 7 | The Expendables 3 | Entourage | Charlie's Angels",
+  "id": "bw-p-nm3313925",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ronda Rousey",
+  "type": "task"
+}

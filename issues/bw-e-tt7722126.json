@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Black/Kate Hudson. conan_tbs, S8E20, 2017.\nRuntime: 42 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt7722126/\n_search: Jack Black/Kate Hudson | 2017 | S8E20",
+  "id": "bw-e-tt7722126",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Black/Kate Hudson",
+  "type": "task"
+}

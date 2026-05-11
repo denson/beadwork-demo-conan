@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alison Pill. b. 1985 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0683467/\n_search: Alison Pill | Scott Pilgrim vs. the World | Goon | Midnight in Paris | Dan in Real Life",
+  "id": "bw-p-nm0683467",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alison Pill",
+  "type": "task"
+}

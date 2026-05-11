@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pierce Cravens. b. 1986 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0186655/\n_search: Pierce Cravens | Mouse | Ghostlight | Boardwalk Empire | Saint Frances",
+  "id": "bw-p-nm0186655",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pierce Cravens",
+  "type": "task"
+}

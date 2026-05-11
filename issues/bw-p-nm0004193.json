@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Debbie Rochon. b. 1968 | actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004193/\n_search: Debbie Rochon | Flesh of the Unforgiven | Model Hunger | Exhumed | Slime City Massacre",
+  "id": "bw-p-nm0004193",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Debbie Rochon",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maria Bello. b. 1967 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004742/\n_search: Maria Bello | A History of Violence | The Cooler | Coyote Ugly | Lights Out",
+  "id": "bw-p-nm0004742",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maria Bello",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Van Dyke. 1931–2018 | actor, soundtrack, archive_footage.\nDECEASED (1931–2018). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0886733/\n_search: Jerry Van Dyke | Coach | McLintock! | Yes, Dear | Palm Springs Weekend",
+  "id": "bw-p-nm0886733",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Van Dyke",
+  "type": "task"
+}

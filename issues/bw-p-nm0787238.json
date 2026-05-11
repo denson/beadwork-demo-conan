@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Shaffer. b. 1949 | music_department, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0787238/\n_search: Paul Shaffer | This Is Spinal Tap | Hercules | A Very Murray Christmas | Eraser",
+  "id": "bw-p-nm0787238",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Shaffer",
+  "type": "task"
+}

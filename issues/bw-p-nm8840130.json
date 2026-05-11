@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Antonio Greger. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8840130/\n_search: Antonio Greger | Lollapalooza Berlin | C à vous | Evening Urgant | The Late Late Show with James Corden",
+  "id": "bw-p-nm8840130",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Antonio Greger",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kurt Loder. b. 1945 | actor, writer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0517064/\n_search: Kurt Loder | Get Him to the Greek | Book of Shadows: Blair Witch 2 | The Electric State | The Adventures of Ford Fairlane",
+  "id": "bw-p-nm0517064",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kurt Loder",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Weiss. 1948–2024 | actress, archive_footage.\nDECEASED (1948–2024). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2607332/\n_search: Mary Weiss | NYPD Blue | Off Label",
+  "id": "bw-p-nm2607332",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Weiss",
+  "type": "task"
+}

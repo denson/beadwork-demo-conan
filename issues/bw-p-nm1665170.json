@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Goo Goo Dolls. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1665170/\n_search: Goo Goo Dolls | City of Angels | Transformers | Twister | Batman \u0026 Robin",
+  "id": "bw-p-nm1665170",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Goo Goo Dolls",
+  "type": "task"
+}

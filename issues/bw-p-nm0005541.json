@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marlon Wayans. b. 1972 | actor, writer, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0005541/\n_search: Marlon Wayans | White Chicks | Little Man | Don't Be a Menace to South Central While Drinking Your Juice in the Hood | Scary Movie",
+  "id": "bw-p-nm0005541",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marlon Wayans",
+  "type": "task"
+}

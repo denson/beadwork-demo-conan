@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Son Volt. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1811949/\n_search: Son Volt | Feeling Minnesota | Dream with the Fishes | The Big One | Grey's Anatomy",
+  "id": "bw-p-nm1811949",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Son Volt",
+  "type": "task"
+}

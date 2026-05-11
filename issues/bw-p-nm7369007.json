@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Guglielmo. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7369007/\n_search: Chris Guglielmo | NHL 08",
+  "id": "bw-p-nm7369007",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Guglielmo",
+  "type": "task"
+}

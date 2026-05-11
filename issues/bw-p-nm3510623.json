@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Dead Weather. composer, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3510623/\n_search: The Dead Weather | The Twilight Saga: Eclipse | Horns | Crazy, Stupid, Love. | Misfits",
+  "id": "bw-p-nm3510623",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Dead Weather",
+  "type": "task"
+}

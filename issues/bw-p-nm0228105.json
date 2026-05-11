@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Di Paolo. actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0228105/\n_search: Nick Di Paolo | The Nick Di Paolo Show | Tough Crowd with Colin Quinn | Louie | Comedy Central Roasts",
+  "id": "bw-p-nm0228105",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Di Paolo",
+  "type": "task"
+}

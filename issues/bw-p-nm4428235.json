@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Head and the Heart. music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4428235/\n_search: The Head and the Heart | Wish I Was Here | The Hollars | The Only Living Boy in New York | Summer of 8",
+  "id": "bw-p-nm4428235",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Head and the Heart",
+  "type": "task"
+}

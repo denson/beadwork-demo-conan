@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Guest. b. 1948 | actor, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001302/\n_search: Christopher Guest | This Is Spinal Tap | Waiting for Guffman | A Mighty Wind | Best in Show",
+  "id": "bw-p-nm0001302",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Guest",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Dice Clay/Jen Kirkman/Billy Wayne Davis. conan_tbs, S7E33, 2017.\nRuntime: 42 min.\nIMDb rating: 4.3.\nIMDb: https://www.imdb.com/title/tt6426674/\n_search: Andrew Dice Clay/Jen Kirkman/Billy Wayne Davis | 2017 | S7E33",
+  "id": "bw-e-tt6426674",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Dice Clay/Jen Kirkman/Billy Wayne Davis",
+  "type": "task"
+}

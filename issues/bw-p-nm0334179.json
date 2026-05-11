@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Graham. b. 1967 | actress, music_department, producer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0334179/\n_search: Lauren Graham | Gilmore Girls | Bad Santa | Because I Said So | Max",
+  "id": "bw-p-nm0334179",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Graham",
+  "type": "task"
+}

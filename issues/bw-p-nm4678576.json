@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jordyn Curet. actress, soundtrack, executive.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4678576/\n_search: Jordyn Curet | The Drama | Home Economics | Star Wars: Visions | Marriage Story",
+  "id": "bw-p-nm4678576",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jordyn Curet",
+  "type": "task"
+}

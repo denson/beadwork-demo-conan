@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J.B. Smoove. b. 1965 | actor, writer, producer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm1356578/\n_search: J.B. Smoove | Spider-Man: Far from Home | Curb Your Enthusiasm | Hall Pass | Date Night",
+  "id": "bw-p-nm1356578",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J.B. Smoove",
+  "type": "task"
+}

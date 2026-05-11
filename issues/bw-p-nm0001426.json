@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Kingsley. b. 1943 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001426/\n_search: Ben Kingsley | Sexy Beast | Gandhi | House of Sand and Fog | Schindler's List",
+  "id": "bw-p-nm0001426",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Kingsley",
+  "type": "task"
+}

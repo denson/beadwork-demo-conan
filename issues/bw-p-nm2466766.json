@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Derrick Hodge. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2466766/\n_search: Derrick Hodge | Inside Man | Waist Deep | Miracle at St. Anna | The Photograph",
+  "id": "bw-p-nm2466766",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Derrick Hodge",
+  "type": "task"
+}

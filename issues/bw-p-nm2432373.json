@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank Iero. b. 1981 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2432373/\n_search: Frank Iero | Premium Rush | The Man with the Iron Fists | House of Wax | Never Back Down",
+  "id": "bw-p-nm2432373",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank Iero",
+  "type": "task"
+}

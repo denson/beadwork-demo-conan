@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joshua David Blum. producer, writer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3643572/\n_search: Joshua David Blum | About Colonia | Boys Clap, Girls Dance | The Murphys | Night Visions",
+  "id": "bw-p-nm3643572",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joshua David Blum",
+  "type": "task"
+}

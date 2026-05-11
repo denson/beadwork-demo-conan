@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mia St. John. b. 1967 | actress, miscellaneous, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0820665/\n_search: Mia St. John | Skeeter | Pacific Blue | Hold On | Knockout Kings 2001",
+  "id": "bw-p-nm0820665",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mia St. John",
+  "type": "task"
+}

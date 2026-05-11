@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Chaplin. b. 1970 | actor, soundtrack, archive_footage.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001035/\n_search: Ben Chaplin | The Thin Red Line | September 5 | The Truth About Cats \u0026 Dogs | Murder by Numbers",
+  "id": "bw-p-nm0001035",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Chaplin",
+  "type": "task"
+}

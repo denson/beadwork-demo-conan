@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Thyre. b. 1968 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0862332/\n_search: Sarah Thyre | Strangers with Candy | All Hail King Julien | The Thin Pink Line | Hotel Transylvania",
+  "id": "bw-p-nm0862332",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Thyre",
+  "type": "task"
+}

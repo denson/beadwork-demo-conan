@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pete Correale. writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1188982/\n_search: Pete Correale | Kevin Can Wait | Well Done with Sebastian Maniscalco | The Crew | Flagrant",
+  "id": "bw-p-nm1188982",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pete Correale",
+  "type": "task"
+}

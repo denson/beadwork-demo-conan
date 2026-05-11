@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lianne La Havas. actress, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5163434/\n_search: Lianne La Havas | Loving Vincent | Waterloo Road | Lianne La Havas at Summer Sessions | The Voice",
+  "id": "bw-p-nm5163434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lianne La Havas",
+  "type": "task"
+}

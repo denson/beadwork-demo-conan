@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan King. 1927–2004 | producer, actor, writer.\nDECEASED (1927–2004). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0454418/\n_search: Alan King | Casino | Cat's Eye | Rush Hour 2 | The Bonfire of the Vanities",
+  "id": "bw-p-nm0454418",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan King",
+  "type": "task"
+}

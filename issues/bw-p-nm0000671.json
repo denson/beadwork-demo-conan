@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Bob Thornton. b. 1955 | actor, writer, producer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0000671/\n_search: Billy Bob Thornton | Sling Blade | A Simple Plan | The Man Who Wasn't There | Bandits",
+  "id": "bw-p-nm0000671",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Bob Thornton",
+  "type": "task"
+}

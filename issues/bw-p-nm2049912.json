@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Cardigans. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2049912/\n_search: The Cardigans | Resident Evil: Welcome to Raccoon City | The Thirteenth Floor | 10 Things I Hate About You | Cruel Intentions",
+  "id": "bw-p-nm2049912",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Cardigans",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Janet Jackson. b. 1966 | music_artist, actress, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001390/\n_search: Janet Jackson | Poetic Justice | Nutty Professor II: The Klumps | Why Did I Get Married? | Why Did I Get Married Too?",
+  "id": "bw-p-nm0001390",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Janet Jackson",
+  "type": "task"
+}

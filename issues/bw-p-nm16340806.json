@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Washington. actor, archive_footage.\nDECEASED (None–2021). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm16340806/\n_search: Richard Washington",
+  "id": "bw-p-nm16340806",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Washington",
+  "type": "task"
+}

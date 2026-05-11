@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robby Takac. b. 1964 | actor, music_department, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1019016/\n_search: Robby Takac | Atop the Fourth Wall | Charmed | Johnny Gruesome | Dragonfly: Escape from Deneb IV",
+  "id": "bw-p-nm1019016",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robby Takac",
+  "type": "task"
+}

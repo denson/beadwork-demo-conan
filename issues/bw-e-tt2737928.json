@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Legend of Legend Cove. conan_tbs, S3E53, 2013.\nIMDb: https://www.imdb.com/title/tt2737928/\n_search: The Legend of Legend Cove | 2013 | S3E53",
+  "id": "bw-e-tt2737928",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Legend of Legend Cove",
+  "type": "task"
+}

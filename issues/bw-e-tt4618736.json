@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aubrey Plaza/Ron Funches/Calexico. conan_tbs, S5E69, 2015.\nIMDb: https://www.imdb.com/title/tt4618736/\n_search: Aubrey Plaza/Ron Funches/Calexico | 2015 | S5E69",
+  "id": "bw-e-tt4618736",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aubrey Plaza/Ron Funches/Calexico",
+  "type": "task"
+}

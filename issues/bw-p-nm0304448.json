@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Angela Gannon. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0304448/\n_search: Angela Gannon | The Harry Hill Movie | The Diviners | The Secret Policeman's Ball: The Ball in the Hall",
+  "id": "bw-p-nm0304448",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Angela Gannon",
+  "type": "task"
+}

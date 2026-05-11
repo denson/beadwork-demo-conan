@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cory Monteith. 1982–2013 | actor, writer, soundtrack.\nDECEASED (1982–2013). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1719342/\n_search: Cory Monteith | Glee | Monte Carlo | McCanick | The Invisible",
+  "id": "bw-p-nm1719342",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cory Monteith",
+  "type": "task"
+}

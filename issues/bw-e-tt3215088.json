@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Font Wars: Hellvetica vs. Calibri Part 3. conan_tbs, S3E146, 2013.\nIMDb: https://www.imdb.com/title/tt3215088/\n_search: Font Wars: Hellvetica vs. Calibri Part 3 | 2013 | S3E146",
+  "id": "bw-e-tt3215088",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Font Wars: Hellvetica vs. Calibri Part 3",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Unknown Mortal Orchestra. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5709067/\n_search: Unknown Mortal Orchestra | That Awkward Moment | For a Good Time, Call... | All the Wilderness | Get Shorty",
+  "id": "bw-p-nm5709067",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Unknown Mortal Orchestra",
+  "type": "task"
+}

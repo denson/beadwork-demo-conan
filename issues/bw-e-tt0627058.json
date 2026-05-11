@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quentin Tarantino/Naseem Hamed/Mike Lupica. late_night, S5E49, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627058/\n_search: Quentin Tarantino/Naseem Hamed/Mike Lupica | 1997 | S5E49",
+  "id": "bw-e-tt0627058",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quentin Tarantino/Naseem Hamed/Mike Lupica",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Kindler. b. 1956 | actor, writer, producer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0454306/\n_search: Andy Kindler | Raising Dad | Who's the Caboose? | Skins | Everybody Loves Raymond",
+  "id": "bw-p-nm0454306",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Kindler",
+  "type": "task"
+}

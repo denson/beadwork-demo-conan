@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Sinise. b. 1955 | actor, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000641/\n_search: Gary Sinise | Forrest Gump | Of Mice and Men | Apollo 13 | Ransom",
+  "id": "bw-p-nm0000641",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Sinise",
+  "type": "task"
+}

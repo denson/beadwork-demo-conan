@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dwyane Wade. b. 1982 | actor, producer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1862367/\n_search: Dwyane Wade | What to Expect When You're Expecting | Shot in the Dark | The Dads | Fantasy Camp",
+  "id": "bw-p-nm1862367",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dwyane Wade",
+  "type": "task"
+}

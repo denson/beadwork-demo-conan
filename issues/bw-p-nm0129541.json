@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Calderon. b. 1965 | producer, editor, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0129541/\n_search: Richard Calderon | The Meet | The Producer | The Real Housewives of D.C. | Hardcore Pawn: Chicago",
+  "id": "bw-p-nm0129541",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Calderon",
+  "type": "task"
+}

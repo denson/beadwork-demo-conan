@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel Edgerton. b. 1974 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0249291/\n_search: Joel Edgerton | The Gift | Boy Erased | The King | The Great Gatsby",
+  "id": "bw-p-nm0249291",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel Edgerton",
+  "type": "task"
+}

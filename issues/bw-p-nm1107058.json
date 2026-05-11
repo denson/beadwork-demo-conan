@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Pardo. b. 1966 | podcaster, producer, actor.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm1107058/\n_search: Jimmy Pardo | Race to Escape | National Lampoon's Funny Money",
+  "id": "bw-p-nm1107058",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Pardo",
+  "type": "task"
+}

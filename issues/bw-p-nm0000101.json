@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Aykroyd. b. 1952 | writer, actor, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000101/\n_search: Dan Aykroyd | Ghostbusters | Blues Brothers 2000 | Nothing But Trouble | Ghostbusters II",
+  "id": "bw-p-nm0000101",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Aykroyd",
+  "type": "task"
+}

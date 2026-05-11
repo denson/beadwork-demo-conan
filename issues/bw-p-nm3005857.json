@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Jones. 1966–2021.\nDECEASED (1966–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3005857/\n_search: Tony Jones | The NFL on CBS | NFL Monday Night Football | The NFL on NBC | NFL on Fox",
+  "id": "bw-p-nm3005857",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Jones",
+  "type": "task"
+}

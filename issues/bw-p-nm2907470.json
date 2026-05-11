@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vlasta. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2907470/\n_search: Vlasta",
+  "id": "bw-p-nm2907470",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vlasta",
+  "type": "task"
+}

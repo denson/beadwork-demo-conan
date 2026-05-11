@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clive Owen. b. 1964 | actor, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0654110/\n_search: Clive Owen | Children of Men | Closer | Gosford Park | Inside Man",
+  "id": "bw-p-nm0654110",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clive Owen",
+  "type": "task"
+}

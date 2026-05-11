@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Placido Domingo/Patton Oswalt/moe.. late_night, S14E66, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0935630/\n_search: Placido Domingo/Patton Oswalt/moe. | 2007 | S14E66",
+  "id": "bw-e-tt0935630",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Placido Domingo/Patton Oswalt/moe.",
+  "type": "task"
+}

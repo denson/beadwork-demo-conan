@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Khalid Rahmaan. production_department, assistant_director, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1952064/\n_search: Khalid Rahmaan | I Am Legend | Color of Truth | Love Lessons | One-Third",
+  "id": "bw-p-nm1952064",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Khalid Rahmaan",
+  "type": "task"
+}

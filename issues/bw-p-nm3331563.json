@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brendon Walsh. b. 1973 | writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3331563/\n_search: Brendon Walsh | The Midnight Gospel | Punching Henry | Crank Yankers | Slingshot Cops",
+  "id": "bw-p-nm3331563",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brendon Walsh",
+  "type": "task"
+}

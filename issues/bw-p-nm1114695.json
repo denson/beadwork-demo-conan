@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil McGraw. b. 1950 | writer, producer, actor.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm1114695/\n_search: Phil McGraw | Scary Movie 4 | Madea Goes to Jail | Dr. Phil | Bull",
+  "id": "bw-p-nm1114695",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil McGraw",
+  "type": "task"
+}

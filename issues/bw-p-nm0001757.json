@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Sorbo. b. 1958 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001757/\n_search: Kevin Sorbo | Let There Be Light | The Santa Suit | Andromeda | Hercules and the Circle of Fire",
+  "id": "bw-p-nm0001757",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Sorbo",
+  "type": "task"
+}

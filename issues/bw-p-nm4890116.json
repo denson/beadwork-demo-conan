@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Griffin Goldsmith. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4890116/\n_search: Griffin Goldsmith | I Lost My Mother's Ashes | Dawes Works Through Writer's Block | Lee Pardini: Homebodies Album Video | Lee Pardini: One Day at a Time",
+  "id": "bw-p-nm4890116",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Griffin Goldsmith",
+  "type": "task"
+}

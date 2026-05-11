@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ellie Kemper. b. 1980 | actress, producer, soundtrack.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm2608689/\n_search: Ellie Kemper | Bridesmaids | 21 Jump Street | The Lego Batman Movie | Unbreakable Kimmy Schmidt",
+  "id": "bw-p-nm2608689",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ellie Kemper",
+  "type": "task"
+}

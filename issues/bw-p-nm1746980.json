@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Cassidy. b. 1983 | actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1746980/\n_search: Michael Cassidy | Zoom | The O.C. | Batman v Superman: Dawn of Justice | Army of the Dead",
+  "id": "bw-p-nm1746980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Cassidy",
+  "type": "task"
+}

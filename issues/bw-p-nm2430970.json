@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Duke Spirit. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2430970/\n_search: The Duke Spirit | 17 Again | Spread | Nikita | The Last Sect",
+  "id": "bw-p-nm2430970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Duke Spirit",
+  "type": "task"
+}

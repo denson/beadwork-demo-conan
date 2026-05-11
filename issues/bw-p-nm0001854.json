@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rita Wilson. b. 1956 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001854/\n_search: Rita Wilson | Jingle All the Way | Sleepless in Seattle | Runaway Bride | Now and Then",
+  "id": "bw-p-nm0001854",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rita Wilson",
+  "type": "task"
+}

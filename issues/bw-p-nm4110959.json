@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mando Lopez. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4110959/\n_search: Mando Lopez | The Burning Plain | Buffy the Vampire Slayer | Last Call with Carson Daly",
+  "id": "bw-p-nm4110959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mando Lopez",
+  "type": "task"
+}

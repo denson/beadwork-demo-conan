@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susan Tedeschi. b. 1970 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1442910/\n_search: Susan Tedeschi | Bug | Queen City | Dancing at the Blue Iguana | Party of Five",
+  "id": "bw-p-nm1442910",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susan Tedeschi",
+  "type": "task"
+}

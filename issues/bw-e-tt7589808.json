@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "President Bill Clinton/Jack Whitehall. conan_tbs, S8E7, 2017.\nRuntime: 42 min.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt7589808/\n_search: President Bill Clinton/Jack Whitehall | 2017 | S8E7",
+  "id": "bw-e-tt7589808",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "President Bill Clinton/Jack Whitehall",
+  "type": "task"
+}

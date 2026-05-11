@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rich Homie Quan. 1989–2024 | actor, composer, soundtrack.\nDECEASED (1989–2024). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6274330/\n_search: Rich Homie Quan | Furious 7 | Uncut Gems | Magic Mike XXL | Manglehorn",
+  "id": "bw-p-nm6274330",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rich Homie Quan",
+  "type": "task"
+}

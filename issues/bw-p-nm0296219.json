@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joanne Froggatt. b. 1980 | actress, producer, executive.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0296219/\n_search: Joanne Froggatt | MobLand | Downton Abbey | Breathtaking | Liar",
+  "id": "bw-p-nm0296219",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joanne Froggatt",
+  "type": "task"
+}

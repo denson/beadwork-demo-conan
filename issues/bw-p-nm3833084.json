@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fortune Feimster. writer, actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3833084/\n_search: Fortune Feimster | The Mindy Project | Office Christmas Party | Fortune Feimster: Sweet \u0026 Salty | Chelsea Lately",
+  "id": "bw-p-nm3833084",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fortune Feimster",
+  "type": "task"
+}

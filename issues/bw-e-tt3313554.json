@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cindy Crawford/Julia Sweeney/Chris Isaak. late_night, S4E36, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3313554/\n_search: Cindy Crawford/Julia Sweeney/Chris Isaak | 1996 | S4E36",
+  "id": "bw-e-tt3313554",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cindy Crawford/Julia Sweeney/Chris Isaak",
+  "type": "task"
+}

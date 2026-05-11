@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jose Medeles. music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm12464479/\n_search: Jose Medeles | Q: Into the Storm | Last Call with Carson Daly | Late Night with Seth Meyers",
+  "id": "bw-p-nm12464479",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jose Medeles",
+  "type": "task"
+}

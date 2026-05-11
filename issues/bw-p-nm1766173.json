@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Regan. actor, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm1766173/\n_search: Brian Regan | Top Five | Brian Regan: The Epitome of Hyperbole | Dr. Katz, Professional Therapist | Brian Regan: Live from Radio City Music Hall",
+  "id": "bw-p-nm1766173",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Regan",
+  "type": "task"
+}

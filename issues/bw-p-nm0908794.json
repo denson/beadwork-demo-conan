@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Wallace. 1918–2012 | producer, actor, miscellaneous.\nDECEASED (1918–2012). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0908794/\n_search: Mike Wallace | 60 Minutes | The Sword and the Dragon | The Big Surprise | Stand by for Crime",
+  "id": "bw-p-nm0908794",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Wallace",
+  "type": "task"
+}

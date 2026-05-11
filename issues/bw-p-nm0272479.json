@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Tyler Ferguson. b. 1975 | actor, producer, soundtrack.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0272479/\n_search: Jesse Tyler Ferguson | Cocaine Bear | Ice Age: Collision Course | Modern Family | Untraceable",
+  "id": "bw-p-nm0272479",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Tyler Ferguson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Rudnitsky. conan_tbs, S9E44, 2019.\nRuntime: 21 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt10207424/\n_search: Jon Rudnitsky | 2019 | S9E44",
+  "id": "bw-e-tt10207424",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Rudnitsky",
+  "type": "task"
+}

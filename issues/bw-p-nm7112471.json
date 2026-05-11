@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seinabo Sey. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7112471/\n_search: Seinabo Sey | We Are Your Friends | Bones | Greetings from the North | Good Behavior",
+  "id": "bw-p-nm7112471",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seinabo Sey",
+  "type": "task"
+}

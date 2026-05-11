@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elliot Bergman. b. 1981 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8257192/\n_search: Elliot Bergman | Pitch Perfect | I Care a Lot | Road House | The Way Way Back",
+  "id": "bw-p-nm8257192",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elliot Bergman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Patton. actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3284897/\n_search: Sean Patton | Maron | English Teacher | All Wifed Out | Yes, and...",
+  "id": "bw-p-nm3284897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Patton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Kinnear. b. 1963 | actor, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0001427/\n_search: Greg Kinnear | As Good as It Gets | Little Miss Sunshine | Sabrina | You've Got Mail",
+  "id": "bw-p-nm0001427",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Kinnear",
+  "type": "task"
+}

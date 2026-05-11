@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Morris Abraham. director, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0008956/\n_search: Morris Abraham | Sea World and Busch Gardens Adventures: Alien Vacation! | Howie | Mad TV | Kids Say the Darndest Things",
+  "id": "bw-p-nm0008956",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Morris Abraham",
+  "type": "task"
+}

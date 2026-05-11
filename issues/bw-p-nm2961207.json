@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maggie Maye. actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2961207/\n_search: Maggie Maye | Bandslam | Broken Bonds | Unnamed | Crunch Time",
+  "id": "bw-p-nm2961207",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maggie Maye",
+  "type": "task"
+}

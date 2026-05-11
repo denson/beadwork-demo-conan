@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kaki King. b. 1979 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1813015/\n_search: Kaki King | Into the Wild | August Rush | 3 People I've Never Heard Of | Ménage à Trois",
+  "id": "bw-p-nm1813015",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kaki King",
+  "type": "task"
+}

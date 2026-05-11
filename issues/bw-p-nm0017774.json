@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Guy Ale. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0017774/\n_search: Guy Ale | Rollerball | The Farmhouse | Law \u0026 Order: Special Victims Unit | Now and Again",
+  "id": "bw-p-nm0017774",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Guy Ale",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Annie Mumolo. b. 1973 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1754239/\n_search: Annie Mumolo | Bridesmaids | Bad Moms | Barb and Star Go to Vista Del Mar | The Idea of You",
+  "id": "bw-p-nm1754239",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Annie Mumolo",
+  "type": "task"
+}

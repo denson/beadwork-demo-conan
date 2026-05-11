@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Sprecher. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2343139/\n_search: Amanda Sprecher | The Final Equation | Tom's Phone | Cathy Coppola | The Welcoming",
+  "id": "bw-p-nm2343139",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Sprecher",
+  "type": "task"
+}

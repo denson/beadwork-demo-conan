@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barry White. 1944–2003 | actor, composer, music_department.\nDECEASED (1944–2003). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0924489/\n_search: Barry White | Argylle | Money Talks | Mean Streets | Bad Boys: Ride or Die",
+  "id": "bw-p-nm0924489",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barry White",
+  "type": "task"
+}

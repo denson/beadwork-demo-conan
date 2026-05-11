@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark-Paul Gosselaar. b. 1974 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004971/\n_search: Mark-Paul Gosselaar | Franklin \u0026 Bash | NYPD Blue | The Passage | Pitch",
+  "id": "bw-p-nm0004971",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark-Paul Gosselaar",
+  "type": "task"
+}

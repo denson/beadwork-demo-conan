@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lori Loughlin. b. 1964 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0521753/\n_search: Lori Loughlin | Summerland | Full House | When Calls the Heart | The New Kids",
+  "id": "bw-p-nm0521753",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lori Loughlin",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Hicks. 1951–2020 | actor, producer, miscellaneous.\nDECEASED (1951–2020). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0382830/\n_search: Dan Hicks | Darkman | Evil Dead II | Intruder | My Name Is Bruce",
+  "id": "bw-p-nm0382830",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Hicks",
+  "type": "task"
+}

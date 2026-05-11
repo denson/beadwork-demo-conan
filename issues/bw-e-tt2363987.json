@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Fowler/Fran Lebowitz/John Fogerty. late_night, S4E142, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2363987/\n_search: Jim Fowler/Fran Lebowitz/John Fogerty | 1997 | S4E142",
+  "id": "bw-e-tt2363987",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Fowler/Fran Lebowitz/John Fogerty",
+  "type": "task"
+}

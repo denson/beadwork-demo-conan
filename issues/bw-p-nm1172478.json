@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel Kinnaman. b. 1979 | actor, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1172478/\n_search: Joel Kinnaman | The Killing | RoboCop | Suicide Squad | For All Mankind",
+  "id": "bw-p-nm1172478",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel Kinnaman",
+  "type": "task"
+}

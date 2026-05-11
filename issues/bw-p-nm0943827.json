@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Wyman. b. 1936 | actor, music_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0943827/\n_search: Bill Wyman | Phenomena | Eat the Rich | Opera | Green Ice",
+  "id": "bw-p-nm0943827",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Wyman",
+  "type": "task"
+}

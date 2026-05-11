@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Ultimo. production_department, visual_effects, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3244429/\n_search: Christopher Ultimo | Film School the Musical | The Supermarket | The Boot",
+  "id": "bw-p-nm3244429",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Ultimo",
+  "type": "task"
+}

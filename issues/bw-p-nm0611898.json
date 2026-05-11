@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Mull. 1943–2024 | actor, miscellaneous, writer.\nDECEASED (1943–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0611898/\n_search: Martin Mull | Clue | Jingle All the Way | Mr. Mom | Roseanne",
+  "id": "bw-p-nm0611898",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Mull",
+  "type": "task"
+}

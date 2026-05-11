@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elizabeth Olsen. b. 1989 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0647634/\n_search: Elizabeth Olsen | Martha Marcy May Marlene | Doctor Strange in the Multiverse of Madness | Wind River | Avengers: Age of Ultron",
+  "id": "bw-p-nm0647634",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elizabeth Olsen",
+  "type": "task"
+}

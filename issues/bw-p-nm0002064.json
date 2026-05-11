@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Giancarlo Esposito. b. 1958 | music_department, actor, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0002064/\n_search: Giancarlo Esposito | Breaking Bad | The Usual Suspects | The Jungle Book | Do the Right Thing",
+  "id": "bw-p-nm0002064",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Giancarlo Esposito",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chad Daniels. writer, producer, actor.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm2941938/\n_search: Chad Daniels | Live at Just for Laughs | Chad Daniels: Mixed Reviews | Chad Daniels: Dad Chaniels | Chad Daniels: Empty Nester",
+  "id": "bw-p-nm2941938",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chad Daniels",
+  "type": "task"
+}

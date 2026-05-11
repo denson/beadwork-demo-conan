@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Gaffigan. b. 1966 | actor, writer, producer.\nConan-show appearances: 35\nIMDb: https://www.imdb.com/name/nm0300712/\n_search: Jim Gaffigan | Chappaquiddick | American Dreamer | Peter Pan \u0026 Wendy | Linoleum",
+  "id": "bw-p-nm0300712",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Gaffigan",
+  "type": "task"
+}

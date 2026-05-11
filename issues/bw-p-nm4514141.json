@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Fay. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4514141/\n_search: James Fay | Squatchers: The People Who Believe in Bigfoot | Beyond the Trail | Momo: The Missouri Monster | Operation Nightscream 2003",
+  "id": "bw-p-nm4514141",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Fay",
+  "type": "task"
+}

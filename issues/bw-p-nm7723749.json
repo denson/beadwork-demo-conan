@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Six-String Soldiers. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7723749/\n_search: Six-String Soldiers | Salute to Service 2024: A Veterans Day Celebration | Salute to Service 2025: A Veterans Day Celebration | Sound the Bells: A Holiday Celebration",
+  "id": "bw-p-nm7723749",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Six-String Soldiers",
+  "type": "task"
+}

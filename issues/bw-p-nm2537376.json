@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Megan Heyn. actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2537376/\n_search: Megan Heyn | Crazy Ex-Girlfriend | The Big Bang Theory | Freak Dance | 2 Broke Girls",
+  "id": "bw-p-nm2537376",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Megan Heyn",
+  "type": "task"
+}

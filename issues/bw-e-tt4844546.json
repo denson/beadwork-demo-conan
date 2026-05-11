@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Stars of The Walking Dead and Game of Thrones. conan_tbs, S5E114, 2015.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt4844546/\n_search: The Stars of The Walking Dead and Game of Thrones | 2015 | S5E114",
+  "id": "bw-e-tt4844546",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Stars of The Walking Dead and Game of Thrones",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aubrey Plaza. b. 1984 | actress, producer, writer.\nConan-show appearances: 13\nIMDb: https://www.imdb.com/name/nm2201555/\n_search: Aubrey Plaza | Safety Not Guaranteed | Ingrid Goes West | Emily the Criminal | Dirty Grandpa",
+  "id": "bw-p-nm2201555",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aubrey Plaza",
+  "type": "task"
+}

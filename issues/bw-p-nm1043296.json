@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adrianne Frost. b. 1972 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1043296/\n_search: Adrianne Frost | Nurse Jackie | Law \u0026 Order: Special Victims Unit | Law \u0026 Order | Law \u0026 Order: Criminal Intent",
+  "id": "bw-p-nm1043296",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adrianne Frost",
+  "type": "task"
+}

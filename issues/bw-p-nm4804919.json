@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spencer Krug. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4804919/\n_search: Spencer Krug | Horns | Where the Trail Ends | Diamond Tongues | A.P. Bio",
+  "id": "bw-p-nm4804919",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spencer Krug",
+  "type": "task"
+}

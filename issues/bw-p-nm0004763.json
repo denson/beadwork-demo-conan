@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary J. Blige. b. 1971 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004763/\n_search: Mary J. Blige | Mudbound | The Help | Rock of Ages | The Wiz Live!",
+  "id": "bw-p-nm0004763",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary J. Blige",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harvey Fierstein/Beverly Johnson/Fontella Bass. late_night, S2E112, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2805942/\n_search: Harvey Fierstein/Beverly Johnson/Fontella Bass | 1995 | S2E112",
+  "id": "bw-e-tt2805942",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harvey Fierstein/Beverly Johnson/Fontella Bass",
+  "type": "task"
+}

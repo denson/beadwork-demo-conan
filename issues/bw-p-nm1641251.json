@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Riki Lindhome. b. 1979 | actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1641251/\n_search: Riki Lindhome | The Last House on the Left | My Best Friend's Girl | The Lego Batman Movie | Knives Out",
+  "id": "bw-p-nm1641251",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Riki Lindhome",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nate Bargatze. b. 1979 | writer, producer, actor.\nConan-show appearances: 4 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm2567088/\n_search: Nate Bargatze | The Breadwinner | Your Friend, Nate Bargatze | Nateland Presents | the Showcase | Joe Zimmerman: Cult Classic",
+  "id": "bw-p-nm2567088",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nate Bargatze",
+  "type": "task"
+}

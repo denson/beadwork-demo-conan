@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Scolaro. b. 1973 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1046714/\n_search: Brian Scolaro | Dexter | Mad Men | Grey's Anatomy | Stacked",
+  "id": "bw-p-nm1046714",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Scolaro",
+  "type": "task"
+}

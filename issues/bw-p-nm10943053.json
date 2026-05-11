@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Once Blue. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10943053/\n_search: Once Blue | Mr. Wrong",
+  "id": "bw-p-nm10943053",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Once Blue",
+  "type": "task"
+}

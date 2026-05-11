@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zoey Deutch. b. 1994 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3614913/\n_search: Zoey Deutch | Nouvelle Vague | Juror #2 | Not Okay | Set It Up",
+  "id": "bw-p-nm3614913",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zoey Deutch",
+  "type": "task"
+}

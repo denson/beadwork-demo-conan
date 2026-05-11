@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ray Gobes Jr.. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8078676/\n_search: Ray Gobes Jr. | iGilbert | Fluff | 11PM Drop Off | Luke and Emma and a Gas Station on Franklin Ave",
+  "id": "bw-p-nm8078676",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ray Gobes Jr.",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Les Paul. 1915–2009 | actor, music_department, director.\nDECEASED (1915–2009). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0666904/\n_search: Les Paul | Speed Racer | Casino | Carol | This Boy's Life",
+  "id": "bw-p-nm0666904",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Les Paul",
+  "type": "task"
+}

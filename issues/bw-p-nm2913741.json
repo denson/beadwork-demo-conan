@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Puciato. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2913741/\n_search: Greg Puciato",
+  "id": "bw-p-nm2913741",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Puciato",
+  "type": "task"
+}

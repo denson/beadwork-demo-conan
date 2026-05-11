@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Norton. b. 1969 | actor, producer, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0001570/\n_search: Edward Norton | Fight Club | American History X | Primal Fear | Birdman or (The Unexpected Virtue of Ignorance)",
+  "id": "bw-p-nm0001570",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Norton",
+  "type": "task"
+}

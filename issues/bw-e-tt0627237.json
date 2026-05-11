@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shannen Doherty/Timothy Dalton. late_night, S6E117, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627237/\n_search: Shannen Doherty/Timothy Dalton | 1999 | S6E117",
+  "id": "bw-e-tt0627237",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shannen Doherty/Timothy Dalton",
+  "type": "task"
+}

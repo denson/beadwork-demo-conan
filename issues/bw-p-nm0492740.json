@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eddie Lawrence. 1919–2014 | actor, writer.\nDECEASED (1919–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0492740/\n_search: Eddie Lawrence | The Victor Borge Show | The Wild Party | The Night They Raided Minsky's | Somebody Killed Her Husband",
+  "id": "bw-p-nm0492740",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eddie Lawrence",
+  "type": "task"
+}

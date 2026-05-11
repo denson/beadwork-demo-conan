@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diego Luna/Billy Eichner/Pretenders. conan_tbs, S7E22, 2016.\nRuntime: 42 min.\nIMDb rating: 5.1.\nIMDb: https://www.imdb.com/title/tt6324730/\n_search: Diego Luna/Billy Eichner/Pretenders | 2016 | S7E22",
+  "id": "bw-e-tt6324730",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diego Luna/Billy Eichner/Pretenders",
+  "type": "task"
+}

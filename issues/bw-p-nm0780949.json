@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Sebastian. b. 1944 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0780949/\n_search: John Sebastian | Fast X | Die Hard: With a Vengeance | The Postman | Blow-Up",
+  "id": "bw-p-nm0780949",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Sebastian",
+  "type": "task"
+}

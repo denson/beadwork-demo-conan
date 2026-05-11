@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Davíð Antonsson. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8421991/\n_search: Davíð Antonsson | The Voice | Mad Baker Music | Kaleo: Viva Roma - in The Shadow of The Colosseum | Late Night with Seth Meyers",
+  "id": "bw-p-nm8421991",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Davíð Antonsson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenny Carkeet. sound_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7481533/\n_search: Kenny Carkeet | Blaze and the Monster Machines | Transformers: EarthSpark | Baby Shark's Big Show! | Tales of the Teenage Mutant Ninja Turtles",
+  "id": "bw-p-nm7481533",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenny Carkeet",
+  "type": "task"
+}

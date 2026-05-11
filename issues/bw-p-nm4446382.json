@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Twin Shadow. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4446382/\n_search: Twin Shadow | Paper Towns | Booksmart | Kindred | Every Day",
+  "id": "bw-p-nm4446382",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Twin Shadow",
+  "type": "task"
+}

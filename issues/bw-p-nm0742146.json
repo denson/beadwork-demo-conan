@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Rosenbaum. b. 1972 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0742146/\n_search: Michael Rosenbaum | Guardians of the Galaxy Vol. 3 | Guardians of the Galaxy: Vol. 2 | Smallville | Urban Legend",
+  "id": "bw-p-nm0742146",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Rosenbaum",
+  "type": "task"
+}

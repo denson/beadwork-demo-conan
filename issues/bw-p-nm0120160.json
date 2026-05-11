@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim J. Bullock. b. 1955 | actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0120160/\n_search: Jim J. Bullock | Spaceballs | Too Close for Comfort | Ron and Laura Take Back America | Role/Play",
+  "id": "bw-p-nm0120160",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim J. Bullock",
+  "type": "task"
+}

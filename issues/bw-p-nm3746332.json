@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Monrok. actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3746332/\n_search: Monrok | Sorry, Charlie | Brainiacs in La La Land | The Angry Klown | The Brink",
+  "id": "bw-p-nm3746332",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Monrok",
+  "type": "task"
+}

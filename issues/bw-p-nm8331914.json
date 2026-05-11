@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Dolan. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8331914/\n_search: Jack Dolan | Somnium | Loufest",
+  "id": "bw-p-nm8331914",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Dolan",
+  "type": "task"
+}

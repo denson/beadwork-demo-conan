@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Megan Grano. actress, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3693188/\n_search: Megan Grano | This Is 40 | Veep | Jimmy Kimmel Live! | Weeds",
+  "id": "bw-p-nm3693188",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Megan Grano",
+  "type": "task"
+}

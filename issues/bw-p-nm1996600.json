@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Nardizzi. (no IMDb bio data).\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1996600/\n_search: Paul Nardizzi | An Evening at the Improv | NESN Comedy All-Stars | The Strange Name Movie | The Steve Katsos Show",
+  "id": "bw-p-nm1996600",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Nardizzi",
+  "type": "task"
+}

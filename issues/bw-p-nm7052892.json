@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cassidey Fralin. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7052892/\n_search: Cassidey Fralin | The Stepdaughter | Sydney to the Max | Always and Forever | Black-ish",
+  "id": "bw-p-nm7052892",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cassidey Fralin",
+  "type": "task"
+}

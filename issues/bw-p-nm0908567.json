@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Wallace. b. 1947 | writer, producer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0908567/\n_search: Chris Wallace | The Chris Wallace Show | Who's Talking to Chris Wallace | Primetime | Fox News Sunday",
+  "id": "bw-p-nm0908567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Wallace",
+  "type": "task"
+}

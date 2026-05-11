@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Roker/Vanessa Redgrave/Jeff Hale. late_night, S3E4, 1995.\nRuntime: 57 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt3518258/\n_search: Al Roker/Vanessa Redgrave/Jeff Hale | 1995 | S3E4",
+  "id": "bw-e-tt3518258",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Roker/Vanessa Redgrave/Jeff Hale",
+  "type": "task"
+}

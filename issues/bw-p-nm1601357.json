@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Melissa Goode. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1601357/\n_search: Melissa Goode | For Always",
+  "id": "bw-p-nm1601357",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Melissa Goode",
+  "type": "task"
+}

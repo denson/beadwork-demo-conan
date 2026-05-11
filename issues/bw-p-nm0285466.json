@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lukas Forchhammer. b. 1988 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0285466/\n_search: Lukas Forchhammer | The Crumbs | The Crumbs 3: Dad's Bright Idea | Crumb at a Gallop | The Red Door",
+  "id": "bw-p-nm0285466",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lukas Forchhammer",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beach House. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3777782/\n_search: Beach House | Wild Target | Daydream Nation | Chemical Hearts | The Stand",
+  "id": "bw-p-nm3777782",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beach House",
+  "type": "task"
+}

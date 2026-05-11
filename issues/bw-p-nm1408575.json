@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kent Kasper. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1408575/\n_search: Kent Kasper | 1000 Ways to Die | 34902 | Warpath",
+  "id": "bw-p-nm1408575",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kent Kasper",
+  "type": "task"
+}

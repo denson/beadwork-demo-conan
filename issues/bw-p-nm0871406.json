@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kylie Travis. b. 1970 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0871406/\n_search: Kylie Travis | Sanctuary | Gia | Tarzán | Retroactive",
+  "id": "bw-p-nm0871406",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kylie Travis",
+  "type": "task"
+}

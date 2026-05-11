@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Albers. writer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0016437/\n_search: Chris Albers | Politically Incorrect | Borgia",
+  "id": "bw-p-nm0016437",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Albers",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Annuals. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2514486/\n_search: Annuals | Annuals: Dry Clothes | The Interface",
+  "id": "bw-p-nm2514486",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Annuals",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "DJ Black. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8619651/\n_search: DJ Black",
+  "id": "bw-p-nm8619651",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "DJ Black",
+  "type": "task"
+}

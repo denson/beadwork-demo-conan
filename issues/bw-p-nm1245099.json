@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Avril Lavigne. b. 1984 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1245099/\n_search: Avril Lavigne | Fast Food Nation | Over the Hedge | Bruce Almighty | Alice in Wonderland",
+  "id": "bw-p-nm1245099",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Avril Lavigne",
+  "type": "task"
+}

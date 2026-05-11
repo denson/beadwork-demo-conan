@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "And the Wind Cried 'Harriet.'. conan_tbs, S1E141, 2011.\nIMDb rating: 6.7.\nIMDb: https://www.imdb.com/title/tt2049728/\n_search: And the Wind Cried 'Harriet.' | 2011 | S1E141",
+  "id": "bw-e-tt2049728",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "And the Wind Cried 'Harriet.'",
+  "type": "task"
+}

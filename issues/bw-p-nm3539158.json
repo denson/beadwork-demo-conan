@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Huey Lewis \u0026 The News. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3539158/\n_search: Huey Lewis \u0026 The News | Back to the Future | Big | Contact | Pineapple Express",
+  "id": "bw-p-nm3539158",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Huey Lewis \u0026 The News",
+  "type": "task"
+}

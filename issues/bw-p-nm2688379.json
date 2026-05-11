@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A.J. Jacobs. writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2688379/\n_search: A.J. Jacobs | Celebrity Deathmatch | Living Biblically | TV Funhouse | Intrusion",
+  "id": "bw-p-nm2688379",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A.J. Jacobs",
+  "type": "task"
+}

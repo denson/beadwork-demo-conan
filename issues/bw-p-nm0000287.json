@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "William Baldwin. b. 1963 | actor, producer, stunts.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000287/\n_search: William Baldwin | Sliver | Backdraft | The Squid and the Whale | Fair Game",
+  "id": "bw-p-nm0000287",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "William Baldwin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kirby Howell-Baptiste. actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4624730/\n_search: Kirby Howell-Baptiste | The Good Place | Barry | Killing Eve | Love",
+  "id": "bw-p-nm4624730",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kirby Howell-Baptiste",
+  "type": "task"
+}

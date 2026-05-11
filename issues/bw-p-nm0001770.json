@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fisher Stevens. b. 1963 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001770/\n_search: Fisher Stevens | Short Circuit | Short Circuit 2 | Hackers | Super Mario Bros.",
+  "id": "bw-p-nm0001770",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fisher Stevens",
+  "type": "task"
+}

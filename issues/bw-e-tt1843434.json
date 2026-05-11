@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hooray for Scabies. conan_tbs, S1E55, 2011.\nRuntime: 60 min.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt1843434/\n_search: Hooray for Scabies | 2011 | S1E55",
+  "id": "bw-e-tt1843434",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hooray for Scabies",
+  "type": "task"
+}

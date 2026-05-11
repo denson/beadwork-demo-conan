@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Dornan/Blake Anderson/Orny Adams. conan_tbs, S7E40, 2017.\nRuntime: 42 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt6480456/\n_search: Jamie Dornan/Blake Anderson/Orny Adams | 2017 | S7E40",
+  "id": "bw-e-tt6480456",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Dornan/Blake Anderson/Orny Adams",
+  "type": "task"
+}

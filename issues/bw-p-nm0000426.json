@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Grey. b. 1960 | actress, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000426/\n_search: Jennifer Grey | Dirty Dancing | Ferris Bueller's Day Off | A Real Pain | Red Dawn",
+  "id": "bw-p-nm0000426",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Grey",
+  "type": "task"
+}

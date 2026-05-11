@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thommy Price. 1956–2025 | actor, music_department, composer.\nDECEASED (1956–2025). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1765155/\n_search: Thommy Price | The Sweet Life | The Allnighter | Multiple Sarcasms | Undateable John",
+  "id": "bw-p-nm1765155",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thommy Price",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luka Jones. b. 1975 | actor, podcaster, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4678005/\n_search: Luka Jones | Shrill | People of Earth | Her | Up All Night",
+  "id": "bw-p-nm4678005",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luka Jones",
+  "type": "task"
+}

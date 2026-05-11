@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandy Norwood. b. 1979 | actress, music_department, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005275/\n_search: Brandy Norwood | I Still Know What You Did Last Summer | Moesha | Osmosis Jones | I Know What You Did Last Summer",
+  "id": "bw-p-nm0005275",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandy Norwood",
+  "type": "task"
+}

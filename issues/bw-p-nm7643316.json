@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marian Hill. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7643316/\n_search: Marian Hill | Jem and the Holograms | Santa Clarita Diet | Deception | Love Isn't Blind",
+  "id": "bw-p-nm7643316",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marian Hill",
+  "type": "task"
+}

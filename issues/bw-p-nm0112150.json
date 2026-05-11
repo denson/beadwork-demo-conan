@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Max Brooks. b. 1972 | writer, actor, production_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0112150/\n_search: Max Brooks | World War Z | The Great Wall | Saturday Night Live | Devolution",
+  "id": "bw-p-nm0112150",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Max Brooks",
+  "type": "task"
+}

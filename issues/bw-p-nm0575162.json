@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Meaney. 1956–2016 | actor, writer, archive_footage.\nDECEASED (1956–2016). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0575162/\n_search: Kevin Meaney | Big | The Nightmare Room | Uncle Buck | 30 Rock",
+  "id": "bw-p-nm0575162",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Meaney",
+  "type": "task"
+}

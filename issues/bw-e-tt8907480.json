@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristin Chenoweth/Tom Segura/Marcus King Band. conan_tbs, S8E102, 2018.\nRuntime: 42 min.\nIMDb rating: 6.8.\nIMDb: https://www.imdb.com/title/tt8907480/\n_search: Kristin Chenoweth/Tom Segura/Marcus King Band | 2018 | S8E102",
+  "id": "bw-e-tt8907480",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristin Chenoweth/Tom Segura/Marcus King Band",
+  "type": "task"
+}

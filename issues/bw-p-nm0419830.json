@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Jean. b. 1961 | producer, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0419830/\n_search: Al Jean | The Simpsons | The Simpsons Movie | It's Garry Shandling's Show. | Teen Angel",
+  "id": "bw-p-nm0419830",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:jibber_jabber",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Jean",
+  "type": "task"
+}

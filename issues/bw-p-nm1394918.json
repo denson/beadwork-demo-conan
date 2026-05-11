@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allen Shellenberger. 1969–2009 | actor, director, composer.\nDECEASED (1969–2009). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1394918/\n_search: Allen Shellenberger | Mr. Deeds | Crossroads | The Replacements | Central Intelligence",
+  "id": "bw-p-nm1394918",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allen Shellenberger",
+  "type": "task"
+}

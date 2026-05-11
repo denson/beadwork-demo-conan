@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gualtiero Negrini. actor, writer, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3261816/\n_search: Gualtiero Negrini | Fairlane Road | Cockroach Man | Chinese Waiter Guy | No One Will Know",
+  "id": "bw-p-nm3261816",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gualtiero Negrini",
+  "type": "task"
+}

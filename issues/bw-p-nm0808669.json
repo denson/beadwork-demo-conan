@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey L. Smith. 1939–2004 | actor, archive_footage.\nDECEASED (1939–2004). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0808669/\n_search: Jeffrey L. Smith | Grumpier Old Men | The Frugal Gourmet | The Frugal Gourmet Keeps the Feast | The Pat Sajak Show",
+  "id": "bw-p-nm0808669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey L. Smith",
+  "type": "task"
+}

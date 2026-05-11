@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seaton Smith. actor, production_department, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3077302/\n_search: Seaton Smith | Top Five | Mulaney | Heat of the Moment | Private Life",
+  "id": "bw-p-nm3077302",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seaton Smith",
+  "type": "task"
+}

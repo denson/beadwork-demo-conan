@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Konkle. b. 1987 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5193396/\n_search: Anna Konkle | PEN15 | Rosewood | Murderbot | Plus One",
+  "id": "bw-p-nm5193396",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Konkle",
+  "type": "task"
+}

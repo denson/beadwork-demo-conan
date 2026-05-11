@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Famke Janssen. b. 1964 | actress, producer, costume_department.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000463/\n_search: Famke Janssen | X-Men: The Last Stand | GoldenEye | X-Men | House on Haunted Hill",
+  "id": "bw-p-nm0000463",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Famke Janssen",
+  "type": "task"
+}

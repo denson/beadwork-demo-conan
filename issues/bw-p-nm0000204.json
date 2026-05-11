@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natalie Portman. b. 1981 | actress, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000204/\n_search: Natalie Portman | Black Swan | V for Vendetta | Jackie | Closer",
+  "id": "bw-p-nm0000204",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natalie Portman",
+  "type": "task"
+}

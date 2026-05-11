@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kim Cattrall/Seth Meyers/David Rakoff. late_night, S13E11, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627720/\n_search: Kim Cattrall/Seth Meyers/David Rakoff | 2005 | S13E11",
+  "id": "bw-e-tt0627720",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kim Cattrall/Seth Meyers/David Rakoff",
+  "type": "task"
+}

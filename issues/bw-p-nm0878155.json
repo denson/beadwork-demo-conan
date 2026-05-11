@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicholas Turturro. b. 1962 | actor, producer, writer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0878155/\n_search: Nicholas Turturro | The Longest Yard | NYPD Blue | Highest 2 Lowest | Here Comes the Boom",
+  "id": "bw-p-nm0878155",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicholas Turturro",
+  "type": "task"
+}

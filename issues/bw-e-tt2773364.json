@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roshumba/Matt Groening/Jimmie Vaughan. late_night, S2E20, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2773364/\n_search: Roshumba/Matt Groening/Jimmie Vaughan | 1994 | S2E20",
+  "id": "bw-e-tt2773364",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roshumba/Matt Groening/Jimmie Vaughan",
+  "type": "task"
+}

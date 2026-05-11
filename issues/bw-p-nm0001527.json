@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elizabeth McGovern. b. 1961 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001527/\n_search: Elizabeth McGovern | Ordinary People | Downton Abbey | The Handmaid's Tale | Ragtime",
+  "id": "bw-p-nm0001527",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elizabeth McGovern",
+  "type": "task"
+}

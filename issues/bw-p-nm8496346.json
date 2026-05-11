@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Curtis Marrero. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8496346/\n_search: Curtis Marrero | Front Row Boston | Late Show with David Letterman | Last Call with Carson Daly | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm8496346",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Curtis Marrero",
+  "type": "task"
+}

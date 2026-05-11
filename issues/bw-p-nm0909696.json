@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Walsh. b. 1945 | producer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0909696/\n_search: John Walsh | Wrongfully Accused | America's Most Wanted: America Fights Back | The Fugitive | Simon \u0026 Simon",
+  "id": "bw-p-nm0909696",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Walsh",
+  "type": "task"
+}

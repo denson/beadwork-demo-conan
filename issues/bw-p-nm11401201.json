@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason West. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm11401201/\n_search: Jason West",
+  "id": "bw-p-nm11401201",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason West",
+  "type": "task"
+}

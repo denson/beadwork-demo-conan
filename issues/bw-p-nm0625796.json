@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tracy Nelson. b. 1963 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0625796/\n_search: Tracy Nelson | Down and Out in Beverly Hills | The Night Caller | Dumb Luck | Father Dowling Mysteries",
+  "id": "bw-p-nm0625796",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tracy Nelson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Animal Collective. composer, music_department, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2833204/\n_search: Animal Collective | Shortbus | Project X | Waves | Mulberry St",
+  "id": "bw-p-nm2833204",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Animal Collective",
+  "type": "task"
+}

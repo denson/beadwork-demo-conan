@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Awkward Product Placement. Swiffer. conan_tbs, S1E89, 2011.\nRuntime: 60 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt1921504/\n_search: The Awkward Product Placement. Swiffer | 2011 | S1E89",
+  "id": "bw-e-tt1921504",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Awkward Product Placement. Swiffer",
+  "type": "task"
+}

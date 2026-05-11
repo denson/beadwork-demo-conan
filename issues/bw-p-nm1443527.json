@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Riggle. b. 1970 | actor, writer, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm1443527/\n_search: Rob Riggle | The Daily Show | The Hangover | 21 Jump Street | Step Brothers",
+  "id": "bw-p-nm1443527",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Riggle",
+  "type": "task"
+}

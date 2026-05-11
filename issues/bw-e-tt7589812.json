@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Cast of 'Daddy's Home 2'/Jon Dore. conan_tbs, S8E8, 2017.\nRuntime: 42 min.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt7589812/\n_search: The Cast of 'Daddy's Home 2'/Jon Dore | 2017 | S8E8",
+  "id": "bw-e-tt7589812",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Cast of 'Daddy's Home 2'/Jon Dore",
+  "type": "task"
+}

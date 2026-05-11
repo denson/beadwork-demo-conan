@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Plummer. b. 1957 | actress, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001625/\n_search: Amanda Plummer | Pulp Fiction | Abigail Harm | The Fisher King | Star Trek: Picard",
+  "id": "bw-p-nm0001625",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Plummer",
+  "type": "task"
+}

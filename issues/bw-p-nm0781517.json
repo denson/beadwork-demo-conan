@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pete Seeger. 1919–2014 | composer, music_department, actor.\nDECEASED (1919–2014). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0781517/\n_search: Pete Seeger | Just Cause | Forrest Gump | Confessions of a Dangerous Mind | Pride",
+  "id": "bw-p-nm0781517",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pete Seeger",
+  "type": "task"
+}

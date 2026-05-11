@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eminem. b. 1972 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004896/\n_search: Eminem | 8 Mile | Funny People | Fast Five | Cradle 2 the Grave",
+  "id": "bw-p-nm0004896",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eminem",
+  "type": "task"
+}

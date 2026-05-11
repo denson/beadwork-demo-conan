@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Schirripa. b. 1958 | actor, producer, soundtrack.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0771993/\n_search: Steve Schirripa | The Sopranos | Open Season 2 | Wonder Wheel | Detroit Rock City",
+  "id": "bw-p-nm0771993",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Schirripa",
+  "type": "task"
+}

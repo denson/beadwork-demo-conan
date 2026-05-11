@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cobie Smulders/Werner Herzog/Lindsey Stirling. conan_tbs, S6E122, 2016.\nRuntime: 42 min.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt5986506/\n_search: Cobie Smulders/Werner Herzog/Lindsey Stirling | 2016 | S6E122",
+  "id": "bw-e-tt5986506",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cobie Smulders/Werner Herzog/Lindsey Stirling",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Greenfield. special_effects.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1725134/\n_search: John Greenfield | Saturday Night Live | Saturday Night Live Weekend Update Halftime Special | Saturday Night Live: Best of This Season | Saturday Night Live: 40th Anniversary Special",
+  "id": "bw-p-nm1725134",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Greenfield",
+  "type": "task"
+}

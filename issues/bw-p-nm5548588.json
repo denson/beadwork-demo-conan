@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hunter Hunted. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5548588/\n_search: Hunter Hunted",
+  "id": "bw-p-nm5548588",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hunter Hunted",
+  "type": "task"
+}

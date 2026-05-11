@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Arden Myrin. actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0617141/\n_search: Arden Myrin | Free Bert | The Righteous Gemstones | The Marvelous Mrs. Maisel | Insatiable",
+  "id": "bw-p-nm0617141",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Arden Myrin",
+  "type": "task"
+}

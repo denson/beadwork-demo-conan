@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marshall Crenshaw. b. 1953 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0187409/\n_search: Marshall Crenshaw | La Bamba | Empire Records | Walk Hard: The Dewey Cox Story | Peggy Sue Got Married",
+  "id": "bw-p-nm0187409",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marshall Crenshaw",
+  "type": "task"
+}

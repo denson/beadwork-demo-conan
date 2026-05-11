@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erin Andrews. b. 1978 | actress, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2933395/\n_search: Erin Andrews | That's My Boy | WWE Smackdown! | The Dreamer III | GOAT",
+  "id": "bw-p-nm2933395",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erin Andrews",
+  "type": "task"
+}

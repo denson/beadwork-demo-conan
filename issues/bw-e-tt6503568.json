@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Anderson/Michelle Monaghan/Cristela Alonzo. conan_tbs, S7E44, 2017.\nRuntime: 41 min.\nIMDb: https://www.imdb.com/title/tt6503568/\n_search: Anthony Anderson/Michelle Monaghan/Cristela Alonzo | 2017 | S7E44",
+  "id": "bw-e-tt6503568",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Anderson/Michelle Monaghan/Cristela Alonzo",
+  "type": "task"
+}

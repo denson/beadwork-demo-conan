@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Meryl Streep. b. 1949 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000658/\n_search: Meryl Streep | Mamma Mia! | Out of Africa | The Devil Wears Prada | August: Osage County",
+  "id": "bw-p-nm0000658",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Meryl Streep",
+  "type": "task"
+}

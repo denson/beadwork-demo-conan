@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Smits. b. 1955 | actor, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001751/\n_search: Jimmy Smits | Star Wars: Episode III - Revenge of the Sith | NYPD Blue | In the Heights | Rogue One: A Star Wars Story",
+  "id": "bw-p-nm0001751",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Smits",
+  "type": "task"
+}

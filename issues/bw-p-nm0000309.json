@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Bowie. 1947–2016 | music_artist, composer, actor.\nDECEASED (1947–2016). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000309/\n_search: David Bowie | Labyrinth | The Man Who Fell to Earth | The Prestige | Zoolander",
+  "id": "bw-p-nm0000309",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Bowie",
+  "type": "task"
+}

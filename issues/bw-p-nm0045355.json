@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sebastian Bach. b. 1968 | music_artist, actor, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0045355/\n_search: Sebastian Bach | Rock of Ages | Gilmore Girls | Swearnet | Final Rinse",
+  "id": "bw-p-nm0045355",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sebastian Bach",
+  "type": "task"
+}

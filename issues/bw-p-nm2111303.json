@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christian Navarro. b. 1991 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2111303/\n_search: Christian Navarro | 13 Reasons Why | Prey for the Devil | Can You Ever Forgive Me? | Vinyl",
+  "id": "bw-p-nm2111303",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christian Navarro",
+  "type": "task"
+}

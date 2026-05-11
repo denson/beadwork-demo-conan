@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Wight. b. 1972 | actor, archive_footage.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0927833/\n_search: Paul Wight | Jingle All the Way | The Waterboy | WCW Monday Nitro | MacGruber",
+  "id": "bw-p-nm0927833",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Wight",
+  "type": "task"
+}

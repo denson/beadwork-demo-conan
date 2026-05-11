@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rebecca Romijn/Lisa Lampanelli/Monsters of Folk. tonight_show, S1E71, 2009.\nIMDb rating: 6.8.\nIMDb: https://www.imdb.com/title/tt1507874/\n_search: Rebecca Romijn/Lisa Lampanelli/Monsters of Folk | 2009 | S1E71",
+  "id": "bw-e-tt1507874",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rebecca Romijn/Lisa Lampanelli/Monsters of Folk",
+  "type": "task"
+}

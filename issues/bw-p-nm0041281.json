@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rene Auberjonois. 1940–2019 | actor, director, miscellaneous.\nDECEASED (1940–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0041281/\n_search: Rene Auberjonois | Star Trek: Deep Space Nine | The Patriot | M*A*S*H | Boston Legal",
+  "id": "bw-p-nm0041281",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rene Auberjonois",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Zahn/Fran Drescher/Jack Gallagher. late_night, S12E105, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627653/\n_search: Steve Zahn/Fran Drescher/Jack Gallagher | 2005 | S12E105",
+  "id": "bw-e-tt0627653",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Zahn/Fran Drescher/Jack Gallagher",
+  "type": "task"
+}

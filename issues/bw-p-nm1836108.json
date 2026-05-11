@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Short. 1967–2025 | actor, writer, miscellaneous.\nDECEASED (1967–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1836108/\n_search: Jim Short | Shrek 2: The Video Game | John Wants Answers | The God \u0026 Devil Show | Comedy on the Road",
+  "id": "bw-p-nm1836108",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Short",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Bering. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5309748/\n_search: Jesse Bering | An Open Secret | Through the Wormhole | Q\u0026A",
+  "id": "bw-p-nm5309748",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Bering",
+  "type": "task"
+}

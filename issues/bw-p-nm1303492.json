@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse James. b. 1969 | producer, actor, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1303492/\n_search: Jesse James | Joe Kid on a Stingray | Monster Garage | Two Scoops | Jesse James Presents: Austin Speed Shop Fenders",
+  "id": "bw-p-nm1303492",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse James",
+  "type": "task"
+}

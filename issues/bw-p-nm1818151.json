@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wyatt Cenac. b. 1976 | writer, actor, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1818151/\n_search: Wyatt Cenac | The Daily Show | aka Wyatt Cenac | People of Earth | Medicine for Melancholy",
+  "id": "bw-p-nm1818151",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wyatt Cenac",
+  "type": "task"
+}

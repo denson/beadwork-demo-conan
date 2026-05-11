@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Rickman. 1946–2016 | actor, writer, director.\nDECEASED (1946–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000614/\n_search: Alan Rickman | Die Hard | Robin Hood: Prince of Thieves | Quigley Down Under | Sweeney Todd: The Demon Barber of Fleet Street",
+  "id": "bw-p-nm0000614",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Rickman",
+  "type": "task"
+}

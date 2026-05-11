@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hardwick. b. 1971 | producer, actor, writer.\nConan-show appearances: 12\nIMDb: https://www.imdb.com/name/nm0362534/\n_search: Chris Hardwick | Talking Dead | @midnight | The Wall | Chris Hardwick: Funcomfortable",
+  "id": "bw-p-nm0362534",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hardwick",
+  "type": "task"
+}

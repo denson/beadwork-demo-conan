@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Missy Higgins. b. 1983 | actress, music_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1833818/\n_search: Missy Higgins | Tomorrow, When the War Began | Bran Nue Dae | Total Control | The Sisterhood of the Traveling Pants 2",
+  "id": "bw-p-nm1833818",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Missy Higgins",
+  "type": "task"
+}

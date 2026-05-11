@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Roy. actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2070630/\n_search: John Roy | Jesse Ventura for President? | Hardball Canada | Maron in Space | Trump vs. Bernie: Debate for America",
+  "id": "bw-p-nm2070630",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Roy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Perlman. editor, editorial_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3678092/\n_search: Eric Perlman | All-Star Orchestra | The Best of Gilda Radner | Saturday Night Live: Presidential Bash 2000",
+  "id": "bw-p-nm3678092",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Perlman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Bogle. composer, music_department, editorial_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1388561/\n_search: Brian Bogle | GLOW: Gorgeous Ladies of Wrestling | Cherfitness: A New Attitude | Mr. Hecker's Guide to Home Ownership | Live in Concert Belinda Carlisle",
+  "id": "bw-p-nm1388561",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Bogle",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Novello/Jackie Collins/Des'ree. late_night, S2E5, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0626977/\n_search: Don Novello/Jackie Collins/Des'ree | 1994 | S2E5",
+  "id": "bw-e-tt0626977",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Novello/Jackie Collins/Des'ree",
+  "type": "task"
+}

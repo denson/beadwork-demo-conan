@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Dershowitz. b. 1938 | actor, miscellaneous, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0220641/\n_search: Alan Dershowitz | Reversal of Fortune | Happily Ever After: Fairy Tales for Every Child | Kids' Court | The Advocate's Devil",
+  "id": "bw-p-nm0220641",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Dershowitz",
+  "type": "task"
+}

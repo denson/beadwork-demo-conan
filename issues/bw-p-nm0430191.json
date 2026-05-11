@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Jordan. music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0430191/\n_search: Steve Jordan | Speed | Cadillac Records | Grudge Match | Cars",
+  "id": "bw-p-nm0430191",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Jordan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taylor Lautner. b. 1992 | actor, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1210124/\n_search: Taylor Lautner | Twilight | Abduction | The Twilight Saga: Eclipse | The Twilight Saga: New Moon",
+  "id": "bw-p-nm1210124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taylor Lautner",
+  "type": "task"
+}

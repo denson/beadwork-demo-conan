@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Star Jones. b. 1962 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0429274/\n_search: Star Jones | The Game | Daytime Divas | Less Than Perfect | Donny!",
+  "id": "bw-p-nm0429274",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Star Jones",
+  "type": "task"
+}

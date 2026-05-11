@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wayne Brady. b. 1972 | producer, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0103750/\n_search: Wayne Brady | Whose Line Is It Anyway? | Foodfight! | Micmacs | Sofia the First",
+  "id": "bw-p-nm0103750",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wayne Brady",
+  "type": "task"
+}

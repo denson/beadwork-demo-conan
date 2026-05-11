@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Galit Chait. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm14380868/\n_search: Galit Chait | Halloween on Ice",
+  "id": "bw-p-nm14380868",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Galit Chait",
+  "type": "task"
+}

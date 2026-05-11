@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam France. actor, composer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3325302/\n_search: Sam France | We Are Your Friends | The Buffalo Son | Unfinished Song | Loudermilk",
+  "id": "bw-p-nm3325302",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam France",
+  "type": "task"
+}

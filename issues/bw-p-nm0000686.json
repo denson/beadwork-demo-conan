@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Walken. b. 1943 | actor, producer, miscellaneous.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0000686/\n_search: Christopher Walken | Catch Me If You Can | Seven Psychopaths | The Deer Hunter | The Prophecy",
+  "id": "bw-p-nm0000686",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Walken",
+  "type": "task"
+}

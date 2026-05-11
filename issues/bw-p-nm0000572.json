@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Jessica Parker. b. 1965 | actress, producer, miscellaneous.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0000572/\n_search: Sarah Jessica Parker | Sex and the City | Sex and the City 2 | Sex and the City | The Family Stone",
+  "id": "bw-p-nm0000572",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Jessica Parker",
+  "type": "task"
+}

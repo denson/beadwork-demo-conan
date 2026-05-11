@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Keely Smith. 1928–2017 | actress, soundtrack, archive_footage.\nDECEASED (1928–2017). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0808906/\n_search: Keely Smith | Venom: Let There Be Carnage | Blast from the Past | We Own the Night | Raging Bull",
+  "id": "bw-p-nm0808906",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Keely Smith",
+  "type": "task"
+}

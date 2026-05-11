@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Katie Toupin. actress, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7527919/\n_search: Katie Toupin | Gifted | Death in Texas | Mojo | Midnighters",
+  "id": "bw-p-nm7527919",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Katie Toupin",
+  "type": "task"
+}

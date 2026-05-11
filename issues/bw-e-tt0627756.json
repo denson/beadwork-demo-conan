@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Lewis/Finesse Mitchell/Gogol Bordello. late_night, S13E43, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627756/\n_search: Jerry Lewis/Finesse Mitchell/Gogol Bordello | 2005 | S13E43",
+  "id": "bw-e-tt0627756",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Lewis/Finesse Mitchell/Gogol Bordello",
+  "type": "task"
+}

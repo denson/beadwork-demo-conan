@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Art Kulik. b. 1984 | producer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3752434/\n_search: Art Kulik | Rizzoli \u0026 Isles | Scorpion | Bosch | Teen Wolf",
+  "id": "bw-p-nm3752434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Art Kulik",
+  "type": "task"
+}

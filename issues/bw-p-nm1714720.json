@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Bottitta. b. 1960 | miscellaneous, actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1714720/\n_search: Ron Bottitta | Call of Duty: Vanguard | The Mandalorian | Borderlands 4 | The Adventures of Tintin",
+  "id": "bw-p-nm1714720",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Bottitta",
+  "type": "task"
+}

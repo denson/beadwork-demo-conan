@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The One Hour of Footage George Lucas Hasn't Messed With. conan_tbs, S1E142, 2011.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt2057564/\n_search: The One Hour of Footage George Lucas Hasn't Messed With | 2011 | S1E142",
+  "id": "bw-e-tt2057564",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The One Hour of Footage George Lucas Hasn't Messed With",
+  "type": "task"
+}

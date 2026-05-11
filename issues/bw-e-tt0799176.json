@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Darrell Hammond/Reggie Bush/Eagles of Death Metal. late_night, S13E109, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0799176/\n_search: Darrell Hammond/Reggie Bush/Eagles of Death Metal | 2006 | S13E109",
+  "id": "bw-e-tt0799176",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Darrell Hammond/Reggie Bush/Eagles of Death Metal",
+  "type": "task"
+}

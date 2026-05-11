@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ozzy Osbourne. 1948–2025 | music_artist, actor, music_department.\nDECEASED (1948–2025). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005285/\n_search: Ozzy Osbourne | Little Nicky | Austin Powers in Goldmember | Gnomeo \u0026 Juliet | Iron Man",
+  "id": "bw-p-nm0005285",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ozzy Osbourne",
+  "type": "task"
+}

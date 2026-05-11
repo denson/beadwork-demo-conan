@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessica St. Clair. b. 1976 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1167794/\n_search: Jessica St. Clair | She's Out of My League | Life as We Know It | Wanderlust | The Dictator",
+  "id": "bw-p-nm1167794",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessica St. Clair",
+  "type": "task"
+}

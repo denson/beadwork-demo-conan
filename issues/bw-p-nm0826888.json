@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Stephanopoulos. b. 1961 | producer, actor, legal.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0826888/\n_search: George Stephanopoulos | House of Cards | The War Room | Spin City | This Week",
+  "id": "bw-p-nm0826888",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Stephanopoulos",
+  "type": "task"
+}

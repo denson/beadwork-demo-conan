@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Novello. b. 1943 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0637038/\n_search: Don Novello | Atlantis: The Lost Empire | The Godfather Part III | Casper | Saturday Night Live",
+  "id": "bw-p-nm0637038",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Novello",
+  "type": "task"
+}

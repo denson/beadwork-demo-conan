@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clem Snide. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6203637/\n_search: Clem Snide | Rocket Science | The Secret Life of Words | Paradise | Love",
+  "id": "bw-p-nm6203637",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clem Snide",
+  "type": "task"
+}

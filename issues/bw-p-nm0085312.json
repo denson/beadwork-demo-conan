@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Black. b. 1969 | actor, producer, writer.\nConan-show appearances: 12\nIMDb: https://www.imdb.com/name/nm0085312/\n_search: Jack Black | High Fidelity | School of Rock | Nacho Libre | King Kong",
+  "id": "bw-p-nm0085312",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Black",
+  "type": "task"
+}

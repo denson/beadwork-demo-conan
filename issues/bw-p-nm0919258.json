@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "René Ashton. b. 1970 | actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0919258/\n_search: René Ashton | Beef | This Is Us | NCIS: Los Angeles | Westworld",
+  "id": "bw-p-nm0919258",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "René Ashton",
+  "type": "task"
+}

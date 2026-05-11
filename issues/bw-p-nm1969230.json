@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "MXPX. b. 1992 | actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1969230/\n_search: MXPX | If I Stay | Harold \u0026 Kumar Go to White Castle | Torque | Scooby-Doo",
+  "id": "bw-p-nm1969230",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "MXPX",
+  "type": "task"
+}

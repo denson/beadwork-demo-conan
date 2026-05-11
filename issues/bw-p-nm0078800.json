@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Besser. b. 1967 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0078800/\n_search: Matt Besser | Walk Hard: The Dewey Cox Story | Upright Citizens Brigade | Drillbit Taylor | Bad Teacher",
+  "id": "bw-p-nm0078800",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Besser",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adrian Paul. b. 1959 | actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001600/\n_search: Adrian Paul | Highlander | Highlander: Endgame | Highlander: The Source | 9 Miles Down",
+  "id": "bw-p-nm0001600",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adrian Paul",
+  "type": "task"
+}

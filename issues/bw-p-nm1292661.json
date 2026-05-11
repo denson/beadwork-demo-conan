@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke Hemsworth. b. 1980 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1292661/\n_search: Luke Hemsworth | Thor: Ragnarok | Thor: Love and Thunder | Westworld | Gunner",
+  "id": "bw-p-nm1292661",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke Hemsworth",
+  "type": "task"
+}

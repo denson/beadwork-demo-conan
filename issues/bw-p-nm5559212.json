@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Darling. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5559212/\n_search: Sarah Darling | Sing for Your Supper | Weekend",
+  "id": "bw-p-nm5559212",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Darling",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eben D'Amico. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6506936/\n_search: Eben D'Amico | Broken Heart Land | Here I'm Alive | Forza Horizon 3 | Growing Up Coy",
+  "id": "bw-p-nm6506936",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eben D'Amico",
+  "type": "task"
+}

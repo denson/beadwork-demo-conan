@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scarlett Johansson. b. 1984 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0424060/\n_search: Scarlett Johansson | Lost in Translation | Her | The Avengers | Black Widow",
+  "id": "bw-p-nm0424060",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scarlett Johansson",
+  "type": "task"
+}

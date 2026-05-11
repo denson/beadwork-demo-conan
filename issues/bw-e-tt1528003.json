@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Foxx/Jason Alexander/Grizzly Bear. tonight_show, S1E84, 2009.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt1528003/\n_search: Jamie Foxx/Jason Alexander/Grizzly Bear | 2009 | S1E84",
+  "id": "bw-e-tt1528003",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Foxx/Jason Alexander/Grizzly Bear",
+  "type": "task"
+}

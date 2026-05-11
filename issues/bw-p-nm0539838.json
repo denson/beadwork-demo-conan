@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Baaba Maal. b. 1953 | composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0539838/\n_search: Baaba Maal | Black Panther | Black Hawk Down | Black Panther: Wakanda Forever | The Last Temptation of Christ",
+  "id": "bw-p-nm0539838",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Baaba Maal",
+  "type": "task"
+}

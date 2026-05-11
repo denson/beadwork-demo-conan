@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Greenberger. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2899341/\n_search: David Greenberger | Space Ghost Coast to Coast | Angel | So Wrong They're Right | Icepick to the Moon",
+  "id": "bw-p-nm2899341",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Greenberger",
+  "type": "task"
+}

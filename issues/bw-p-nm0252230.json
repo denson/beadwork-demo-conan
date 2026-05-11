@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chiwetel Ejiofor. b. 1977 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0252230/\n_search: Chiwetel Ejiofor | 12 Years a Slave | Dirty Pretty Things | The Boy Who Harnessed the Wind | Serenity",
+  "id": "bw-p-nm0252230",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chiwetel Ejiofor",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fonzworth Bentley. actor, producer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1347765/\n_search: Fonzworth Bentley | Honey | Waves | Black-ish | Fat Albert",
+  "id": "bw-p-nm1347765",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fonzworth Bentley",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roger Corman. 1926–2024 | producer, director, actor.\nDECEASED (1926–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000339/\n_search: Roger Corman | The Silence of the Lambs | Apollo 13 | Frankenstein Unbound | Little Shop of Horrors",
+  "id": "bw-p-nm0000339",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roger Corman",
+  "type": "task"
+}

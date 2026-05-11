@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A. Scott Berg. b. 1949 | producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1044809/\n_search: A. Scott Berg | Genius | Making Love | 77 Sunset Strip | American Masters",
+  "id": "bw-p-nm1044809",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:jibber_jabber",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A. Scott Berg",
+  "type": "task"
+}

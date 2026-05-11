@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Superdrag. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3033698/\n_search: Superdrag | Dude, Where's My Car? | She's All That | Purgatory | 120 Minutes",
+  "id": "bw-p-nm3033698",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Superdrag",
+  "type": "task"
+}

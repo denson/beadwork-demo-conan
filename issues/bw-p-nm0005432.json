@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Russell Simmons. b. 1957 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005432/\n_search: Russell Simmons | The Nutty Professor | Dude, Where's My Car? | It's Kind of a Funny Story | Straight Outta Compton",
+  "id": "bw-p-nm0005432",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Russell Simmons",
+  "type": "task"
+}

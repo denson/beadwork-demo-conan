@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Queen Latifah/Chris Pratt/Juston McKinney. tonight_show, S1E132, 2010.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt1569906/\n_search: Queen Latifah/Chris Pratt/Juston McKinney | 2010 | S1E132",
+  "id": "bw-e-tt1569906",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Queen Latifah/Chris Pratt/Juston McKinney",
+  "type": "task"
+}

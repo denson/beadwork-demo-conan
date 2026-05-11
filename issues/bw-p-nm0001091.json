@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patti D'Arbanville. b. 1951 | actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001091/\n_search: Patti D'Arbanville | MorningGlory | Modern Problems | The Fan | Third Watch",
+  "id": "bw-p-nm0001091",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patti D'Arbanville",
+  "type": "task"
+}

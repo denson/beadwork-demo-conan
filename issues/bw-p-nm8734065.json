@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Noon. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8734065/\n_search: Will Noon | Beasts of No Nation | (Romance) in the Digital Age",
+  "id": "bw-p-nm8734065",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Noon",
+  "type": "task"
+}

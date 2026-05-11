@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erik Larson. b. 1954 | writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2382260/\n_search: Erik Larson | No One Goes Alone | The Devil in the White City | In the Garden of Beasts | Isaac's Storm",
+  "id": "bw-p-nm2382260",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:jibber_jabber",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erik Larson",
+  "type": "task"
+}

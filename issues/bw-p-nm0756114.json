@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Saget. 1956–2022 | actor, writer, producer.\nDECEASED (1956–2022). Conan-show appearances: 16\nIMDb: https://www.imdb.com/name/nm0756114/\n_search: Bob Saget | Full House | Dumb and Dumberer: When Harry Met Lloyd | Entourage | Farce of the Penguins",
+  "id": "bw-p-nm0756114",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Saget",
+  "type": "task"
+}

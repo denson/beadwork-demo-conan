@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Bogulski. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5009251/\n_search: John Bogulski | Fallout | Christopher Columbus Saves the World | Showdown at Sullivan Oaks | Mono",
+  "id": "bw-p-nm5009251",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Bogulski",
+  "type": "task"
+}

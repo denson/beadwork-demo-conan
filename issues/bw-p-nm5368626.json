@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Mowgli's. music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5368626/\n_search: The Mowgli's | Guardians of the Galaxy Vol. 3 | Blended | Earth to Echo | Shameless",
+  "id": "bw-p-nm5368626",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Mowgli's",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taraji P. Henson. b. 1970 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0378245/\n_search: Taraji P. Henson | Hidden Figures | The Curious Case of Benjamin Button | Hustle \u0026 Flow | The Karate Kid",
+  "id": "bw-p-nm0378245",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taraji P. Henson",
+  "type": "task"
+}

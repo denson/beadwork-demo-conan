@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Weinberg. writer, producer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1336162/\n_search: Andrew Weinberg | Jury Duty Presents | Triumph's Election Watch 2016 | Moonbeam City",
+  "id": "bw-p-nm1336162",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Weinberg",
+  "type": "task"
+}

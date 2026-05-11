@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karolina Kurkova. b. 1984 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1081656/\n_search: Karolina Kurkova | G.I. Joe: The Rise of Cobra | Person of Interest | 30 Rock | Chuck",
+  "id": "bw-p-nm1081656",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karolina Kurkova",
+  "type": "task"
+}

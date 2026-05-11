@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dustin Rhodes. b. 1969 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0750310/\n_search: Dustin Rhodes | Copper Bill | Meet Me There | Scooby-Doo! and WWE: Curse of the Speed Demon",
+  "id": "bw-p-nm0750310",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dustin Rhodes",
+  "type": "task"
+}

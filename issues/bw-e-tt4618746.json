@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Schumer/Kenny Smith/Joe Zimmerman. conan_tbs, S5E73, 2015.\nIMDb: https://www.imdb.com/title/tt4618746/\n_search: Amy Schumer/Kenny Smith/Joe Zimmerman | 2015 | S5E73",
+  "id": "bw-e-tt4618746",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Schumer/Kenny Smith/Joe Zimmerman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kasper Daugaard. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8324147/\n_search: Kasper Daugaard | Young Hollywood on the Go | The Voice of Holland | Dick Clark's New Years Rockin' Eve with Ryan Seacrest 2017 | Zulu Awards '12 - Det store show",
+  "id": "bw-p-nm8324147",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kasper Daugaard",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Bana. b. 1968 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0051509/\n_search: Eric Bana | Dirty John | Munich | Troy | Chopper",
+  "id": "bw-p-nm0051509",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Bana",
+  "type": "task"
+}

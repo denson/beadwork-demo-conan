@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Yeun/Jay and Mark Duplass/Ari Shaffir. conan_tbs, S5E42, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt4433530/\n_search: Steven Yeun/Jay and Mark Duplass/Ari Shaffir | 2015 | S5E42",
+  "id": "bw-e-tt4433530",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Yeun/Jay and Mark Duplass/Ari Shaffir",
+  "type": "task"
+}

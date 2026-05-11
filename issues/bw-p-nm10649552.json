@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elpis Bates. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10649552/\n_search: Elpis Bates",
+  "id": "bw-p-nm10649552",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elpis Bates",
+  "type": "task"
+}

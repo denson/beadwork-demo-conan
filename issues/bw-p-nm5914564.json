@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tristan Evans. b. 1994 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5914564/\n_search: Tristan Evans | Show Dogs | Hollyoaks | Janoskians: Untold and Untrue | Karate with Anne-Marie",
+  "id": "bw-p-nm5914564",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tristan Evans",
+  "type": "task"
+}

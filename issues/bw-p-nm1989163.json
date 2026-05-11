@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Duncan. b. 1976 | actor, archive_footage, archive_sound.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1989163/\n_search: Tim Duncan | Spider-Man: Homecoming, NBA Finals: Watch the Game | 9 - Un chiffre, un homme | The NBA on TNT | NBA on NBC",
+  "id": "bw-p-nm1989163",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Duncan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hinder. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2439996/\n_search: Hinder | The Death of Dick Long | SingStar Pop | The Playboy Morning Show | Walmart Soundcheck",
+  "id": "bw-p-nm2439996",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hinder",
+  "type": "task"
+}

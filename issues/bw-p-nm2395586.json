@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Mintz-Plasse. b. 1989 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2395586/\n_search: Christopher Mintz-Plasse | Superbad | Kick-Ass | Kick-Ass 2 | How to Train Your Dragon: The Hidden World",
+  "id": "bw-p-nm2395586",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Mintz-Plasse",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Olivia Munn. b. 1980 | actress, writer, archive_footage.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm1601397/\n_search: Olivia Munn | The Newsroom | X-Men: Apocalypse | The Daily Show | Office Christmas Party",
+  "id": "bw-p-nm1601397",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Olivia Munn",
+  "type": "task"
+}

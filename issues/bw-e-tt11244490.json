@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Norton/Alex Edelman. conan_tbs, S9E95, 2019.\nRuntime: 21 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt11244490/\n_search: Edward Norton/Alex Edelman | 2019 | S9E95",
+  "id": "bw-e-tt11244490",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Norton/Alex Edelman",
+  "type": "task"
+}

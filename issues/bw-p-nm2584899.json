@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grandaddy. composer, editor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2584899/\n_search: Grandaddy | 28 Days Later | Read My Lips | The Forest for the Trees | Dream with the Fishes",
+  "id": "bw-p-nm2584899",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grandaddy",
+  "type": "task"
+}

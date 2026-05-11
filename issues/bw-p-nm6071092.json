@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joshua Epstein. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6071092/\n_search: Joshua Epstein | Bad Moms | What Other Couples Do | Parenthood | Detroiters",
+  "id": "bw-p-nm6071092",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joshua Epstein",
+  "type": "task"
+}

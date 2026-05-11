@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Announcer Who Repeated Himself. The Announcer Who Repeated Himself.. conan_tbs, S3E101, 2013.\nIMDb: https://www.imdb.com/title/tt3005582/\n_search: The Announcer Who Repeated Himself. The Announcer Who Repeated Himself. | 2013 | S3E101",
+  "id": "bw-e-tt3005582",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Announcer Who Repeated Himself. The Announcer Who Repeated Himself.",
+  "type": "task"
+}

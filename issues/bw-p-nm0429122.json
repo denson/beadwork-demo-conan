@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rickie Lee Jones. b. 1954 | actress, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0429122/\n_search: Rickie Lee Jones | Jerry Maguire | Friends with Money | The King of Comedy | Frankie and Johnny",
+  "id": "bw-p-nm0429122",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rickie Lee Jones",
+  "type": "task"
+}

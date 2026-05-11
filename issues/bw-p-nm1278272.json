@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Sontag. actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1278272/\n_search: David Sontag | Jack and Jill | Ocean's Eleven | Changing Hands | Ocean's Twelve",
+  "id": "bw-p-nm1278272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Sontag",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gavin DeGraw. b. 1977 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1501113/\n_search: Gavin DeGraw | Safe Haven | Tristan + Isolde | Laws of Attraction | Cold Case",
+  "id": "bw-p-nm1501113",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gavin DeGraw",
+  "type": "task"
+}

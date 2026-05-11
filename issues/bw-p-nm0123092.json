@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ty Burrell. b. 1967 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0123092/\n_search: Ty Burrell | Modern Family | The Incredible Hulk | Finding Dory | Muppets Most Wanted",
+  "id": "bw-p-nm0123092",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ty Burrell",
+  "type": "task"
+}

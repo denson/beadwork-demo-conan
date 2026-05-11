@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Refreshments. music_department, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2218642/\n_search: The Refreshments | The Santa Clause 3: The Escape Clause | An American Werewolf in Paris | Clay Pigeons | King of the Hill",
+  "id": "bw-p-nm2218642",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Refreshments",
+  "type": "task"
+}

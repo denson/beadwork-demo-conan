@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doctor Dré. b. 1963 | actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0237321/\n_search: Doctor Dré | Juice | Who's the Man? | Super Force | New York Undercover",
+  "id": "bw-p-nm0237321",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doctor Dré",
+  "type": "task"
+}

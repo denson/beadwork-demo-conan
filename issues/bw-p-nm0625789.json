@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Blake Nelson. b. 1964 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0625789/\n_search: Tim Blake Nelson | The Ballad of Buster Scruggs | O Brother, Where Art Thou? | Leaves of Grass | Old Henry",
+  "id": "bw-p-nm0625789",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Blake Nelson",
+  "type": "task"
+}

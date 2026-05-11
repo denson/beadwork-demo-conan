@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Fitzsimmons. b. 1966 | writer, producer, actor.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0280624/\n_search: Greg Fitzsimmons | The Ellen DeGeneres Show | Crashing | Division III: Football's Finest | Lucky Louie",
+  "id": "bw-p-nm0280624",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Fitzsimmons",
+  "type": "task"
+}

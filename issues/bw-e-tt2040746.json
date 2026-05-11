@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eat, Love, Lather, Rinse, Repeat. conan_tbs, S1E137, 2011.\nRuntime: 60 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt2040746/\n_search: Eat, Love, Lather, Rinse, Repeat | 2011 | S1E137",
+  "id": "bw-e-tt2040746",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eat, Love, Lather, Rinse, Repeat",
+  "type": "task"
+}

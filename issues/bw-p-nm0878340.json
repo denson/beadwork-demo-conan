@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fred Tuttle. 1919–2003 | actor, stunts.\nDECEASED (1919–2003). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0878340/\n_search: Fred Tuttle | Man with a Plan | Turbo: A Power Rangers Movie | Pressure Point | Senses of Place",
+  "id": "bw-p-nm0878340",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fred Tuttle",
+  "type": "task"
+}

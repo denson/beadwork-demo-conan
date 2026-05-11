@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Father John Misty. actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5040202/\n_search: Father John Misty | Hotel Artemis | The Rental | True Detective | Room 104",
+  "id": "bw-p-nm5040202",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Father John Misty",
+  "type": "task"
+}

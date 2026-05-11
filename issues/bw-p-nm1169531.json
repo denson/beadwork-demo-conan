@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Derek Waters. b. 1979 | writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1169531/\n_search: Derek Waters | Drunk History | Hall Pass | The Brothers Solomon | Drunk History",
+  "id": "bw-p-nm1169531",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Derek Waters",
+  "type": "task"
+}

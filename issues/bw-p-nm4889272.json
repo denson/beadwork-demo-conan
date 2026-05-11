@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wylie Gelber. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4889272/\n_search: Wylie Gelber | Small Gay Tragedy #1 | Dawes Works Through Writer's Block | Alternative Theories of Physics | Parenthood",
+  "id": "bw-p-nm4889272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wylie Gelber",
+  "type": "task"
+}

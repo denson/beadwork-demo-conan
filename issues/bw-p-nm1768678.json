@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zane Lamprey. b. 1976 | writer, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1768678/\n_search: Zane Lamprey | Drinking Made Easy | Offshore Super Series | Zane Lamprey: Live from Austin | Show Me the Funny",
+  "id": "bw-p-nm1768678",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zane Lamprey",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Spelling. 1923–2006 | producer, writer, actor.\nDECEASED (1923–2006). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005455/\n_search: Aaron Spelling | Charlie's Angels | The Dick Powell Theatre | Mr. Mom | Dynasty",
+  "id": "bw-p-nm0005455",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Spelling",
+  "type": "task"
+}

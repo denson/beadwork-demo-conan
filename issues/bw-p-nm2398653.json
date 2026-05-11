@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roy Wood Jr.. b. 1978 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm2398653/\n_search: Roy Wood Jr. | The Daily Show | Sullivan \u0026 Son | Roy Wood Jr.: Father Figure | This Is Not Happening",
+  "id": "bw-p-nm2398653",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roy Wood Jr.",
+  "type": "task"
+}

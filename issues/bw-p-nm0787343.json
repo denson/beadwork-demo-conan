@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Shaffner. production_designer, art_director, art_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0787343/\n_search: John Shaffner | The Big Bang Theory | Two and a Half Men | Mike \u0026 Molly | Friends",
+  "id": "bw-p-nm0787343",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Shaffner",
+  "type": "task"
+}

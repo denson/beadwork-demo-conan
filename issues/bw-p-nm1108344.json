@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gem Archer. b. 1965 | actor, cinematographer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1108344/\n_search: Gem Archer | Radio 2: In Concert | All or Nothing: Manchester City | NHL 12 | Teenage Cancer Trust Concerts 2010",
+  "id": "bw-p-nm1108344",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gem Archer",
+  "type": "task"
+}

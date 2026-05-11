@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Haley. 1897–1979 | actor, writer, producer.\nDECEASED (1897–1979). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0355095/\n_search: Jack Haley | The Wizard of Oz | Thanks for Everything | One Body Too Many | Vacation in Reno",
+  "id": "bw-p-nm0355095",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Haley",
+  "type": "task"
+}

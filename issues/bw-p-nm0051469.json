@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maria Bamford. b. 1970 | actress, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0051469/\n_search: Maria Bamford | Barnyard | Hell and Back | WordGirl | The Legend of Korra",
+  "id": "bw-p-nm0051469",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maria Bamford",
+  "type": "task"
+}

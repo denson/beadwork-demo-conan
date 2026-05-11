@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evangeline Lilly. b. 1979 | actress, producer, soundtrack.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm1431940/\n_search: Evangeline Lilly | The Hobbit: The Desolation of Smaug | Ant-Man | Ant-Man and the Wasp | The Hobbit: The Battle of the Five Armies",
+  "id": "bw-p-nm1431940",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evangeline Lilly",
+  "type": "task"
+}

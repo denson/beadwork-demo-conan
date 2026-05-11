@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dustin Hawthorne. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1921996/\n_search: Dustin Hawthorne | John Tucker Must Die | Sex Drive | The Sisterhood of the Traveling Pants 2 | Psych",
+  "id": "bw-p-nm1921996",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dustin Hawthorne",
+  "type": "task"
+}

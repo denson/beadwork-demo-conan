@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Documentarian Ken Burns. jibber_jabber, S1E10, 2014.\nIMDb: https://www.imdb.com/title/tt12168852/\n_search: Documentarian Ken Burns | 2014 | S1E10",
+  "id": "bw-e-tt12168852",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Documentarian Ken Burns",
+  "type": "task"
+}

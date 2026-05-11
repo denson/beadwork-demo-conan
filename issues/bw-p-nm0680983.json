@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elliot Page. b. 1987 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0680983/\n_search: Elliot Page | Juno | Inception | Hard Candy | X-Men: Days of Future Past",
+  "id": "bw-p-nm0680983",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elliot Page",
+  "type": "task"
+}

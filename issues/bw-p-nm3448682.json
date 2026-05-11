@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charles Phoenix. actor, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3448682/\n_search: Charles Phoenix | The Cool School | Designed for Dreaming | Ben 10: Omniverse | Wish Watch",
+  "id": "bw-p-nm3448682",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charles Phoenix",
+  "type": "task"
+}

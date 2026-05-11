@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Author Richard Zoglin. jibber_jabber, S1E14, 2016.\nIMDb: https://www.imdb.com/title/tt12168866/\n_search: Author Richard Zoglin | 2016 | S1E14",
+  "id": "bw-e-tt12168866",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Author Richard Zoglin",
+  "type": "task"
+}

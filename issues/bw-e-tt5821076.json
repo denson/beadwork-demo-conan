@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norman Reedus/Al Madrigal/Joel Kim Booster. conan_tbs, S6E99, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5821076/\n_search: Norman Reedus/Al Madrigal/Joel Kim Booster | 2016 | S6E99",
+  "id": "bw-e-tt5821076",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norman Reedus/Al Madrigal/Joel Kim Booster",
+  "type": "task"
+}

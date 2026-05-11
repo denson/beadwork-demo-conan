@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dig. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10915705/\n_search: Dig | 120 Minutes",
+  "id": "bw-p-nm10915705",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dig",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Gleeson. production_department, miscellaneous, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11167365/\n_search: Billy Gleeson | Barclays Premier League on NBC | Rio 2016: XXXI Olympic Summer Games | AT\u0026T American Cup | Super Bowl XLIX",
+  "id": "bw-p-nm11167365",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Gleeson",
+  "type": "task"
+}

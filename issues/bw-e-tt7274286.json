@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt LeBlanc/Brittany Snow/Myq Kaplan. conan_tbs, S7E120, 2017.\nRuntime: 42 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt7274286/\n_search: Matt LeBlanc/Brittany Snow/Myq Kaplan | 2017 | S7E120",
+  "id": "bw-e-tt7274286",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt LeBlanc/Brittany Snow/Myq Kaplan",
+  "type": "task"
+}

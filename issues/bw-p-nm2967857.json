@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kings of Leon. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2967857/\n_search: Kings of Leon | I Am Number Four | Cloverfield | Disturbia | August: Osage County",
+  "id": "bw-p-nm2967857",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kings of Leon",
+  "type": "task"
+}

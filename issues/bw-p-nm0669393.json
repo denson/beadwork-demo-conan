@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tania L. Pearson. b. 1968 | actress, stunts, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0669393/\n_search: Tania L. Pearson | Beverly Hills Ninja | Alice in Wonderland | Caroline in the City | The Sandra West Diaries",
+  "id": "bw-p-nm0669393",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tania L. Pearson",
+  "type": "task"
+}

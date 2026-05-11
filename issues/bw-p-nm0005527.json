@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sofía Vergara. b. 1972 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005527/\n_search: Sofía Vergara | Hot Pursuit | Modern Family | New Year's Eve | Chef",
+  "id": "bw-p-nm0005527",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sofía Vergara",
+  "type": "task"
+}

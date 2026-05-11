@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natasha Lyonne. b. 1979 | actress, producer, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0005169/\n_search: Natasha Lyonne | Orange Is the New Black | American Pie | But I'm a Cheerleader | Slums of Beverly Hills",
+  "id": "bw-p-nm0005169",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natasha Lyonne",
+  "type": "task"
+}

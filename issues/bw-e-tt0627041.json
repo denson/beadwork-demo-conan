@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "William Shatner/George Stephanopoulos/French Stewart. late_night, S5E30, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627041/\n_search: William Shatner/George Stephanopoulos/French Stewart | 1997 | S5E30",
+  "id": "bw-e-tt0627041",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "William Shatner/George Stephanopoulos/French Stewart",
+  "type": "task"
+}

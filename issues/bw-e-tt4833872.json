@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hardwick/Matthew Weiner/Andy Sandford. conan_tbs, S5E85, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt4833872/\n_search: Chris Hardwick/Matthew Weiner/Andy Sandford | 2015 | S5E85",
+  "id": "bw-e-tt4833872",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hardwick/Matthew Weiner/Andy Sandford",
+  "type": "task"
+}

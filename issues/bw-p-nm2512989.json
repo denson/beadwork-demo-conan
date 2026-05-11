@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ava Bianchi. actress, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2512989/\n_search: Ava Bianchi | The Wrong Paris | The Cleaning Lady | Vanished in Death Valley | The Unseen",
+  "id": "bw-p-nm2512989",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ava Bianchi",
+  "type": "task"
+}

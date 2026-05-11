@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Skyler Higley. writer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11688830/\n_search: Skyler Higley | Conan O'Brien: The Kennedy Center Mark Twain Prize for American Humor | Going Dutch | The Oscars",
+  "id": "bw-p-nm11688830",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Skyler Higley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Bogosian/Crystal Bernard/Jen Trynin. late_night, S2E200, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0774947/\n_search: Eric Bogosian/Crystal Bernard/Jen Trynin | 1995 | S2E200",
+  "id": "bw-e-tt0774947",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Bogosian/Crystal Bernard/Jen Trynin",
+  "type": "task"
+}

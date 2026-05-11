@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "McCoy Tyner. 1938–2020 | actor, music_department, soundtrack.\nDECEASED (1938–2020). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1743784/\n_search: McCoy Tyner | The Descendants | Selma | The Backup Dancer | The Mark of Beauty",
+  "id": "bw-p-nm1743784",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "McCoy Tyner",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Mason/Bret Easton Ellis/Bruce Cockburn. late_night, S1E207, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2729562/\n_search: Jackie Mason/Bret Easton Ellis/Bruce Cockburn | 1994 | S1E207",
+  "id": "bw-e-tt2729562",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Mason/Bret Easton Ellis/Bruce Cockburn",
+  "type": "task"
+}

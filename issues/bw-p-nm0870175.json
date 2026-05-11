@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pete Townshend. b. 1945 | music_artist, music_department, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0870175/\n_search: Pete Townshend | CSI: Crime Scene Investigation | CSI: NY | Tommy | Grosse Pointe Blank",
+  "id": "bw-p-nm0870175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pete Townshend",
+  "type": "task"
+}

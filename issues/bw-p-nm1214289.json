@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pharrell Williams. b. 1973 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1214289/\n_search: Pharrell Williams | Hidden Figures | Despicable Me 2 | Despicable Me | The Amazing Spider-Man 2",
+  "id": "bw-p-nm1214289",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pharrell Williams",
+  "type": "task"
+}

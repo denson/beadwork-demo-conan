@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosanne Cash. b. 1955 | actress, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0143615/\n_search: Rosanne Cash | The Little Rascals | Angie | Ben Is Back | Tales from the Loop",
+  "id": "bw-p-nm0143615",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosanne Cash",
+  "type": "task"
+}

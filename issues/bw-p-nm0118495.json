@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lindsey Buckingham. b. 1949 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0118495/\n_search: Lindsey Buckingham | Back to the Future | Twister | National Lampoon's Vacation | Guardians of the Galaxy: Vol. 2",
+  "id": "bw-p-nm0118495",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lindsey Buckingham",
+  "type": "task"
+}

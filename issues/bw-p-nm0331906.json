@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gilbert Gottfried. 1955–2022 | producer, actor, writer.\nDECEASED (1955–2022). Conan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0331906/\n_search: Gilbert Gottfried | Aladdin | The Adventures of Ford Fairlane | Look Who's Talking Too | Beverly Hills Cop II",
+  "id": "bw-p-nm0331906",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gilbert Gottfried",
+  "type": "task"
+}

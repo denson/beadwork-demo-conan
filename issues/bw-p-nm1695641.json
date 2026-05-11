@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Brister. actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1695641/\n_search: Julie Brister | Goliath | Review | The Onion | Night of the Living Deb",
+  "id": "bw-p-nm1695641",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Brister",
+  "type": "task"
+}

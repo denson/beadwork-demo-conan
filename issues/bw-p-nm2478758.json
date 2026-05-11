@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Plain White T's. music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2478758/\n_search: Plain White T's | No Strings Attached | Prom Night | Underdog | College Road Trip",
+  "id": "bw-p-nm2478758",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Plain White T's",
+  "type": "task"
+}

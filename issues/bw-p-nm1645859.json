@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kim Deal. b. 1961 | actress, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1645859/\n_search: Kim Deal | Her | The Fighter | Ladder 49 | May",
+  "id": "bw-p-nm1645859",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kim Deal",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ann Miller. 1923–2004 | actress, miscellaneous, soundtrack.\nDECEASED (1923–2004). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0587900/\n_search: Ann Miller | Mulholland Drive | You Can't Take It with You | On the Town | Kiss Me Kate",
+  "id": "bw-p-nm0587900",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ann Miller",
+  "type": "task"
+}

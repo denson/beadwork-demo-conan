@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Cooley. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2334474/\n_search: Mike Cooley | Criminal Minds | The Girl | Chrystal",
+  "id": "bw-p-nm2334474",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Cooley",
+  "type": "task"
+}

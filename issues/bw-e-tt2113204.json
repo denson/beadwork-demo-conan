@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Man for All Flu Seasons. conan_tbs, S2E8, 2011.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt2113204/\n_search: A Man for All Flu Seasons | 2011 | S2E8",
+  "id": "bw-e-tt2113204",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Man for All Flu Seasons",
+  "type": "task"
+}

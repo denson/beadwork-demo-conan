@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "What Happens on Krypton, Stays on Krypton. conan_tbs, S1E110, 2011.\nRuntime: 60 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt1965495/\n_search: What Happens on Krypton, Stays on Krypton | 2011 | S1E110",
+  "id": "bw-e-tt1965495",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "What Happens on Krypton, Stays on Krypton",
+  "type": "task"
+}

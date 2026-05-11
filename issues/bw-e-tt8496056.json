@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ashton Kutcher/Christian Navarro/Johnny Marr. conan_tbs, S8E81, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8496056/\n_search: Ashton Kutcher/Christian Navarro/Johnny Marr | 2018 | S8E81",
+  "id": "bw-e-tt8496056",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ashton Kutcher/Christian Navarro/Johnny Marr",
+  "type": "task"
+}

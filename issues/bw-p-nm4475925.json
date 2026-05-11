@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charles Bradley. 1948–2017 | actor, composer, music_department.\nDECEASED (1948–2017). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4475925/\n_search: Charles Bradley | Valerian and the City of a Thousand Planets | Stand Up Guys | Creed II | Dirty Grandpa",
+  "id": "bw-p-nm4475925",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charles Bradley",
+  "type": "task"
+}

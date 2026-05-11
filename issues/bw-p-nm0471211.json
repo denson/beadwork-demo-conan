@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robby Krieger. b. 1946 | composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0471211/\n_search: Robby Krieger | Army of the Dead | Forrest Gump | Road House | The X Files",
+  "id": "bw-p-nm0471211",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robby Krieger",
+  "type": "task"
+}

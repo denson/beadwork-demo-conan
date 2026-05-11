@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke Evans. b. 1979 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1812656/\n_search: Luke Evans | Dracula Untold | Beauty and the Beast | The Hobbit: The Desolation of Smaug | Fast \u0026 Furious 6",
+  "id": "bw-p-nm1812656",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke Evans",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Gibbons. b. 1949 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0316531/\n_search: Billy Gibbons | Battleship | Armageddon | The Perfect Storm | Ghost Rider",
+  "id": "bw-p-nm0316531",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Gibbons",
+  "type": "task"
+}

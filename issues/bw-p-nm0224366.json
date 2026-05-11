@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Janine Ditullio. writer, actress, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0224366/\n_search: Janine Ditullio | Home Movies | Superjail! | Metalocalypse",
+  "id": "bw-p-nm0224366",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Janine Ditullio",
+  "type": "task"
+}

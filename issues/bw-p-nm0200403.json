@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michelle Danner. producer, director, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0200403/\n_search: Michelle Danner | Miranda's Victim | The Runner | Bad Impulse | Hello Herman",
+  "id": "bw-p-nm0200403",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michelle Danner",
+  "type": "task"
+}

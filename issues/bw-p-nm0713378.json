@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Usher. b. 1978 | music_artist, actor, composer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0713378/\n_search: Usher | Killers | The Faculty | She's All That | Muppets Most Wanted",
+  "id": "bw-p-nm0713378",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Usher",
+  "type": "task"
+}

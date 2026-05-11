@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michel Gondry. b. 1963 | director, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0327273/\n_search: Michel Gondry | Eternal Sunshine of the Spotless Mind | The Science of Sleep | Be Kind Rewind | The We and the I",
+  "id": "bw-p-nm0327273",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michel Gondry",
+  "type": "task"
+}

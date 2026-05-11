@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nancy Travis. b. 1961 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001802/\n_search: Nancy Travis | So I Married an Axe Murderer | Three Men and a Little Lady | The Vanishing | The Jane Austen Book Club",
+  "id": "bw-p-nm0001802",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nancy Travis",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leonard Garment. 1924–2013.\nDECEASED (1924–2013). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0307643/\n_search: Leonard Garment | Watergate | Watergate | Dateline NBC | The Century: America's Time",
+  "id": "bw-p-nm0307643",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leonard Garment",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Damn the Torpedoes, Full Greed Ahead. conan_tbs, S1E36, 2011.\nRuntime: 60 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt1816779/\n_search: Damn the Torpedoes, Full Greed Ahead | 2011 | S1E36",
+  "id": "bw-e-tt1816779",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Damn the Torpedoes, Full Greed Ahead",
+  "type": "task"
+}

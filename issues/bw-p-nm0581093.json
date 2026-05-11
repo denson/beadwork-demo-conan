@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rena Lesnar. b. 1968 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0581093/\n_search: Rena Lesnar | Slaves of the Realm | WWE Smackdown! | WWE Monday Night RAW | WWF Superstars",
+  "id": "bw-p-nm0581093",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rena Lesnar",
+  "type": "task"
+}

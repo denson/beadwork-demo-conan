@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dominic Monaghan. b. 1976 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0597480/\n_search: Dominic Monaghan | The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Two Towers | Lost",
+  "id": "bw-p-nm0597480",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dominic Monaghan",
+  "type": "task"
+}

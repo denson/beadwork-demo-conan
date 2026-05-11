@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pablo Hinojos Gonzalez. producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3637023/\n_search: Pablo Hinojos Gonzalez | The Sentimental Engine Slayer | Sugar | Tony Hawk: Shred | Sucker",
+  "id": "bw-p-nm3637023",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pablo Hinojos Gonzalez",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tassin Barnard. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10649554/\n_search: Tassin Barnard",
+  "id": "bw-p-nm10649554",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tassin Barnard",
+  "type": "task"
+}

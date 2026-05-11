@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Weber. b. 1961 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001836/\n_search: Steven Weber | The Shining | Dracula: Dead and Loving It | Single White Female | Hamburger Hill",
+  "id": "bw-p-nm0001836",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Weber",
+  "type": "task"
+}

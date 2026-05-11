@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Clarke. writer, producer, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0164799/\n_search: Jackie Clarke | Superstore | Happy Endings | Blockbuster | Kenan",
+  "id": "bw-p-nm0164799",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Clarke",
+  "type": "task"
+}

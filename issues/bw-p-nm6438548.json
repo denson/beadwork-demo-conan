@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tate Birchmore. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6438548/\n_search: Tate Birchmore | Presumed Innocent | Wonder Man | Shifting Gears | Winning Time: The Rise of the Lakers Dynasty",
+  "id": "bw-p-nm6438548",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tate Birchmore",
+  "type": "task"
+}

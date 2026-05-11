@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Craig Jones. b. 1972 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0427808/\n_search: Craig Jones | Rollerball | Slipknot - Rock in Rio 2011 | Slipknot: (sic)nesses | Metal Evolution",
+  "id": "bw-p-nm0427808",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Craig Jones",
+  "type": "task"
+}

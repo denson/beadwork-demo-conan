@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelly Willis. b. 1968 | actress, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0932371/\n_search: Kelly Willis | Thelma \u0026 Louise | An Unfinished Life | Bob Roberts | Step Fast",
+  "id": "bw-p-nm0932371",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelly Willis",
+  "type": "task"
+}

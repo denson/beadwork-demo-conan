@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patti Scialfa. b. 1953 | actress, music_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0778393/\n_search: Patti Scialfa | No Looking Back | Manhood | Pearl | The Mustangs: America's Wild Horses",
+  "id": "bw-p-nm0778393",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patti Scialfa",
+  "type": "task"
+}

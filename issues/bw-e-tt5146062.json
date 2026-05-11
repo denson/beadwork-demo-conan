@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zachary Quinto/Brent Morin/Warren Haynes. conan_tbs, S5E157, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5146062/\n_search: Zachary Quinto/Brent Morin/Warren Haynes | 2015 | S5E157",
+  "id": "bw-e-tt5146062",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zachary Quinto/Brent Morin/Warren Haynes",
+  "type": "task"
+}

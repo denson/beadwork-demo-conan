@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristen Bell/Frank Grillo/Beth Stelling. conan_tbs, S8E3, 2017.\nRuntime: 42 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt7560018/\n_search: Kristen Bell/Frank Grillo/Beth Stelling | 2017 | S8E3",
+  "id": "bw-e-tt7560018",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristen Bell/Frank Grillo/Beth Stelling",
+  "type": "task"
+}

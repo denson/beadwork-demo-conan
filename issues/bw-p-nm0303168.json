@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Galloway. 1937–2009 | actor, writer, archive_footage.\nDECEASED (1937–2009). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0303168/\n_search: Don Galloway | The Big Chill | Ironside | Ironside | Arrest and Trial",
+  "id": "bw-p-nm0303168",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Galloway",
+  "type": "task"
+}

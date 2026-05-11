@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Michele. b. 1966 | actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005230/\n_search: Michael Michele | How to Lose a Guy in 10 Days | ER | New Jack City | Dark Blue",
+  "id": "bw-p-nm0005230",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Michele",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyra Sundance. miscellaneous, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1856506/\n_search: Kyra Sundance | Off the Leash | My Dog Ate What? | First Annual Miss Dog Beauty Pageant",
+  "id": "bw-p-nm1856506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyra Sundance",
+  "type": "task"
+}

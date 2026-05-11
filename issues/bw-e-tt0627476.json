@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quentin Tarantino/Molly Sims/Chuck Palahniuk. late_night, S11E24, 2003.\nRuntime: 57 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt0627476/\n_search: Quentin Tarantino/Molly Sims/Chuck Palahniuk | 2003 | S11E24",
+  "id": "bw-e-tt0627476",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quentin Tarantino/Molly Sims/Chuck Palahniuk",
+  "type": "task"
+}

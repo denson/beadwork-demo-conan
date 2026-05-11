@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sticky Fingaz. b. 1973 | actor, composer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0277727/\n_search: Sticky Fingaz | Flight of the Phoenix | Next Friday | The Bag Man | Blade",
+  "id": "bw-p-nm0277727",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sticky Fingaz",
+  "type": "task"
+}

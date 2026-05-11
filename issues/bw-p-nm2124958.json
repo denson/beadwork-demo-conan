@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary E. Kennedy. b. 1972 | actress, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2124958/\n_search: Mary E. Kennedy | Shameless | Creative Differences | Shattered",
+  "id": "bw-p-nm2124958",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary E. Kennedy",
+  "type": "task"
+}

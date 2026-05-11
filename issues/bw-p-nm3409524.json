@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Darryl Hammond. 1964–2017 | actor, stunts.\nDECEASED (1964–2017). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3409524/\n_search: Darryl Hammond | The Longest Yard | Hannah Montana: The Movie",
+  "id": "bw-p-nm3409524",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Darryl Hammond",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susan Santomauro. production_department, script_department, assistant_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0763839/\n_search: Susan Santomauro | The Chow Line | Late Night with Conan O'Brien: 10th Anniversary Special | Late Night with Conan O'Brien: 5",
+  "id": "bw-p-nm0763839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susan Santomauro",
+  "type": "task"
+}

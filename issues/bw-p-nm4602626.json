@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brad McLean. actor, sound_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4602626/\n_search: Brad McLean | The Lion King | Little Diddy About Tim and Carly | Absolution | Carousel",
+  "id": "bw-p-nm4602626",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brad McLean",
+  "type": "task"
+}

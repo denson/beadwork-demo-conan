@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Wagner. b. 1930 | actor, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001822/\n_search: Robert Wagner | The Towering Inferno | Austin Powers: International Man of Mystery | Austin Powers in Goldmember | Dragon: The Bruce Lee Story",
+  "id": "bw-p-nm0001822",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Wagner",
+  "type": "task"
+}

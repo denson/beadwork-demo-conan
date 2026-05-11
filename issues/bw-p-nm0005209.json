@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark McGrath. b. 1968 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005209/\n_search: Mark McGrath | Scooby-Doo | Wild Things | The Sweetest Thing | Raising Helen",
+  "id": "bw-p-nm0005209",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark McGrath",
+  "type": "task"
+}

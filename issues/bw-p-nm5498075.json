@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zac Cockrell. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5498075/\n_search: Zac Cockrell | Silver Linings Playbook | Everything, Everything | Joy | Just Mercy",
+  "id": "bw-p-nm5498075",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zac Cockrell",
+  "type": "task"
+}

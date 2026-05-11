@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan Without Borders: Australia. conan_tbs, S9E38, 2019.\nRuntime: 42 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt10207388/\n_search: Conan Without Borders: Australia | 2019 | S9E38",
+  "id": "bw-e-tt10207388",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan Without Borders: Australia",
+  "type": "task"
+}

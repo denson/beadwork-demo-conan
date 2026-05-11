@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sonny Landreth. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1648257/\n_search: Sonny Landreth | After the Spill | NCIS: New Orleans | Great Performances | Jazz Fest: A New Orleans Story",
+  "id": "bw-p-nm1648257",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sonny Landreth",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bebel Gilberto. b. 1966 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0064831/\n_search: Bebel Gilberto | Rio 2 | Rio | In Time | Closer",
+  "id": "bw-p-nm0064831",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bebel Gilberto",
+  "type": "task"
+}

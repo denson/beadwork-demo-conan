@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lil' Wayne. b. 1982 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1211443/\n_search: Lil' Wayne | Suicide Squad | End of Watch | Project Power | I Love You, Beth Cooper",
+  "id": "bw-p-nm1211443",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lil' Wayne",
+  "type": "task"
+}

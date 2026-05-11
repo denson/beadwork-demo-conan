@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alexi Lalas. b. 1970 | actor, soundtrack, archive_footage.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1123853/\n_search: Alexi Lalas | Arli$$ | The Big Green | Balls Up | 2025 CONCACAF Gold Cup",
+  "id": "bw-p-nm1123853",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alexi Lalas",
+  "type": "task"
+}

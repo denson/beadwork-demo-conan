@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucy Lawless/Tate Donovan/Kenny Rogerson. late_night, S6E19, 1998.\nRuntime: 57 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt0627163/\n_search: Lucy Lawless/Tate Donovan/Kenny Rogerson | 1998 | S6E19",
+  "id": "bw-e-tt0627163",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucy Lawless/Tate Donovan/Kenny Rogerson",
+  "type": "task"
+}

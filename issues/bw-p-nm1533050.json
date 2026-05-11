@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lynyrd Skynyrd. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1533050/\n_search: Lynyrd Skynyrd | Kingsman: The Secret Service | Boss Level | Crimson Tide | Straw Dogs",
+  "id": "bw-p-nm1533050",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lynyrd Skynyrd",
+  "type": "task"
+}

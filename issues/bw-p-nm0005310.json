@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Regis Philbin. 1931–2020 | actor, producer, miscellaneous.\nDECEASED (1931–2020). Conan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0005310/\n_search: Regis Philbin | Little Nicky | Everything You Always Wanted to Know About Sex * But Were Afraid to Ask | Miss Congeniality 2: Armed and Fabulous | Shrek the Third",
+  "id": "bw-p-nm0005310",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Regis Philbin",
+  "type": "task"
+}

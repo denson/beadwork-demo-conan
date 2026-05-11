@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Lorre. b. 1952 | writer, producer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0521143/\n_search: Chuck Lorre | Two and a Half Men | The Big Bang Theory | Dharma \u0026 Greg | The Kominsky Method",
+  "id": "bw-p-nm0521143",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Lorre",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tracy Morgan/Paget Brewster/The Last Shadow Puppets. late_night, S16E37, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt28278266/\n_search: Tracy Morgan/Paget Brewster/The Last Shadow Puppets | 2008 | S16E37",
+  "id": "bw-e-tt28278266",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tracy Morgan/Paget Brewster/The Last Shadow Puppets",
+  "type": "task"
+}

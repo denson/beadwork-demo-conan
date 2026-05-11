@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beware of Darkness. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5676376/\n_search: Beware of Darkness | Saints Row IV | Nitro Circus: The Movie | Klassen | DittyTV's Eleven",
+  "id": "bw-p-nm5676376",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beware of Darkness",
+  "type": "task"
+}

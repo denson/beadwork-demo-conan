@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jules Kain. b. 1991 | actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3299028/\n_search: Jules Kain | CSI: NY | Everybody Hates Chris | The Bernie Mac Show | What does it mean?",
+  "id": "bw-p-nm3299028",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jules Kain",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carrie Fisher. 1956–2016 | actress, miscellaneous, writer.\nDECEASED (1956–2016). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000402/\n_search: Carrie Fisher | Star Wars: Episode IV - A New Hope | Star Wars: Episode VIII - The Last Jedi | Star Wars: Episode VI - Return of the Jedi | Star Wars: Episode V - The Empire Strikes Back",
+  "id": "bw-p-nm0000402",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carrie Fisher",
+  "type": "task"
+}

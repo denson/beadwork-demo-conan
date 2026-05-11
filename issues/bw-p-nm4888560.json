@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Graffiti6. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4888560/\n_search: Graffiti6 | Temptation: Confessions of a Marriage Counselor | Grey's Anatomy | The Great Ghost Rescue",
+  "id": "bw-p-nm4888560",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Graffiti6",
+  "type": "task"
+}

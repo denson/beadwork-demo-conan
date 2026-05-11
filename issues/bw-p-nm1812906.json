@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Van Hunt. b. 1970 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1812906/\n_search: Van Hunt | Bruised | Forgetting Sarah Marshall | Coach Carter | Just Wright",
+  "id": "bw-p-nm1812906",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Van Hunt",
+  "type": "task"
+}

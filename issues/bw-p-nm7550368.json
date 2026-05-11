@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sofia Niño de Rivera. b. 1981 | actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7550368/\n_search: Sofia Niño de Rivera | Recuperando a mi Ex | Legend Quest | Tell Me What You Want, Really | Club of Crows",
+  "id": "bw-p-nm7550368",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sofia Niño de Rivera",
+  "type": "task"
+}

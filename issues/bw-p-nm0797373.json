@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gregory Siff. b. 1977 | actor, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0797373/\n_search: Gregory Siff | From Justin to Kelly | In \u0026 Out | Kissing Lying Crying | Undressed",
+  "id": "bw-p-nm0797373",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gregory Siff",
+  "type": "task"
+}

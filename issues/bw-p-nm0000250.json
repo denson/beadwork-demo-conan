@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Renée Zellweger. b. 1969 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000250/\n_search: Renée Zellweger | Chicago | Cold Mountain | Jerry Maguire | Bridget Jones's Diary",
+  "id": "bw-p-nm0000250",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Renée Zellweger",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Lee Roth. b. 1954 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0744822/\n_search: David Lee Roth | Don't Look Up | Ready Player One | Mission to Mars | Zombieland",
+  "id": "bw-p-nm0744822",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Lee Roth",
+  "type": "task"
+}

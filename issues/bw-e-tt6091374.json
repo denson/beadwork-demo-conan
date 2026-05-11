@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sharon Osbourne/Bruce Campbell/Mike Recine. conan_tbs, S6E137, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6091374/\n_search: Sharon Osbourne/Bruce Campbell/Mike Recine | 2016 | S6E137",
+  "id": "bw-e-tt6091374",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sharon Osbourne/Bruce Campbell/Mike Recine",
+  "type": "task"
+}

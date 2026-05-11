@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucy Lawless. b. 1968 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0005128/\n_search: Lucy Lawless | Xena: Warrior Princess | Spartacus | Spider-Man | EuroTrip",
+  "id": "bw-p-nm0005128",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucy Lawless",
+  "type": "task"
+}

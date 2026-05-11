@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Gordon. 1947–2022 | actor, composer, music_department.\nDECEASED (1947–2022). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0330561/\n_search: Robert Gordon | Natural Born Killers | Beetlejuice | Snakeskin | Oxford Blues",
+  "id": "bw-p-nm0330561",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Gordon",
+  "type": "task"
+}

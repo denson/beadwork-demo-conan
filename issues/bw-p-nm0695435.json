@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Pratt. b. 1979 | actor, producer, miscellaneous.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0695435/\n_search: Chris Pratt | Guardians of the Galaxy | Parks and Recreation | Jurassic World | Jurassic World: Fallen Kingdom",
+  "id": "bw-p-nm0695435",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Pratt",
+  "type": "task"
+}

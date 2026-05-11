@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nelson Estevez. actor, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2999437/\n_search: Nelson Estevez | The Oval | Pam \u0026 Tommy | Acrimony | The Killer",
+  "id": "bw-p-nm2999437",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nelson Estevez",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alex Scally. b. 1982 | composer, actor, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3780458/\n_search: Alex Scally | Wild Target | Chemical Hearts | The Stand | The Kissing Booth 3",
+  "id": "bw-p-nm3780458",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alex Scally",
+  "type": "task"
+}

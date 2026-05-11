@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evan Michelson. (no IMDb bio data).\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4386467/\n_search: Evan Michelson | Return to Nuke 'Em High Volume 1 | Oddities | Bloodlines: The Art and Life of Vincent Castiglia | The Midnight Archive",
+  "id": "bw-p-nm4386467",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evan Michelson",
+  "type": "task"
+}

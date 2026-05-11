@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Duane Eddy. 1938–2024 | actor, music_department, composer.\nDECEASED (1938–2024). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0248885/\n_search: Duane Eddy | Natural Born Killers | Broken Arrow | Forrest Gump | Flipped",
+  "id": "bw-p-nm0248885",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Duane Eddy",
+  "type": "task"
+}

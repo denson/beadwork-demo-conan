@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Beckinsale. b. 1973 | actress, producer, miscellaneous.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000295/\n_search: Kate Beckinsale | Love \u0026 Friendship | Underworld: Evolution | Underworld | Vacancy",
+  "id": "bw-p-nm0000295",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Beckinsale",
+  "type": "task"
+}

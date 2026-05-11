@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alex Edelman. b. 1989 | writer, actor, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2446029/\n_search: Alex Edelman | Unfrosted | The Paper | The Great Indoors | Teenage Bounty Hunters",
+  "id": "bw-p-nm2446029",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alex Edelman",
+  "type": "task"
+}

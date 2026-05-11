@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norm Macdonald/Courtney Thorne-Smith/Collective Soul. late_night, S4E112, 1997.\nRuntime: 57 min.\nIMDb rating: 9.4.\nIMDb: https://www.imdb.com/title/tt3677442/\n_search: Norm Macdonald/Courtney Thorne-Smith/Collective Soul | 1997 | S4E112",
+  "id": "bw-e-tt3677442",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norm Macdonald/Courtney Thorne-Smith/Collective Soul",
+  "type": "task"
+}

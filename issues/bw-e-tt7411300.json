@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diego Luna/Aisha Tyler/Moses Storm. conan_tbs, S7E133, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt7411300/\n_search: Diego Luna/Aisha Tyler/Moses Storm | 2017 | S7E133",
+  "id": "bw-e-tt7411300",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diego Luna/Aisha Tyler/Moses Storm",
+  "type": "task"
+}

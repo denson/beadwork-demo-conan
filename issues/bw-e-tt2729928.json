@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fyvush Finkel/David Schwimmer/Jeff Nathan. late_night, S2E68, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2729928/\n_search: Fyvush Finkel/David Schwimmer/Jeff Nathan | 1994 | S2E68",
+  "id": "bw-e-tt2729928",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fyvush Finkel/David Schwimmer/Jeff Nathan",
+  "type": "task"
+}

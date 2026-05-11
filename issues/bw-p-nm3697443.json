@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phoebe Dynevor. b. 1995 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3697443/\n_search: Phoebe Dynevor | Fair Play | Thrash | Bridgerton | Dickensian",
+  "id": "bw-p-nm3697443",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phoebe Dynevor",
+  "type": "task"
+}

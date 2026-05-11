@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Man for 3 Out of 4 Seasons. conan_tbs, S1E76, 2011.\nRuntime: 60 min.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt1885553/\n_search: A Man for 3 Out of 4 Seasons | 2011 | S1E76",
+  "id": "bw-e-tt1885553",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Man for 3 Out of 4 Seasons",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Rory Scovel. conan_tbs, S10E81, 2020.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt13002638/\n_search: From Largo Theatre Rory Scovel | 2020 | S10E81",
+  "id": "bw-e-tt13002638",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Rory Scovel",
+  "type": "task"
+}

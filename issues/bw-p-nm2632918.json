@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank Drank. actor, stunts, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2632918/\n_search: Frank Drank | The Campaign | Major Crimes | Bones | House",
+  "id": "bw-p-nm2632918",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank Drank",
+  "type": "task"
+}

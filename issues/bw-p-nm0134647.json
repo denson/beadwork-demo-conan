@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mario Cantone. b. 1959 | actor, writer, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0134647/\n_search: Mario Cantone | Sex and the City | Sex and the City 2 | Surf's Up | Sex and the City",
+  "id": "bw-p-nm0134647",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mario Cantone",
+  "type": "task"
+}

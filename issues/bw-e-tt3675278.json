@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianna Margulies/Dr. David Wright/Courtland Mead. late_night, S4E101, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3675278/\n_search: Julianna Margulies/Dr. David Wright/Courtland Mead | 1997 | S4E101",
+  "id": "bw-e-tt3675278",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianna Margulies/Dr. David Wright/Courtland Mead",
+  "type": "task"
+}

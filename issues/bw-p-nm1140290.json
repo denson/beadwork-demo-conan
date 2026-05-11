@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jordan Rubin. b. 1972 | writer, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1140290/\n_search: Jordan Rubin | Zombeavers | The 83rd Annual Academy Awards | Comedy Central Presents",
+  "id": "bw-p-nm1140290",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jordan Rubin",
+  "type": "task"
+}

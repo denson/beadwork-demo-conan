@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Mason. actor, stunts.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0556868/\n_search: Mike Mason | The New Guy | ADHDtv: With Lew Marklin | Life After X | World of X Games: Real Moto",
+  "id": "bw-p-nm0556868",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Mason",
+  "type": "task"
+}

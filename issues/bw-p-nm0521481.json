@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Lotito. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0521481/\n_search: Mark Lotito | Synecdoche, New York | The Wannabe | Rubicon | Law \u0026 Order",
+  "id": "bw-p-nm0521481",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Lotito",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Guy Sebastian. b. 1981 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1468505/\n_search: Guy Sebastian | Australian Idol | Please Like Me | No Such Thing as Housewives | So You Think You Can Dance Australia",
+  "id": "bw-p-nm1468505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Guy Sebastian",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Lavere. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2058531/\n_search: Amy Lavere | Black Snake Moan | Walk the Line | The Heartbreak Kid | The Romance of Loneliness",
+  "id": "bw-p-nm2058531",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Lavere",
+  "type": "task"
+}

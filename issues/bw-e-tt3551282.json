@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianne Phillips/Wanda Sykes-Hall/Mickey Gilley. late_night, S3E78, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3551282/\n_search: Julianne Phillips/Wanda Sykes-Hall/Mickey Gilley | 1996 | S3E78",
+  "id": "bw-e-tt3551282",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianne Phillips/Wanda Sykes-Hall/Mickey Gilley",
+  "type": "task"
+}

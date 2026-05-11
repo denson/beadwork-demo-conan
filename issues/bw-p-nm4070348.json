@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lance Allen. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4070348/\n_search: Lance Allen | Tracy Morgan Teaches Math | Reel Hard | Fist of the Wasteland | Underbelly Blues",
+  "id": "bw-p-nm4070348",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lance Allen",
+  "type": "task"
+}

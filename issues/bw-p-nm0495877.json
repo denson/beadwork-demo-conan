@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fran Lebowitz. b. 1950 | actress, producer, archive_footage.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0495877/\n_search: Fran Lebowitz | The Wolf of Wall Street | Law \u0026 Order | Law \u0026 Order: Criminal Intent | Pretend It's a City",
+  "id": "bw-p-nm0495877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fran Lebowitz",
+  "type": "task"
+}

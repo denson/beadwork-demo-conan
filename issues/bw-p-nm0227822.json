@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin DiNovis. b. 1968 | actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0227822/\n_search: Kevin DiNovis | Surrender Dorothy | Death and Texas | The Stand-In | Drawn Into the Night",
+  "id": "bw-p-nm0227822",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin DiNovis",
+  "type": "task"
+}

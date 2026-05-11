@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brendon Urie. b. 1987 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2164172/\n_search: Brendon Urie | Midnight Sun | Jennifer's Body | Office Christmas Party | The Smurfs",
+  "id": "bw-p-nm2164172",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brendon Urie",
+  "type": "task"
+}

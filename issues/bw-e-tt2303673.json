@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Crystal Bernard/Charles Dutton/Nick Lowe. late_night, S2E89, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2303673/\n_search: Crystal Bernard/Charles Dutton/Nick Lowe | 1995 | S2E89",
+  "id": "bw-e-tt2303673",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Crystal Bernard/Charles Dutton/Nick Lowe",
+  "type": "task"
+}

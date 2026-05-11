@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patterson Hood. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3096845/\n_search: Patterson Hood | Ragged Heart | That Evening Sun | Criminal Minds | The Girl",
+  "id": "bw-p-nm3096845",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patterson Hood",
+  "type": "task"
+}

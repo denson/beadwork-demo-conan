@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Derek Theler. b. 1985 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3475387/\n_search: Derek Theler | Baby Daddy | New Warriors | Project: SERA | Camp Virginovich",
+  "id": "bw-p-nm3475387",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Derek Theler",
+  "type": "task"
+}

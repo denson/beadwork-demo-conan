@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Willem Dafoe. b. 1955 | actor, producer, miscellaneous.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000353/\n_search: Willem Dafoe | Spider-Man | At Eternity's Gate | The Florida Project | The Lighthouse",
+  "id": "bw-p-nm0000353",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Willem Dafoe",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Klaxons. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2317702/\n_search: Klaxons | Twelve | Chatroom | Waterloo Road | Need for Speed: Hot Pursuit",
+  "id": "bw-p-nm2317702",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Klaxons",
+  "type": "task"
+}

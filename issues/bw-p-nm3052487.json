@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Calabrese. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3052487/\n_search: Michael Calabrese | Late Show with David Letterman | The Ellen DeGeneres Show | The Late Show with Stephen Colbert",
+  "id": "bw-p-nm3052487",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Calabrese",
+  "type": "task"
+}

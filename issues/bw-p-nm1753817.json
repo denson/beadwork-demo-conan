@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ari Shaffir. b. 1974 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1753817/\n_search: Ari Shaffir | Keeping Up with the Joneses | InAPPropriate Comedy | This Is Not Happening | The End",
+  "id": "bw-p-nm1753817",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ari Shaffir",
+  "type": "task"
+}

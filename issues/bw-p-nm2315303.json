@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Takahashi. actor, stunts, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2315303/\n_search: Brian Takahashi | Crank | Pra(e)y | Hit | Wild Cherry",
+  "id": "bw-p-nm2315303",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Takahashi",
+  "type": "task"
+}

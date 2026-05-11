@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eliza Carthy. music_department, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2024532/\n_search: Eliza Carthy | Tulip Fever | Eliza and Martin Carthy - Live at the Pavilion | The Ballad of Lucy Sands | The Gift Band",
+  "id": "bw-p-nm2024532",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eliza Carthy",
+  "type": "task"
+}

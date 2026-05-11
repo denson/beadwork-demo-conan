@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Curtis/Matthew Lillard/Patti Smith. late_night, S6E62, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627197/\n_search: Tony Curtis/Matthew Lillard/Patti Smith | 1999 | S6E62",
+  "id": "bw-e-tt0627197",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Curtis/Matthew Lillard/Patti Smith",
+  "type": "task"
+}

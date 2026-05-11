@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Cotton. 1935–2017 | actor, soundtrack, archive_footage.\nDECEASED (1935–2017). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0183098/\n_search: James Cotton | Michael | Taking Woodstock | House | Queen City",
+  "id": "bw-p-nm0183098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Cotton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Terry Crews. b. 1968 | actor, producer, miscellaneous.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0187719/\n_search: Terry Crews | Idiocracy | The Expendables | Brooklyn Nine-Nine | Cloudy with a Chance of Meatballs 2",
+  "id": "bw-p-nm0187719",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Terry Crews",
+  "type": "task"
+}

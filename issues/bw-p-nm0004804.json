@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Drew Carey. b. 1958 | producer, actor, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004804/\n_search: Drew Carey | The Drew Carey Show | Robots | Jack and Jill | Coneheads",
+  "id": "bw-p-nm0004804",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Drew Carey",
+  "type": "task"
+}

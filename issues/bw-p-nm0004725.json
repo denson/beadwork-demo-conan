@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charles Barkley. b. 1963 | actor, producer, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0004725/\n_search: Charles Barkley | Hot Shots! | He Got Game | Space Jam | Hustle",
+  "id": "bw-p-nm0004725",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charles Barkley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Richardson/Rose Matafeo. conan_tbs, S9E52, 2019.\nRuntime: 21 min.\nIMDb rating: 6.7.\nIMDb: https://www.imdb.com/title/tt10310606/\n_search: Sam Richardson/Rose Matafeo | 2019 | S9E52",
+  "id": "bw-e-tt10310606",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Richardson/Rose Matafeo",
+  "type": "task"
+}

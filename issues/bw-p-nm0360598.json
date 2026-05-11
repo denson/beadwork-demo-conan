@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Glen Hansard. b. 1970 | composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0360598/\n_search: Glen Hansard | Once | The Commitments | Sing Street | Dear John",
+  "id": "bw-p-nm0360598",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Glen Hansard",
+  "type": "task"
+}

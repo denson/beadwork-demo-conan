@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michelle Yeoh. b. 1962 | actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0000706/\n_search: Michelle Yeoh | Everything Everywhere All at Once | Crouching Tiger, Hidden Dragon | Wicked | Crazy Rich Asians",
+  "id": "bw-p-nm0000706",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michelle Yeoh",
+  "type": "task"
+}

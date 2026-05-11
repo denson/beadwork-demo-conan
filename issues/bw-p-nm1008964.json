@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Berkowitz. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1008964/\n_search: Bob Berkowitz | Naked New York with Bob Berkowitz | The View | Real Personal | Focus",
+  "id": "bw-p-nm1008964",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Berkowitz",
+  "type": "task"
+}

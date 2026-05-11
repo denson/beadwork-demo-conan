@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Mintz. b. 1981 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2089814/\n_search: Dan Mintz | The Bob's Burgers Movie | Bob's Burgers | Veep | Important Things with Demetri Martin",
+  "id": "bw-p-nm2089814",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Mintz",
+  "type": "task"
+}

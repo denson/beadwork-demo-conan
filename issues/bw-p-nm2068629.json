@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Sarian. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2068629/\n_search: Mark Sarian | Good Girls | The Shrink Next Door | Childrens Hospital | 9-1-1",
+  "id": "bw-p-nm2068629",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Sarian",
+  "type": "task"
+}

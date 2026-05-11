@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teri Garr. 1944–2024 | actress, miscellaneous, soundtrack.\nDECEASED (1944–2024). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000414/\n_search: Teri Garr | Tootsie | Close Encounters of the Third Kind | Young Frankenstein | Mr. Mom",
+  "id": "bw-p-nm0000414",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teri Garr",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Peet/Lamorne Morris/Ty Segall and the Muggers. conan_tbs, S6E58, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5575584/\n_search: Amanda Peet/Lamorne Morris/Ty Segall and the Muggers | 2016 | S6E58",
+  "id": "bw-e-tt5575584",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Peet/Lamorne Morris/Ty Segall and the Muggers",
+  "type": "task"
+}

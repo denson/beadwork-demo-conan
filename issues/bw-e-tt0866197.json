@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Episode #13.188. late_night, S13E188, 2006.\nRuntime: 57 min.\nIMDb rating: 4.7.\nIMDb: https://www.imdb.com/title/tt0866197/\n_search: Episode #13.188 | 2006 | S13E188",
+  "id": "bw-e-tt0866197",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Episode #13.188",
+  "type": "task"
+}

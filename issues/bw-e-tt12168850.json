@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Historian A. Scott Berg. jibber_jabber, S1E9, 2013.\nIMDb: https://www.imdb.com/title/tt12168850/\n_search: Historian A. Scott Berg | 2013 | S1E9",
+  "id": "bw-e-tt12168850",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Historian A. Scott Berg",
+  "type": "task"
+}

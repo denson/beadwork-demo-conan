@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Stills. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3023074/\n_search: The Stills | P.S. I Love You | The Trotsky | Bold Concert Series",
+  "id": "bw-p-nm3023074",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Stills",
+  "type": "task"
+}

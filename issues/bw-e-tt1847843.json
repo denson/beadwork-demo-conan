@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Rise and Fall of John Reisenphal. conan_tbs, S1E60, 2011.\nRuntime: 60 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt1847843/\n_search: The Rise and Fall of John Reisenphal | 2011 | S1E60",
+  "id": "bw-e-tt1847843",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Rise and Fall of John Reisenphal",
+  "type": "task"
+}

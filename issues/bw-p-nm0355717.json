@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Hall. b. 1956 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0355717/\n_search: Jerry Hall | Batman | Freejack | Vampire in Brooklyn | Absolutely Fabulous: The Movie",
+  "id": "bw-p-nm0355717",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Hall",
+  "type": "task"
+}

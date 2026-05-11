@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Dole. 1923–2021 | actor, editorial_department, miscellaneous.\nDECEASED (1923–2021). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0230909/\n_search: Bob Dole | Mr. \u0026 Mrs. Bridge | National Geographic Explorer | Murphy Brown | Suddenly Susan",
+  "id": "bw-p-nm0230909",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Dole",
+  "type": "task"
+}

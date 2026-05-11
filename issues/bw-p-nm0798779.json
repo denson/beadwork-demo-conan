@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Silver. 1946–2009 | actor, director, producer.\nDECEASED (1946–2009). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0798779/\n_search: Ron Silver | Timecop | Reversal of Fortune | Find Me Guilty | The Arrival",
+  "id": "bw-p-nm0798779",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Silver",
+  "type": "task"
+}

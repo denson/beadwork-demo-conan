@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lizzy Caplan. b. 1982 | actress, producer, executive.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0135221/\n_search: Lizzy Caplan | Cloverfield | Hot Tub Time Machine | Now You See Me 2 | Mean Girls",
+  "id": "bw-p-nm0135221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lizzy Caplan",
+  "type": "task"
+}

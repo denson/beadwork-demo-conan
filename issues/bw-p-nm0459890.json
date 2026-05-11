@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wladimir Klitschko. b. 1976 | actor, archive_footage, archive_sound.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0459890/\n_search: Wladimir Klitschko | Ocean's Eleven | Pain \u0026 Gain | Devotion | Rabbit Without Ears",
+  "id": "bw-p-nm0459890",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wladimir Klitschko",
+  "type": "task"
+}

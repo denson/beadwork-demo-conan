@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joseph Greer. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8463980/\n_search: Joseph Greer | Wolf Creek 2 | T in the Park 2010 | Live from Abbey Road | Amp'd Up",
+  "id": "bw-p-nm8463980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joseph Greer",
+  "type": "task"
+}

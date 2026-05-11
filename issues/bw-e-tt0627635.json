@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tyra Banks/Jesse Eisenberg/Slipknot. late_night, S12E87, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627635/\n_search: Tyra Banks/Jesse Eisenberg/Slipknot | 2005 | S12E87",
+  "id": "bw-e-tt0627635",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tyra Banks/Jesse Eisenberg/Slipknot",
+  "type": "task"
+}

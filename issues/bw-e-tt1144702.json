@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dana Carvey/John Ritter/Ted Nugent. late_night, S10E83, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1144702/\n_search: Dana Carvey/John Ritter/Ted Nugent | 2003 | S10E83",
+  "id": "bw-e-tt1144702",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dana Carvey/John Ritter/Ted Nugent",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Longwave. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm12938429/\n_search: Longwave | Paltrocast with Darren Paltrowitz",
+  "id": "bw-p-nm12938429",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Longwave",
+  "type": "task"
+}

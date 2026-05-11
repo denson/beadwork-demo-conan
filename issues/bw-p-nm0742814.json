@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil Rosenthal. b. 1960 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0742814/\n_search: Phil Rosenthal | Everybody Loves Raymond | The Simpsons Movie | Coach | Somebody Feed Phil",
+  "id": "bw-p-nm0742814",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil Rosenthal",
+  "type": "task"
+}

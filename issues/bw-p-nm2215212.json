@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Panic! at the Disco. music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2215212/\n_search: Panic! at the Disco | Midnight Sun | Jennifer's Body | Office Christmas Party | Frozen II",
+  "id": "bw-p-nm2215212",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Panic! at the Disco",
+  "type": "task"
+}

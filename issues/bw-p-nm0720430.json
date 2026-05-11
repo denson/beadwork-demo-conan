@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Restivo. b. 1983 | actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0720430/\n_search: Justin Restivo | Margin Call | Dirty Grandpa | A Case of You | The Adventures of Pete \u0026 Pete",
+  "id": "bw-p-nm0720430",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Restivo",
+  "type": "task"
+}

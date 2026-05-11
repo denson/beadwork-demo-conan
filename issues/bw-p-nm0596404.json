@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandon Molale. b. 1971 | actor, stunts, visual_effects.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0596404/\n_search: Brandon Molale | Dodgeball: A True Underdog Story | Mr. Deeds | Granite Flats | The Longest Yard",
+  "id": "bw-p-nm0596404",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandon Molale",
+  "type": "task"
+}

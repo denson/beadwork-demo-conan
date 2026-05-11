@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jem. director, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1585264/\n_search: Jem | The Quest | Eragon | Admission | Sex and the City",
+  "id": "bw-p-nm1585264",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jem",
+  "type": "task"
+}

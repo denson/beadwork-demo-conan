@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Episode #3.148. late_night, S3E148, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt12345864/\n_search: Episode #3.148 | 1996 | S3E148",
+  "id": "bw-e-tt12345864",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Episode #3.148",
+  "type": "task"
+}

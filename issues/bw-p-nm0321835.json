@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Glaser. b. 1968 | writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0321835/\n_search: Jon Glaser | Inside Amy Schumer | Delocated | The Dictator",
+  "id": "bw-p-nm0321835",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Glaser",
+  "type": "task"
+}

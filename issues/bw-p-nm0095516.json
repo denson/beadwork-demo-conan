@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lesley Boone. b. 1968 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0095516/\n_search: Lesley Boone | Ed | Fences | Agent Carter | Desperate Housewives",
+  "id": "bw-p-nm0095516",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lesley Boone",
+  "type": "task"
+}

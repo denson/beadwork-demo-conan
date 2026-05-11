@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Big Kenny. b. 1963 | actor, producer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1832040/\n_search: Big Kenny | Magic Mike | Billy Lynn's Long Halftime Walk | The Frontier Boys | 72hrs the Hague: Western",
+  "id": "bw-p-nm1832040",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Big Kenny",
+  "type": "task"
+}

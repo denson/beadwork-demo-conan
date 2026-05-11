@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clyde Peeling. (no IMDb bio data).\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm1658516/\n_search: Clyde Peeling | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm1658516",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clyde Peeling",
+  "type": "task"
+}

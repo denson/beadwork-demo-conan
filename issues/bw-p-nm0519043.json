@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Long. b. 1978 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0519043/\n_search: Justin Long | Live Free or Die Hard | Jeepers Creepers | Tusk | Galaxy Quest",
+  "id": "bw-p-nm0519043",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Long",
+  "type": "task"
+}

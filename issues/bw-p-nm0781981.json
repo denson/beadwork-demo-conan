@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Segel. b. 1980 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0781981/\n_search: Jason Segel | Forgetting Sarah Marshall | The Muppets | The End of the Tour | Sex Tape",
+  "id": "bw-p-nm0781981",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Segel",
+  "type": "task"
+}

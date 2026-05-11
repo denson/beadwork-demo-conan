@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thomas Gibson. actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004959/\n_search: Thomas Gibson | Criminal Minds: Season 10 - Memo from the Acting Director | Dharma \u0026 Greg | Eyes Wide Shut | Stardom",
+  "id": "bw-p-nm0004959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thomas Gibson",
+  "type": "task"
+}

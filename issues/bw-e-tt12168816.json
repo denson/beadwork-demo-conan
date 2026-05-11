@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rocker Jack White. jibber_jabber, S1E4, 2013.\nIMDb: https://www.imdb.com/title/tt12168816/\n_search: Rocker Jack White | 2013 | S1E4",
+  "id": "bw-e-tt12168816",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rocker Jack White",
+  "type": "task"
+}

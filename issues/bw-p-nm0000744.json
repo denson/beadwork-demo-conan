@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maria Conchita Alonso. b. 1955 | actress, producer, composer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000744/\n_search: Maria Conchita Alonso | The Running Man | Predator 2 | The House of the Spirits | Spread",
+  "id": "bw-p-nm0000744",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maria Conchita Alonso",
+  "type": "task"
+}

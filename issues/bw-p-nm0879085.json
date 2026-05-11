@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tyrese Gibson. b. 1978 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0879085/\n_search: Tyrese Gibson | Baby Boy | Furious 7 | Fast \u0026 Furious 6 | Transformers: Dark of the Moon",
+  "id": "bw-p-nm0879085",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tyrese Gibson",
+  "type": "task"
+}

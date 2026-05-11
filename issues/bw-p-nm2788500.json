@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Hussey. manager, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2788500/\n_search: Kevin Hussey | It's a Free World... | Brownie's Story",
+  "id": "bw-p-nm2788500",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Hussey",
+  "type": "task"
+}

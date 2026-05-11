@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daisy Faith. actress, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2691963/\n_search: Daisy Faith | Sweetmates | The Reel Thing | Shapetown | Pretty Little Liars",
+  "id": "bw-p-nm2691963",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daisy Faith",
+  "type": "task"
+}

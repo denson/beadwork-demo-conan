@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Henson. 1936–1990 | actor, writer, producer.\nDECEASED (1936–1990). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001345/\n_search: Jim Henson | The Muppet Show | Sesame Street | The Dark Crystal | The Muppet Movie",
+  "id": "bw-p-nm0001345",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Henson",
+  "type": "task"
+}

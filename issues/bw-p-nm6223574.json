@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Arvin Lee. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6223574/\n_search: Arvin Lee | Yes Day | All of Us Are Dead | Station 19 | Scavengers",
+  "id": "bw-p-nm6223574",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Arvin Lee",
+  "type": "task"
+}

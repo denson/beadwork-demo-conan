@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathryn Rose. actress, music_department, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0741511/\n_search: Kathryn Rose | Sarah McLachlan: Afterglow Live | National Lampoon's Senior Trip | War of the Worlds",
+  "id": "bw-p-nm0741511",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathryn Rose",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doris Kearns Goodwin. b. 1943 | producer, miscellaneous, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0329447/\n_search: Doris Kearns Goodwin | Lincoln | American Horror Story | An Unfinished Love Story | The Bully Pulpit",
+  "id": "bw-p-nm0329447",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doris Kearns Goodwin",
+  "type": "task"
+}

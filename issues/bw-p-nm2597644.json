@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Kalvan. actor, stunts, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2597644/\n_search: Jack Kalvan | Water for Elephants | Alice in Wonderland | Skeleton Crew | Our Flag Means Death",
+  "id": "bw-p-nm2597644",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Kalvan",
+  "type": "task"
+}

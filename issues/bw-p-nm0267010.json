@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Davey Faragher. b. 1956 | music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0267010/\n_search: Davey Faragher | Back to School | Stand Up Guys | Person of Interest | Inside Out 2",
+  "id": "bw-p-nm0267010",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Davey Faragher",
+  "type": "task"
+}

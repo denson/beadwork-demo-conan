@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Supergrass. actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1967734/\n_search: Supergrass | Hot Fuzz | Antitrust | Good Will Hunting | Remember Me",
+  "id": "bw-p-nm1967734",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Supergrass",
+  "type": "task"
+}

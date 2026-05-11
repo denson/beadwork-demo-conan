@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Young the Giant. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4591422/\n_search: Young the Giant | Fright Night | Teen Wolf | 13 Reasons Why | So You Think You Can Dance",
+  "id": "bw-p-nm4591422",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Young the Giant",
+  "type": "task"
+}

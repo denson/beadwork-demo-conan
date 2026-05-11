@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Goodfellas 2: Betterfellas. conan_tbs, S3E128, 2013.\nIMDb: https://www.imdb.com/title/tt3112388/\n_search: Goodfellas 2: Betterfellas | 2013 | S3E128",
+  "id": "bw-e-tt3112388",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Goodfellas 2: Betterfellas",
+  "type": "task"
+}

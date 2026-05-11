@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonatha Brooke. b. 1964 | music_department, actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1064844/\n_search: Jonatha Brooke | Return to Never Land | Buffy the Vampire Slayer | Dollhouse | This Space Between Us",
+  "id": "bw-p-nm1064844",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonatha Brooke",
+  "type": "task"
+}

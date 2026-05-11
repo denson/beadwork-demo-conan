@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patton Oswalt. conan_tbs, S9E33, 2019.\nRuntime: 21 min.\nIMDb rating: 5.8.\nIMDb: https://www.imdb.com/title/tt10140904/\n_search: Patton Oswalt | 2019 | S9E33",
+  "id": "bw-e-tt10140904",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patton Oswalt",
+  "type": "task"
+}

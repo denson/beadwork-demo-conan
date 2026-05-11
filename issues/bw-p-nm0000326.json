@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kim Cattrall. b. 1956 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000326/\n_search: Kim Cattrall | Sex and the City 2 | Star Trek VI: The Undiscovered Country | Sex and the City | Sex and the City",
+  "id": "bw-p-nm0000326",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kim Cattrall",
+  "type": "task"
+}

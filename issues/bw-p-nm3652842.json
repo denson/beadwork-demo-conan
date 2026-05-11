@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Isaac Hempstead Wright. b. 1999 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3652842/\n_search: Isaac Hempstead Wright | The Boxtrolls | Game of Thrones | The Awakening | Voyagers",
+  "id": "bw-p-nm3652842",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Isaac Hempstead Wright",
+  "type": "task"
+}

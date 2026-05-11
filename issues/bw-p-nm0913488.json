@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kerry Washington. b. 1977 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0913488/\n_search: Kerry Washington | Scandal | Ray | Save the Last Dance | Django Unchained",
+  "id": "bw-p-nm0913488",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kerry Washington",
+  "type": "task"
+}

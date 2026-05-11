@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marilu Henner/Greg Fitzsimmons/David George Gordon. late_night, S5E138, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627129/\n_search: Marilu Henner/Greg Fitzsimmons/David George Gordon | 1998 | S5E138",
+  "id": "bw-e-tt0627129",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marilu Henner/Greg Fitzsimmons/David George Gordon",
+  "type": "task"
+}

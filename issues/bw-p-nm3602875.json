@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Betsy McCaughey. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3602875/\n_search: Betsy McCaughey | CNN Newsroom | Sunday Report | Wake Up America | American Agenda",
+  "id": "bw-p-nm3602875",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Betsy McCaughey",
+  "type": "task"
+}

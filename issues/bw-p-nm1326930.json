@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fun Lovin' Criminals. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1326930/\n_search: Fun Lovin' Criminals | Titan A.E. | Exit Wounds | The Big Hit | I, Tonya",
+  "id": "bw-p-nm1326930",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fun Lovin' Criminals",
+  "type": "task"
+}

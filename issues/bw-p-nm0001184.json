@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jenna Elfman. b. 1971 | actress, producer, archive_footage.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0001184/\n_search: Jenna Elfman | Dharma \u0026 Greg | Keeping the Faith | Friends with Benefits | Edtv",
+  "id": "bw-p-nm0001184",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jenna Elfman",
+  "type": "task"
+}

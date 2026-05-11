@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Scorsese/Paget Brewster/Tony Bennett \u0026 k.d. lang. late_night, S10E47, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0763470/\n_search: Martin Scorsese/Paget Brewster/Tony Bennett \u0026 k.d. lang | 2002 | S10E47",
+  "id": "bw-e-tt0763470",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Scorsese/Paget Brewster/Tony Bennett \u0026 k.d. lang",
+  "type": "task"
+}

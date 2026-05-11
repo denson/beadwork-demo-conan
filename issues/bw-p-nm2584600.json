@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianne Hough. b. 1988 | producer, actress, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2584600/\n_search: Julianne Hough | Rock of Ages | Safe Haven | Footloose | Dirty Grandpa",
+  "id": "bw-p-nm2584600",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianne Hough",
+  "type": "task"
+}

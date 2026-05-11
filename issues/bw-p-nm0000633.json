@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Selleck. b. 1945 | actor, producer, writer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0000633/\n_search: Tom Selleck | Blue Bloods | Magnum, P.I. | In \u0026 Out | Quigley Down Under",
+  "id": "bw-p-nm0000633",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Selleck",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dion DiMucci. b. 1939 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0227488/\n_search: Dion DiMucci | The Long Kiss Goodnight | Behind Enemy Lines | Road House | The Expendables 2",
+  "id": "bw-p-nm0227488",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dion DiMucci",
+  "type": "task"
+}

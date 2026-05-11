@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Burr/Regina Hall/Marina Franklin. conan_tbs, S8E99, 2018.\nRuntime: 42 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt8861324/\n_search: Bill Burr/Regina Hall/Marina Franklin | 2018 | S8E99",
+  "id": "bw-e-tt8861324",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Burr/Regina Hall/Marina Franklin",
+  "type": "task"
+}

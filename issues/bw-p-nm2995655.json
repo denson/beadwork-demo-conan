@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyle Ayers. actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2995655/\n_search: Kyle Ayers | Amy's Dead-End Dreamhouse | Nice One! | #roofbreakup | Box Elder",
+  "id": "bw-p-nm2995655",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyle Ayers",
+  "type": "task"
+}

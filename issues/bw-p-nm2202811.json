@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Comey. b. 1960 | writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2202811/\n_search: James Comey | The Comey Rule | Nova | Review of the Day | Question Period",
+  "id": "bw-p-nm2202811",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Comey",
+  "type": "task"
+}

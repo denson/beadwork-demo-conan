@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clap Your Hands Say Yeah. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2192394/\n_search: Clap Your Hands Say Yeah | Whip It | The Art of Getting By | Choke | The Great Buck Howard",
+  "id": "bw-p-nm2192394",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clap Your Hands Say Yeah",
+  "type": "task"
+}

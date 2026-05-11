@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry Hryb. actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3820755/\n_search: Larry Hryb | Ms. Splosion Man | Halo 5: Live | Inside Xbox | Remaking the Legend: Halo 2 Anniversary",
+  "id": "bw-p-nm3820755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry Hryb",
+  "type": "task"
+}

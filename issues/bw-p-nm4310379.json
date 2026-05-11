@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Corso. writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4310379/\n_search: Jack Corso | African Skies | C.O.P.S.",
+  "id": "bw-p-nm4310379",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Corso",
+  "type": "task"
+}

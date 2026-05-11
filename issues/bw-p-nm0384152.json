@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conleth Hill. b. 1964 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0384152/\n_search: Conleth Hill | Game of Thrones | Whatever Works | The Isle | Salmon Fishing in the Yemen",
+  "id": "bw-p-nm0384152",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conleth Hill",
+  "type": "task"
+}

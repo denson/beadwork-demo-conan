@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Sizemore. 1961–2023 | actor, producer, writer.\nDECEASED (1961–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001744/\n_search: Tom Sizemore | Saving Private Ryan | Black Hawk Down | The Relic | Strange Days",
+  "id": "bw-p-nm0001744",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Sizemore",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zack Feinberg. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8657935/\n_search: Zack Feinberg | Animal Kingdom | Treme | Paltrocast with Darren Paltrowitz",
+  "id": "bw-p-nm8657935",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zack Feinberg",
+  "type": "task"
+}

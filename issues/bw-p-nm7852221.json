@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rich Meyer. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7852221/\n_search: Rich Meyer | The Helix... Loaded | The Playboy Morning Show | Late Night with Seth Meyers",
+  "id": "bw-p-nm7852221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rich Meyer",
+  "type": "task"
+}

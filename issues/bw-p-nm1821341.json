@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Ditty Bops. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1821341/\n_search: The Ditty Bops | Grey's Anatomy | Man Maid | The Late Late Show with Craig Ferguson",
+  "id": "bw-p-nm1821341",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Ditty Bops",
+  "type": "task"
+}

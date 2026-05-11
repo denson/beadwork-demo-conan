@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teddy Johnson. 1919–2018 | actor, soundtrack, archive_footage.\nDECEASED (1919–2018). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0426309/\n_search: Teddy Johnson | The Arthur Haynes Show | Girls at Sea | The Woman's Angle | Ontdek de ster",
+  "id": "bw-p-nm0426309",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teddy Johnson",
+  "type": "task"
+}

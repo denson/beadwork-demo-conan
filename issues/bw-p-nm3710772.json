@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Purnell. b. 1979 | actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3710772/\n_search: Justin Purnell | The Darryl Strawberry Show | Sanatorium | The Killer's Inside the House! | UCB Comedy Originals",
+  "id": "bw-p-nm3710772",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Purnell",
+  "type": "task"
+}

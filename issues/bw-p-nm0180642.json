@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Caroline Corr. b. 1973 | actress, composer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0180642/\n_search: Caroline Corr | America's Sweethearts | Where the Heart Is | The Wedding Date | Say It Isn't So",
+  "id": "bw-p-nm0180642",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Caroline Corr",
+  "type": "task"
+}

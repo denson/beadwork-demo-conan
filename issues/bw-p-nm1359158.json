@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rick Burch. b. 1975 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1359158/\n_search: Rick Burch | I Am Number Four | The Butterfly Effect | Van Wilder | Never Been Kissed",
+  "id": "bw-p-nm1359158",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rick Burch",
+  "type": "task"
+}

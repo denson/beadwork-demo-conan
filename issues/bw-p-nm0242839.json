@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dominick Dunne. 1925–2009 | producer, miscellaneous, assistant_director.\nDECEASED (1925–2009). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0242839/\n_search: Dominick Dunne | Addicted to Love | Playhouse 90 | The Panic in Needle Park | The Boys in the Band",
+  "id": "bw-p-nm0242839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dominick Dunne",
+  "type": "task"
+}

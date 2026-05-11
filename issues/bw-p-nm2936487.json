@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Dap-Kings. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2936487/\n_search: The Dap-Kings | Eternals | Waitress | Miss Sharon Jones! | Good Luck Chuck",
+  "id": "bw-p-nm2936487",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Dap-Kings",
+  "type": "task"
+}

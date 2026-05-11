@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Whitman Mayo. 1930–2001 | actor, soundtrack, archive_footage.\nDECEASED (1930–2001). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0562924/\n_search: Whitman Mayo | Sanford and Son | Boyz n the Hood | D.C. Cab | The Main Event",
+  "id": "bw-p-nm0562924",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Whitman Mayo",
+  "type": "task"
+}

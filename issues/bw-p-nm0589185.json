@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Reggie Miller. b. 1965 | actor, producer, camera_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0589185/\n_search: Reggie Miller | He Got Game | Gang Related | Beautiful Ohio | Forget Paris",
+  "id": "bw-p-nm0589185",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Reggie Miller",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tay Strathairn. b. 1980 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0833567/\n_search: Tay Strathairn | Nomadland | Julie \u0026 Julia | Lone Star | Eight Men Out",
+  "id": "bw-p-nm0833567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tay Strathairn",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Simon Helberg/Jai Courtney/Sebastian Maniscaclo. conan_tbs, S7E14, 2016.\nRuntime: 42 min.\nIMDb rating: 6.1.\nIMDb: https://www.imdb.com/title/tt6280196/\n_search: Simon Helberg/Jai Courtney/Sebastian Maniscaclo | 2016 | S7E14",
+  "id": "bw-e-tt6280196",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Simon Helberg/Jai Courtney/Sebastian Maniscaclo",
+  "type": "task"
+}

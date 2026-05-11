@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Abbott. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2946852/\n_search: Josh Abbott | The Longest Ride | Nacido de Nuevo | She Will Be Free",
+  "id": "bw-p-nm2946852",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Abbott",
+  "type": "task"
+}

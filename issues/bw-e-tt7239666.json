@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conor McGregor/James Van Der Beek/Dan St. Germain. conan_tbs, S7E118, 2017.\nRuntime: 42 min.\nIMDb rating: 6.8.\nIMDb: https://www.imdb.com/title/tt7239666/\n_search: Conor McGregor/James Van Der Beek/Dan St. Germain | 2017 | S7E118",
+  "id": "bw-e-tt7239666",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conor McGregor/James Van Der Beek/Dan St. Germain",
+  "type": "task"
+}

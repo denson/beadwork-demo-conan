@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shea Seger. composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1364486/\n_search: Shea Seger | Railed | The 2nd Annual Women Rock! Girls and Guitars",
+  "id": "bw-p-nm1364486",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shea Seger",
+  "type": "task"
+}

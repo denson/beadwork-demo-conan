@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eugenia. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm17287486/\n_search: Eugenia",
+  "id": "bw-p-nm17287486",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eugenia",
+  "type": "task"
+}

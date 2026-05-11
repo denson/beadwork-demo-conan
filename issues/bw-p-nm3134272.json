@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Soundtrack of Our Lives. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3134272/\n_search: The Soundtrack of Our Lives | In Good Company | Spun | Swing Vote | Days Like This",
+  "id": "bw-p-nm3134272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Soundtrack of Our Lives",
+  "type": "task"
+}

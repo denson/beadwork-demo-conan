@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Willman. b. 1980 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1655480/\n_search: Justin Willman | Magic for Humans | Sleight of Mouth with Justin Willman | Cupcake Wars | The Ellen DeGeneres Show",
+  "id": "bw-p-nm1655480",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Willman",
+  "type": "task"
+}

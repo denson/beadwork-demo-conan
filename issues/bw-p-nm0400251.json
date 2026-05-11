@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Arianna Huffington. b. 1950 | actress, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0400251/\n_search: Arianna Huffington | John Q | The Siege | Edtv | Swing Vote",
+  "id": "bw-p-nm0400251",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Arianna Huffington",
+  "type": "task"
+}

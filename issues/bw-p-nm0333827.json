@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Boothby Graffoe. b. 1962 | writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0333827/\n_search: Boothby Graffoe | The Omid Djalili Show | The Sketch Show | Live at the Apollo | Casualty",
+  "id": "bw-p-nm0333827",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Boothby Graffoe",
+  "type": "task"
+}

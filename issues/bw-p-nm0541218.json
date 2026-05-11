@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Method Man. b. 1971 | actor, producer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0541218/\n_search: Method Man | How High | Garden State | Soul Plane | Method \u0026 Red",
+  "id": "bw-p-nm0541218",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Method Man",
+  "type": "task"
+}

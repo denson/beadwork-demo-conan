@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Broken Social Scene. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1589571/\n_search: Broken Social Scene | Scott Pilgrim vs. the World | It's Kind of a Funny Story | Half Nelson | Wicker Park",
+  "id": "bw-p-nm1589571",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Broken Social Scene",
+  "type": "task"
+}

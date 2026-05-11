@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Conover. actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4033885/\n_search: Adam Conover | Jake and Amir | Dropout | Stevie TV | The Britishes",
+  "id": "bw-p-nm4033885",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Conover",
+  "type": "task"
+}

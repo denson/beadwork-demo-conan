@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Linda Cardellini. b. 1975 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004802/\n_search: Linda Cardellini | Scooby-Doo | Brokeback Mountain | Avengers: Age of Ultron | ER",
+  "id": "bw-p-nm0004802",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Linda Cardellini",
+  "type": "task"
+}

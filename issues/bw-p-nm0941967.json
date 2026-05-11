@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Wozniak. b. 1950 | producer, actor, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0941967/\n_search: Steve Wozniak | Steve Jobs | The Big Bang Theory | The US Festival | Gotham Cafe",
+  "id": "bw-p-nm0941967",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Wozniak",
+  "type": "task"
+}

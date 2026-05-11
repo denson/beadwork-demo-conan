@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Serena Altschul. b. 1970 | producer, actress, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0023041/\n_search: Serena Altschul | Josie and the Pussycats | Queen of the Damned | CBS News Sunday Morning with Jane Pauley | The Last Party",
+  "id": "bw-p-nm0023041",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Serena Altschul",
+  "type": "task"
+}

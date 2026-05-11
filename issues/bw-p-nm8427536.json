@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Finish Ticket. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8427536/\n_search: Finish Ticket",
+  "id": "bw-p-nm8427536",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Finish Ticket",
+  "type": "task"
+}

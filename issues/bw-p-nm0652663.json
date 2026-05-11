@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patton Oswalt. b. 1969 | actor, writer, producer.\nConan-show appearances: 39\nIMDb: https://www.imdb.com/name/nm0652663/\n_search: Patton Oswalt | Young Adult | Ratatouille | Seeking a Friend for the End of the World | The Secret Life of Walter Mitty",
+  "id": "bw-p-nm0652663",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patton Oswalt",
+  "type": "task"
+}

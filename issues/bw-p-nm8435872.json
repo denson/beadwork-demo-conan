@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Bolt. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8435872/\n_search: Seth Bolt | NEEDTOBREATHE: Into the Mystery | Southern Charm | The Live Room",
+  "id": "bw-p-nm8435872",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Bolt",
+  "type": "task"
+}

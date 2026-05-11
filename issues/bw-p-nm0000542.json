@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Penelope Ann Miller. b. 1964 | actress, soundtrack, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000542/\n_search: Penelope Ann Miller | Carlito's Way | The Artist | Kindergarten Cop | The Freshman",
+  "id": "bw-p-nm0000542",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Penelope Ann Miller",
+  "type": "task"
+}

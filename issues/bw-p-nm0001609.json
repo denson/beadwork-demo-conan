@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosie Perez. b. 1964 | actress, miscellaneous, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001609/\n_search: Rosie Perez | Fearless | White Men Can't Jump | Untamed Heart | Night on Earth",
+  "id": "bw-p-nm0001609",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosie Perez",
+  "type": "task"
+}

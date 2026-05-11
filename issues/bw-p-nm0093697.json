@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Danny Bonaduce. b. 1959 | actor, miscellaneous, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0093697/\n_search: Danny Bonaduce | The Partridge Family | Charlotte's Web | That '70s Show | Dickie Roberts: Former Child Star",
+  "id": "bw-p-nm0093697",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Danny Bonaduce",
+  "type": "task"
+}

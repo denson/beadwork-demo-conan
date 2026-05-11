@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vanna White/Dave Chappelle/Jonathan Richman. late_night, S4E39, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3652006/\n_search: Vanna White/Dave Chappelle/Jonathan Richman | 1996 | S4E39",
+  "id": "bw-e-tt3652006",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vanna White/Dave Chappelle/Jonathan Richman",
+  "type": "task"
+}

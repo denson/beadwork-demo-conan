@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Thomas. b. 1972 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0859434/\n_search: Rob Thomas | Meet the Robinsons | Love Actually | Keeping the Faith | When in Rome",
+  "id": "bw-p-nm0859434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Thomas",
+  "type": "task"
+}

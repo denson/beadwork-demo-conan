@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norah Jones. b. 1979 | music_artist, music_department, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1289528/\n_search: Norah Jones | Ted | My Blueberry Nights | They Came Together | Love Actually",
+  "id": "bw-p-nm1289528",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norah Jones",
+  "type": "task"
+}

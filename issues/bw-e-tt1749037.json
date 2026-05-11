@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dead Men Don't Wear Spanx. conan_tbs, S1E3, 2010.\nRuntime: 60 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt1749037/\n_search: Dead Men Don't Wear Spanx | 2010 | S1E3",
+  "id": "bw-e-tt1749037",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dead Men Don't Wear Spanx",
+  "type": "task"
+}

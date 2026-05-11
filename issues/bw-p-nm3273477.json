@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Randy Rogers Band. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3273477/\n_search: Randy Rogers Band | Lone Star Roads | Willie Nelson Presents: King of the Roadies | Red Dirt on the Rocks Live",
+  "id": "bw-p-nm3273477",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Randy Rogers Band",
+  "type": "task"
+}

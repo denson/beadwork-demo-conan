@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Rouse. composer, music_department, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1659870/\n_search: Josh Rouse | Vanilla Sky | Family United | The Girl Next Door | Eat Pray Love",
+  "id": "bw-p-nm1659870",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Rouse",
+  "type": "task"
+}

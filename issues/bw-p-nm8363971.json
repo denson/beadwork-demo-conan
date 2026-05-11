@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Judge. b. 1992 | actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8363971/\n_search: Aaron Judge | MLB: The Show 18 | The US Open | Sunday Night Baseball | WWE Monday Night RAW",
+  "id": "bw-p-nm8363971",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Judge",
+  "type": "task"
+}

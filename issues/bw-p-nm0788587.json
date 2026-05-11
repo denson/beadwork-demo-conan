@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Shapiro. actor, director, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0788587/\n_search: Mike Shapiro | Law \u0026 Order: Special Victims Unit | Law \u0026 Order: Organized Crime | Half-Life: Alyx",
+  "id": "bw-p-nm0788587",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Shapiro",
+  "type": "task"
+}

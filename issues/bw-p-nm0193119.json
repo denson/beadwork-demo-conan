@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pete Curry. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0193119/\n_search: Pete Curry | Palm Springs | The Sweetest Thing | The Slammin' Salmon | Sex and the City",
+  "id": "bw-p-nm0193119",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pete Curry",
+  "type": "task"
+}

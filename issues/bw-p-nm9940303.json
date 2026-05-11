@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Madison Margot. b. 1997 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9940303/\n_search: Madison Margot | Second Thoughts",
+  "id": "bw-p-nm9940303",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Madison Margot",
+  "type": "task"
+}

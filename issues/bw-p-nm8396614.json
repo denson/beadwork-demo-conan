@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Arlen Thompson. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8396614/\n_search: Arlen Thompson | Where the Trail Ends | A.P. Bio | Last Call with Carson Daly",
+  "id": "bw-p-nm8396614",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Arlen Thompson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Reese Witherspoon/Brian Setzer. late_night, S8E141, 2001.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3821964/\n_search: Reese Witherspoon/Brian Setzer | 2001 | S8E141",
+  "id": "bw-e-tt3821964",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Reese Witherspoon/Brian Setzer",
+  "type": "task"
+}

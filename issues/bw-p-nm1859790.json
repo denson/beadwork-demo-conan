@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Riverdance. soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1859790/\n_search: Riverdance | Electric Burma | French and Saunders | Die große Show der Sieger | BingoLotto",
+  "id": "bw-p-nm1859790",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Riverdance",
+  "type": "task"
+}

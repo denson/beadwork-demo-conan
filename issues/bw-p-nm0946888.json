@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Yauch. 1964–2012 | actor, director, composer.\nDECEASED (1964–2012). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0946888/\n_search: Adam Yauch | Real Steel | Star Trek Beyond | Star Trek | Spider-Man: No Way Home",
+  "id": "bw-p-nm0946888",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Yauch",
+  "type": "task"
+}

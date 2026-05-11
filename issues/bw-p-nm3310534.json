@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Goltz. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3310534/\n_search: Gary Goltz | Karate Do | American Judoka | Geeks and Girls: The Production Trip | A Great God in an Exalted World",
+  "id": "bw-p-nm3310534",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Goltz",
+  "type": "task"
+}

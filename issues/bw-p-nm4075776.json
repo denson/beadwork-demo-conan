@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Corey Rodrigues. writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4075776/\n_search: Corey Rodrigues | Salesmen | Rope-A-Dope | Business Is War | Dry Bar Comedy",
+  "id": "bw-p-nm4075776",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Corey Rodrigues",
+  "type": "task"
+}

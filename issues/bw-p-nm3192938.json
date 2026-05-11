@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kurt Maloney. b. 1989 | writer, actor, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3192938/\n_search: Kurt Maloney | The Big What If | Mild | K.C. Undercover | Every [Blank] Ever",
+  "id": "bw-p-nm3192938",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kurt Maloney",
+  "type": "task"
+}

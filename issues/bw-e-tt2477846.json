@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "When a Pterodactyl Is in the Next Stall, the P Is Silent. conan_tbs, S2E157, 2012.\nIMDb: https://www.imdb.com/title/tt2477846/\n_search: When a Pterodactyl Is in the Next Stall, the P Is Silent | 2012 | S2E157",
+  "id": "bw-e-tt2477846",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "When a Pterodactyl Is in the Next Stall, the P Is Silent",
+  "type": "task"
+}

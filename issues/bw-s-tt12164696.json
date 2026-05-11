@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Serious Jibber-Jabber with Conan O'Brien (2012–2016). A show in Conan's career arc.\nIMDb: https://www.imdb.com/title/tt12164696/\n_search: Serious Jibber-Jabber with Conan O'Brien | 2012",
+  "id": "bw-s-tt12164696",
+  "labels": [
+    "kind:show",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Serious Jibber-Jabber with Conan O'Brien",
+  "type": "task"
+}

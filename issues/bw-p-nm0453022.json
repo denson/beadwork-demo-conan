@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karen Kilgariff. b. 1970 | writer, producer, actress.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0453022/\n_search: Karen Kilgariff | Punch-Drunk Love | Licorice Pizza | The Book Group | Super Adventure Team",
+  "id": "bw-p-nm0453022",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karen Kilgariff",
+  "type": "task"
+}

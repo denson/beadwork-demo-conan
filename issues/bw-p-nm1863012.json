@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Greene. b. 1980 | writer, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1863012/\n_search: Jackie Greene | Cumulonimbus Kandarian | Return to Sender | The Modern Lives | Jackie Greene Live at the Warfield: Silver Lining",
+  "id": "bw-p-nm1863012",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Greene",
+  "type": "task"
+}

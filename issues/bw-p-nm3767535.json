@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emmanuel del Real. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3767535/\n_search: Emmanuel del Real | Y tu mamá también | The Book of Life | The Obscure Spring | Midnight Family",
+  "id": "bw-p-nm3767535",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emmanuel del Real",
+  "type": "task"
+}

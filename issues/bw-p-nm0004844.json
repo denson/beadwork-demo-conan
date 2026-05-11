@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Cortese. b. 1967 | actor, soundtrack, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004844/\n_search: Dan Cortese | The Curse | Veronica's Closet | Leverage: Redemption | What I Like About You",
+  "id": "bw-p-nm0004844",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Cortese",
+  "type": "task"
+}

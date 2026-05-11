@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rollins Band. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2969255/\n_search: Rollins Band | Johnny Mnemonic | The Crow | The Chase | Tales from the Crypt: Demon Knight",
+  "id": "bw-p-nm2969255",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rollins Band",
+  "type": "task"
+}

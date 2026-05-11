@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grace Potter \u0026 The Nocturnals. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3990088/\n_search: Grace Potter \u0026 The Nocturnals | The Baytown Outlaws | What the F@#- Is Cancer and Why Does Everybody Have It? | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm3990088",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grace Potter \u0026 The Nocturnals",
+  "type": "task"
+}

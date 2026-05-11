@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Heartless Bastards. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3193864/\n_search: Heartless Bastards | Safe Haven | Black Snake Moan | Mother's Day | Beer for My Horses",
+  "id": "bw-p-nm3193864",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Heartless Bastards",
+  "type": "task"
+}

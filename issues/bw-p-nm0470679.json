@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bert Kreischer. b. 1972 | actor, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0470679/\n_search: Bert Kreischer | The Machine | The Shield | Something's Burning | Homecoming",
+  "id": "bw-p-nm0470679",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bert Kreischer",
+  "type": "task"
+}

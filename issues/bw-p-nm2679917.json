@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Jonas. b. 1992 | music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2679917/\n_search: Nick Jonas | Jumanji: Welcome to the Jungle | Midway | Camp Rock | Jonas",
+  "id": "bw-p-nm2679917",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Jonas",
+  "type": "task"
+}

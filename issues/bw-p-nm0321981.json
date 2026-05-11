@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nancy Glass. b. 1955 | producer, actress, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0321981/\n_search: Nancy Glass | Race to the Bottom of the Earth | Kalmar Nyckel: The Forgotten Journey | Audition | Tin Soldier",
+  "id": "bw-p-nm0321981",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nancy Glass",
+  "type": "task"
+}

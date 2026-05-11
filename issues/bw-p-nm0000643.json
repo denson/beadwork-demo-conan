@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Skerritt. b. 1933 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000643/\n_search: Tom Skerritt | Alien | Contact | Top Gun | Steel Magnolias",
+  "id": "bw-p-nm0000643",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Skerritt",
+  "type": "task"
+}

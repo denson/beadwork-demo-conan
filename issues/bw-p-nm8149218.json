@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Gavriel. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8149218/\n_search: John Gavriel | @midnight",
+  "id": "bw-p-nm8149218",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Gavriel",
+  "type": "task"
+}

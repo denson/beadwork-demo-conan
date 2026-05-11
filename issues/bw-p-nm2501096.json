@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Boyd Jr.. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2501096/\n_search: Brian Boyd Jr. | Blue's Clues",
+  "id": "bw-p-nm2501096",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Boyd Jr.",
+  "type": "task"
+}

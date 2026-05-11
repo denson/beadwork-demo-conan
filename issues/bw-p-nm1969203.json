@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bettie Serveert. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1969203/\n_search: Bettie Serveert | Amateur | I Shot Andy Warhol | Amongst Friends | Dean Quixote",
+  "id": "bw-p-nm1969203",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bettie Serveert",
+  "type": "task"
+}

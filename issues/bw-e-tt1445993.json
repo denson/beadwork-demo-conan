@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gwyneth Paltrow/Joel McHale/John Mayer Trio. tonight_show, S1E4, 2009.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt1445993/\n_search: Gwyneth Paltrow/Joel McHale/John Mayer Trio | 2009 | S1E4",
+  "id": "bw-e-tt1445993",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gwyneth Paltrow/Joel McHale/John Mayer Trio",
+  "type": "task"
+}

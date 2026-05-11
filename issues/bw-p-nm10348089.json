@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yuichi Ishii. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10348089/\n_search: Yuichi Ishii | Family Romance, LLC | Rentaru Famirii | You Are My Audience",
+  "id": "bw-p-nm10348089",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yuichi Ishii",
+  "type": "task"
+}

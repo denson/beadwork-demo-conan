@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Gray. b. 1967 | actor, miscellaneous, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0336426/\n_search: George Gray | Can't Buy Me Love | Jack and Jill | eCupid | Cabin Pressure",
+  "id": "bw-p-nm0336426",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Gray",
+  "type": "task"
+}

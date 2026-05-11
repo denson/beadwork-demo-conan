@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Mack. b. 1975 | actress, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2397405/\n_search: Mary Mack | Solar Opposites | Trover Saves the Universe | Awkward and Invisible | High on Life",
+  "id": "bw-p-nm2397405",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Mack",
+  "type": "task"
+}

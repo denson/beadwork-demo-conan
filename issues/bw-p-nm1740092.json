@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Conrad. b. 1986 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1740092/\n_search: Lauren Conrad | Epic Movie | The Hills | Family Guy | Life Happens",
+  "id": "bw-p-nm1740092",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Conrad",
+  "type": "task"
+}

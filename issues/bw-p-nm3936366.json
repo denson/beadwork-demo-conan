@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frightened Rabbit. writer, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3936366/\n_search: Frightened Rabbit | Skyscraper | The Company Men | The Beaver | 21 \u0026 Over",
+  "id": "bw-p-nm3936366",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frightened Rabbit",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Miike Snow. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3671200/\n_search: Miike Snow | Crazy, Stupid, Love. | Fifty Shades Freed | The Edge of Seventeen | Obscurity",
+  "id": "bw-p-nm3671200",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Miike Snow",
+  "type": "task"
+}

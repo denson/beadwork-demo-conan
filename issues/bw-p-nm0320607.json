@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Giraldo. 1965–2010 | writer, actor, producer.\nDECEASED (1965–2010). Conan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0320607/\n_search: Greg Giraldo | Common Law | Z Rock | Greg Giraldo: Midlife Vices | Game Day",
+  "id": "bw-p-nm0320607",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Giraldo",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Cast and Director of 'Glass'. conan_tbs, S8E95, 2018.\nRuntime: 42 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt8704704/\n_search: The Cast and Director of 'Glass' | 2018 | S8E95",
+  "id": "bw-e-tt8704704",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Cast and Director of 'Glass'",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Borgenicht. producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1206460/\n_search: David Borgenicht | Pride and Prejudice and Zombies | Worst Case Scenarios | My Best Friend's Exorcism",
+  "id": "bw-p-nm1206460",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Borgenicht",
+  "type": "task"
+}

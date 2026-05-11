@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Gaffigan. conan_tbs, S9E53, 2019.\nRuntime: 21 min.\nIMDb rating: 6.7.\nIMDb: https://www.imdb.com/title/tt10366410/\n_search: Jim Gaffigan | 2019 | S9E53",
+  "id": "bw-e-tt10366410",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Gaffigan",
+  "type": "task"
+}

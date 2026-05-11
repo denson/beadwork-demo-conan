@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nellie McKay. b. 1982 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1736982/\n_search: Nellie McKay | P.S. I Love You | Rumor Has It... | Monster-in-Law | Last Holiday",
+  "id": "bw-p-nm1736982",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nellie McKay",
+  "type": "task"
+}

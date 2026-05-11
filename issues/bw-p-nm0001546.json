@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Tyler Moore. 1936–2017 | actress, producer, director.\nDECEASED (1936–2017). Conan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0001546/\n_search: Mary Tyler Moore | Ordinary People | The Mary Tyler Moore Show | Thoroughly Modern Millie | The Dick Van Dyke Show",
+  "id": "bw-p-nm0001546",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Tyler Moore",
+  "type": "task"
+}

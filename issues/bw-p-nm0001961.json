@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ray Bolger. 1904–1987 | actor, soundtrack, archive_footage.\nDECEASED (1904–1987). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001961/\n_search: Ray Bolger | The Wizard of Oz | Babes in Toyland | Look for the Silver Lining | Where's Charley?",
+  "id": "bw-p-nm0001961",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ray Bolger",
+  "type": "task"
+}

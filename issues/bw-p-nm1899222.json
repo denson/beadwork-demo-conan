@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Widespread Panic. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1899222/\n_search: Widespread Panic | Welcome to Dopeland | Wetlands Preserved: The Story of an Activist Nightclub | Spirit of Snow | The Rough South of Larry Brown",
+  "id": "bw-p-nm1899222",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Widespread Panic",
+  "type": "task"
+}

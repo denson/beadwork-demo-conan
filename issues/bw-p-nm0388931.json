@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Hoffman. b. 1960 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0388931/\n_search: Jackie Hoffman | Garden State | Birdman or (The Unexpected Virtue of Ignorance) | Legally Blonde 2: Red, White \u0026 Blonde | Glass Onion",
+  "id": "bw-p-nm0388931",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Hoffman",
+  "type": "task"
+}

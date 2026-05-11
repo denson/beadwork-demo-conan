@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bo Rinehart. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8435870/\n_search: Bo Rinehart | P.S. I Love You | Employee of the Month | When in Rome | Indivisible",
+  "id": "bw-p-nm8435870",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bo Rinehart",
+  "type": "task"
+}

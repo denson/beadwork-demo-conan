@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Zobrist. b. 1981 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2934122/\n_search: Ben Zobrist | Ring the Bell | 2008 World Series | Sunday Night Baseball | 2016 World Series",
+  "id": "bw-p-nm2934122",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Zobrist",
+  "type": "task"
+}

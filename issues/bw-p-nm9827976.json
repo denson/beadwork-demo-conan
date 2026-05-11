@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gavin Matts. actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm9827976/\n_search: Gavin Matts | Slice of Life | Comedian 2 | Hacks | Gavin Matts: progression",
+  "id": "bw-p-nm9827976",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gavin Matts",
+  "type": "task"
+}

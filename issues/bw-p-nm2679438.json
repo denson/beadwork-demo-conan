@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Jonas. b. 1989 | music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2679438/\n_search: Joe Jonas | Camp Rock | Jonas | The King of Staten Island | Jonas Brothers: The 3D Concert Experience",
+  "id": "bw-p-nm2679438",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Jonas",
+  "type": "task"
+}

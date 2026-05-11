@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mitch Fatel. writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1883315/\n_search: Mitch Fatel | Mitch Fatel Is Magical | Comedy Central Presents | Bad Girls: A Mitch Fatel Comedy Special | Dr. Katz, Professional Therapist",
+  "id": "bw-p-nm1883315",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mitch Fatel",
+  "type": "task"
+}

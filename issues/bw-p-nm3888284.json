@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rhys Nicholson. b. 1990 | actor, writer, camera_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3888284/\n_search: Rhys Nicholson | Rhys Nicholson: Live at the Athenaeum | The Imperfects | Drag Race Down Under",
+  "id": "bw-p-nm3888284",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rhys Nicholson",
+  "type": "task"
+}

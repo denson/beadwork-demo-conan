@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Farley/Elisabeth Shue/Cracker. late_night, S1E26, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3315990/\n_search: Chris Farley/Elisabeth Shue/Cracker | 1993 | S1E26",
+  "id": "bw-e-tt3315990",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Farley/Elisabeth Shue/Cracker",
+  "type": "task"
+}

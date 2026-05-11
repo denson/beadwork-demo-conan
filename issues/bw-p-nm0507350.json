@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Lee Lewis. 1935–2022 | actor, music_department, production_department.\nDECEASED (1935–2022). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0507350/\n_search: Jerry Lee Lewis | Grease | Dick Tracy | Superman IV: The Quest for Peace | Stand by Me",
+  "id": "bw-p-nm0507350",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Lee Lewis",
+  "type": "task"
+}

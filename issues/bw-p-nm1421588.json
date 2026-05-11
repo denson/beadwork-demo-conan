@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicole Richie. b. 1981 | producer, actress, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1421588/\n_search: Nicole Richie | Chuck | Kids in America | Eve | 8 Simple Rules",
+  "id": "bw-p-nm1421588",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicole Richie",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Short. jibber_jabber, S1E7, 2013.\nIMDb: https://www.imdb.com/title/tt12168832/\n_search: Martin Short | 2013 | S1E7",
+  "id": "bw-e-tt12168832",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Short",
+  "type": "task"
+}

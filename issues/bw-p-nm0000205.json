@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Parker Posey. b. 1968 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000205/\n_search: Parker Posey | Superman Returns | Scream 3 | Blade: Trinity | Dazed and Confused",
+  "id": "bw-p-nm0000205",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Parker Posey",
+  "type": "task"
+}

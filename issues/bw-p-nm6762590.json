@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mac DeMarco. b. 1990 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6762590/\n_search: Mac DeMarco | Everything, Everything | Palo Alto | The Binge | Stella's Last Weekend",
+  "id": "bw-p-nm6762590",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mac DeMarco",
+  "type": "task"
+}

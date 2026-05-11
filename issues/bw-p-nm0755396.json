@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ignacio Sada. producer, production_manager.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0755396/\n_search: Ignacio Sada | The Outsider | Días de combate | Alma rebelde | Santo Enredo",
+  "id": "bw-p-nm0755396",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ignacio Sada",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Something Smelly That Way Went. conan_tbs, S1E38, 2011.\nRuntime: 60 min.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt1822462/\n_search: Something Smelly That Way Went | 2011 | S1E38",
+  "id": "bw-e-tt1822462",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Something Smelly That Way Went",
+  "type": "task"
+}

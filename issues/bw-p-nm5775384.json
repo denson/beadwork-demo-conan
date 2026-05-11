@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mads Black. actor, assistant_director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5775384/\n_search: Mads Black | (Im)moral | Counterpart | Sleeping Awake | Pocket Watch",
+  "id": "bw-p-nm5775384",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mads Black",
+  "type": "task"
+}

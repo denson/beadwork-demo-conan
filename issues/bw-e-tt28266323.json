@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Beard* Show. late_night, S15E122, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt28266323/\n_search: The Beard* Show | 2008 | S15E122",
+  "id": "bw-e-tt28266323",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Beard* Show",
+  "type": "task"
+}

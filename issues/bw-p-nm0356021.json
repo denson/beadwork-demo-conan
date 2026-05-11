@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Regina Hall. b. 1970 | actress, producer, executive.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0356021/\n_search: Regina Hall | One Battle After Another | Girls Trip | Law Abiding Citizen | Scary Movie",
+  "id": "bw-p-nm0356021",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Regina Hall",
+  "type": "task"
+}

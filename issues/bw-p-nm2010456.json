@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Shriner. b. 1965 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2010456/\n_search: Scott Shriner | Family Switch | Romantic Encounters with Melinda Hill | The Key of Awesome | The Simpsons",
+  "id": "bw-p-nm2010456",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Shriner",
+  "type": "task"
+}

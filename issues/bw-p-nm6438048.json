@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Damian Lillard. actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6438048/\n_search: Damian Lillard | Space Jam: A New Legacy | Portlandia | The Trail - Presented by Alaska Airlines | NBA on NBA TV",
+  "id": "bw-p-nm6438048",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Damian Lillard",
+  "type": "task"
+}

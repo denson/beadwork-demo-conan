@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Copperfield. b. 1956 | director, actor, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0004518/\n_search: David Copperfield | Now You See Me 2 | Now You See Me | The Incredible Burt Wonderstone | 7 Days in Hell",
+  "id": "bw-p-nm0004518",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Copperfield",
+  "type": "task"
+}

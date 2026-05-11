@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sade Kimora Young. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4575792/\n_search: Sade Kimora Young | The Neighborhood | Illicit | Be Afraid | American Horror Story",
+  "id": "bw-p-nm4575792",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sade Kimora Young",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Eastwood. b. 1986 | actor, producer, production_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2207222/\n_search: Scott Eastwood | Suicide Squad | The Fate of the Furious | Texas Chainsaw | The Longest Ride",
+  "id": "bw-p-nm2207222",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Eastwood",
+  "type": "task"
+}

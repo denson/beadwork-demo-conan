@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Music. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1863669/\n_search: The Music | D.E.B.S. | How to Deal | The Music, Live at the Blank Canvas | TT3D: Closer to the Edge",
+  "id": "bw-p-nm1863669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Music",
+  "type": "task"
+}

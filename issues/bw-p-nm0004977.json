@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Austin Green. b. 1973 | actor, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0004977/\n_search: Brian Austin Green | Beverly Hills, 90210 | Fish Without a Bicycle | Knots Landing | Terminator: The Sarah Connor Chronicles",
+  "id": "bw-p-nm0004977",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Austin Green",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jaime Pressly. b. 1977 | actress, producer, executive.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005326/\n_search: Jaime Pressly | My Name Is Earl | Not Another Teen Movie | I Love You, Man | Joe Dirt",
+  "id": "bw-p-nm0005326",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jaime Pressly",
+  "type": "task"
+}

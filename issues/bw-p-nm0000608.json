@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Burt Reynolds. 1936–2018 | producer, actor, director.\nDECEASED (1936–2018). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000608/\n_search: Burt Reynolds | Boogie Nights | Smokey and the Bandit | Striptease | The Cannonball Run",
+  "id": "bw-p-nm0000608",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Burt Reynolds",
+  "type": "task"
+}

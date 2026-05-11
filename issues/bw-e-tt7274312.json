@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ice Cube/Lea DeLaria/Jim Lauderdale. conan_tbs, S7E121, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt7274312/\n_search: Ice Cube/Lea DeLaria/Jim Lauderdale | 2017 | S7E121",
+  "id": "bw-e-tt7274312",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ice Cube/Lea DeLaria/Jim Lauderdale",
+  "type": "task"
+}

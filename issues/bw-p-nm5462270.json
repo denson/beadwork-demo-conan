@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Loren Burgos. b. 1989 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5462270/\n_search: Loren Burgos | Awaken | The Killer Bride | Maalaala Mo Kaya | Darna",
+  "id": "bw-p-nm5462270",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Loren Burgos",
+  "type": "task"
+}

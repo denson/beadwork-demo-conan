@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Nemeroff. 1989–2022 | actor, writer, miscellaneous.\nDECEASED (1989–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7581502/\n_search: Nick Nemeroff | Gavin Matts: progression | The New Wave of Standup | System Error | Roast Battle Canada",
+  "id": "bw-p-nm7581502",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Nemeroff",
+  "type": "task"
+}

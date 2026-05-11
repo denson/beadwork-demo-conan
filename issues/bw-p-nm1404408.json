@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alice Eve. b. 1982 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1404408/\n_search: Alice Eve | Before We Go | Star Trek Into Darkness | She's Out of My League | Men in Black 3",
+  "id": "bw-p-nm1404408",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alice Eve",
+  "type": "task"
+}

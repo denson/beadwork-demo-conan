@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Snoop Dogg/Flula Borg/Mastodon. conan_tbs, S7E104, 2017.\nRuntime: 42 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt7129690/\n_search: Snoop Dogg/Flula Borg/Mastodon | 2017 | S7E104",
+  "id": "bw-e-tt7129690",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Snoop Dogg/Flula Borg/Mastodon",
+  "type": "task"
+}

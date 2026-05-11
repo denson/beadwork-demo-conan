@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sabra May. actress, director, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4166447/\n_search: Sabra May | Cyberpunk 2077 | Ad Astra | Marmaduke | Laugh After Dark",
+  "id": "bw-p-nm4166447",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sabra May",
+  "type": "task"
+}

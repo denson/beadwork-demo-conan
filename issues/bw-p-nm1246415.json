@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Hives. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1246415/\n_search: The Hives | Jumper | R.I.P.D. | RocknRolla | Taken",
+  "id": "bw-p-nm1246415",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Hives",
+  "type": "task"
+}

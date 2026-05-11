@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jenna Dewan. b. 1980 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1564087/\n_search: Jenna Dewan | Step Up | Take the Lead | Tamara | 10 Years",
+  "id": "bw-p-nm1564087",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jenna Dewan",
+  "type": "task"
+}

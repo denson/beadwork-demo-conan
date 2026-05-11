@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Casey Wilson. b. 1980 | actress, writer, miscellaneous.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1988111/\n_search: Casey Wilson | Gone Girl | Ass Backwards | Bride Wars | Killers",
+  "id": "bw-p-nm1988111",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Casey Wilson",
+  "type": "task"
+}

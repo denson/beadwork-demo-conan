@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fistful of Mercy. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4116783/\n_search: Fistful of Mercy | Late Night with Jimmy Fallon",
+  "id": "bw-p-nm4116783",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fistful of Mercy",
+  "type": "task"
+}

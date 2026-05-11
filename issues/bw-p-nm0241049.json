@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Duhamel. b. 1972 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0241049/\n_search: Josh Duhamel | Transformers | Safe Haven | Transformers: The Last Knight | Turistas",
+  "id": "bw-p-nm0241049",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Duhamel",
+  "type": "task"
+}

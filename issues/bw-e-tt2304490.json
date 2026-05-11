@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Something Something Japanese. conan_tbs, S2E119, 2012.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt2304490/\n_search: Something Something Japanese | 2012 | S2E119",
+  "id": "bw-e-tt2304490",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Something Something Japanese",
+  "type": "task"
+}

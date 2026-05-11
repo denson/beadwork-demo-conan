@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Donald Faison. b. 1974 | actor, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0265668/\n_search: Donald Faison | Scrubs | Clueless | Skyline | Remember the Titans",
+  "id": "bw-p-nm0265668",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Donald Faison",
+  "type": "task"
+}

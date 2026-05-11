@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicolas Cage/Vivica A. Fox/Delta Spirit. late_night, S16E2, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1289034/\n_search: Nicolas Cage/Vivica A. Fox/Delta Spirit | 2008 | S16E2",
+  "id": "bw-e-tt1289034",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicolas Cage/Vivica A. Fox/Delta Spirit",
+  "type": "task"
+}

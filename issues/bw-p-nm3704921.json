@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yves Rossy. b. 1959 | stunts, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3704921/\n_search: Yves Rossy | Young Feathers | LOFT: The Jetman Story | Titta jag flyger... igen | I Dare You",
+  "id": "bw-p-nm3704921",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yves Rossy",
+  "type": "task"
+}

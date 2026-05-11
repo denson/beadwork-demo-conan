@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mikal Gilmore. b. 1951 | writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0319560/\n_search: Mikal Gilmore | Shot in the Heart | We Are the World | Secret Origin: The Story of DC Comics | Biography",
+  "id": "bw-p-nm0319560",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mikal Gilmore",
+  "type": "task"
+}

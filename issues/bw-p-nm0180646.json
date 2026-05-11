@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Corr. b. 1964 | actor, composer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0180646/\n_search: Jim Corr | America's Sweethearts | The Wedding Date | Where the Heart Is | The Commitments",
+  "id": "bw-p-nm0180646",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Corr",
+  "type": "task"
+}

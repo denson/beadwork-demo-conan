@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erin Davis. producer, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2164696/\n_search: Erin Davis | Miles Ahead | Corked | Caught in the Crossfire | Time, No Changes",
+  "id": "bw-p-nm2164696",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erin Davis",
+  "type": "task"
+}

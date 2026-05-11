@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Newhart/Nikki Glaser/Brad Wenzel. conan_tbs, S8E103, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8907482/\n_search: Bob Newhart/Nikki Glaser/Brad Wenzel | 2018 | S8E103",
+  "id": "bw-e-tt8907482",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Newhart/Nikki Glaser/Brad Wenzel",
+  "type": "task"
+}

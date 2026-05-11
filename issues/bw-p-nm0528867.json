@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shelby Lynne. b. 1968 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0528867/\n_search: Shelby Lynne | Walk the Line | True Romance | Bridget Jones's Diary | Shallow Hal",
+  "id": "bw-p-nm0528867",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shelby Lynne",
+  "type": "task"
+}

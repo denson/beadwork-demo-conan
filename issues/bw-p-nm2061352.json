@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Crow. actor, assistant_director, transportation_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2061352/\n_search: John Crow | The Darkest Minds | Thunder Force | Rampage | Flight",
+  "id": "bw-p-nm2061352",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Crow",
+  "type": "task"
+}

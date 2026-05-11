@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Campbell. b. 1958 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0132257/\n_search: Bruce Campbell | Bubba Ho-Tep | Army of Darkness | The Evil Dead | Ash vs Evil Dead",
+  "id": "bw-p-nm0132257",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Campbell",
+  "type": "task"
+}

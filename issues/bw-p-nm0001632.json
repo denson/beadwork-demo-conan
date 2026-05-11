@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teri Polo. b. 1969 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001632/\n_search: Teri Polo | Meet the Parents | Meet the Fockers | The Arrival | Little Fockers",
+  "id": "bw-p-nm0001632",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teri Polo",
+  "type": "task"
+}

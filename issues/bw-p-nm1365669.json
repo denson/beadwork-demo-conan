@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Sandford. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1365669/\n_search: Andy Sandford | Aqua Teen Hunger Force | Andy Sanford: Shameful Information | Andy Sandford: \u0026y S\u0026ford | Comedians in Public",
+  "id": "bw-p-nm1365669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Sandford",
+  "type": "task"
+}

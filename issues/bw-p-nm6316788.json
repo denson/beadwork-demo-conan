@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Haden Triplets. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6316788/\n_search: The Haden Triplets",
+  "id": "bw-p-nm6316788",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Haden Triplets",
+  "type": "task"
+}

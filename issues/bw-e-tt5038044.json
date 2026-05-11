@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sharon Osbourne/Donald Glover/Caleb Synan. conan_tbs, S5E142, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5038044/\n_search: Sharon Osbourne/Donald Glover/Caleb Synan | 2015 | S5E142",
+  "id": "bw-e-tt5038044",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sharon Osbourne/Donald Glover/Caleb Synan",
+  "type": "task"
+}

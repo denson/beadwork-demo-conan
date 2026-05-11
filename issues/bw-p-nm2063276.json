@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Flula Borg. b. 1982 | actor, writer, producer.\nConan-show appearances: 7 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm2063276/\n_search: Flula Borg | The Suicide Squad | Pitch Perfect 2 | The Rookie",
+  "id": "bw-p-nm2063276",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Flula Borg",
+  "type": "task"
+}

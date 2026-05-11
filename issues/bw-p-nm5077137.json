@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emily V. Gordon. b. 1979 | producer, writer, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5077137/\n_search: Emily V. Gordon | The Big Sick | Little America | Ball and Chain | Untitled Sarah Hyland/Emily V. Gordon Project",
+  "id": "bw-p-nm5077137",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emily V. Gordon",
+  "type": "task"
+}

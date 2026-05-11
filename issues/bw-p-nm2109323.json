@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shanna Olson. actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2109323/\n_search: Shanna Olson | Death Race 2050 | Pretty Persuasion | Let the Game Begin | Supreme Court of Comedy",
+  "id": "bw-p-nm2109323",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shanna Olson",
+  "type": "task"
+}

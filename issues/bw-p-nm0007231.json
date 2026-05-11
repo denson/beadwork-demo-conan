@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fabio. b. 1959 | actor, miscellaneous, archive_footage.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0007231/\n_search: Fabio | Bubble Boy | Dude, Where's My Car? | Dumbbells | Zoolander",
+  "id": "bw-p-nm0007231",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fabio",
+  "type": "task"
+}

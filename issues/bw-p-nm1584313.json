@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Boise. actor, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1584313/\n_search: Mike Boise | The Sopranos | Where Is the Chesterfield King?!?! | ESPN's New Year's Eve",
+  "id": "bw-p-nm1584313",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Boise",
+  "type": "task"
+}

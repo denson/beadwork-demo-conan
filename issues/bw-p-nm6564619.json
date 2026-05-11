@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cleo Magill. actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6564619/\n_search: Cleo Magill | This Is Us | Astral | Porcelain",
+  "id": "bw-p-nm6564619",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cleo Magill",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allen Branstetter. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8457539/\n_search: Allen Branstetter | Fifty Shades of Grey | Long Story Short | Front Row Boston",
+  "id": "bw-p-nm8457539",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allen Branstetter",
+  "type": "task"
+}

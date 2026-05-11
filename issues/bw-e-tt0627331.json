@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianna Margulies/Suzanne Somers. late_night, S7E77, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627331/\n_search: Julianna Margulies/Suzanne Somers | 2000 | S7E77",
+  "id": "bw-e-tt0627331",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianna Margulies/Suzanne Somers",
+  "type": "task"
+}

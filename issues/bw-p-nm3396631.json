@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beth Behrs. b. 1985 | actress, writer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3396631/\n_search: Beth Behrs | 2 Broke Girls | Monsters University | Hello, My Name Is Doris | NCIS: Los Angeles",
+  "id": "bw-p-nm3396631",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beth Behrs",
+  "type": "task"
+}

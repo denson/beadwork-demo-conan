@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Korey Cooper. actress, music_department, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9535292/\n_search: Korey Cooper | Transformers: Dark of the Moon | The Shack | Grave Encounters 2 | WWE SmackDown vs. RAW 2010",
+  "id": "bw-p-nm9535292",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Korey Cooper",
+  "type": "task"
+}

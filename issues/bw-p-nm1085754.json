@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelis. b. 1979 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1085754/\n_search: Kelis | xXx | Ocean's Eight | The 40-Year-Old Virgin | 30 Minutes or Less",
+  "id": "bw-p-nm1085754",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelis",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Max Weinberg 7. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2923086/\n_search: The Max Weinberg 7 | Bewitched | Late Night with Conan O'Brien: 5",
+  "id": "bw-p-nm2923086",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Max Weinberg 7",
+  "type": "task"
+}

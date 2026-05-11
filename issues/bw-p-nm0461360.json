@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Knopfler. b. 1949 | composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0461360/\n_search: Mark Knopfler | Local Hero | Wag the Dog | The Princess Bride | Twister",
+  "id": "bw-p-nm0461360",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Knopfler",
+  "type": "task"
+}

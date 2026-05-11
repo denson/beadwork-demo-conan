@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Nash. b. 1974 | producer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1161670/\n_search: Steve Nash | Life as We Know It | Untitled Ecstasy Project | Into the Wind | Uncle Drew",
+  "id": "bw-p-nm1161670",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Nash",
+  "type": "task"
+}

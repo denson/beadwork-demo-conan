@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "De La Soul. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0857252/\n_search: De La Soul | Spider-Man: No Way Home | Spies in Disguise | The Man | Boiler Room",
+  "id": "bw-p-nm0857252",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "De La Soul",
+  "type": "task"
+}

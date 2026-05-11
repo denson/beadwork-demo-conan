@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jarle Wallevik. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm16046529/\n_search: Jarle Wallevik",
+  "id": "bw-p-nm16046529",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jarle Wallevik",
+  "type": "task"
+}

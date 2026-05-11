@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chelsea Handler. b. 1975 | producer, writer, actress.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm1314546/\n_search: Chelsea Handler | This Means War | Hop | Chelsea Lately | Cattle Call",
+  "id": "bw-p-nm1314546",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chelsea Handler",
+  "type": "task"
+}

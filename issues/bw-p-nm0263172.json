@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Evans. 1930–2019 | producer, actor, miscellaneous.\nDECEASED (1930–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0263172/\n_search: Robert Evans | Chinatown | Marathon Man | Sliver | Popeye",
+  "id": "bw-p-nm0263172",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Evans",
+  "type": "task"
+}

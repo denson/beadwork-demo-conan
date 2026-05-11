@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "King Tuff. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6920645/\n_search: King Tuff | If I Stay | Animal Kingdom | Nashville | NotBad",
+  "id": "bw-p-nm6920645",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "King Tuff",
+  "type": "task"
+}

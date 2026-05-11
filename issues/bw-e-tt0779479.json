@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roseanne Barr/Chuck Barris/Dave Attell. late_night, S10E71, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0779479/\n_search: Roseanne Barr/Chuck Barris/Dave Attell | 2003 | S10E71",
+  "id": "bw-e-tt0779479",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roseanne Barr/Chuck Barris/Dave Attell",
+  "type": "task"
+}

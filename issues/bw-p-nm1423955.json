@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucy Hale. b. 1989 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1423955/\n_search: Lucy Hale | Truth or Dare | Scream 4 | Fantasy Island | The Hating Game",
+  "id": "bw-p-nm1423955",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucy Hale",
+  "type": "task"
+}

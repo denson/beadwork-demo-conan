@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vanessa Carlton. b. 1980 | actress, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1216062/\n_search: Vanessa Carlton | The Fate of the Furious | Legally Blonde | Isn't It Romantic | Two Weeks Notice",
+  "id": "bw-p-nm1216062",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vanessa Carlton",
+  "type": "task"
+}

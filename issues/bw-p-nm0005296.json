@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tatjana Patitz. 1966–2023 | actress, archive_footage.\nDECEASED (1966–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005296/\n_search: Tatjana Patitz | Rising Sun | The Larry Sanders Show | Ready to Wear | Restraining Order",
+  "id": "bw-p-nm0005296",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tatjana Patitz",
+  "type": "task"
+}

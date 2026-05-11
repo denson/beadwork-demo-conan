@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cheri Oteri. b. 1962 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0652783/\n_search: Cheri Oteri | Scary Movie | Southland Tales | Inspector Gadget | Liar Liar",
+  "id": "bw-p-nm0652783",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cheri Oteri",
+  "type": "task"
+}

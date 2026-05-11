@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Buddy Guy. b. 1936 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0349796/\n_search: Buddy Guy | Sinners | In the Electric Mist | Idiocracy | Nothing to Lose",
+  "id": "bw-p-nm0349796",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Buddy Guy",
+  "type": "task"
+}

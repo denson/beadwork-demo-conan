@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Hammond. actor, producer, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2464512/\n_search: Aaron Hammond | Man Seeking Woman | The Diplomat",
+  "id": "bw-p-nm2464512",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Hammond",
+  "type": "task"
+}

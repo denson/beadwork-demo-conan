@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patricia Heaton. b. 1958 | actress, producer, executive.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0005004/\n_search: Patricia Heaton | Everybody Loves Raymond | Beethoven | Space Jam | Memoirs of an Invisible Man",
+  "id": "bw-p-nm0005004",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patricia Heaton",
+  "type": "task"
+}

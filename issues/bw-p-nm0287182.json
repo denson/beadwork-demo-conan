@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Forte. b. 1970 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0287182/\n_search: Will Forte | MacGruber | Nebraska | The Last Man on Earth | That's My Boy",
+  "id": "bw-p-nm0287182",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Forte",
+  "type": "task"
+}

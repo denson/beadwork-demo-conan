@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Myron Mixon. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3715730/\n_search: Myron Mixon | BBQ Pit Wars | BBQ Pitmasters | Good Eats | Chopped",
+  "id": "bw-p-nm3715730",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Myron Mixon",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deidre Hall. b. 1947 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004984/\n_search: Deidre Hall | Days of Our Lives | Electra Woman and Dyna Girl | Dating in the Middle Ages | Emergency!",
+  "id": "bw-p-nm0004984",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deidre Hall",
+  "type": "task"
+}

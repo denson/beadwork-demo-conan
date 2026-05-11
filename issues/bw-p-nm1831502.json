@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dana White. b. 1969 | producer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1831502/\n_search: Dana White | The Egg and I | UFC: Road to the Octagon | UFC Chronicles | UFC 287: Pereira vs. Adesanya 2",
+  "id": "bw-p-nm1831502",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dana White",
+  "type": "task"
+}

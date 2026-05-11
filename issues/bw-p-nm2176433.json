@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kiki Wolfkill. executive, producer, art_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2176433/\n_search: Kiki Wolfkill | Halo | Halo: Nightfall | Halo 4 | Halo: The Fall of Reach",
+  "id": "bw-p-nm2176433",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kiki Wolfkill",
+  "type": "task"
+}

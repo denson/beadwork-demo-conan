@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Knoxville. b. 1971 | writer, actor, producer.\nConan-show appearances: 7 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0424216/\n_search: Johnny Knoxville | Jackass Presents: Bad Grandpa | The Dukes of Hazzard | The Ringer | Teenage Mutant Ninja Turtles",
+  "id": "bw-p-nm0424216",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Knoxville",
+  "type": "task"
+}

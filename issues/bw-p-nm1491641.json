@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Linda Smith. 1958–2006 | actress, writer, archive_footage.\nDECEASED (1958–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1491641/\n_search: Linda Smith | The Mark Steel Lectures | Trevor's World of Sport | Not Tonight with John Sergeant | All the Fun of the Mayor",
+  "id": "bw-p-nm1491641",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Linda Smith",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Ling. b. 1983 | actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1788146/\n_search: Julia Ling | Tactical Girl | Bonds of Brotherhood | Chuck: Meet the Nerd Herders | Chuck",
+  "id": "bw-p-nm1788146",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Ling",
+  "type": "task"
+}

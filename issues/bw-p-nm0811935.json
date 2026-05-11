@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jill Sobule. 1959–2025 | music_department, composer, actress.\nDECEASED (1959–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0811935/\n_search: Jill Sobule | Mystery Men | The Truth About Cats \u0026 Dogs | Clueless | The West Wing",
+  "id": "bw-p-nm0811935",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jill Sobule",
+  "type": "task"
+}

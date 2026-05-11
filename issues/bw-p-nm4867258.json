@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lucy Fry. b. 1992 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4867258/\n_search: Lucy Fry | Bright | 11.22.63 | Mr. Church | The Preppie Connection",
+  "id": "bw-p-nm4867258",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lucy Fry",
+  "type": "task"
+}

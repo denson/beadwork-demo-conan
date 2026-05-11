@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lena Dunham. b. 1986 | producer, writer, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2501633/\n_search: Lena Dunham | Tiny Furniture | Girls | Once Upon a Time... in Hollywood | This Is 40",
+  "id": "bw-p-nm2501633",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lena Dunham",
+  "type": "task"
+}

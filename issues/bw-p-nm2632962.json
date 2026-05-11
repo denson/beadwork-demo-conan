@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Theresa Andersson. actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2632962/\n_search: Theresa Andersson | A Love Song for Bobby Long | Starz Inside: Buy the Ticket, Take the Ride | Treme | Maria My Love",
+  "id": "bw-p-nm2632962",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Theresa Andersson",
+  "type": "task"
+}

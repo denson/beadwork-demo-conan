@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Vaccines. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4478876/\n_search: The Vaccines | Diary of a Wimpy Kid: Rodrick Rules | Alex Rider | The English Teacher | Twist",
+  "id": "bw-p-nm4478876",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Vaccines",
+  "type": "task"
+}

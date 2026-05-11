@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sydney Sierota. b. 1997 | actress, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5891918/\n_search: Sydney Sierota | Endless Love | Cool Kids | Secret of the Wings | The Muppets.",
+  "id": "bw-p-nm5891918",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sydney Sierota",
+  "type": "task"
+}

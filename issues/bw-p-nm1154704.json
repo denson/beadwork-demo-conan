@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Birdy. b. 1996 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1154704/\n_search: Birdy | The Fault in Our Stars | The Darkest Minds | Brave | Five Feet Apart",
+  "id": "bw-p-nm1154704",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Birdy",
+  "type": "task"
+}

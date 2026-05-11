@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Herbert Russell. actor, assistant_director, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0363954/\n_search: Herbert Russell | Secretary | Boiler Room | The Hungover Games | Stepmom",
+  "id": "bw-p-nm0363954",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Herbert Russell",
+  "type": "task"
+}

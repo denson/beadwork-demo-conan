@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Miller. b. 1958 | executive, archive_footage, archive_sound.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1771802/\n_search: John Miller | 48 Hours | ABC 2000: The Millennium | World News Tonight with David Muir | 20/20",
+  "id": "bw-p-nm1771802",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Miller",
+  "type": "task"
+}

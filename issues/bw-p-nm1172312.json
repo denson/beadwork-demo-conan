@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gordie Howe. 1928–2016 | actor, archive_footage.\nDECEASED (1928–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1172312/\n_search: Gordie Howe | E.N.G. | Yes, Dear | NHL on CBS | Greatest Sports Legends",
+  "id": "bw-p-nm1172312",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gordie Howe",
+  "type": "task"
+}

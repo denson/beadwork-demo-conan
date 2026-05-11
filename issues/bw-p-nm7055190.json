@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ta'Rhonda Jones. b. 1988 | actress, director, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm7055190/\n_search: Ta'Rhonda Jones | The Perfect Christmas Present",
+  "id": "bw-p-nm7055190",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ta'Rhonda Jones",
+  "type": "task"
+}

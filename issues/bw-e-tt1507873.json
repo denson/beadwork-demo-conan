@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ricky Gervais/Chicken Charlie/Lynyrd Skynyrd. tonight_show, S1E70, 2009.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt1507873/\n_search: Ricky Gervais/Chicken Charlie/Lynyrd Skynyrd | 2009 | S1E70",
+  "id": "bw-e-tt1507873",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ricky Gervais/Chicken Charlie/Lynyrd Skynyrd",
+  "type": "task"
+}

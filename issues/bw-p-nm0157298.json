@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Chieftains. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0157298/\n_search: The Chieftains | The Nightingale | Far and Away | Rob Roy | Barry Lyndon",
+  "id": "bw-p-nm0157298",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Chieftains",
+  "type": "task"
+}

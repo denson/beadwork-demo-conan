@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Crane. writer, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1536558/\n_search: Dan Crane | Rather | Carville: Winning Is Everything, Stupid | Let Me Be Me | Nobu",
+  "id": "bw-p-nm1536558",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Crane",
+  "type": "task"
+}

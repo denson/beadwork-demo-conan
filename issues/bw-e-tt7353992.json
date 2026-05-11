@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke Wilson/Jeff Bauman/Atlas Genius. conan_tbs, S7E131, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt7353992/\n_search: Luke Wilson/Jeff Bauman/Atlas Genius | 2017 | S7E131",
+  "id": "bw-e-tt7353992",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke Wilson/Jeff Bauman/Atlas Genius",
+  "type": "task"
+}

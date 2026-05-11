@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Kim. actor, stunts, art_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4148095/\n_search: David Kim | Bleeding Iowa | Die Fighting | Mortal Kombat: Legacy | Mega Shark vs. Crocosaurus",
+  "id": "bw-p-nm4148095",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Kim",
+  "type": "task"
+}

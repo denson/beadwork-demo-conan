@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Eisenberg. b. 1983 | actor, producer, writer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0251986/\n_search: Jesse Eisenberg | A Real Pain | The Social Network | Zombieland | The Squid and the Whale",
+  "id": "bw-p-nm0251986",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Eisenberg",
+  "type": "task"
+}

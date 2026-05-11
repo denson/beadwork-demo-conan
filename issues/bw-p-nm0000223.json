@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elisabeth Shue. b. 1963 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000223/\n_search: Elisabeth Shue | Leaving Las Vegas | Adventures in Babysitting | The Saint | The Boys",
+  "id": "bw-p-nm0000223",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elisabeth Shue",
+  "type": "task"
+}

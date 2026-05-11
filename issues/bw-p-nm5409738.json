@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hampton Yount. b. 1984 | producer, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5409738/\n_search: Hampton Yount | Mystery Science Theater 3000 | Self-Esteem Party | Loiter Squad | Nerd Down \u0026 10",
+  "id": "bw-p-nm5409738",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hampton Yount",
+  "type": "task"
+}

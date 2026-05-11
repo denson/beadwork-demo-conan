@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teppei Teranishi. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3510803/\n_search: Teppei Teranishi | My Super Psycho Sweet 16 | Forza Horizon 3 | SSX 3 | Tony Hawk's American Wasteland",
+  "id": "bw-p-nm3510803",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teppei Teranishi",
+  "type": "task"
+}

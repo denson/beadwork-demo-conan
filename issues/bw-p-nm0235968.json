@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Morton Downey Jr.. 1932–2001 | actor, soundtrack, archive_footage.\nDECEASED (1932–2001). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0235968/\n_search: Morton Downey Jr. | Predator 2 | Driving Me Crazy | Tales from the Crypt | Legal Tender",
+  "id": "bw-p-nm0235968",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Morton Downey Jr.",
+  "type": "task"
+}

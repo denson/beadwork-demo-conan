@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Coral. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1940855/\n_search: The Coral | Angus, Thongs and Perfect Snogging | Dead Man's Cards | Pelican Blood | Habit",
+  "id": "bw-p-nm1940855",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Coral",
+  "type": "task"
+}

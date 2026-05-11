@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Linklater. b. 1960 | producer, director, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000500/\n_search: Richard Linklater | Waking Life | Before Midnight | Slacker | A Scanner Darkly",
+  "id": "bw-p-nm0000500",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Linklater",
+  "type": "task"
+}

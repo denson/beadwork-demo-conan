@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spalding Gray/Colin Quinn/Blue Rodeo. late_night, S1E183, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2719538/\n_search: Spalding Gray/Colin Quinn/Blue Rodeo | 1994 | S1E183",
+  "id": "bw-e-tt2719538",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spalding Gray/Colin Quinn/Blue Rodeo",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beastie Boys. music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1561997/\n_search: Beastie Boys | Real Steel | Star Trek | Star Trek Beyond | Star Trek Into Darkness",
+  "id": "bw-p-nm1561997",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beastie Boys",
+  "type": "task"
+}

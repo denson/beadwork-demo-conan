@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Sklar. writer, producer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0804443/\n_search: Chuck Sklar | The Chris Rock Show | Everybody Hates Chris | Good Hair | Come to the Net",
+  "id": "bw-p-nm0804443",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Sklar",
+  "type": "task"
+}

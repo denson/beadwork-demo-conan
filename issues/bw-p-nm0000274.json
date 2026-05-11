@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Arquette. b. 1971 | producer, actor, director.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0000274/\n_search: David Arquette | Scream 3 | Never Been Kissed | Scream 2 | Eight Legged Freaks",
+  "id": "bw-p-nm0000274",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Arquette",
+  "type": "task"
+}

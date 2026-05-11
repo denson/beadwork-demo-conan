@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Morril. b. 1986 | writer, producer, actor.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm6421600/\n_search: Sam Morril | Joker | Dina Hashem: Dark Little Whispers | Sam Morril: I Got This | New Couple Gets Quarantined",
+  "id": "bw-p-nm6421600",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Morril",
+  "type": "task"
+}

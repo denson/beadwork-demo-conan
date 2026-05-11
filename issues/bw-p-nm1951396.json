@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rilo Kiley. actor, music_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1951396/\n_search: Rilo Kiley | John Tucker Must Die | The Messenger | Must Love Dogs | Conversations with Other Women",
+  "id": "bw-p-nm1951396",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rilo Kiley",
+  "type": "task"
+}

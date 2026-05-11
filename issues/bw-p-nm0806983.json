@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tavis Smiley. b. 1964 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0806983/\n_search: Tavis Smiley | Sinister | Stand | Death of a King | American Dreams",
+  "id": "bw-p-nm0806983",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tavis Smiley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Tapper. b. 1969 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1311488/\n_search: Jake Tapper | The Outpost | Superman | Another Simple Favor | Late Night",
+  "id": "bw-p-nm1311488",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Tapper",
+  "type": "task"
+}

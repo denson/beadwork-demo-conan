@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "That's a Moray: Italian Eels in Love. conan_tbs, S4E38, 2014.\nIMDb: https://www.imdb.com/title/tt3499664/\n_search: That's a Moray: Italian Eels in Love | 2014 | S4E38",
+  "id": "bw-e-tt3499664",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "That's a Moray: Italian Eels in Love",
+  "type": "task"
+}

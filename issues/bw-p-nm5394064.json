@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beausoleil. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5394064/\n_search: Beausoleil | I Don't Feel at Home in This World Anymore | The Leading Man | Sworn Enemies | Yum, Yum, Yum! A Taste of the Cajun and Creole Cooking of Louisiana",
+  "id": "bw-p-nm5394064",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beausoleil",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Statistician Nate Silver. jibber_jabber, S1E3, 2012.\nIMDb: https://www.imdb.com/title/tt12168814/\n_search: Statistician Nate Silver | 2012 | S1E3",
+  "id": "bw-e-tt12168814",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Statistician Nate Silver",
+  "type": "task"
+}

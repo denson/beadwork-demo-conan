@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Renata Notni. b. 1995 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2288520/\n_search: Renata Notni | Sueño de amor | Zorro | Curse by the Sea | Un gancho al corazón",
+  "id": "bw-p-nm2288520",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Renata Notni",
+  "type": "task"
+}

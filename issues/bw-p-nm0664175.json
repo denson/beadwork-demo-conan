@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessica Paré. b. 1980 | actress, director, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0664175/\n_search: Jessica Paré | Wicker Park | Hot Tub Time Machine | Lost and Delirious | Brooklyn",
+  "id": "bw-p-nm0664175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessica Paré",
+  "type": "task"
+}

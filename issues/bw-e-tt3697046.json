@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chelsea Handler/Hugh Dancy/Cristela Alonzo. conan_tbs, S4E77, 2014.\nIMDb: https://www.imdb.com/title/tt3697046/\n_search: Chelsea Handler/Hugh Dancy/Cristela Alonzo | 2014 | S4E77",
+  "id": "bw-e-tt3697046",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chelsea Handler/Hugh Dancy/Cristela Alonzo",
+  "type": "task"
+}

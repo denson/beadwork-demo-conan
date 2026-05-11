@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Freese. b. 1972 | actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0293667/\n_search: Josh Freese | Man of Steel | Disturbia | Batman v Superman: Dawn of Justice | Rock of Ages",
+  "id": "bw-p-nm0293667",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Freese",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patton Oswalt. conan_tbs, S11E52, 2021.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt14818360/\n_search: Patton Oswalt | 2021 | S11E52",
+  "id": "bw-e-tt14818360",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patton Oswalt",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Hodgman. b. 1971 | actor, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1894655/\n_search: John Hodgman | Coraline | Baby Mama | Arthur | The Invention of Lying",
+  "id": "bw-p-nm1894655",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Hodgman",
+  "type": "task"
+}

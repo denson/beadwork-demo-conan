@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Hartnett/Paget Brewster/Editors. late_night, S13E98, 2006.\nRuntime: 57 min.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt0790175/\n_search: Josh Hartnett/Paget Brewster/Editors | 2006 | S13E98",
+  "id": "bw-e-tt0790175",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Hartnett/Paget Brewster/Editors",
+  "type": "task"
+}

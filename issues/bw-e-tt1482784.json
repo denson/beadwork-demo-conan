@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rainn Wilson/Rachel Maddow/Chicago. tonight_show, S1E38, 2009.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt1482784/\n_search: Rainn Wilson/Rachel Maddow/Chicago | 2009 | S1E38",
+  "id": "bw-e-tt1482784",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rainn Wilson/Rachel Maddow/Chicago",
+  "type": "task"
+}

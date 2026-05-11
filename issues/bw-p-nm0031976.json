@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judd Apatow. b. 1967 | producer, writer, director.\nConan-show appearances: 11 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0031976/\n_search: Judd Apatow | Girls | Knocked Up | The King of Staten Island | The 40-Year-Old Virgin",
+  "id": "bw-p-nm0031976",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judd Apatow",
+  "type": "task"
+}

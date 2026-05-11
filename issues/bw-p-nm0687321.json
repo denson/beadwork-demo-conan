@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Plimpton. 1927–2003 | actor, writer, camera_department.\nDECEASED (1927–2003). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0687321/\n_search: George Plimpton | Good Will Hunting | Nixon | Just Cause | Reds",
+  "id": "bw-p-nm0687321",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Plimpton",
+  "type": "task"
+}

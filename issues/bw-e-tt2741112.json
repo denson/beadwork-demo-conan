@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Baldwin/Robert Stack/Henriette Mantel. late_night, S2E111, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2741112/\n_search: Daniel Baldwin/Robert Stack/Henriette Mantel | 1995 | S2E111",
+  "id": "bw-e-tt2741112",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Baldwin/Robert Stack/Henriette Mantel",
+  "type": "task"
+}

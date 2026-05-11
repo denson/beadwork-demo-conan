@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fear of Pop. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11717866/\n_search: Fear of Pop",
+  "id": "bw-p-nm11717866",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fear of Pop",
+  "type": "task"
+}

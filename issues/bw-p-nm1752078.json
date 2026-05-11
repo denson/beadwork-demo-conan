@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marc Broussard. producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1752078/\n_search: Marc Broussard | Winter Break | A Sort of Homecoming | So You Think You Can Dance Canada | Dancing with the Stars",
+  "id": "bw-p-nm1752078",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marc Broussard",
+  "type": "task"
+}

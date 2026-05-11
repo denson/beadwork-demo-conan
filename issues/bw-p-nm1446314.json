@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Slipknot. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1446314/\n_search: Slipknot | Rollerball | Resident Evil: Apocalypse | Resident Evil | Punisher: War Zone",
+  "id": "bw-p-nm1446314",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Slipknot",
+  "type": "task"
+}

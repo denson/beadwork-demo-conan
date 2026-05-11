@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Gyllenhaal. b. 1980 | actor, producer, camera_department.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0350453/\n_search: Jake Gyllenhaal | Nightcrawler | Brokeback Mountain | Donnie Darko | Prisoners",
+  "id": "bw-p-nm0350453",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Gyllenhaal",
+  "type": "task"
+}

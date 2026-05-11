@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Irina Markova. b. 1973 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0548631/\n_search: Irina Markova | Nastya | Shou-boy | The Poodle Trainer",
+  "id": "bw-p-nm0548631",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Irina Markova",
+  "type": "task"
+}

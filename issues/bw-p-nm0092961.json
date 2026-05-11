@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Bolger. b. 1991 | actress, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0092961/\n_search: Sarah Bolger | In America | The Spiderwick Chronicles | Stormbreaker | The Lazarus Effect",
+  "id": "bw-p-nm0092961",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Bolger",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chicano Batman. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6721678/\n_search: Chicano Batman | Resident Alien | Lowriders | Vida | This Fool",
+  "id": "bw-p-nm6721678",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chicano Batman",
+  "type": "task"
+}

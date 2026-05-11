@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey Tambor/Al Madrigal/Ashley Monroe. conan_tbs, S5E134, 2015.\nRuntime: 41 min.\nIMDb rating: 6.5.\nIMDb: https://www.imdb.com/title/tt4963210/\n_search: Jeffrey Tambor/Al Madrigal/Ashley Monroe | 2015 | S5E134",
+  "id": "bw-e-tt4963210",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey Tambor/Al Madrigal/Ashley Monroe",
+  "type": "task"
+}

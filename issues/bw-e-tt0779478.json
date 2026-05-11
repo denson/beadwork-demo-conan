@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Cavanaugh/Patton Oswalt/Kenny Chesney. late_night, S10E70, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0779478/\n_search: Tom Cavanaugh/Patton Oswalt/Kenny Chesney | 2003 | S10E70",
+  "id": "bw-e-tt0779478",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Cavanaugh/Patton Oswalt/Kenny Chesney",
+  "type": "task"
+}

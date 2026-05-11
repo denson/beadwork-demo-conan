@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fa-La-La-La-La, La-La-La-Murder. conan_tbs, S1E25, 2010.\nRuntime: 60 min.\nIMDb rating: 8.3.\nIMDb: https://www.imdb.com/title/tt1795125/\n_search: Fa-La-La-La-La, La-La-La-Murder | 2010 | S1E25",
+  "id": "bw-e-tt1795125",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fa-La-La-La-La, La-La-La-Murder",
+  "type": "task"
+}

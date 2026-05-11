@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Franco. b. 1978 | actor, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0290556/\n_search: James Franco | Spring Breakers | The Disaster Artist | 127 Hours | Pineapple Express",
+  "id": "bw-p-nm0290556",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Franco",
+  "type": "task"
+}

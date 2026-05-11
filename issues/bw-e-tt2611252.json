@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stefanie Powers \u0026 Robert Wagner/Stephen Baldwin/Redd Kross. late_night, S1E105, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2611252/\n_search: Stefanie Powers \u0026 Robert Wagner/Stephen Baldwin/Redd Kross | 1994 | S1E105",
+  "id": "bw-e-tt2611252",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stefanie Powers \u0026 Robert Wagner/Stephen Baldwin/Redd Kross",
+  "type": "task"
+}

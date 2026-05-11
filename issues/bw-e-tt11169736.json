@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosario Dawson/Dulcé Sloan. conan_tbs, S9E91, 2019.\nRuntime: 21 min.\nIMDb rating: 6.9.\nIMDb: https://www.imdb.com/title/tt11169736/\n_search: Rosario Dawson/Dulcé Sloan | 2019 | S9E91",
+  "id": "bw-e-tt11169736",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosario Dawson/Dulcé Sloan",
+  "type": "task"
+}

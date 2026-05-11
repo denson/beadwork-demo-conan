@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Mara/Sam Richardson/Hari Kondabolu. conan_tbs, S8E84, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8496070/\n_search: Kate Mara/Sam Richardson/Hari Kondabolu | 2018 | S8E84",
+  "id": "bw-e-tt8496070",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Mara/Sam Richardson/Hari Kondabolu",
+  "type": "task"
+}

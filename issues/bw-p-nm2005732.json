@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Craig Dawson. b. 1982 | actor, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2005732/\n_search: Craig Dawson | Night Visions | Going to California | ABC TGIF | Mad TV",
+  "id": "bw-p-nm2005732",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Craig Dawson",
+  "type": "task"
+}

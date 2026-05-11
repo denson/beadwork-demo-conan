@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joely Richardson. b. 1965 | actress, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0000613/\n_search: Joely Richardson | Nip/Tuck | The Patriot | Event Horizon | Sister My Sister",
+  "id": "bw-p-nm0000613",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joely Richardson",
+  "type": "task"
+}

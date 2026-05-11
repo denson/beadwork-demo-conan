@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brother Cane. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6217750/\n_search: Brother Cane | Halloween: The Curse of Michael Myers",
+  "id": "bw-p-nm6217750",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brother Cane",
+  "type": "task"
+}

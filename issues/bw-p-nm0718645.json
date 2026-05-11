@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ivan Reitman. 1946–2022 | producer, miscellaneous, director.\nDECEASED (1946–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0718645/\n_search: Ivan Reitman | Up in the Air | Ghostbusters | Meatballs | Heavy Metal",
+  "id": "bw-p-nm0718645",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ivan Reitman",
+  "type": "task"
+}

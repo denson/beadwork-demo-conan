@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mario Lopez. b. 1973 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0530249/\n_search: Mario Lopez | Saved by the Bell: The College Years | Saved by the Bell | Outta Time | Pacific Blue",
+  "id": "bw-p-nm0530249",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mario Lopez",
+  "type": "task"
+}

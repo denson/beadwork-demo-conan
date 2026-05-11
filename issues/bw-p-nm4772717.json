@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Isbell. b. 1979 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4772717/\n_search: Jason Isbell | A Star Is Born | The Ice Road | Killers of the Flower Moon | Yellowstone",
+  "id": "bw-p-nm4772717",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Isbell",
+  "type": "task"
+}

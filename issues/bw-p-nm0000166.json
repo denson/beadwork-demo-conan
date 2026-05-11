@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Helen Hunt. b. 1963 | actress, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000166/\n_search: Helen Hunt | As Good as It Gets | Twister | Mad About You | Then She Found Me",
+  "id": "bw-p-nm0000166",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Helen Hunt",
+  "type": "task"
+}

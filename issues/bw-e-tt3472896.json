@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thursday the Rabbi Ate Bac-Os. conan_tbs, S4E32, 2014.\nIMDb: https://www.imdb.com/title/tt3472896/\n_search: Thursday the Rabbi Ate Bac-Os | 2014 | S4E32",
+  "id": "bw-e-tt3472896",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thursday the Rabbi Ate Bac-Os",
+  "type": "task"
+}

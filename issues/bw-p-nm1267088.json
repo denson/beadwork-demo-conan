@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mindy Smith. b. 1974 | actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1267088/\n_search: Mindy Smith | Our Idiot Brother | Grey's Anatomy | Hidden Palms | Army Wives",
+  "id": "bw-p-nm1267088",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mindy Smith",
+  "type": "task"
+}

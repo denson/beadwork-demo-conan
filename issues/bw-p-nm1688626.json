@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rao Rampilla. actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1688626/\n_search: Rao Rampilla | That's My Boy | Isn't It Romantic | An Actor's Journey 2020 | Gandhi, Untouchables and Me",
+  "id": "bw-p-nm1688626",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rao Rampilla",
+  "type": "task"
+}

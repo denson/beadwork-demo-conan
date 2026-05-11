@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Begala. b. 1961 | actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0066669/\n_search: Paul Begala | Third Term: How John McCain Promises to Continue George Bush's Failed Policies | House of Cards | K Street | The War Room",
+  "id": "bw-p-nm0066669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Begala",
+  "type": "task"
+}

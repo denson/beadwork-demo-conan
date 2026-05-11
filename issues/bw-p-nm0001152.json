@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Illeana Douglas. b. 1961 | actress, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001152/\n_search: Illeana Douglas | To Die For | Stir of Echoes | The New Guy | Ghost World",
+  "id": "bw-p-nm0001152",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Illeana Douglas",
+  "type": "task"
+}

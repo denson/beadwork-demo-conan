@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Episode #12.183. late_night, S12E183, 2005.\nRuntime: 57 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt0627611/\n_search: Episode #12.183 | 2005 | S12E183",
+  "id": "bw-e-tt0627611",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Episode #12.183",
+  "type": "task"
+}

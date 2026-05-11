@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rainn Wilson/Lucy Hale/Brian Scolaro. conan_tbs, S5E38, 2015.\nIMDb: https://www.imdb.com/title/tt4419316/\n_search: Rainn Wilson/Lucy Hale/Brian Scolaro | 2015 | S5E38",
+  "id": "bw-e-tt4419316",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rainn Wilson/Lucy Hale/Brian Scolaro",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Hawkins. writer, actor, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2196335/\n_search: Robert Hawkins | Titus | Ron White Comedy Salute to the Troops 2012 | Lucifer's Crewcut | Comedy Central Presents",
+  "id": "bw-p-nm2196335",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Hawkins",
+  "type": "task"
+}

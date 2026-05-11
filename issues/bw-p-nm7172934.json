@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dov Halbertal. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7172934/\n_search: Dov Halbertal | Here and Now",
+  "id": "bw-p-nm7172934",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dov Halbertal",
+  "type": "task"
+}

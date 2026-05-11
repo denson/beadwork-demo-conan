@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Los Abandoned. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2448676/\n_search: Los Abandoned | Parenthood | Fog | Tony Hawk's Proving Ground",
+  "id": "bw-p-nm2448676",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Los Abandoned",
+  "type": "task"
+}

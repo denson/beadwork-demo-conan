@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Georgia Nott. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7778098/\n_search: Georgia Nott | Venom: Let There Be Carnage | Mythic Quest | Wonderland",
+  "id": "bw-p-nm7778098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Georgia Nott",
+  "type": "task"
+}

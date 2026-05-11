@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jordan Peele. b. 1979 | director, writer, producer.\nConan-show appearances: 5 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm1443502/\n_search: Jordan Peele | Nope | Get Out | Us | Wendell \u0026 Wild",
+  "id": "bw-p-nm1443502",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jordan Peele",
+  "type": "task"
+}

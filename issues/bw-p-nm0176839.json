@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ry Cooder. b. 1947 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0176839/\n_search: Ry Cooder | Primary Colors | Paris, Texas | Crossroads | Streets of Fire",
+  "id": "bw-p-nm0176839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ry Cooder",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Meadows. b. 1961 | actor, writer, miscellaneous.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0005218/\n_search: Tim Meadows | Jack and Jill | The Ladies Man | Mean Girls | Walk Hard: The Dewey Cox Story",
+  "id": "bw-p-nm0005218",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Meadows",
+  "type": "task"
+}

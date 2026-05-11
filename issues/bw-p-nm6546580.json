@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Becky Lucas. actress, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6546580/\n_search: Becky Lucas | At Home Alone Together | LOL: Last One Laughing Australia | The Other Guy",
+  "id": "bw-p-nm6546580",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Becky Lucas",
+  "type": "task"
+}

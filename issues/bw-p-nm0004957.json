@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leeza Gibbons. b. 1957 | producer, actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004957/\n_search: Leeza Gibbons | The Apprentice | Leeza | Entertainment Tonight | America Now",
+  "id": "bw-p-nm0004957",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leeza Gibbons",
+  "type": "task"
+}

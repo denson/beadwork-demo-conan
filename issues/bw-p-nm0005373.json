@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Smokey Robinson. b. 1940 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005373/\n_search: Smokey Robinson | Big Time | Hollywood Homicide | Pirate Radio | Last Holiday",
+  "id": "bw-p-nm0005373",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Smokey Robinson",
+  "type": "task"
+}

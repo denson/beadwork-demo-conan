@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pat McDonagh. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm16058386/\n_search: Pat McDonagh",
+  "id": "bw-p-nm16058386",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pat McDonagh",
+  "type": "task"
+}

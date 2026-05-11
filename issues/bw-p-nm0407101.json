@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabriel Iglesias. b. 1976 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0407101/\n_search: Gabriel Iglesias | Magic Mike XXL | Ferdinand | The Nut Job | The Book of Life",
+  "id": "bw-p-nm0407101",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabriel Iglesias",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Friends, Romans, Countrymen, Lend Me Your DVDs of 'Breaking Bad' Season 3. conan_tbs, S2E9, 2011.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt2121448/\n_search: Friends, Romans, Countrymen, Lend Me Your DVDs of 'Breaking Bad' Season 3 | 2011 | S2E9",
+  "id": "bw-e-tt2121448",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Friends, Romans, Countrymen, Lend Me Your DVDs of 'Breaking Bad' Season 3",
+  "type": "task"
+}

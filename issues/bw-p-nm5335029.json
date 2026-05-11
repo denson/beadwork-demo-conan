@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Danielle Brooks. b. 1989 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm5335029/\n_search: Danielle Brooks | Peacemaker | Orange Is the New Black | Robin Roberts Presents: Mahalia | Close Enough",
+  "id": "bw-p-nm5335029",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Danielle Brooks",
+  "type": "task"
+}

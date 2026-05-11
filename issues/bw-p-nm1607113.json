@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "D12. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1607113/\n_search: D12 | Bad Company | The Longest Yard | Project X | Shark Tale",
+  "id": "bw-p-nm1607113",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "D12",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Butler. b. 1954 | actor, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0124873/\n_search: Dan Butler | The Silence of the Lambs | Frasier | The Fan | Enemy of the State",
+  "id": "bw-p-nm0124873",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Butler",
+  "type": "task"
+}

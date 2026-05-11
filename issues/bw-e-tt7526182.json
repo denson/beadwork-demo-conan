@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Reiser/Abbi Jacobson/JD McPherson. conan_tbs, S7E143, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt7526182/\n_search: Paul Reiser/Abbi Jacobson/JD McPherson | 2017 | S7E143",
+  "id": "bw-e-tt7526182",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Reiser/Abbi Jacobson/JD McPherson",
+  "type": "task"
+}

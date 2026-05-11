@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jude Christodal. b. 1970 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1206592/\n_search: Jude Christodal | Below Deck Sailing Yacht | Below Deck Mediterranean | Below Deck",
+  "id": "bw-p-nm1206592",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jude Christodal",
+  "type": "task"
+}

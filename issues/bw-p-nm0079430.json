@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erik Betts. b. 1967 | stunts, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0079430/\n_search: Erik Betts | Avatar | The Fate of the Furious | Westworld | Mission: Impossible III",
+  "id": "bw-p-nm0079430",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erik Betts",
+  "type": "task"
+}

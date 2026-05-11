@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lea DeLaria. b. 1958 | actress, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0216466/\n_search: Lea DeLaria | Orange Is the New Black | Cars 3 | Edge of Seventeen | The Oblongs",
+  "id": "bw-p-nm0216466",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lea DeLaria",
+  "type": "task"
+}

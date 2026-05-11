@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Jones. b. 1940 | music_artist, music_department, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0429367/\n_search: Tom Jones | This Is Tom Jones | The Emperor's New Groove | Deep Impact | Thunderball",
+  "id": "bw-p-nm0429367",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Jones",
+  "type": "task"
+}

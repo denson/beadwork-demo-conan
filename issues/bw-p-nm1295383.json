@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Vinatieri. b. 1972 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1295383/\n_search: Adam Vinatieri | Parks and Recreation | The Kick of Destiny | The NFL on CBS | NFL Monday Night Football",
+  "id": "bw-p-nm1295383",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Vinatieri",
+  "type": "task"
+}

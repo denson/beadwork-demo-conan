@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Louie Anderson. 1953–2022 | actor, writer, producer.\nDECEASED (1953–2022). Conan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0004706/\n_search: Louie Anderson | Life with Louie | Coming to America | Baskets | Ferris Bueller's Day Off",
+  "id": "bw-p-nm0004706",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Louie Anderson",
+  "type": "task"
+}

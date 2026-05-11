@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Crystal Waters. b. 1961 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0914056/\n_search: Crystal Waters | Double Team | Blue Streak | To Wong Foo, Thanks for Everything! Julie Newmar | Because I Said So",
+  "id": "bw-p-nm0914056",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Crystal Waters",
+  "type": "task"
+}

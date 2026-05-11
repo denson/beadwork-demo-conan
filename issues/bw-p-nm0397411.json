@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Rudnick. b. 1957 | writer, producer, script_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0397411/\n_search: Paul Rudnick | Addams Family Values | In \u0026 Out | The Stepford Wives | Sister Act",
+  "id": "bw-p-nm0397411",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Rudnick",
+  "type": "task"
+}

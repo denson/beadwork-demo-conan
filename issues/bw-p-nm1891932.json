@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christina Gausas. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1891932/\n_search: Christina Gausas | Difficult People | 30 Rock | Girls",
+  "id": "bw-p-nm1891932",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christina Gausas",
+  "type": "task"
+}

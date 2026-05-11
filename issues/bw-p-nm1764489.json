@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hum. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1764489/\n_search: Hum | Pass the Buck | Veer | Beavis and Butt-Head | 120 Minutes",
+  "id": "bw-p-nm1764489",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hum",
+  "type": "task"
+}

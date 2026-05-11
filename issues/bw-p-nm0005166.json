@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Susan Lucci. b. 1946 | actress, soundtrack, archive_footage.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0005166/\n_search: Susan Lucci | All My Children | Joy | Ebbie | Invitation to Hell",
+  "id": "bw-p-nm0005166",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Susan Lucci",
+  "type": "task"
+}

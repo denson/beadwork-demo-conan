@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Felix Kjellberg. b. 1989 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5579304/\n_search: Felix Kjellberg | PewDiePie | Scare PewDiePie | Pew News | Minecraft Epic",
+  "id": "bw-p-nm5579304",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Felix Kjellberg",
+  "type": "task"
+}

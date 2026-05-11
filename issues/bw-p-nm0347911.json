@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Gumbel. 1946–2024 | actor, archive_footage.\nDECEASED (1946–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0347911/\n_search: Greg Gumbel | Evening Shade | 3rd Rock from the Sun | Yes, Dear | Cosby",
+  "id": "bw-p-nm0347911",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Gumbel",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elizabeth Banks/Vinnie Jones/Sir Sly. conan_tbs, S5E27, 2015.\nIMDb: https://www.imdb.com/title/tt4427274/\n_search: Elizabeth Banks/Vinnie Jones/Sir Sly | 2015 | S5E27",
+  "id": "bw-e-tt4427274",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elizabeth Banks/Vinnie Jones/Sir Sly",
+  "type": "task"
+}

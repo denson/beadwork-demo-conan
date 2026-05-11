@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bradley Cooper. b. 1975 | actor, producer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0177896/\n_search: Bradley Cooper | A Star Is Born | Silver Linings Playbook | American Sniper | American Hustle",
+  "id": "bw-p-nm0177896",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bradley Cooper",
+  "type": "task"
+}

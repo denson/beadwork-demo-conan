@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trace Worthington. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0941780/\n_search: Trace Worthington | Deep Winter | Red Bull Cliff Diving World Series | Carving the White | Red Bull Signature Series",
+  "id": "bw-p-nm0941780",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trace Worthington",
+  "type": "task"
+}

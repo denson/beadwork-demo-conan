@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nancy Allen. b. 1950 | actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0000262/\n_search: Nancy Allen | Dressed to Kill | RoboCop 3 | RoboCop | RoboCop 2",
+  "id": "bw-p-nm0000262",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nancy Allen",
+  "type": "task"
+}

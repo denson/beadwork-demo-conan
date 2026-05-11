@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Logan Kishi. b. 2004 | actor, miscellaneous, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4755757/\n_search: Logan Kishi | Sleep | Kung Fu Panda 3 | The Boss Baby | The Lego Ninjago Movie",
+  "id": "bw-p-nm4755757",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Logan Kishi",
+  "type": "task"
+}

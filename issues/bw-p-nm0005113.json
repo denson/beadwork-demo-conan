@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eriq La Salle. actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005113/\n_search: Eriq La Salle | ER | Coming to America | Logan | One Hour Photo",
+  "id": "bw-p-nm0005113",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eriq La Salle",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thomas Middleditch/Giulia Rozzi. conan_tbs, S9E109, 2019.\nRuntime: 21 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt11337018/\n_search: Thomas Middleditch/Giulia Rozzi | 2019 | S9E109",
+  "id": "bw-e-tt11337018",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thomas Middleditch/Giulia Rozzi",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kent Garrison. director, editor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3036741/\n_search: Kent Garrison | Diary of a Wimpy Kid | Parcells' Final Ride | Welcome to Switzer Land | Dak Prescott: A Family Reunion",
+  "id": "bw-p-nm3036741",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kent Garrison",
+  "type": "task"
+}

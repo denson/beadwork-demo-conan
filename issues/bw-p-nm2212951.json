@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Schiff. b. 1960 | archive_footage, archive_sound.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2212951/\n_search: Adam Schiff | The Jan. 6th Hearings | Artsakh Armenian Genocide Continues | ABCNews Special | Die Leugnung - Die Türkei und ihre Vergangenheit",
+  "id": "bw-p-nm2212951",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Schiff",
+  "type": "task"
+}

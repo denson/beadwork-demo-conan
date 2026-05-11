@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trey Parker. b. 1969 | music_department, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0005295/\n_search: Trey Parker | South Park | South Park: Bigger, Longer \u0026 Uncut | Orgazmo | Team America: World Police",
+  "id": "bw-p-nm0005295",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trey Parker",
+  "type": "task"
+}

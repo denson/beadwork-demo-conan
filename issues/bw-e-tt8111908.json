@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Burt Reynolds/Dylan Moran/Rachel Feinstein. conan_tbs, S8E49, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8111908/\n_search: Burt Reynolds/Dylan Moran/Rachel Feinstein | 2018 | S8E49",
+  "id": "bw-e-tt8111908",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Burt Reynolds/Dylan Moran/Rachel Feinstein",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gore Vidal/Julianne Phillips/Urge Overkill. late_night, S1E7, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1401968/\n_search: Gore Vidal/Julianne Phillips/Urge Overkill | 1993 | S1E7",
+  "id": "bw-e-tt1401968",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gore Vidal/Julianne Phillips/Urge Overkill",
+  "type": "task"
+}

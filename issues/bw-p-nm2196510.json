@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shaun T.. actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2196510/\n_search: Shaun T. | The Comebacks | The Ten Commandments: The Musical | House of Payne | Insanity",
+  "id": "bw-p-nm2196510",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shaun T.",
+  "type": "task"
+}

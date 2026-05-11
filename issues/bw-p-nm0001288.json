@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kelsey Grammer. b. 1955 | producer, actor, music_department.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0001288/\n_search: Kelsey Grammer | Cheers | Frasier | Transformers: Age of Extinction | The Expendables 3",
+  "id": "bw-p-nm0001288",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kelsey Grammer",
+  "type": "task"
+}

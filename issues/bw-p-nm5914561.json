@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bradley Simpson. actor, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5914561/\n_search: Bradley Simpson | Ricos de Amor | Early Man | Show Dogs | Karate with Anne-Marie",
+  "id": "bw-p-nm5914561",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bradley Simpson",
+  "type": "task"
+}

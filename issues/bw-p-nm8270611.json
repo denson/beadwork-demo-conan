@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sophie Hawley-Weld. b. 1992 | actress, director, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8270611/\n_search: Sophie Hawley-Weld | Birds of Prey and the Fantabulous Emancipation of One Harley Quinn | The King of Staten Island | Ocean's Eight | Booksmart",
+  "id": "bw-p-nm8270611",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sophie Hawley-Weld",
+  "type": "task"
+}

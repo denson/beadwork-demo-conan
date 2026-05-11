@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Ng. camera_department, production_department, sound_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4277428/\n_search: Jimmy Ng | Emma and I | Note to Self | Just Another Sunday | Spice It Up!",
+  "id": "bw-p-nm4277428",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Ng",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bryce Dessner. composer, music_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2425842/\n_search: Bryce Dessner | Train Dreams | The Revenant | Cyrano | The Two Popes",
+  "id": "bw-p-nm2425842",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bryce Dessner",
+  "type": "task"
+}

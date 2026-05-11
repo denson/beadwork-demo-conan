@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brendan Conway. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm16058544/\n_search: Brendan Conway",
+  "id": "bw-p-nm16058544",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brendan Conway",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evan Thomas. b. 1951 | writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2352627/\n_search: Evan Thomas | Untitled Robert F. Kennedy Project | A Ripple of Hope | JFK: A President Betrayed | The Revolution",
+  "id": "bw-p-nm2352627",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:jibber_jabber",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evan Thomas",
+  "type": "task"
+}

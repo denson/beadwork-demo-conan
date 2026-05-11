@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harvey Fierstein. b. 1952 | actor, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001213/\n_search: Harvey Fierstein | Independence Day | Mrs. Doubtfire | Bullets Over Broadway | Mulan",
+  "id": "bw-p-nm0001213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harvey Fierstein",
+  "type": "task"
+}

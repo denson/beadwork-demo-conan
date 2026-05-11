@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke Wilson/Jeff Galin/Solomon Burke. late_night, S10E137, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1199076/\n_search: Luke Wilson/Jeff Galin/Solomon Burke | 2003 | S10E137",
+  "id": "bw-e-tt1199076",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke Wilson/Jeff Galin/Solomon Burke",
+  "type": "task"
+}

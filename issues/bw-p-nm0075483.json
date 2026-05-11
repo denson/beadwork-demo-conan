@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Myles Berkowitz. b. 1962 | writer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0075483/\n_search: Myles Berkowitz | 20 Dates | No Small Affair | Tales from the Crypt | Body of Work",
+  "id": "bw-p-nm0075483",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Myles Berkowitz",
+  "type": "task"
+}

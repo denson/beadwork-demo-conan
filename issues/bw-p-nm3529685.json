@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kumail Nanjiani. b. 1978 | actor, writer, producer.\nConan-show appearances: 12 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm3529685/\n_search: Kumail Nanjiani | The Big Sick | The Lego Ninjago Movie | Life as We Know It | Stuber",
+  "id": "bw-p-nm3529685",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kumail Nanjiani",
+  "type": "task"
+}

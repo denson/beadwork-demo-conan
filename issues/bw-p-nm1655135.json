@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Faith No More. music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1655135/\n_search: Faith No More | Grosse Pointe Blank | Black Hawk Down | In the Fade | Bill \u0026 Ted's Bogus Journey",
+  "id": "bw-p-nm1655135",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Faith No More",
+  "type": "task"
+}

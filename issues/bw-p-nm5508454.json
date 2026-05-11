@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Walt Arnett. actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5508454/\n_search: Walt Arnett | Dumb and Dumber To | The Deadbeat",
+  "id": "bw-p-nm5508454",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Walt Arnett",
+  "type": "task"
+}

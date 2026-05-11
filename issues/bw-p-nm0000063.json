@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Quinn. 1915–2001 | actor, producer, director.\nDECEASED (1915–2001). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000063/\n_search: Anthony Quinn | Zorba the Greek | Lawrence of Arabia | Lust for Life | The Ox-Bow Incident",
+  "id": "bw-p-nm0000063",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Quinn",
+  "type": "task"
+}

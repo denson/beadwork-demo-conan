@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Adams. b. 1974 | actress, producer, executive.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0010736/\n_search: Amy Adams | Arrival | Enchanted | The Fighter | American Hustle",
+  "id": "bw-p-nm0010736",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Adams",
+  "type": "task"
+}

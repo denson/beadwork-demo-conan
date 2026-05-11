@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Whit Stillman. b. 1952 | director, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001775/\n_search: Whit Stillman | Love \u0026 Friendship | Metropolitan | Barcelona | The Last Days of Disco",
+  "id": "bw-p-nm0001775",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Whit Stillman",
+  "type": "task"
+}

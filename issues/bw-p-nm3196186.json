@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil Lesh \u0026 Friends. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3196186/\n_search: Phil Lesh \u0026 Friends | Stand and Be Counted",
+  "id": "bw-p-nm3196186",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil Lesh \u0026 Friends",
+  "type": "task"
+}

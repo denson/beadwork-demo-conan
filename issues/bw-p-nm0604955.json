@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Piers Morgan. b. 1965 | writer, producer, actor.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0604955/\n_search: Piers Morgan | Entourage | Flight | The Campaign | Criminal",
+  "id": "bw-p-nm0604955",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Piers Morgan",
+  "type": "task"
+}

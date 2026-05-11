@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paris Hilton. b. 1981 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0385296/\n_search: Paris Hilton | The Hottie \u0026 the Nottie | Repo! The Genetic Opera | House of Wax | Pledge This!",
+  "id": "bw-p-nm0385296",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paris Hilton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cara Delevingne. b. 1992 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm5353321/\n_search: Cara Delevingne | Suicide Squad | Paper Towns | Valerian and the City of a Thousand Planets | Pan",
+  "id": "bw-p-nm5353321",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cara Delevingne",
+  "type": "task"
+}

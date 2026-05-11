@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Smith. b. 1968 | producer, actor, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000226/\n_search: Will Smith | The Fresh Prince of Bel-Air | I Am Legend | Men in Black | Independence Day",
+  "id": "bw-p-nm0000226",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Smith",
+  "type": "task"
+}

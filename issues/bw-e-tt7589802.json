@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen Colbert/Rod Man. conan_tbs, S8E5, 2017.\nRuntime: 42 min.\nIMDb rating: 6.7.\nIMDb: https://www.imdb.com/title/tt7589802/\n_search: Stephen Colbert/Rod Man | 2017 | S8E5",
+  "id": "bw-e-tt7589802",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen Colbert/Rod Man",
+  "type": "task"
+}

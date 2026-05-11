@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Nardone. (no IMDb bio data).\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3183112/\n_search: Tom Nardone | Modern Marvels | GMA3",
+  "id": "bw-p-nm3183112",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Nardone",
+  "type": "task"
+}

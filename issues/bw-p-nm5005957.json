@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Boeckner. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5005957/\n_search: Dan Boeckner | Mandy | The Fifth Estate | Adult World | Criminal Minds",
+  "id": "bw-p-nm5005957",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Boeckner",
+  "type": "task"
+}

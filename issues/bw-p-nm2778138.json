@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Merriweather. b. 1982 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2778138/\n_search: Daniel Merriweather | The Ugly Truth | Prime | Arthur | Dead Man Running",
+  "id": "bw-p-nm2778138",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Merriweather",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Gardell/Draymond Green/Finish Ticket. conan_tbs, S6E129, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6051314/\n_search: Billy Gardell/Draymond Green/Finish Ticket | 2016 | S6E129",
+  "id": "bw-e-tt6051314",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Gardell/Draymond Green/Finish Ticket",
+  "type": "task"
+}

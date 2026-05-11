@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Circa Waves. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7364175/\n_search: Circa Waves | The Wrong Missy | The Road Within | Radio 1's Big Weekend Norwich 2015 | Glastonbury 2015",
+  "id": "bw-p-nm7364175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Circa Waves",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicholas Art. b. 1999 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1357069/\n_search: Nicholas Art | The Nanny Diaries | Syriana | Guiding Light | Cashmere Mafia",
+  "id": "bw-p-nm1357069",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicholas Art",
+  "type": "task"
+}

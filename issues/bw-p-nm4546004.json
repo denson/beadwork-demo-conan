@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Rossen. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4546004/\n_search: Daniel Rossen | Past Lives | The Kids Are All Right | Blue Valentine | Whip It",
+  "id": "bw-p-nm4546004",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Rossen",
+  "type": "task"
+}

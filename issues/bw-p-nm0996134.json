@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paula Pell. b. 1963 | writer, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0996134/\n_search: Paula Pell | Saturday Night Live | Inside Out | 30 Rock | Birdman or (The Unexpected Virtue of Ignorance)",
+  "id": "bw-p-nm0996134",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paula Pell",
+  "type": "task"
+}

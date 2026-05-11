@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Alda/Bill Bellamy/Sister Carol. late_night, S2E72, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2729900/\n_search: Alan Alda/Bill Bellamy/Sister Carol | 1995 | S2E72",
+  "id": "bw-e-tt2729900",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Alda/Bill Bellamy/Sister Carol",
+  "type": "task"
+}

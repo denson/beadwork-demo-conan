@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Eigeman. b. 1965 | actor, director, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001177/\n_search: Chris Eigeman | Metropolitan | Maid in Manhattan | The Last Days of Disco | Barcelona",
+  "id": "bw-p-nm0001177",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Eigeman",
+  "type": "task"
+}

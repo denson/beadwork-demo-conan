@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J. Alexander. actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1556231/\n_search: J. Alexander | America's Next Top Model | Katy Keene | Cuts | Little Klaus Big World",
+  "id": "bw-p-nm1556231",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J. Alexander",
+  "type": "task"
+}

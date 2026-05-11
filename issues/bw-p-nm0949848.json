@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mae Young. 1923–2014 | actress, camera_department, archive_footage.\nDECEASED (1923–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0949848/\n_search: Mae Young | WWE Smackdown! | WWE Monday Night RAW | WrestleMania XXVII | WWE Sunday Night Heat",
+  "id": "bw-p-nm0949848",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mae Young",
+  "type": "task"
+}

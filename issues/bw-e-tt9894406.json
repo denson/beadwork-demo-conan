@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Funches. conan_tbs, S9E22, 2019.\nRuntime: 21 min.\nIMDb rating: 6.3.\nIMDb: https://www.imdb.com/title/tt9894406/\n_search: Ron Funches | 2019 | S9E22",
+  "id": "bw-e-tt9894406",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Funches",
+  "type": "task"
+}

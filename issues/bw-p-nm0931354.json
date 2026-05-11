@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Montel Williams. b. 1956 | producer, actor, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0931354/\n_search: Montel Williams | The Montel Williams Show | JAG | Guiding Light | All My Children",
+  "id": "bw-p-nm0931354",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Montel Williams",
+  "type": "task"
+}

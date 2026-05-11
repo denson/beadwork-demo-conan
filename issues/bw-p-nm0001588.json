@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Palance. 1919–2006 | actor, director, assistant_director.\nDECEASED (1919–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001588/\n_search: Jack Palance | City Slickers | Shane | Contempt | Tango \u0026 Cash",
+  "id": "bw-p-nm0001588",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Palance",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Gnewikow. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8748089/\n_search: Jason Gnewikow | Remember Me | White Oleander | All the Real Girls",
+  "id": "bw-p-nm8748089",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Gnewikow",
+  "type": "task"
+}

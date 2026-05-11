@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Brown/Missy Giove/David Cross. late_night, S1E218, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2760704/\n_search: Julie Brown/Missy Giove/David Cross | 1994 | S1E218",
+  "id": "bw-e-tt2760704",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Brown/Missy Giove/David Cross",
+  "type": "task"
+}

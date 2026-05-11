@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Raul Malo. 1965–2025 | actor, composer, music_department.\nDECEASED (1965–2025). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0540360/\n_search: Raul Malo | Hope Floats | Zombieland | Michael | Snow Dogs",
+  "id": "bw-p-nm0540360",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Raul Malo",
+  "type": "task"
+}

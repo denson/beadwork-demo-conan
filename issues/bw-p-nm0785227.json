@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Serkis. b. 1964 | actor, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0785227/\n_search: Andy Serkis | War for the Planet of the Apes | Rise of the Planet of the Apes | Dawn of the Planet of the Apes | The Lord of the Rings: The Two Towers",
+  "id": "bw-p-nm0785227",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Serkis",
+  "type": "task"
+}

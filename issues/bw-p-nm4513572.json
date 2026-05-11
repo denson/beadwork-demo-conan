@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "New Politics. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4513572/\n_search: New Politics | Backstage Diaries | Late Night with Seth Meyers | Taco Bell \u0026 MTV Present a VMA Concert",
+  "id": "bw-p-nm4513572",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "New Politics",
+  "type": "task"
+}

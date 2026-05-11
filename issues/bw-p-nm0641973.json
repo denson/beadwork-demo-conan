@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Buck O'Neil. 1911–2006 | archive_footage.\nDECEASED (1911–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0641973/\n_search: Buck O'Neil | Baseball | There Was Always Sun Shining Someplace: Life in the Negro Baseball Leagues | Yankeeography | Crossing White Lines",
+  "id": "bw-p-nm0641973",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Buck O'Neil",
+  "type": "task"
+}

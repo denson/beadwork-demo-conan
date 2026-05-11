@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "And You Will Know Us By the Trail of Dead. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2155368/\n_search: And You Will Know Us By the Trail of Dead | The Invisible | It's All Gone Pete Tong | Hell on Wheels | Rage",
+  "id": "bw-p-nm2155368",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "And You Will Know Us By the Trail of Dead",
+  "type": "task"
+}

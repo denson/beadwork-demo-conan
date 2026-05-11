@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Olivia d'Abo. b. 1969 | actress, music_department, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001882/\n_search: Olivia d'Abo | Conan the Destroyer | Point of No Return | Star Wars: Episode IX - The Rise of Skywalker | Justice League: Doom",
+  "id": "bw-p-nm0001882",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Olivia d'Abo",
+  "type": "task"
+}

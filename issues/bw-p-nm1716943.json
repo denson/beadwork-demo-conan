@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Darryl Lenox. 1966–2023 | writer, producer.\nDECEASED (1966–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1716943/\n_search: Darryl Lenox | Darryl Lenox: Blind Ambition | An Evening at the Improv | Live at Gotham | Just for Laughs: All-Access",
+  "id": "bw-p-nm1716943",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Darryl Lenox",
+  "type": "task"
+}

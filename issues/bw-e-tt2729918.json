@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laurence Fishburne/Lynn Snowden/Jack Logan. late_night, S2E75, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2729918/\n_search: Laurence Fishburne/Lynn Snowden/Jack Logan | 1995 | S2E75",
+  "id": "bw-e-tt2729918",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laurence Fishburne/Lynn Snowden/Jack Logan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cypress Hill. music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1290213/\n_search: Cypress Hill | Guns Akimbo | Juice | Training Day | Fast \u0026 Furious Presents: Hobbs \u0026 Shaw",
+  "id": "bw-p-nm1290213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cypress Hill",
+  "type": "task"
+}

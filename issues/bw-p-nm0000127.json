@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wes Craven. 1939–2015 | writer, producer, director.\nDECEASED (1939–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000127/\n_search: Wes Craven | A Nightmare on Elm Street | Scream | New Nightmare | The People Under the Stairs",
+  "id": "bw-p-nm0000127",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wes Craven",
+  "type": "task"
+}

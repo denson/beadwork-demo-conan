@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vin Diesel. b. 1967 | producer, actor, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0004874/\n_search: Vin Diesel | The Fast and the Furious | Guardians of the Galaxy | Furious 7 | xXx",
+  "id": "bw-p-nm0004874",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vin Diesel",
+  "type": "task"
+}

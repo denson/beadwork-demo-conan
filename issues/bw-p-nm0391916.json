@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry Holmes. b. 1949 | actor, producer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0391916/\n_search: Larry Holmes | The Moment After | Action U.S.A. | The Fall Guy | Sylvia's Girls",
+  "id": "bw-p-nm0391916",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry Holmes",
+  "type": "task"
+}

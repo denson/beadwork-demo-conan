@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Garth Brooks/Saffron Burrows. late_night, S7E47, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627303/\n_search: Garth Brooks/Saffron Burrows | 1999 | S7E47",
+  "id": "bw-e-tt0627303",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Garth Brooks/Saffron Burrows",
+  "type": "task"
+}

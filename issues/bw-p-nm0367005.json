@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil Hartman. 1948–1998 | actor, writer, miscellaneous.\nDECEASED (1948–1998). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0367005/\n_search: Phil Hartman | NewsRadio | So I Married an Axe Murderer | Jingle All the Way | Saturday Night Live",
+  "id": "bw-p-nm0367005",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil Hartman",
+  "type": "task"
+}

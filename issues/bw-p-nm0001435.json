@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Kudrow. b. 1963 | actress, producer, writer.\nConan-show appearances: 22 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0001435/\n_search: Lisa Kudrow | Friends | The Comeback | The Opposite of Sex | Romy and Michele's High School Reunion",
+  "id": "bw-p-nm0001435",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Kudrow",
+  "type": "task"
+}

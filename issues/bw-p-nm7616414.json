@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "FIDLAR. actor, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7616414/\n_search: FIDLAR | Bill \u0026 Ted Face the Music | Neighbors | America: The Motion Picture | Happy Birthday",
+  "id": "bw-p-nm7616414",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "FIDLAR",
+  "type": "task"
+}

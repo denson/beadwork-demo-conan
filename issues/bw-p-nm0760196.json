@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Sampson. actor, writer, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0760196/\n_search: Paul Sampson | Night of the Templar | Whacked! | Hero Wanted | Deuces Wild",
+  "id": "bw-p-nm0760196",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Sampson",
+  "type": "task"
+}

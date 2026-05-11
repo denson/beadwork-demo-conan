@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "X Ambassadors. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7412980/\n_search: X Ambassadors | Suicide Squad | Sonic the Hedgehog | Transformers: The Last Knight | Hellboy",
+  "id": "bw-p-nm7412980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "X Ambassadors",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John McCain. 1936–2018 | actor, writer, script_department.\nDECEASED (1936–2018). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0564587/\n_search: John McCain | Parks and Recreation | John McCain: For Whom the Bell Tolls | Saturday Night Live | Faith of My Fathers",
+  "id": "bw-p-nm0564587",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John McCain",
+  "type": "task"
+}

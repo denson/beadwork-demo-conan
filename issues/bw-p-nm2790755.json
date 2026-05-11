@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tara Jean O'Brien. location_management, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2790755/\n_search: Tara Jean O'Brien | Teachers | Key and Peele | General Hospital | Rubber",
+  "id": "bw-p-nm2790755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tara Jean O'Brien",
+  "type": "task"
+}

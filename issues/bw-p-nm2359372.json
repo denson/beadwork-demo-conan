@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Damian Kulash. b. 1975 | actor, director, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2359372/\n_search: Damian Kulash | The Amazing Spider-Man 2 | The Flash | The Cabin in the Woods | The Beanie Bubble",
+  "id": "bw-p-nm2359372",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Damian Kulash",
+  "type": "task"
+}

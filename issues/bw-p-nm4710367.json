@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allen Strickland Williams. actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm4710367/\n_search: Allen Strickland Williams | Unmatched | Now Leaving Castle Rock | Nothin's Easy | Kwaczala",
+  "id": "bw-p-nm4710367",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allen Strickland Williams",
+  "type": "task"
+}

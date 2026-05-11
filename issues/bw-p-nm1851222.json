@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erinn Smart. b. 1980.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1851222/\n_search: Erinn Smart | BlackBlades",
+  "id": "bw-p-nm1851222",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erinn Smart",
+  "type": "task"
+}

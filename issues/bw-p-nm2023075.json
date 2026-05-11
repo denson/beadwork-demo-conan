@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kimberly Parmon. b. 1983 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2023075/\n_search: Kimberly Parmon | Billy and the Hurricane | The Men Who Fell | Duel of Legends | Lapse",
+  "id": "bw-p-nm2023075",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kimberly Parmon",
+  "type": "task"
+}

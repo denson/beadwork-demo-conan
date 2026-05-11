@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Vivino. b. 1955 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0900375/\n_search: Jimmy Vivino | George of the Jungle | Bewitched | Sister Act | The First Wives Club",
+  "id": "bw-p-nm0900375",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Vivino",
+  "type": "task"
+}

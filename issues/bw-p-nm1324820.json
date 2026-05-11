@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vince Brocato. b. 1944 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1324820/\n_search: Vince Brocato | Scrubs | Lois \u0026 Clark: The New Adventures of Superman | Syndicate Smasher | My Favorite Year",
+  "id": "bw-p-nm1324820",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vince Brocato",
+  "type": "task"
+}

@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beyoncé. b. 1981 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0461498/\n_search: Beyoncé | Dreamgirls | Obsessed | Austin Powers in Goldmember | The Lion King",
+  "id": "bw-p-nm0461498",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beyoncé",
+  "type": "task"
+}

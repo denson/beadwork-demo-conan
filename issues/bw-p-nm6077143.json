@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shad Roberts. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6077143/\n_search: Shad Roberts | The Wasp News | Under the Silver Lake | Death to Cupid | Cottage Cheese",
+  "id": "bw-p-nm6077143",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shad Roberts",
+  "type": "task"
+}

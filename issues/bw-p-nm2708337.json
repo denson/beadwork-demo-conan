@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Finn Brothers. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2708337/\n_search: Finn Brothers | The Uniform Motion of Folly | Because of Winn-Dixie | Love My Way | Outrageous Fortune",
+  "id": "bw-p-nm2708337",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Finn Brothers",
+  "type": "task"
+}

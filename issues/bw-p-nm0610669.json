@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Mraz. b. 1977 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0610669/\n_search: Jason Mraz | 50 First Dates | Chasing Liberty | The Big Fix | When in Rome",
+  "id": "bw-p-nm0610669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Mraz",
+  "type": "task"
+}

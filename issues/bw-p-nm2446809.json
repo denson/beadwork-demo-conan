@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ketch Secor. producer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2446809/\n_search: Ketch Secor | Boyhood | Dumplin' | Louder Than Guns | Waffle House Jukebox Drop",
+  "id": "bw-p-nm2446809",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ketch Secor",
+  "type": "task"
+}

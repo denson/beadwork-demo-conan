@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cameron Diaz. b. 1972 | actress, producer, soundtrack.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000139/\n_search: Cameron Diaz | Charlie's Angels | Vanilla Sky | There's Something About Mary | My Best Friend's Wedding",
+  "id": "bw-p-nm0000139",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cameron Diaz",
+  "type": "task"
+}

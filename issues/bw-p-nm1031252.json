@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Juston McKinney. b. 1970 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1031252/\n_search: Juston McKinney | Here Comes the Boom | Zookeeper | Suck It Up | Hosed",
+  "id": "bw-p-nm1031252",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Juston McKinney",
+  "type": "task"
+}

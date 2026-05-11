@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teller. b. 1948 | writer, producer, actor.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0854418/\n_search: Teller | Penn \u0026 Teller Get Killed | Penn \u0026 Teller: Bullshit! | Tim's Vermeer | \u0026 Teller",
+  "id": "bw-p-nm0854418",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teller",
+  "type": "task"
+}

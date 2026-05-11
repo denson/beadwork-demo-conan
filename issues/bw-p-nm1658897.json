@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Hallahan. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1658897/\n_search: Patrick Hallahan | Deliver Us from Evil | Elizabethtown | Before the Music Dies | Saturday Night Live",
+  "id": "bw-p-nm1658897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Hallahan",
+  "type": "task"
+}

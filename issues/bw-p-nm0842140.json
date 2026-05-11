@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Sweeney. b. 1959 | actress, producer, miscellaneous.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0842140/\n_search: Julia Sweeney | Pulp Fiction | It's Pat: The Movie | Vegas Vacation | Stuart Saves His Family",
+  "id": "bw-p-nm0842140",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Sweeney",
+  "type": "task"
+}

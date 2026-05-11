@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlize Theron. b. 1975 | producer, actress, costume_designer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0000234/\n_search: Charlize Theron | Monster | Mad Max: Fury Road | Tully | Atomic Blonde",
+  "id": "bw-p-nm0000234",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlize Theron",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bad Suns. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6414134/\n_search: Bad Suns | Forza Horizon 3 | Music Midtown | Last Call with Carson Daly",
+  "id": "bw-p-nm6414134",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bad Suns",
+  "type": "task"
+}

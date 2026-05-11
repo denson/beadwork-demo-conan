@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Strypes. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5131523/\n_search: The Strypes | The Class of '92 | The Begrudgers | Soccer AM",
+  "id": "bw-p-nm5131523",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Strypes",
+  "type": "task"
+}

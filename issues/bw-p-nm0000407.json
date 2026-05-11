@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vivica A. Fox. b. 1964 | actress, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000407/\n_search: Vivica A. Fox | Independence Day | Kill Bill: Vol. 1 | 1-800-Missing | Batman \u0026 Robin",
+  "id": "bw-p-nm0000407",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vivica A. Fox",
+  "type": "task"
+}

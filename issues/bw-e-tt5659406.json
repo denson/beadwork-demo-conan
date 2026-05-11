@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timothy Olyphant/Jerrod Carmichael/Sturgill Simpson. conan_tbs, S6E75, 2016.\nRuntime: 43 min.\nIMDb rating: 8.4.\nIMDb: https://www.imdb.com/title/tt5659406/\n_search: Timothy Olyphant/Jerrod Carmichael/Sturgill Simpson | 2016 | S6E75",
+  "id": "bw-e-tt5659406",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timothy Olyphant/Jerrod Carmichael/Sturgill Simpson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Geoffrey Rush. b. 1951 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001691/\n_search: Geoffrey Rush | The King's Speech | Shakespeare in Love | Quills | The Life and Death of Peter Sellers",
+  "id": "bw-p-nm0001691",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Geoffrey Rush",
+  "type": "task"
+}

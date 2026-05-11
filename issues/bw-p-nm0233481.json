@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Dore. b. 1975 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0233481/\n_search: Jon Dore | The Jon Dore Television Show | Stag | Hart of Dixie | Kroll Show",
+  "id": "bw-p-nm0233481",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Dore",
+  "type": "task"
+}

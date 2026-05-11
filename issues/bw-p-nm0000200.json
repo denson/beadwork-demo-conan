@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Paxton. 1955–2017 | actor, producer, writer.\nDECEASED (1955–2017). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000200/\n_search: Bill Paxton | Frailty | Aliens | Apollo 13 | Twister",
+  "id": "bw-p-nm0000200",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Paxton",
+  "type": "task"
+}

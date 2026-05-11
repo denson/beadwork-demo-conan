@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lupe Fiasco. b. 1982 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2400930/\n_search: Lupe Fiasco | Taken | Suicide Squad | Prom Night | Fright Night",
+  "id": "bw-p-nm2400930",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lupe Fiasco",
+  "type": "task"
+}

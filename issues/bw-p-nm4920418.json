@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Lewis. cinematographer, camera_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4920418/\n_search: Andy Lewis | Reel Rock | Ultimate Rush | Reel Rock Film Tour | Reel Rock 6",
+  "id": "bw-p-nm4920418",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Lewis",
+  "type": "task"
+}

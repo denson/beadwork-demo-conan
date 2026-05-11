@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rich Redmond. actor, producer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4848283/\n_search: Rich Redmond | All Light Will End | Reawakened | The GRAMMY Nominations Concert Live! - Countdown to Music's Biggest Night | iHeartRadio Music Festival",
+  "id": "bw-p-nm4848283",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rich Redmond",
+  "type": "task"
+}

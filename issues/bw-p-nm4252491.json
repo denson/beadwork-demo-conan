@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lukas Nelson \u0026 Promise of the Real. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4252491/\n_search: Lukas Nelson \u0026 Promise of the Real | Hitman's Wife's Bodyguard | Palmer | A Star Is Born | Dumb and Dumber To",
+  "id": "bw-p-nm4252491",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lukas Nelson \u0026 Promise of the Real",
+  "type": "task"
+}

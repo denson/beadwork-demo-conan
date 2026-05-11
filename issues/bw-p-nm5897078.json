@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Donnelly. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5897078/\n_search: Sean Donnelly | Alpha House | The Equalizer | FBI | Limitless",
+  "id": "bw-p-nm5897078",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Donnelly",
+  "type": "task"
+}

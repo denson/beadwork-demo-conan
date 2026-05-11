@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Giosue de Falco. director, assistant_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6301847/\n_search: Giosue de Falco | Un posto al sole | 89 | The Homecoming",
+  "id": "bw-p-nm6301847",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Giosue de Falco",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "\"Waka Flocka Flame\" Said the Drunk Rooster. conan_tbs, S3E49, 2013.\nIMDb: https://www.imdb.com/title/tt2724298/\n_search: \"Waka Flocka Flame\" Said the Drunk Rooster | 2013 | S3E49",
+  "id": "bw-e-tt2724298",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "\"Waka Flocka Flame\" Said the Drunk Rooster",
+  "type": "task"
+}

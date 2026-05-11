@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luis Fonsi. b. 1978 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1561507/\n_search: Luis Fonsi | City of Dreams | Ibiza | Empire | Un paso adelante",
+  "id": "bw-p-nm1561507",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luis Fonsi",
+  "type": "task"
+}

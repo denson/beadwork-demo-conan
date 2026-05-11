@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Chu. producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1281922/\n_search: Kevin Chu | Sailor Moon S: The Movie - Hearts in Ice | Sakura Wars: The Movie | Sailor Moon SuperS: The Movie: Black Dream Hole | Destiny of the Shrine Maiden",
+  "id": "bw-p-nm1281922",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Chu",
+  "type": "task"
+}

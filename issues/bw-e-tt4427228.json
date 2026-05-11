@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Schwartzman/Jack O'Connell/King Tuff. conan_tbs, S5E23, 2014.\nIMDb: https://www.imdb.com/title/tt4427228/\n_search: Jason Schwartzman/Jack O'Connell/King Tuff | 2014 | S5E23",
+  "id": "bw-e-tt4427228",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Schwartzman/Jack O'Connell/King Tuff",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathleen Quinlan. b. 1954 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000599/\n_search: Kathleen Quinlan | Apollo 13 | Breakdown | The Doors | A Civil Action",
+  "id": "bw-p-nm0000599",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathleen Quinlan",
+  "type": "task"
+}

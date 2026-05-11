@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sturgill Simpson. b. 1978 | music_artist, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4699627/\n_search: Sturgill Simpson | The Dead Don't Die | The Hunt | Dog | The Creator",
+  "id": "bw-p-nm4699627",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sturgill Simpson",
+  "type": "task"
+}

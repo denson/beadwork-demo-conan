@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "JB Smoove. conan_tbs, S10E14, 2020.\nRuntime: 21 min.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt11729708/\n_search: JB Smoove | 2020 | S10E14",
+  "id": "bw-e-tt11729708",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "JB Smoove",
+  "type": "task"
+}

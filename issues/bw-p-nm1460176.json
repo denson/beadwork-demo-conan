@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sigur Rós. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1460176/\n_search: Sigur Rós | Vanilla Sky | Aquaman | The Life Aquatic with Steve Zissou | Remember Me",
+  "id": "bw-p-nm1460176",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sigur Rós",
+  "type": "task"
+}

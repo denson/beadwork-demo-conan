@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Strays Don't Sleep. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2317251/\n_search: Strays Don't Sleep | To a Tee | You Are Alone | Strays Don't Sleep",
+  "id": "bw-p-nm2317251",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Strays Don't Sleep",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Molly Ivins. 1944–2007 | writer, archive_footage, archive_sound.\nDECEASED (1944–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0997123/\n_search: Molly Ivins | Happily Ever After: Fairy Tales for Every Child | Dildo Diaries | American Tongues | Divided Highways: The Interstates and the Transformation of American Life",
+  "id": "bw-p-nm0997123",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Molly Ivins",
+  "type": "task"
+}

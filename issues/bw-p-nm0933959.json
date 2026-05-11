@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peta Wilson. b. 1970 | actress.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0933959/\n_search: Peta Wilson | The League of Extraordinary Gentlemen | La Femme Nikita | Superman Returns | Play Dirty",
+  "id": "bw-p-nm0933959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peta Wilson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joey Lauren Adams. b. 1968 | actress, director, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000725/\n_search: Joey Lauren Adams | Chasing Amy | Dazed and Confused | Big Daddy | Animal",
+  "id": "bw-p-nm0000725",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joey Lauren Adams",
+  "type": "task"
+}

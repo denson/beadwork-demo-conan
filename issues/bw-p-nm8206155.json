@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Perkins. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8206155/\n_search: Jamie Perkins | Pop Wrapped TV",
+  "id": "bw-p-nm8206155",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Perkins",
+  "type": "task"
+}

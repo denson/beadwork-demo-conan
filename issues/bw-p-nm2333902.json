@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vinnie Amico. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2333902/\n_search: Vinnie Amico | Live at Moog | Moe: Live at the Fillmore",
+  "id": "bw-p-nm2333902",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vinnie Amico",
+  "type": "task"
+}

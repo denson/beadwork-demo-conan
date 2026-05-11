@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Peet. b. 1972 | actress, writer, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0001605/\n_search: Amanda Peet | 2012 | A Lot Like Love | The Whole Nine Yards | Identity",
+  "id": "bw-p-nm0001605",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Peet",
+  "type": "task"
+}

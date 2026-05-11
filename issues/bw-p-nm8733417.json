@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ryan Pope. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8733417/\n_search: Ryan Pope | Matthias \u0026 Maxime | Amped: Freestyle Snowboarding | Forza Horizon 3 | Unemployed",
+  "id": "bw-p-nm8733417",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ryan Pope",
+  "type": "task"
+}

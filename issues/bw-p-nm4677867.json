@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Giambrone. b. 1999 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4677867/\n_search: Sean Giambrone | The Goldbergs | Pizza Movie | The Emoji Movie | Ralph Breaks the Internet",
+  "id": "bw-p-nm4677867",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Giambrone",
+  "type": "task"
+}

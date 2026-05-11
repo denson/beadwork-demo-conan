@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Malin. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0539635/\n_search: Jesse Malin | Universal Soldier: The Return | Airheads | Bringing Out the Dead | Unnatural History",
+  "id": "bw-p-nm0539635",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Malin",
+  "type": "task"
+}

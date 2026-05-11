@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Parquet Courts. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6468191/\n_search: Parquet Courts | The Blacklist | Magnum P.I. | A.P. Bio | NHL 19",
+  "id": "bw-p-nm6468191",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Parquet Courts",
+  "type": "task"
+}

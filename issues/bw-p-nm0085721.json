@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Blacklock. actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0085721/\n_search: Jimmy Blacklock | The White Shadow | The Love Boat | The Harlem Globetrotters on Gilligan's Island",
+  "id": "bw-p-nm0085721",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Blacklock",
+  "type": "task"
+}

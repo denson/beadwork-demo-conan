@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Singh. miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2089678/\n_search: John Singh | Star Wars: Episode III - Revenge of the Sith | Star Wars: The Clone Wars | Monuments | The Sweded Film Festival for Creative Re-creations",
+  "id": "bw-p-nm2089678",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Singh",
+  "type": "task"
+}

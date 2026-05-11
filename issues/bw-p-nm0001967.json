@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Boyle. 1935–2006 | actor, miscellaneous, soundtrack.\nDECEASED (1935–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001967/\n_search: Peter Boyle | Everybody Loves Raymond | Red Heat | The Shadow | Taxi Driver",
+  "id": "bw-p-nm0001967",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Boyle",
+  "type": "task"
+}

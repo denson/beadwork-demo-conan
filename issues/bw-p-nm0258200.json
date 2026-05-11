@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Entwistle. 1944–2002 | actor, music_department, composer.\nDECEASED (1944–2002). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0258200/\n_search: John Entwistle | Tommy | Quadrophenia | The Simpsons | The Kids Are Alright",
+  "id": "bw-p-nm0258200",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Entwistle",
+  "type": "task"
+}

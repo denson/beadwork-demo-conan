@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Victoria Van Meter. 1982–2008 | cinematographer.\nDECEASED (1982–2008). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1709548/\n_search: Victoria Van Meter | Passing Stones | The Chevy Chase Show | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm1709548",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Victoria Van Meter",
+  "type": "task"
+}

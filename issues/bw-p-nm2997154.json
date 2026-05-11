@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "White Rabbits. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2997154/\n_search: White Rabbits | Friends with Benefits | Ass Backwards | Goodbye Baby | Live at Moog",
+  "id": "bw-p-nm2997154",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "White Rabbits",
+  "type": "task"
+}

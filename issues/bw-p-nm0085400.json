@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lewis Black. b. 1948 | actor, producer, writer.\nConan-show appearances: 25\nIMDb: https://www.imdb.com/name/nm0085400/\n_search: Lewis Black | Inside Out | Accepted | Man of the Year | Jacob's Ladder",
+  "id": "bw-p-nm0085400",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lewis Black",
+  "type": "task"
+}

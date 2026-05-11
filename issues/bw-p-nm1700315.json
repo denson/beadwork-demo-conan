@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roey Hershkovitz. b. 1979 | music_department, production_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1700315/\n_search: Roey Hershkovitz | The Office | Grand Theft Auto IV",
+  "id": "bw-p-nm1700315",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roey Hershkovitz",
+  "type": "task"
+}

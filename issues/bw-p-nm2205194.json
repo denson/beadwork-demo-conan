@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Senses Fail. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2205194/\n_search: Senses Fail | Punisher: War Zone | Bad News Bears | Tony Hawk's American Wasteland | Drive-Thru Records Presents Spectacular Spectacular DVD Vol. 2",
+  "id": "bw-p-nm2205194",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Senses Fail",
+  "type": "task"
+}

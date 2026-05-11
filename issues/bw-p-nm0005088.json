@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joanna Kerns. b. 1953 | actress, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005088/\n_search: Joanna Kerns | Knocked Up | Growing Pains | Girl, Interrupted | Terror in the Family",
+  "id": "bw-p-nm0005088",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joanna Kerns",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alice Cooper. b. 1948 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004840/\n_search: Alice Cooper | Wayne's World | X-Men: Days of Future Past | Guardians of the Galaxy Vol. 3 | Hellboy",
+  "id": "bw-p-nm0004840",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alice Cooper",
+  "type": "task"
+}

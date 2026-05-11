@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Bynes. b. 1986 | actress, writer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004789/\n_search: Amanda Bynes | Hairspray | She's the Man | What a Girl Wants | Easy A",
+  "id": "bw-p-nm0004789",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Bynes",
+  "type": "task"
+}

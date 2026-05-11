@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Creature from the Recently Gentrified Lagoon. conan_tbs, S2E46, 2012.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt2231989/\n_search: The Creature from the Recently Gentrified Lagoon | 2012 | S2E46",
+  "id": "bw-e-tt2231989",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Creature from the Recently Gentrified Lagoon",
+  "type": "task"
+}

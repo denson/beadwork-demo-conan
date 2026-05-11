@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Weir. 1947–2026 | actor, producer, composer.\nDECEASED (1947–2026). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0918575/\n_search: Bob Weir | The Dreamers | Runaway Bride | Celebrity | The Grateful Dead",
+  "id": "bw-p-nm0918575",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Weir",
+  "type": "task"
+}

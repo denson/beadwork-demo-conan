@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Bunch of Crap We Came Up with This Afternoon. conan_tbs, S2E107, 2012.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt2227624/\n_search: A Bunch of Crap We Came Up with This Afternoon | 2012 | S2E107",
+  "id": "bw-e-tt2227624",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Bunch of Crap We Came Up with This Afternoon",
+  "type": "task"
+}

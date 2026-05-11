@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Paul/Maggie Q/Ian Karmel. conan_tbs, S4E62, 2014.\nIMDb: https://www.imdb.com/title/tt3590026/\n_search: Aaron Paul/Maggie Q/Ian Karmel | 2014 | S4E62",
+  "id": "bw-e-tt3590026",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Paul/Maggie Q/Ian Karmel",
+  "type": "task"
+}

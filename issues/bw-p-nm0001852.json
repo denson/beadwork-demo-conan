@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Treat Williams. 1951–2023 | actor, director, producer.\nDECEASED (1951–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001852/\n_search: Treat Williams | Deep Rising | Hair | The Phantom | Things to Do in Denver When You're Dead",
+  "id": "bw-p-nm0001852",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Treat Williams",
+  "type": "task"
+}

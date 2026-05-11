@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy West. b. 1952 | actor, music_department, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0921942/\n_search: Billy West | Futurama | The Ren \u0026 Stimpy Show | Space Jam | Cats \u0026 Dogs",
+  "id": "bw-p-nm0921942",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy West",
+  "type": "task"
+}

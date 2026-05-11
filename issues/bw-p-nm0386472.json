@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emile Hirsch. b. 1985 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0386472/\n_search: Emile Hirsch | Into the Wild | Speed Racer | The Girl Next Door | Once Upon a Time... in Hollywood",
+  "id": "bw-p-nm0386472",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emile Hirsch",
+  "type": "task"
+}

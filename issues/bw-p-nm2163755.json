@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Redd Kross. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2163755/\n_search: Redd Kross | Good Burger | An American Werewolf in Paris | PCU | The Spirit of '76",
+  "id": "bw-p-nm2163755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Redd Kross",
+  "type": "task"
+}

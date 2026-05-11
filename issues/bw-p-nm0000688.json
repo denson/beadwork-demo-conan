@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sela Ward. b. 1956 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000688/\n_search: Sela Ward | Gone Girl | Independence Day: Resurgence | The Fugitive | Dirty Dancing: Havana Nights",
+  "id": "bw-p-nm0000688",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sela Ward",
+  "type": "task"
+}

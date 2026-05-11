@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sugarcult. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1753861/\n_search: Sugarcult | Van Wilder | Employee of the Month | American Wedding | Over Her Dead Body",
+  "id": "bw-p-nm1753861",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sugarcult",
+  "type": "task"
+}

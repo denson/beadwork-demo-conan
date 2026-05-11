@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conor McGregor. b. 1988 | actor, producer, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm6135552/\n_search: Conor McGregor | Road House | Call of Duty: Infinite Warfare | Formula 1 | Conor McGregor Storms out During Interview: Game of War",
+  "id": "bw-p-nm6135552",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conor McGregor",
+  "type": "task"
+}

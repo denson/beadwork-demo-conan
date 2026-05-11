@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Lonely Life of Albert Peniseyebrows. conan_tbs, S2E69, 2012.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt2331581/\n_search: The Lonely Life of Albert Peniseyebrows | 2012 | S2E69",
+  "id": "bw-e-tt2331581",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Lonely Life of Albert Peniseyebrows",
+  "type": "task"
+}

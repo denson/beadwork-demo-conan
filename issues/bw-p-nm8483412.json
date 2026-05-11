@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Renaud. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8483412/\n_search: Tom Renaud | Vide Noir | Alive from Whispering Pines | Front Row Boston | The Road to ACL",
+  "id": "bw-p-nm8483412",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Renaud",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Straylight Run. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2733361/\n_search: Straylight Run | Dean's List | Last Call with Carson Daly",
+  "id": "bw-p-nm2733361",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Straylight Run",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timothy 'Speed' Levitch. b. 1970 | actor, writer, costume_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0506171/\n_search: Timothy 'Speed' Levitch | School of Rock | Waking Life | Stroker and Hoop | The Cruise",
+  "id": "bw-p-nm0506171",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timothy 'Speed' Levitch",
+  "type": "task"
+}

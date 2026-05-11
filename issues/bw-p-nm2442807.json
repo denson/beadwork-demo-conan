@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Konopka. b. 1974 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2442807/\n_search: Dan Konopka | I Love You, Man | Other People's Children | Mr. Robot | Oh, Mighty Ocean!",
+  "id": "bw-p-nm2442807",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Konopka",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ha Ha Tonka. producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8528650/\n_search: Ha Ha Tonka | Criminal Minds | Awful Nice | Janie Jones | Caney Mountain",
+  "id": "bw-p-nm8528650",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ha Ha Tonka",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Upright Citizens Brigade. (no IMDb bio data).\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm6704512/\n_search: Upright Citizens Brigade",
+  "id": "bw-p-nm6704512",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Upright Citizens Brigade",
+  "type": "task"
+}

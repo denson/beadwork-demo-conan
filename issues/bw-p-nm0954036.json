@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natalie Zea. actress, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0954036/\n_search: Natalie Zea | Justified | The Shield | The Other Guys | The Detour",
+  "id": "bw-p-nm0954036",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natalie Zea",
+  "type": "task"
+}

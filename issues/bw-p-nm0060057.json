@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fontella Bass. 1940–2012 | composer, music_department, soundtrack.\nDECEASED (1940–2012). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0060057/\n_search: Fontella Bass | I, Robot | Air America | Sister Act | A Cinderella Story",
+  "id": "bw-p-nm0060057",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fontella Bass",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "F. Murray Abraham/John Lydon/Allman Brothers. late_night, S1E139, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2700428/\n_search: F. Murray Abraham/John Lydon/Allman Brothers | 1994 | S1E139",
+  "id": "bw-e-tt2700428",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "F. Murray Abraham/John Lydon/Allman Brothers",
+  "type": "task"
+}

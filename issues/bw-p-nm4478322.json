@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Upton. b. 1992 | actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4478322/\n_search: Kate Upton | The Other Woman | The Layover | The Three Stooges | Tower Heist",
+  "id": "bw-p-nm4478322",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Upton",
+  "type": "task"
+}

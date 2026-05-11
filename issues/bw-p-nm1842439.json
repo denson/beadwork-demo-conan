@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Victoria Justice. b. 1993 | actress, composer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1842439/\n_search: Victoria Justice | Victorious | The First Time | Zoey 101 | Fun Size",
+  "id": "bw-p-nm1842439",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Victoria Justice",
+  "type": "task"
+}

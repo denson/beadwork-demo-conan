@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jose Fernandez. b. 1965 | costume_department, special_effects, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0272990/\n_search: Jose Fernandez | Planet of the Apes | Men in Black | The Hunger Games: Mockingjay - Part 2 | Battleship",
+  "id": "bw-p-nm0272990",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jose Fernandez",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel McHale/Freddie Wong and Matt Arnold/Daniel Sloss. conan_tbs, S4E106, 2014.\nIMDb: https://www.imdb.com/title/tt3844854/\n_search: Joel McHale/Freddie Wong and Matt Arnold/Daniel Sloss | 2014 | S4E106",
+  "id": "bw-e-tt3844854",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel McHale/Freddie Wong and Matt Arnold/Daniel Sloss",
+  "type": "task"
+}

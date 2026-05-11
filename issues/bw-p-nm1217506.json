@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Omarion. b. 1984 | actor, producer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1217506/\n_search: Omarion | You Got Served | The 40-Year-Old Virgin | Hitch | Cuts",
+  "id": "bw-p-nm1217506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Omarion",
+  "type": "task"
+}

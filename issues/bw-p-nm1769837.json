@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Subdudes. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1769837/\n_search: The Subdudes | Middle Men | Trial and Error | Homicide: Life on the Street | The Subdudes: Live at the Rams Head/Unplugged at Pleasant Plains",
+  "id": "bw-p-nm1769837",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Subdudes",
+  "type": "task"
+}

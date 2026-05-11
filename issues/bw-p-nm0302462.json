@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Noel Gallagher. b. 1967 | music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0302462/\n_search: Noel Gallagher | The Saint | The Butterfly Effect | The X Files | The Jackal",
+  "id": "bw-p-nm0302462",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Noel Gallagher",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leroy Hodges. b. 1975 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0388190/\n_search: Leroy Hodges | Dead Days",
+  "id": "bw-p-nm0388190",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leroy Hodges",
+  "type": "task"
+}

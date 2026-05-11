@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mutual Admiration Society. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm12948790/\n_search: Mutual Admiration Society",
+  "id": "bw-p-nm12948790",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mutual Admiration Society",
+  "type": "task"
+}

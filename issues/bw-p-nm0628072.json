@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edwin Newman. 1919–2010 | actor, writer, soundtrack.\nDECEASED (1919–2010). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0628072/\n_search: Edwin Newman | The Pelican Brief | My Fellow Americans | Spies Like Us | Kids, Drugs, and Alcohol",
+  "id": "bw-p-nm0628072",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edwin Newman",
+  "type": "task"
+}

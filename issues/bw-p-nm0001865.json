@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Yasbeck. b. 1962 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001865/\n_search: Amy Yasbeck | The Mask | Robin Hood: Men in Tights | Pretty Woman | Problem Child",
+  "id": "bw-p-nm0001865",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Yasbeck",
+  "type": "task"
+}

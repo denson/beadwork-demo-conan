@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ray Liotta/Amy Landecker/Grizfolk. conan_tbs, S6E23, 2016.\nRuntime: 42 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt5307948/\n_search: Ray Liotta/Amy Landecker/Grizfolk | 2016 | S6E23",
+  "id": "bw-e-tt5307948",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ray Liotta/Amy Landecker/Grizfolk",
+  "type": "task"
+}

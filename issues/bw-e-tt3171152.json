@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nurder, She Wrote Without Proofreading. conan_tbs, S3E135, 2013.\nIMDb: https://www.imdb.com/title/tt3171152/\n_search: Nurder, She Wrote Without Proofreading | 2013 | S3E135",
+  "id": "bw-e-tt3171152",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nurder, She Wrote Without Proofreading",
+  "type": "task"
+}

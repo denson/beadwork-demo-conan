@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Cleese \u0026 Eric Idle/Issa Rae/Full Spectrum Featuring Grace Potter. conan_tbs, S7E6, 2016.\nRuntime: 42 min.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt6219426/\n_search: John Cleese \u0026 Eric Idle/Issa Rae/Full Spectrum Featuring Grace Potter | 2016 | S7E6",
+  "id": "bw-e-tt6219426",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Cleese \u0026 Eric Idle/Issa Rae/Full Spectrum Featuring Grace Potter",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cecelia Pleva. casting_department, casting_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1723559/\n_search: Cecelia Pleva | Approaching Union Square | Cousin Sal's Sure Thing | Late Night with Conan O'Brien: 10th Anniversary Special | David Cross: Let America Laugh",
+  "id": "bw-p-nm1723559",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cecelia Pleva",
+  "type": "task"
+}

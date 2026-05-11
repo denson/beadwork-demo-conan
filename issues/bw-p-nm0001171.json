@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Buddy Ebsen. 1908–2003 | actor, music_department, producer.\nDECEASED (1908–2003). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001171/\n_search: Buddy Ebsen | The Beverly Hillbillies | Breakfast at Tiffany's | Born to Dance | The One and Only, Genuine, Original Family Band",
+  "id": "bw-p-nm0001171",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Buddy Ebsen",
+  "type": "task"
+}

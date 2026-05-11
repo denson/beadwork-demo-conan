@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Soozie Tyrell. b. 1957 | actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0879070/\n_search: Soozie Tyrell | The Big Blue | Television Theater | Great Performances | Burnzy's Last Call",
+  "id": "bw-p-nm0879070",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Soozie Tyrell",
+  "type": "task"
+}

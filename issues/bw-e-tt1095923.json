@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Gere/Seann William Scott/The Chesterfield Kings. late_night, S15E6, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1095923/\n_search: Richard Gere/Seann William Scott/The Chesterfield Kings | 2007 | S15E6",
+  "id": "bw-e-tt1095923",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Gere/Seann William Scott/The Chesterfield Kings",
+  "type": "task"
+}

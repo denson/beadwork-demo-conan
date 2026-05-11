@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shaun Landry. b. 1965 | actress, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1776140/\n_search: Shaun Landry | The Seniors Improv Comedy | Lumped In | Read You Like a Book | Alone Wolf",
+  "id": "bw-p-nm1776140",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shaun Landry",
+  "type": "task"
+}

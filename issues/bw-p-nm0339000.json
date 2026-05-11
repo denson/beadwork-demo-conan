@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Greenfield. b. 1943 | writer, archive_footage, archive_sound.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0339000/\n_search: Jeff Greenfield | CNN \u0026 Time | TV Guide: The First 25 Years | CBS News Sunday Morning with Jane Pauley | Camera Three",
+  "id": "bw-p-nm0339000",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Greenfield",
+  "type": "task"
+}

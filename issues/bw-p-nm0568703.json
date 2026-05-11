@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Reggie McFadden. actor, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0568703/\n_search: Reggie McFadden | Little Nicky | Jacob's Ladder | Martin | Minor Adjustments",
+  "id": "bw-p-nm0568703",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Reggie McFadden",
+  "type": "task"
+}

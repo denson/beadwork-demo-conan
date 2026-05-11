@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "NeNe Leakes. b. 1966 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3056623/\n_search: NeNe Leakes | The New Normal | Glee | Uncle Drew | Dynasty",
+  "id": "bw-p-nm3056623",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "NeNe Leakes",
+  "type": "task"
+}

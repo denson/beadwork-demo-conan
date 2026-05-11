@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie N. Commons. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5560276/\n_search: Jamie N. Commons | Skyscraper | Project Almanac | Need for Speed | Hitman: Agent 47",
+  "id": "bw-p-nm5560276",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie N. Commons",
+  "type": "task"
+}

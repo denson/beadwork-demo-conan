@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Waylon Jennings. 1937–2002 | music_artist, music_department, actor.\nDECEASED (1937–2002). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0421261/\n_search: Waylon Jennings | Maverick | Watchmen | Captive State | Hell or High Water",
+  "id": "bw-p-nm0421261",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Waylon Jennings",
+  "type": "task"
+}

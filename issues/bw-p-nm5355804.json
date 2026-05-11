@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Florida Georgia Line. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5355804/\n_search: Florida Georgia Line | The Do-Over | Something Here | Total Dreamer | WWE 2k15",
+  "id": "bw-p-nm5355804",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Florida Georgia Line",
+  "type": "task"
+}

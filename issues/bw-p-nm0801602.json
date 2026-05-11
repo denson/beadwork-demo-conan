@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doug Sinclair. b. 1968 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0801602/\n_search: Doug Sinclair | Tag | Cane | The Bernie Mac Show | 7th Heaven",
+  "id": "bw-p-nm0801602",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doug Sinclair",
+  "type": "task"
+}

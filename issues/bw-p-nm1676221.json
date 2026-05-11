@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Samberg. b. 1978 | actor, producer, writer.\nConan-show appearances: 10 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm1676221/\n_search: Andy Samberg | Saturday Night Live | Popstar: Never Stop Never Stopping | Palm Springs | Brooklyn Nine-Nine",
+  "id": "bw-p-nm1676221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Samberg",
+  "type": "task"
+}

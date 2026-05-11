@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tasha Smith. b. 1971 | actress, director, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0810103/\n_search: Tasha Smith | The Whole Ten Yards | Why Did I Get Married? | Couples Retreat | For Better or Worse",
+  "id": "bw-p-nm0810103",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tasha Smith",
+  "type": "task"
+}

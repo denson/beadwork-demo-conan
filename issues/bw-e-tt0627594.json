@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pierce Brosnan/Paget Brewster/Beastie Boys. late_night, S12E38, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627594/\n_search: Pierce Brosnan/Paget Brewster/Beastie Boys | 2004 | S12E38",
+  "id": "bw-e-tt0627594",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pierce Brosnan/Paget Brewster/Beastie Boys",
+  "type": "task"
+}

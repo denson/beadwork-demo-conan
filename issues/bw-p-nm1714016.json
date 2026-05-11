@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spencer Fox. b. 1993 | actor, writer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1714016/\n_search: Spencer Fox | The Incredibles | The Incredibles: The Video Game | Air Buddies | Kim Possible",
+  "id": "bw-p-nm1714016",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spencer Fox",
+  "type": "task"
+}

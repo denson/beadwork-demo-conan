@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Walsh. b. 1964 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0909768/\n_search: Matt Walsh | Into the Storm | The Hangover | Ted | Veep",
+  "id": "bw-p-nm0909768",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Walsh",
+  "type": "task"
+}

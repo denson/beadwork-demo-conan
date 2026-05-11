@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Art Buchwald. 1925–2007 | writer, actor, archive_footage.\nDECEASED (1925–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0118290/\n_search: Art Buchwald | Playtime | Surprise Package | Hallo Nachbarn! | La grande farandole",
+  "id": "bw-p-nm0118290",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Art Buchwald",
+  "type": "task"
+}

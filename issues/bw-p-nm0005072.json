@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Naomi Judd. 1946–2022 | actress, producer, composer.\nDECEASED (1946–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005072/\n_search: Naomi Judd | Someone Like You | An Evergreen Christmas | Touched by an Angel | Route 65 Nashville",
+  "id": "bw-p-nm0005072",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Naomi Judd",
+  "type": "task"
+}

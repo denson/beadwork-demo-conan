@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carly Rae Jepsen. b. 1985 | music_artist, music_department, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4946551/\n_search: Carly Rae Jepsen | Leap! | The Happytime Murders | You're Cordially Invited | Tully",
+  "id": "bw-p-nm4946551",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carly Rae Jepsen",
+  "type": "task"
+}

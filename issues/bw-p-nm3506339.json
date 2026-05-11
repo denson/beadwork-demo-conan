@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Dunn. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3506339/\n_search: Jimmy Dunn | NESN Comedy All-Stars | Late Show with David Letterman",
+  "id": "bw-p-nm3506339",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Dunn",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Nathan. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3622427/\n_search: Jeff Nathan | Anna \u0026 Kristina's Grocery Bag | Throwdown with Bobby Flay",
+  "id": "bw-p-nm3622427",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Nathan",
+  "type": "task"
+}

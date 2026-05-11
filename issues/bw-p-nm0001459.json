@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Denis Leary. b. 1957 | writer, actor, producer.\nConan-show appearances: 17\nIMDb: https://www.imdb.com/name/nm0001459/\n_search: Denis Leary | Rescue Me | The Thomas Crown Affair | Ice Age | The Ref",
+  "id": "bw-p-nm0001459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Denis Leary",
+  "type": "task"
+}

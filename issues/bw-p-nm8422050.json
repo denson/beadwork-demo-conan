@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Corey McCormick. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8422050/\n_search: Corey McCormick | Palmer | A Star Is Born | Paradox | Deluxe Edition: Yet Another Pop Culture Podcast",
+  "id": "bw-p-nm8422050",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Corey McCormick",
+  "type": "task"
+}

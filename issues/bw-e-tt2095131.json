@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "It's the Great Pumpki-- No Wait, That's Just Conan's Head. conan_tbs, S1E162, 2011.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt2095131/\n_search: It's the Great Pumpki-- No Wait, That's Just Conan's Head | 2011 | S1E162",
+  "id": "bw-e-tt2095131",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "It's the Great Pumpki-- No Wait, That's Just Conan's Head",
+  "type": "task"
+}

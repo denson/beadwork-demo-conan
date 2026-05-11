@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Two Door Cinema Club. actor, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3987878/\n_search: Two Door Cinema Club | The Edge of Seventeen | Soul Surfer | Chalet Girl | Man at Bath",
+  "id": "bw-p-nm3987878",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Two Door Cinema Club",
+  "type": "task"
+}

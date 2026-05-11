@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zella Day. b. 1995 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3655252/\n_search: Zella Day | The Divergent Series: Insurgent | Diablo | In the Ever | Zella Day: Only a Dream",
+  "id": "bw-p-nm3655252",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zella Day",
+  "type": "task"
+}

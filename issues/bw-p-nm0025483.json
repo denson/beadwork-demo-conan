@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eva Amurri. b. 1985 | actress, production_department, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0025483/\n_search: Eva Amurri | Saved! | That's My Boy | The Banger Sisters | The Life Before Her Eyes",
+  "id": "bw-p-nm0025483",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eva Amurri",
+  "type": "task"
+}

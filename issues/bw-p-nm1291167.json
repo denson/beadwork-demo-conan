@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerome Bettis. b. 1972 | actor, archive_footage, archive_sound.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1291167/\n_search: Jerome Bettis | Chuck | The Office | Arli$$ | In the House",
+  "id": "bw-p-nm1291167",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerome Bettis",
+  "type": "task"
+}

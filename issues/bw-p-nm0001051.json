@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Clinton. b. 1946 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001051/\n_search: Bill Clinton | The President Is Missing | The Great Irish Potato Famine | Anneka's Problem | The President Is Missing",
+  "id": "bw-p-nm0001051",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Clinton",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harvey Korman. 1927–2008 | actor, director, producer.\nDECEASED (1927–2008). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0466327/\n_search: Harvey Korman | Blazing Saddles | History of the World: Part I | The Carol Burnett Show | Dracula: Dead and Loving It",
+  "id": "bw-p-nm0466327",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harvey Korman",
+  "type": "task"
+}

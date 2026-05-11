@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Swisher's Sushi Switcharoo. conan_tbs, S2E156, 2012.\nIMDb: https://www.imdb.com/title/tt2475890/\n_search: Seth Swisher's Sushi Switcharoo | 2012 | S2E156",
+  "id": "bw-e-tt2475890",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Swisher's Sushi Switcharoo",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Janeane Garofalo/Buster Poindexter. late_night, S2E184, 1995.\nRuntime: 57 min.\nIMDb rating: 6.3.\nIMDb: https://www.imdb.com/title/tt2910294/\n_search: Janeane Garofalo/Buster Poindexter | 1995 | S2E184",
+  "id": "bw-e-tt2910294",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Janeane Garofalo/Buster Poindexter",
+  "type": "task"
+}

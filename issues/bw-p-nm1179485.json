@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leo Allen. b. 1972 | writer, producer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1179485/\n_search: Leo Allen | Jon Benjamin Has a Van | Nathan for You | It's Kind of a Funny Story | Review",
+  "id": "bw-p-nm1179485",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leo Allen",
+  "type": "task"
+}

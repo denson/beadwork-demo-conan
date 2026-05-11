@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Lopez. b. 1971 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2294612/\n_search: Justin Lopez | The Three Stooges | Balls of Fury | Days of Our Lives | Sin City Diaries",
+  "id": "bw-p-nm2294612",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Lopez",
+  "type": "task"
+}

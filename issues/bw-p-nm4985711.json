@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Mann. b. 1982 | actor, soundtrack, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4985711/\n_search: Chris Mann | Pam \u0026 Tommy | Peter Rabbit | Faith Based",
+  "id": "bw-p-nm4985711",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Mann",
+  "type": "task"
+}

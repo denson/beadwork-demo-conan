@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Liza Powel O'Brien. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4856551/\n_search: Liza Powel O'Brien | Conan O'Brien: The Kennedy Center Mark Twain Prize for American Humor | Conan O'Brien Can't Stop | SXSW Flashback 2011",
+  "id": "bw-p-nm4856551",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Liza Powel O'Brien",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marc Shaiman. b. 1959 | music_department, composer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0003299/\n_search: Marc Shaiman | Smash | Hairspray | Mary Poppins Returns | South Park: Bigger, Longer \u0026 Uncut",
+  "id": "bw-p-nm0003299",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marc Shaiman",
+  "type": "task"
+}

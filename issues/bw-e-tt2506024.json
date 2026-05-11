@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "I've Got 100 Problems, and Yes, Karen Is One of Them. conan_tbs, S3E3, 2012.\nIMDb: https://www.imdb.com/title/tt2506024/\n_search: I've Got 100 Problems, and Yes, Karen Is One of Them | 2012 | S3E3",
+  "id": "bw-e-tt2506024",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "I've Got 100 Problems, and Yes, Karen Is One of Them",
+  "type": "task"
+}

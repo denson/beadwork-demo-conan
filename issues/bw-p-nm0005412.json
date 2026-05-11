@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jane Seymour. b. 1951 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005412/\n_search: Jane Seymour | Somewhere in Time | Live and Let Die | Dr. Quinn, Medicine Woman | Wedding Crashers",
+  "id": "bw-p-nm0005412",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jane Seymour",
+  "type": "task"
+}

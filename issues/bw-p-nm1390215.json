@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carson Kressley. b. 1969 | producer, actor, costume_department.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm1390215/\n_search: Carson Kressley | The Perfect Man | RuPaul's Drag Race | Queer Eye | 16 to Life",
+  "id": "bw-p-nm1390215",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carson Kressley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Floyd Foster Jr.. actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0287662/\n_search: Floyd Foster Jr. | Circle | Rush Hour | Pit Bull: A Tale of Lust, Murder and Revenge | Fear the Walking Dead",
+  "id": "bw-p-nm0287662",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Floyd Foster Jr.",
+  "type": "task"
+}

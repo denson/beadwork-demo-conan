@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wanda Jackson. b. 1937 | actress, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0414138/\n_search: Wanda Jackson | '71 | RocknRolla | Straw Dogs | Dead Poets Society",
+  "id": "bw-p-nm0414138",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wanda Jackson",
+  "type": "task"
+}

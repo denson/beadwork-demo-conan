@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judd Nelson. b. 1959 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000555/\n_search: Judd Nelson | The Breakfast Club | New Jack City | St. Elmo's Fire | The Transformers: The Movie",
+  "id": "bw-p-nm0000555",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judd Nelson",
+  "type": "task"
+}

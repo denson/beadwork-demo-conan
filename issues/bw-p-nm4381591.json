@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wiz Khalifa. b. 1987 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4381591/\n_search: Wiz Khalifa | Furious 7 | Suicide Squad | Vampire Academy | Southpaw",
+  "id": "bw-p-nm4381591",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wiz Khalifa",
+  "type": "task"
+}

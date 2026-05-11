@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Katie Balen. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4435055/\n_search: Katie Balen | Sticky | Under the Covers | Dear Ellie, | The Dishwasher",
+  "id": "bw-p-nm4435055",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Katie Balen",
+  "type": "task"
+}

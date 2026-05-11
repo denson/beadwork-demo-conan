@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "99% Effort, 1% Milk. conan_tbs, S3E113, 2013.\nIMDb: https://www.imdb.com/title/tt3069018/\n_search: 99% Effort, 1% Milk | 2013 | S3E113",
+  "id": "bw-e-tt3069018",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "99% Effort, 1% Milk",
+  "type": "task"
+}

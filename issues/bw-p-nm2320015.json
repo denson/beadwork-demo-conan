@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quincy McCrary. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2320015/\n_search: Quincy McCrary | Dance Flick | Ally McBeal | Jack White: Kneeling at the Anthem D.C. | Glastonbury 2016",
+  "id": "bw-p-nm2320015",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quincy McCrary",
+  "type": "task"
+}

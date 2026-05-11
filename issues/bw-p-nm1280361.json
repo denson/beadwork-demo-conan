@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ally Maki. b. 1986 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1280361/\n_search: Ally Maki | Toy Story 4 | Wrecked | Cloak \u0026 Dagger | 10 Things I Hate About You",
+  "id": "bw-p-nm1280361",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ally Maki",
+  "type": "task"
+}

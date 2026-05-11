@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "New York Dolls. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1784373/\n_search: New York Dolls | Kick-Ass | Adventureland | Freddy Got Fingered | Get Him to the Greek",
+  "id": "bw-p-nm1784373",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "New York Dolls",
+  "type": "task"
+}

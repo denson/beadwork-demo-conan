@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Glide Ensemble. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2716644/\n_search: The Glide Ensemble | The Pursuit of Happyness",
+  "id": "bw-p-nm2716644",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Glide Ensemble",
+  "type": "task"
+}

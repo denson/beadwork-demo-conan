@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ed Begley Jr.. b. 1949 | actor, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000893/\n_search: Ed Begley Jr. | A Mighty Wind | Pineapple Express | Whatever Works | Streets of Fire",
+  "id": "bw-p-nm0000893",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ed Begley Jr.",
+  "type": "task"
+}

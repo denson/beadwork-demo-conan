@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teresa Palmer. b. 1986 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1954240/\n_search: Teresa Palmer | Warm Bodies | Lights Out | I Am Number Four | Berlin Syndrome",
+  "id": "bw-p-nm1954240",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teresa Palmer",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erin Burnett. b. 1976 | writer, producer, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2574553/\n_search: Erin Burnett | Edge of Tomorrow | The Incredible Burt Wonderstone | Erin Burnett OutFront | Consolation",
+  "id": "bw-p-nm2574553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erin Burnett",
+  "type": "task"
+}

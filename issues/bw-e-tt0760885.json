@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ted Danson/Steve Schirripa/Beck. late_night, S10E25, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0760885/\n_search: Ted Danson/Steve Schirripa/Beck | 2002 | S10E25",
+  "id": "bw-e-tt0760885",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ted Danson/Steve Schirripa/Beck",
+  "type": "task"
+}

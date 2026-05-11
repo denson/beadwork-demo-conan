@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evander Holyfield. b. 1962 | actor, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005018/\n_search: Evander Holyfield | Summer of Sam | Arthur | Grudge Match | Mad Jake",
+  "id": "bw-p-nm0005018",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evander Holyfield",
+  "type": "task"
+}

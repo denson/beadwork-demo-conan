@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emmanuel Yarborough. 1964–2015 | actor.\nDECEASED (1964–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1156762/\n_search: Emmanuel Yarborough | Oz | Legend of the Devil | Paranoia | Dirty Movie",
+  "id": "bw-p-nm1156762",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emmanuel Yarborough",
+  "type": "task"
+}

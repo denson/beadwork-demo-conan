@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lawrence A. Mandley. b. 1961 | actor, miscellaneous, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0541849/\n_search: Lawrence A. Mandley | How to Get Away with Murder | Shameless | Animal Kingdom | Seinfeld",
+  "id": "bw-p-nm0541849",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lawrence A. Mandley",
+  "type": "task"
+}

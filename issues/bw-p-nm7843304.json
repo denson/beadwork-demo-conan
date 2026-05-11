@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karan Batta. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7843304/\n_search: Karan Batta | How to Deal with a Breakup | The Legend of Chubby Kuku | Internet Comment Theater",
+  "id": "bw-p-nm7843304",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karan Batta",
+  "type": "task"
+}

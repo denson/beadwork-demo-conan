@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Squirrel Nut Zippers. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3075758/\n_search: Squirrel Nut Zippers | Fido | Blast from the Past | Burlesque | A Life Less Ordinary",
+  "id": "bw-p-nm3075758",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Squirrel Nut Zippers",
+  "type": "task"
+}

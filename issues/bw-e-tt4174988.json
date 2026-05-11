@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Janeane Garofalo/John Stamos. late_night, S7E7, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4174988/\n_search: Janeane Garofalo/John Stamos | 1999 | S7E7",
+  "id": "bw-e-tt4174988",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Janeane Garofalo/John Stamos",
+  "type": "task"
+}

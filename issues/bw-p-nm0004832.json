@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paula Cole. b. 1968 | music_department, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004832/\n_search: Paula Cole | Urban Legend | Sweet November | Midnight in the Garden of Good and Evil | City of Angels",
+  "id": "bw-p-nm0004832",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paula Cole",
+  "type": "task"
+}

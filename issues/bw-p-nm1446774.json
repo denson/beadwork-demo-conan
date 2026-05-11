@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Blake Mills. music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1446774/\n_search: Blake Mills | Daisy Jones \u0026 The Six | Live by Night | Joy | Lawless",
+  "id": "bw-p-nm1446774",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Blake Mills",
+  "type": "task"
+}

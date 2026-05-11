@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phife Dawg. 1970–2016 | music_department, actor, composer.\nDECEASED (1970–2016). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0205954/\n_search: Phife Dawg | Falling Down | Taxi | Get Carter | Gone in 60 Seconds",
+  "id": "bw-p-nm0205954",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phife Dawg",
+  "type": "task"
+}

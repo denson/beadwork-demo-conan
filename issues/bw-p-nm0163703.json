@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Blake Clark. b. 1946 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0163703/\n_search: Blake Clark | 50 First Dates | That's My Boy | I Now Pronounce You Chuck \u0026 Larry | The Waterboy",
+  "id": "bw-p-nm0163703",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Blake Clark",
+  "type": "task"
+}

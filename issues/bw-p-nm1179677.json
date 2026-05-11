@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Scheer. actor, writer, director.\nConan-show appearances: 2 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm1179677/\n_search: Paul Scheer | The League | Black Monday | Fresh Off the Boat | NTSF:SD:SUV",
+  "id": "bw-p-nm1179677",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Scheer",
+  "type": "task"
+}

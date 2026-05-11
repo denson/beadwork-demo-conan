@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jökull Juliusson. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8421990/\n_search: Jökull Juliusson | Logan | Collateral Beauty | Riverdale | The F**k-It List",
+  "id": "bw-p-nm8421990",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jökull Juliusson",
+  "type": "task"
+}

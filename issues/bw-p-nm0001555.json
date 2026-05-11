@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Morrow. b. 1962 | actor, director, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001555/\n_search: Rob Morrow | Northern Exposure | Maze | Quiz Show | The Bucket List",
+  "id": "bw-p-nm0001555",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Morrow",
+  "type": "task"
+}

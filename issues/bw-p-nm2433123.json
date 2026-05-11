@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Coheed and Cambria. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2433123/\n_search: Coheed and Cambria | The Afterman | WWE NXT | WWE '12 | Tony Hawk: Shred",
+  "id": "bw-p-nm2433123",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Coheed and Cambria",
+  "type": "task"
+}

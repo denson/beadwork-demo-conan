@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Margaret Smith. actress, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0809213/\n_search: Margaret Smith | The Blob | The Ellen DeGeneres Show | GoodFellas | Bound",
+  "id": "bw-p-nm0809213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Margaret Smith",
+  "type": "task"
+}

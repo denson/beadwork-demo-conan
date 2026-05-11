@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Heidi Klum. b. 1973 | producer, actress, writer.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0005099/\n_search: Heidi Klum | Project Runway | Ella Enchanted | Zoolander | James Bond 007: Everything or Nothing",
+  "id": "bw-p-nm0005099",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Heidi Klum",
+  "type": "task"
+}

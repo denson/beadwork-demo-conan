@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harrison Ford. b. 1942 | actor, writer, producer.\nConan-show appearances: 9 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0000148/\n_search: Harrison Ford | Raiders of the Lost Ark | Star Wars: Episode IV - A New Hope | The Fugitive | Witness",
+  "id": "bw-p-nm0000148",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harrison Ford",
+  "type": "task"
+}

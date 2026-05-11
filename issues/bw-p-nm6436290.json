@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dâm-Funk. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6436290/\n_search: Dâm-Funk | Celeste \u0026 Jesse Forever | Big Time Adolescence | The Perfect Match | Grand Theft Auto Online",
+  "id": "bw-p-nm6436290",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dâm-Funk",
+  "type": "task"
+}

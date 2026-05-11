@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grant Wild. actor, music_department, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7161247/\n_search: Grant Wild | My Spicy Grandma | Salad Days | Plunderbund | Mario vs Minecraft",
+  "id": "bw-p-nm7161247",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grant Wild",
+  "type": "task"
+}

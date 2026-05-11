@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dropkick Murphys. music_artist, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1504977/\n_search: Dropkick Murphys | Battleship | The Fighter | The Departed | Patriots Day",
+  "id": "bw-p-nm1504977",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dropkick Murphys",
+  "type": "task"
+}

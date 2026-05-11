@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Brenner/Salma Hayek/Kim Richey. late_night, S4E82, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3659210/\n_search: David Brenner/Salma Hayek/Kim Richey | 1997 | S4E82",
+  "id": "bw-e-tt3659210",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Brenner/Salma Hayek/Kim Richey",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Fox. b. 1966 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0289142/\n_search: Matthew Fox | Bone Tomahawk | Speed Racer | Lost | Smokin' Aces",
+  "id": "bw-p-nm0289142",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Fox",
+  "type": "task"
+}

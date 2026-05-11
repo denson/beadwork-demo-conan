@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karl Malden. 1912–2009 | actor, director, soundtrack.\nDECEASED (1912–2009). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001500/\n_search: Karl Malden | On the Waterfront | Patton | A Streetcar Named Desire | Baby Doll",
+  "id": "bw-p-nm0001500",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karl Malden",
+  "type": "task"
+}

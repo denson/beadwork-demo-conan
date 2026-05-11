@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Walken/Michael Clarke Duncan/Scissor Sisters. late_night, S14E7, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0871686/\n_search: Christopher Walken/Michael Clarke Duncan/Scissor Sisters | 2006 | S14E7",
+  "id": "bw-e-tt0871686",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Walken/Michael Clarke Duncan/Scissor Sisters",
+  "type": "task"
+}

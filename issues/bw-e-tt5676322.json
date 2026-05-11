@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dr. Phil/Amanda Crew/Pentatonix. conan_tbs, S6E77, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5676322/\n_search: Dr. Phil/Amanda Crew/Pentatonix | 2016 | S6E77",
+  "id": "bw-e-tt5676322",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dr. Phil/Amanda Crew/Pentatonix",
+  "type": "task"
+}

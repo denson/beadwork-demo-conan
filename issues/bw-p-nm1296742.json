@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Germano. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1296742/\n_search: Lisa Germano | The United States of Leland | Rain | When the Cat's Away | Columbus Day",
+  "id": "bw-p-nm1296742",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Germano",
+  "type": "task"
+}

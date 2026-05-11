@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Moshe Kasher. b. 1979 | producer, actor, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm2826417/\n_search: Moshe Kasher | Zoolander 2 | Another Period | Betty | Little America",
+  "id": "bw-p-nm2826417",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Moshe Kasher",
+  "type": "task"
+}

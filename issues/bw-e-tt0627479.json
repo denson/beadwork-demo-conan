@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laurence Fishburne/Steven R. Schirripa/The Polyphonic Spree. late_night, S11E27, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627479/\n_search: Laurence Fishburne/Steven R. Schirripa/The Polyphonic Spree | 2003 | S11E27",
+  "id": "bw-e-tt0627479",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laurence Fishburne/Steven R. Schirripa/The Polyphonic Spree",
+  "type": "task"
+}

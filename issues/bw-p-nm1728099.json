@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Wareheim. b. 1976 | producer, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1728099/\n_search: Eric Wareheim | Tim and Eric's Bedtime Stories | Tim and Eric Awesome Show, Great Job! | Master of None | Tim and Eric's Billion Dollar Movie",
+  "id": "bw-p-nm1728099",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Wareheim",
+  "type": "task"
+}

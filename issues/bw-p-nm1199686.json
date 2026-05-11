@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil McGlaston. actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1199686/\n_search: Phil McGlaston | Brawl in Cell Block 99 | Little Children | Person of Interest | FBI: Most Wanted",
+  "id": "bw-p-nm1199686",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil McGlaston",
+  "type": "task"
+}

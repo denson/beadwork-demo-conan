@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Stewart/John Leguizamo/The Brian Setzer Orchestra. late_night, S10E46, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4317430/\n_search: Patrick Stewart/John Leguizamo/The Brian Setzer Orchestra | 2002 | S10E46",
+  "id": "bw-e-tt4317430",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Stewart/John Leguizamo/The Brian Setzer Orchestra",
+  "type": "task"
+}

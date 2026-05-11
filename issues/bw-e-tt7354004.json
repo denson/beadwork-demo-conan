@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Gyllenhaal/Max Brooks/Rostam. conan_tbs, S7E132, 2017.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt7354004/\n_search: Jake Gyllenhaal/Max Brooks/Rostam | 2017 | S7E132",
+  "id": "bw-e-tt7354004",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Gyllenhaal/Max Brooks/Rostam",
+  "type": "task"
+}

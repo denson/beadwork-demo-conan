@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sherman Hemsley/Josh Rouse. late_night, S7E106, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627360/\n_search: Sherman Hemsley/Josh Rouse | 2000 | S7E106",
+  "id": "bw-e-tt0627360",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sherman Hemsley/Josh Rouse",
+  "type": "task"
+}

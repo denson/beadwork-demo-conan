@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank Pellegrino. 1944–2017 | actor, producer.\nDECEASED (1944–2017). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0671023/\n_search: Frank Pellegrino | GoodFellas | Knockaround Guys | Mickey Blue Eyes | Cop Land",
+  "id": "bw-p-nm0671023",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank Pellegrino",
+  "type": "task"
+}

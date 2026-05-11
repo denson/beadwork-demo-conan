@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "R.E.M.. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1032121/\n_search: R.E.M. | Man on the Moon | Independence Day | Captain Marvel | Vanilla Sky",
+  "id": "bw-p-nm1032121",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "R.E.M.",
+  "type": "task"
+}

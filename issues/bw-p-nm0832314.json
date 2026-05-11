@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Stonestreet. b. 1971 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0832314/\n_search: Eric Stonestreet | The Loft | Almost Famous | Modern Family | The Secret Life of Pets",
+  "id": "bw-p-nm0832314",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Stonestreet",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael C. Williams. actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0931321/\n_search: Michael C. Williams | The Blair Witch Project | Ghost Game | Altered | The Objective",
+  "id": "bw-p-nm0931321",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael C. Williams",
+  "type": "task"
+}

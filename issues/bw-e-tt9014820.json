@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Garlin/Boyd Holbrook/The Cooties. conan_tbs, S8E108, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt9014820/\n_search: Jeff Garlin/Boyd Holbrook/The Cooties | 2018 | S8E108",
+  "id": "bw-e-tt9014820",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Garlin/Boyd Holbrook/The Cooties",
+  "type": "task"
+}

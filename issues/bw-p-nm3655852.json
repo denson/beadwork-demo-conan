@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathan Macintosh. writer, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3655852/\n_search: Nathan Macintosh | The Debaters | Trapped | Live at Just for Laughs | Broke Comedians in Transportation Getting Water",
+  "id": "bw-p-nm3655852",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathan Macintosh",
+  "type": "task"
+}

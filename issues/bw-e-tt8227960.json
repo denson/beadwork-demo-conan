@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timothy Olyphant/January Jones. conan_tbs, S8E61, 2018.\nRuntime: 42 min.\nIMDb rating: 8.3.\nIMDb: https://www.imdb.com/title/tt8227960/\n_search: Timothy Olyphant/January Jones | 2018 | S8E61",
+  "id": "bw-e-tt8227960",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timothy Olyphant/January Jones",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Record Company. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8106533/\n_search: The Record Company | Bad Moms | Resident Alien | Orphan Black | Live or Die in La Honda",
+  "id": "bw-p-nm8106533",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Record Company",
+  "type": "task"
+}

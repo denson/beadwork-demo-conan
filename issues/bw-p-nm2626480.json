@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sig Hansen. b. 1966 | miscellaneous, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2626480/\n_search: Sig Hansen | Cars 2 | Deadliest Catch: The Viking Returns | Deadliest Catch | Deadliest Catch: The Bait",
+  "id": "bw-p-nm2626480",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sig Hansen",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Murray. b. 1976 | producer, actor, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2098978/\n_search: James Murray | Impractical Jokers | Awakened | Impractical Jokers: After Party | The Tenderloins",
+  "id": "bw-p-nm2098978",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Murray",
+  "type": "task"
+}

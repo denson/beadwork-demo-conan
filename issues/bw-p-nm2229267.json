@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Edwards. music_department, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2229267/\n_search: Greg Edwards | There's Someone Inside Your House | Foxbody | Every Time You Lose Your Mind: A Film About Failure | From the Basement",
+  "id": "bw-p-nm2229267",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Edwards",
+  "type": "task"
+}

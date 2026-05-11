@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shaver. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5520502/\n_search: Shaver",
+  "id": "bw-p-nm5520502",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shaver",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Garry Marshall. 1934–2016 | writer, producer, actor.\nDECEASED (1934–2016). Conan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0005190/\n_search: Garry Marshall | A League of Their Own | Never Been Kissed | Pretty Woman | Georgia Rule",
+  "id": "bw-p-nm0005190",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Garry Marshall",
+  "type": "task"
+}

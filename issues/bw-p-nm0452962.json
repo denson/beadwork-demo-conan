@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jewel. b. 1974 | music_artist, actress, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0452962/\n_search: Jewel | Ride with the Devil | Walk Hard: The Dewey Cox Story | Clueless | The Craft",
+  "id": "bw-p-nm0452962",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jewel",
+  "type": "task"
+}

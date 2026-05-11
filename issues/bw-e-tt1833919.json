@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "'Whisper,' She Shouted. conan_tbs, S1E45, 2011.\nRuntime: 60 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt1833919/\n_search: 'Whisper,' She Shouted | 2011 | S1E45",
+  "id": "bw-e-tt1833919",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "'Whisper,' She Shouted",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Burns. b. 1953 | producer, director, cinematographer.\nConan-show appearances: 2 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0122741/\n_search: Ken Burns | The Central Park Five | The Civil War | Baseball | Brooklyn Bridge",
+  "id": "bw-p-nm0122741",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Burns",
+  "type": "task"
+}

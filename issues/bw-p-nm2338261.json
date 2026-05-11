@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Band of Horses. composer, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2338261/\n_search: Band of Horses | Battleship | The Twilight Saga: Eclipse | Zombieland | Let's Be Cops",
+  "id": "bw-p-nm2338261",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Band of Horses",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Hyde Pierce/Kate Mara/Dr. Dog. late_night, S14E102, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0994335/\n_search: David Hyde Pierce/Kate Mara/Dr. Dog | 2007 | S14E102",
+  "id": "bw-e-tt0994335",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Hyde Pierce/Kate Mara/Dr. Dog",
+  "type": "task"
+}

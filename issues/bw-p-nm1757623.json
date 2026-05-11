@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gordon Brown. b. 1951 | actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1757623/\n_search: Gordon Brown | London 2012: Games of the XXX Olympiad | Songs of Praise | Give Us the Money | A Day to Remember",
+  "id": "bw-p-nm1757623",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gordon Brown",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mickey Rooney. 1920–2014 | actor, producer, director.\nDECEASED (1920–2014). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001682/\n_search: Mickey Rooney | Babes in Arms | Strike Up the Band | It's a Mad, Mad, Mad, Mad World | Breakfast at Tiffany's",
+  "id": "bw-p-nm0001682",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mickey Rooney",
+  "type": "task"
+}

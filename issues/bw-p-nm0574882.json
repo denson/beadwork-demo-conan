@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Courtland Mead. b. 1987 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0574882/\n_search: Courtland Mead | The Little Rascals | The Shining | Recess | The Young and the Restless",
+  "id": "bw-p-nm0574882",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Courtland Mead",
+  "type": "task"
+}

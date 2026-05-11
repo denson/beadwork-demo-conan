@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Burton. b. 1958 | producer, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000318/\n_search: Tim Burton | Edward Scissorhands | Frankenweenie | Corpse Bride | Sweeney Todd: The Demon Barber of Fleet Street",
+  "id": "bw-p-nm0000318",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Burton",
+  "type": "task"
+}

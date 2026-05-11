@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Murray. b. 1950 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000195/\n_search: Bill Murray | Lost in Translation | Rushmore | Moonrise Kingdom | The Life Aquatic with Steve Zissou",
+  "id": "bw-p-nm0000195",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Murray",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Junichi Yanagita. actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1186652/\n_search: Junichi Yanagita | Pearl Harbor | The Last Samurai | Charlie's Angels",
+  "id": "bw-p-nm1186652",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Junichi Yanagita",
+  "type": "task"
+}

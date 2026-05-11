@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Less Rock, More Talk. conan_tbs, S4E4, 2013.\nIMDb: https://www.imdb.com/title/tt3320488/\n_search: Less Rock, More Talk | 2013 | S4E4",
+  "id": "bw-e-tt3320488",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Less Rock, More Talk",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Radney Foster. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1949614/\n_search: Radney Foster | Beauty Mark | Behind the Confessions: The Life, the Music and the Revival of Radney Foster | CMT Crossroads",
+  "id": "bw-p-nm1949614",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Radney Foster",
+  "type": "task"
+}

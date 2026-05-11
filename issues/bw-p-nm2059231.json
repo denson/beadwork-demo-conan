@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trans-Siberian Orchestra. music_artist, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2059231/\n_search: Trans-Siberian Orchestra | Men in Black 3 | Instant Family | How the Grinch Stole Christmas | Hawkeye",
+  "id": "bw-p-nm2059231",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trans-Siberian Orchestra",
+  "type": "task"
+}

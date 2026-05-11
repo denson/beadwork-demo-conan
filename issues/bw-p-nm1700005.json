@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jordan Schlansky. producer, production_manager, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1700005/\n_search: Jordan Schlansky | Late Night with Conan O'Brien: The Best of Triumph the Insult Comic Dog | Late Night with Conan O'Brien: 10th Anniversary Special | James Veitch: Straight to VHS",
+  "id": "bw-p-nm1700005",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jordan Schlansky",
+  "type": "task"
+}

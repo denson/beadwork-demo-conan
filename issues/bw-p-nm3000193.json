@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Zombies. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3000193/\n_search: The Zombies | The Life Aquatic with Steve Zissou | Titane | Cruella | All the Money in the World",
+  "id": "bw-p-nm3000193",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Zombies",
+  "type": "task"
+}

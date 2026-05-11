@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Harrod. writer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2001553/\n_search: Tim Harrod | The Onion's Extremely Accurate History of the Internet | HQ Trivia | Star Wars: Tremors of the Force",
+  "id": "bw-p-nm2001553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Harrod",
+  "type": "task"
+}

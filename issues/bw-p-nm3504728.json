@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeffrey Patrick Olson. actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3504728/\n_search: Jeffrey Patrick Olson | Hush Up Sweet Charlotte | Naked Dragon | Detention | Land of the Outlaws",
+  "id": "bw-p-nm3504728",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeffrey Patrick Olson",
+  "type": "task"
+}

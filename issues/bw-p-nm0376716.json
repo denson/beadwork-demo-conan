@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christina Hendricks. b. 1975 | actress, producer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0376716/\n_search: Christina Hendricks | Ginger \u0026 Rosa | The Neon Demon | Bad Santa 2 | Mad Men",
+  "id": "bw-p-nm0376716",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christina Hendricks",
+  "type": "task"
+}

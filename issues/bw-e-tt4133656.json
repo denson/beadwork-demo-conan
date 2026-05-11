@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Cumming/Casey Wilson/Joe Perry/Pentatonix. conan_tbs, S4E150, 2014.\nIMDb: https://www.imdb.com/title/tt4133656/\n_search: Alan Cumming/Casey Wilson/Joe Perry/Pentatonix | 2014 | S4E150",
+  "id": "bw-e-tt4133656",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Cumming/Casey Wilson/Joe Perry/Pentatonix",
+  "type": "task"
+}

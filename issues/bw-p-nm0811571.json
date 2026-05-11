@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Snyder. 1936–2007 | actor, archive_footage.\nDECEASED (1936–2007). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0811571/\n_search: Tom Snyder | McCloud | Tomorrow Coast to Coast | The Larry Sanders Show | Dave's World",
+  "id": "bw-p-nm0811571",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Snyder",
+  "type": "task"
+}

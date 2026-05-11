@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Demi Lovato. b. 1992 | music_artist, actress, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1416215/\n_search: Demi Lovato | Camp Rock | Smurfs: The Lost Village | Sonny with a Chance | Princess Protection Program",
+  "id": "bw-p-nm1416215",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Demi Lovato",
+  "type": "task"
+}

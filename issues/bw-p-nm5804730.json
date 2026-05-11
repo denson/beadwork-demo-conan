@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mikal Cronin. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5804730/\n_search: Mikal Cronin | All the Wilderness | Animal Kingdom | Shameless | Okie",
+  "id": "bw-p-nm5804730",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mikal Cronin",
+  "type": "task"
+}

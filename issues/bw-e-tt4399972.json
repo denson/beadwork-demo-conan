@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Tyler Ferguson/Bill Burr/Chrissie Hynde. conan_tbs, S4E143, 2014.\nIMDb: https://www.imdb.com/title/tt4399972/\n_search: Jesse Tyler Ferguson/Bill Burr/Chrissie Hynde | 2014 | S4E143",
+  "id": "bw-e-tt4399972",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Tyler Ferguson/Bill Burr/Chrissie Hynde",
+  "type": "task"
+}

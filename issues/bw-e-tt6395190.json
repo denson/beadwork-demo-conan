@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Faris/Jamie Lee/Lewis Del Mar. conan_tbs, S7E27, 2017.\nRuntime: 42 min.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt6395190/\n_search: Anna Faris/Jamie Lee/Lewis Del Mar | 2017 | S7E27",
+  "id": "bw-e-tt6395190",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Faris/Jamie Lee/Lewis Del Mar",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Sleepy Jackson. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3412199/\n_search: The Sleepy Jackson | Three Dancing Slaves | Lockie Leonard | Bouquet final | Loudermilk",
+  "id": "bw-p-nm3412199",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Sleepy Jackson",
+  "type": "task"
+}

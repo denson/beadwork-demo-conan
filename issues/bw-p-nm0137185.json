@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ashley Acarino. b. 1983 | manager, actress, talent_agent.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0137185/\n_search: Ashley Acarino | The Devil's Own | Flipped | Ronal the Barbarian | Return to Sleepaway Camp",
+  "id": "bw-p-nm0137185",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ashley Acarino",
+  "type": "task"
+}

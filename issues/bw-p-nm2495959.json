@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Omar Rodriguez-Lopez. composer, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2495959/\n_search: Omar Rodriguez-Lopez | Amalia | Los Chidos | El Divino Influjo de los Secretos | The Sentimental Engine Slayer",
+  "id": "bw-p-nm2495959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Omar Rodriguez-Lopez",
+  "type": "task"
+}

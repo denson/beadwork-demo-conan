@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "MC Lyte. b. 1971 | actress, producer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0529310/\n_search: MC Lyte | Girls Trip | Limitless | Break Up in Love | Blue Crush",
+  "id": "bw-p-nm0529310",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "MC Lyte",
+  "type": "task"
+}

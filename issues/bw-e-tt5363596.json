@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Burnett/Eric André/Brad Wenzel. conan_tbs, S6E35, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5363596/\n_search: Carol Burnett/Eric André/Brad Wenzel | 2016 | S6E35",
+  "id": "bw-e-tt5363596",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Burnett/Eric André/Brad Wenzel",
+  "type": "task"
+}

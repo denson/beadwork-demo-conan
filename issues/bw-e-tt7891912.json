@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "DJ Khaled/Natasha Leggero/The Ghost of Paul Revere. conan_tbs, S8E27, 2018.\nRuntime: 42 min.\nIMDb rating: 6.4.\nIMDb: https://www.imdb.com/title/tt7891912/\n_search: DJ Khaled/Natasha Leggero/The Ghost of Paul Revere | 2018 | S8E27",
+  "id": "bw-e-tt7891912",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "DJ Khaled/Natasha Leggero/The Ghost of Paul Revere",
+  "type": "task"
+}

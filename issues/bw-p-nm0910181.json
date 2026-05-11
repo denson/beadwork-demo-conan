@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barbara Walters. 1929–2022 | producer, writer, actress.\nDECEASED (1929–2022). Conan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0910181/\n_search: Barbara Walters | The Barbara Walters Summer Special | The View | 20/20 | The Eloise McElhone Show",
+  "id": "bw-p-nm0910181",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barbara Walters",
+  "type": "task"
+}

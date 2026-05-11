@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Jim Gaffigan. conan_tbs, S10E77, ?.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt12317910/\n_search: From Largo Theatre Jim Gaffigan |  | S10E77",
+  "id": "bw-e-tt12317910",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Jim Gaffigan",
+  "type": "task"
+}

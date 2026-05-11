@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hard Working Americans. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6255226/\n_search: Hard Working Americans | Hard Luck Love Song | The First Waltz | DittyTV's Eleven",
+  "id": "bw-p-nm6255226",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hard Working Americans",
+  "type": "task"
+}

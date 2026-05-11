@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alicia Silverstone. b. 1976 | actress, producer, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000224/\n_search: Alicia Silverstone | Clueless | Batman \u0026 Robin | Blast from the Past | Excess Baggage",
+  "id": "bw-p-nm0000224",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alicia Silverstone",
+  "type": "task"
+}

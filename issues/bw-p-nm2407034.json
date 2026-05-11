@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thomas Hedlund. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2407034/\n_search: Thomas Hedlund | The Girl with the Dragon Tattoo | I Love You, Beth Cooper | The Meaning of Hugo | Live from the Artists Den",
+  "id": "bw-p-nm2407034",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thomas Hedlund",
+  "type": "task"
+}

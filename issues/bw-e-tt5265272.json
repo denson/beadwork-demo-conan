@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry King/Pete Holmes/Beach House. conan_tbs, S6E18, 2015.\nRuntime: 42 min.\nIMDb rating: 8.3.\nIMDb: https://www.imdb.com/title/tt5265272/\n_search: Larry King/Pete Holmes/Beach House | 2015 | S6E18",
+  "id": "bw-e-tt5265272",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry King/Pete Holmes/Beach House",
+  "type": "task"
+}

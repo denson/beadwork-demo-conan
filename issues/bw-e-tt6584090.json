@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Tyler Ferguson/Nasim Pedrad/Sinkane. conan_tbs, S7E54, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6584090/\n_search: Jesse Tyler Ferguson/Nasim Pedrad/Sinkane | 2017 | S7E54",
+  "id": "bw-e-tt6584090",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Tyler Ferguson/Nasim Pedrad/Sinkane",
+  "type": "task"
+}

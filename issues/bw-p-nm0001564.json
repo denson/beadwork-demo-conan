@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bebe Neuwirth. b. 1958 | actress, director, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001564/\n_search: Bebe Neuwirth | How to Lose a Guy in 10 Days | Jumanji | Cheers | Summer of Sam",
+  "id": "bw-p-nm0001564",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bebe Neuwirth",
+  "type": "task"
+}

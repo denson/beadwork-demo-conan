@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Sinise/LL Cool J/Jonathan Richman. late_night, S5E159, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627141/\n_search: Gary Sinise/LL Cool J/Jonathan Richman | 1998 | S5E159",
+  "id": "bw-e-tt0627141",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Sinise/LL Cool J/Jonathan Richman",
+  "type": "task"
+}

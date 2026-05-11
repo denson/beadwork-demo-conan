@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cokie Roberts. 1943–2019 | archive_footage, archive_sound.\nDECEASED (1943–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0730953/\n_search: Cokie Roberts | ABC 2000: The Millennium | ABC News: Inauguration 2009 | ABC News: Your Voice, Your Vote 2014 | Good Morning America",
+  "id": "bw-p-nm0730953",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cokie Roberts",
+  "type": "task"
+}

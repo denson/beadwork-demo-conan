@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deon Cole/Jimmy Vivino and the Basic Cable Band. conan_tbs, S8E116, 2018.\nRuntime: 42 min.\nIMDb rating: 8.3.\nIMDb: https://www.imdb.com/title/tt9081086/\n_search: Deon Cole/Jimmy Vivino and the Basic Cable Band | 2018 | S8E116",
+  "id": "bw-e-tt9081086",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deon Cole/Jimmy Vivino and the Basic Cable Band",
+  "type": "task"
+}

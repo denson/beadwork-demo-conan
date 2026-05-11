@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Tilly/Sissy Biggers/The Persuasions. late_night, S2E66, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2729930/\n_search: Jennifer Tilly/Sissy Biggers/The Persuasions | 1994 | S2E66",
+  "id": "bw-e-tt2729930",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Tilly/Sissy Biggers/The Persuasions",
+  "type": "task"
+}

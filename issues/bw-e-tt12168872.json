@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Author Mark Lewisohn. jibber_jabber, S1E15, 2016.\nIMDb: https://www.imdb.com/title/tt12168872/\n_search: Author Mark Lewisohn | 2016 | S1E15",
+  "id": "bw-e-tt12168872",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Author Mark Lewisohn",
+  "type": "task"
+}

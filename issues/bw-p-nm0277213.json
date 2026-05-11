@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathan Fillion. b. 1971 | actor, producer, visual_effects.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0277213/\n_search: Nathan Fillion | Castle | Firefly | Serenity | Slither",
+  "id": "bw-p-nm0277213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathan Fillion",
+  "type": "task"
+}

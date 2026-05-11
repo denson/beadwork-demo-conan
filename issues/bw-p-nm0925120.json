@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leon White. 1955–2018 | actor, archive_footage, archive_sound.\nDECEASED (1955–2018). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0925120/\n_search: Leon White | Fist of the North Star | Baywatch | WCW Saturday Night | WWF Superstars",
+  "id": "bw-p-nm0925120",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leon White",
+  "type": "task"
+}

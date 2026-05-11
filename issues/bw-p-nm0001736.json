@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pauly Shore. b. 1968 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001736/\n_search: Pauly Shore | Bio-Dome | Encino Man | Pauly Shore Is Dead | Son in Law",
+  "id": "bw-p-nm0001736",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pauly Shore",
+  "type": "task"
+}

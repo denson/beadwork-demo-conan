@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Farley. 1964–1997 | actor, stunts, production_department.\nDECEASED (1964–1997). Conan-show appearances: 3 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0000394/\n_search: Chris Farley | Tommy Boy | Beverly Hills Ninja | Black Sheep | Coneheads",
+  "id": "bw-p-nm0000394",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:conaf_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Farley",
+  "type": "task"
+}

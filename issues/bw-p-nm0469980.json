@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Krassner. 1932–2019 | writer, miscellaneous, archive_footage.\nDECEASED (1932–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0469980/\n_search: Paul Krassner | The Last of the Manson Girls | Independent Lens | Chicago 10 | Dynamite Chicken",
+  "id": "bw-p-nm0469980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Krassner",
+  "type": "task"
+}

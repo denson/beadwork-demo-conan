@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Soweto Gospel Choir. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2164473/\n_search: Soweto Gospel Choir | WALL·E | Dark Tide | Gangster's Paradise: Jerusalema | The Deal",
+  "id": "bw-p-nm2164473",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Soweto Gospel Choir",
+  "type": "task"
+}

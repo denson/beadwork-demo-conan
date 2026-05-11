@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Calvin Trillin. b. 1935 | actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0872821/\n_search: Calvin Trillin | Michael | Sleepless in Seattle | That Was the Week That Was | Bernard and Doris",
+  "id": "bw-p-nm0872821",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Calvin Trillin",
+  "type": "task"
+}

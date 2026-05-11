@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Liam Neeson/B.J. Novak/The Duke Spirit. late_night, S15E109, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1228380/\n_search: Liam Neeson/B.J. Novak/The Duke Spirit | 2008 | S15E109",
+  "id": "bw-e-tt1228380",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Liam Neeson/B.J. Novak/The Duke Spirit",
+  "type": "task"
+}

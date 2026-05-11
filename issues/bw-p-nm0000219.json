@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Seagal. b. 1952 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0000219/\n_search: Steven Seagal | On Deadly Ground | Above the Law | Under Siege 2: Dark Territory | Under Siege",
+  "id": "bw-p-nm0000219",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Seagal",
+  "type": "task"
+}

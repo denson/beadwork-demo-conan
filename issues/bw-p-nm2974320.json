@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carbon/Silicon. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2974320/\n_search: Carbon/Silicon",
+  "id": "bw-p-nm2974320",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carbon/Silicon",
+  "type": "task"
+}

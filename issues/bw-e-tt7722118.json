@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Franco \u0026 Ari Graynor/Noomi Rapace/Gary Clark Jr.. conan_tbs, S8E18, 2017.\nRuntime: 42 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt7722118/\n_search: James Franco \u0026 Ari Graynor/Noomi Rapace/Gary Clark Jr. | 2017 | S8E18",
+  "id": "bw-e-tt7722118",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Franco \u0026 Ari Graynor/Noomi Rapace/Gary Clark Jr.",
+  "type": "task"
+}

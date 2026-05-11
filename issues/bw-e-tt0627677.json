@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carson Daly/George Lopez/Kaiser Chiefs. late_night, S12E132, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627677/\n_search: Carson Daly/George Lopez/Kaiser Chiefs | 2005 | S12E132",
+  "id": "bw-e-tt0627677",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carson Daly/George Lopez/Kaiser Chiefs",
+  "type": "task"
+}

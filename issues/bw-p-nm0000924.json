@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elizabeth Berkley. b. 1972 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000924/\n_search: Elizabeth Berkley | Showgirls | The First Wives Club | Saved by the Bell | The Curse of the Jade Scorpion",
+  "id": "bw-p-nm0000924",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elizabeth Berkley",
+  "type": "task"
+}

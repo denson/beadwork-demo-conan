@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Delta Spirit. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3127329/\n_search: Delta Spirit | Warm Bodies | The Good Neighbor | A Good Old Fashioned Orgy | Beside Still Waters",
+  "id": "bw-p-nm3127329",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Delta Spirit",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lincoln Boehm. production_department, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6132066/\n_search: Lincoln Boehm | Patron of St. Regis | Football, Texas",
+  "id": "bw-p-nm6132066",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lincoln Boehm",
+  "type": "task"
+}

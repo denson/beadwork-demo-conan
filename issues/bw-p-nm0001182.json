@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carmen Electra. b. 1972 | actress, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001182/\n_search: Carmen Electra | Scary Movie 4 | Meet the Spartans | Scary Movie | Epic Movie",
+  "id": "bw-p-nm0001182",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carmen Electra",
+  "type": "task"
+}

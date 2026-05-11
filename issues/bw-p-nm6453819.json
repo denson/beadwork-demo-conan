@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "St. Paul \u0026 the Broken Bones. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6453819/\n_search: St. Paul \u0026 the Broken Bones | Fifty Shades of Grey | The Gambler | Life of the Party | Black Lightning",
+  "id": "bw-p-nm6453819",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "St. Paul \u0026 the Broken Bones",
+  "type": "task"
+}

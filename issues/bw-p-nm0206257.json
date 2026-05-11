@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosario Dawson. b. 1979 | actress, producer, director.\nConan-show appearances: 13\nIMDb: https://www.imdb.com/name/nm0206257/\n_search: Rosario Dawson | Rent | The Lego Batman Movie | Sin City | Unstoppable",
+  "id": "bw-p-nm0206257",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosario Dawson",
+  "type": "task"
+}

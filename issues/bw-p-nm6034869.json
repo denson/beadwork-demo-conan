@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ethan Edenburg. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6034869/\n_search: Ethan Edenburg | Subletters | Intruder | Underneath Top Floors | Dad Friends",
+  "id": "bw-p-nm6034869",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ethan Edenburg",
+  "type": "task"
+}

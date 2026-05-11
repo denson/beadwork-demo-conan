@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Guided By Voices. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2172784/\n_search: Guided By Voices | Attraction | Headless Body in Topless Bar | Room 104 | Journeyman",
+  "id": "bw-p-nm2172784",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Guided By Voices",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lance Armstrong. b. 1971 | actor, miscellaneous, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0035790/\n_search: Lance Armstrong | Dodgeball: A True Underdog Story | Tour de Pharmacy | You, Me and Dupree | The Simpsons",
+  "id": "bw-p-nm0035790",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lance Armstrong",
+  "type": "task"
+}

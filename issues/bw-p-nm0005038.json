@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chrissie Hynde. b. 1951 | actress, music_department, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005038/\n_search: Chrissie Hynde | Happy Feet | Stealth | The Living Daylights | In Bruges",
+  "id": "bw-p-nm0005038",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chrissie Hynde",
+  "type": "task"
+}

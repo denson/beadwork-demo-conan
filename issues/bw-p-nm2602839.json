@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Abel. animation_department, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2602839/\n_search: Sarah Abel | Dragon Season | The Debuttered | Stranded | Never Been Bit",
+  "id": "bw-p-nm2602839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Abel",
+  "type": "task"
+}

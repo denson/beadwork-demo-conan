@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Fowler. 1930–2019 | producer, writer, actor.\nDECEASED (1930–2019). Conan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0288734/\n_search: Jim Fowler | The Lion King | Mutual of Omaha's Wild Kingdom | Little Laura and Big John | Seinfeld",
+  "id": "bw-p-nm0288734",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Fowler",
+  "type": "task"
+}

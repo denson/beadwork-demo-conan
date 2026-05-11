@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ruth Gerson. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1395884/\n_search: Ruth Gerson | Promised Land | Side Effects | Naked States | My Name Is Sarah",
+  "id": "bw-p-nm1395884",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ruth Gerson",
+  "type": "task"
+}

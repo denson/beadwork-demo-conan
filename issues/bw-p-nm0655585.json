@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jared Padalecki. b. 1982 | actor, producer, stunts.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0655585/\n_search: Jared Padalecki | House of Wax | Supernatural | Friday the 13th | Cry Wolf",
+  "id": "bw-p-nm0655585",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jared Padalecki",
+  "type": "task"
+}

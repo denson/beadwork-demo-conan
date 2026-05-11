@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ty Dolla $ign. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5362711/\n_search: Ty Dolla $ign | Suicide Squad | Teenage Mutant Ninja Turtles | Sonic the Hedgehog | The Fate of the Furious",
+  "id": "bw-p-nm5362711",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ty Dolla $ign",
+  "type": "task"
+}

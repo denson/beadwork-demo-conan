@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Arye Gross. actor, director, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0343325/\n_search: Arye Gross | Better Call Saul | Minority Report | The Rookie | A Midnight Clear",
+  "id": "bw-p-nm0343325",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Arye Gross",
+  "type": "task"
+}

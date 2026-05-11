@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Betty Faber. miscellaneous.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm2712764/\n_search: Betty Faber | Wild TV",
+  "id": "bw-p-nm2712764",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Betty Faber",
+  "type": "task"
+}

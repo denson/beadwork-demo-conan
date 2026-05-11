@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edmund Morris. 1940–2019 | writer.\nDECEASED (1940–2019). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0606511/\n_search: Edmund Morris | The Rise of Theodore Roosevelt | All the Presidents' Movies: The Movie | 60 Minutes | American Experience",
+  "id": "bw-p-nm0606511",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edmund Morris",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Boyd Matson. actor, camera_department, miscellaneous.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0559354/\n_search: Boyd Matson | Cerro Torre: A Snowball's Chance in Hell | Wild Chronicles | North Dallas Forty | The Last Word",
+  "id": "bw-p-nm0559354",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Boyd Matson",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Caan. 1940–2022 | actor, director, stunts.\nDECEASED (1940–2022). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001001/\n_search: James Caan | Thief | Rollerball | The Godfather | Misery",
+  "id": "bw-p-nm0001001",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Caan",
+  "type": "task"
+}

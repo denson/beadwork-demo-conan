@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jared Leto/Dr. Dale Stuckenbruck/Kane Brown. conan_tbs, S7E140, 2017.\nRuntime: 42 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt7448684/\n_search: Jared Leto/Dr. Dale Stuckenbruck/Kane Brown | 2017 | S7E140",
+  "id": "bw-e-tt7448684",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jared Leto/Dr. Dale Stuckenbruck/Kane Brown",
+  "type": "task"
+}

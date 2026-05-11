@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Pariah Dogs. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4073880/\n_search: The Pariah Dogs | Jimmy Kimmel Live! | Late Show with David Letterman",
+  "id": "bw-p-nm4073880",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Pariah Dogs",
+  "type": "task"
+}

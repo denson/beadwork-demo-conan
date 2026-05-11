@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Annabelle Wallis. b. 1984 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1834115/\n_search: Annabelle Wallis | The Mummy | Annabelle | Malignant | X-Men: First Class",
+  "id": "bw-p-nm1834115",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Annabelle Wallis",
+  "type": "task"
+}

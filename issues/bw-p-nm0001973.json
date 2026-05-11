@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christie Brinkley. b. 1954 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001973/\n_search: Christie Brinkley | National Lampoon's Vacation | Vegas Vacation | Jack and Jill | Parks and Recreation",
+  "id": "bw-p-nm0001973",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christie Brinkley",
+  "type": "task"
+}

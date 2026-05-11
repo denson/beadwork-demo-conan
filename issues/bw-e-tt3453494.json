@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Spacey/Jennifer Connelly/David Remnick. late_night, S9E60, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3453494/\n_search: Kevin Spacey/Jennifer Connelly/David Remnick | 2002 | S9E60",
+  "id": "bw-e-tt3453494",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Spacey/Jennifer Connelly/David Remnick",
+  "type": "task"
+}

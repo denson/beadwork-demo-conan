@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shane MacGowan. 1957–2023 | actor, music_department, composer.\nDECEASED (1957–2023). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0532287/\n_search: Shane MacGowan | Grosse Pointe Blank | Run All Night | Ladder 49 | My Own Private Idaho",
+  "id": "bw-p-nm0532287",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shane MacGowan",
+  "type": "task"
+}

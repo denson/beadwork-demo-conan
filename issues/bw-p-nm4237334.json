@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Meghan Sinclair. camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4237334/\n_search: Meghan Sinclair",
+  "id": "bw-p-nm4237334",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Meghan Sinclair",
+  "type": "task"
+}

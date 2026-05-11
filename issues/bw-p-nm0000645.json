@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Nicole Smith. 1967–2007 | actress, miscellaneous, producer.\nDECEASED (1967–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000645/\n_search: Anna Nicole Smith | Naked Gun 33 1/3: The Final Insult | Be Cool | Illegal Aliens | Skyscraper",
+  "id": "bw-p-nm0000645",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Nicole Smith",
+  "type": "task"
+}

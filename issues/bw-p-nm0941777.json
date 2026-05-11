@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Worthington. b. 1976 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0941777/\n_search: Sam Worthington | Avatar | Terminator Salvation | Clash of the Titans | Avatar: The Way of Water",
+  "id": "bw-p-nm0941777",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Worthington",
+  "type": "task"
+}

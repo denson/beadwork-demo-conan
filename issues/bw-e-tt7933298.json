@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dr. Phil/Fred Fugen and Vince Reffet/Albert Hammond Jr.. conan_tbs, S8E33, 2018.\nRuntime: 42 min.\nIMDb rating: 5.5.\nIMDb: https://www.imdb.com/title/tt7933298/\n_search: Dr. Phil/Fred Fugen and Vince Reffet/Albert Hammond Jr. | 2018 | S8E33",
+  "id": "bw-e-tt7933298",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dr. Phil/Fred Fugen and Vince Reffet/Albert Hammond Jr.",
+  "type": "task"
+}

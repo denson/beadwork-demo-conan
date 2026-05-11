@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathy Ireland. b. 1963 | actress, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001387/\n_search: Kathy Ireland | Loaded Weapon 1 | Alien from L.A. | Necessary Roughness | The Player",
+  "id": "bw-p-nm0001387",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathy Ireland",
+  "type": "task"
+}

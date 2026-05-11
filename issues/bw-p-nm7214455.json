@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Arquilla. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7214455/\n_search: David Arquilla | The Other Two | Swipe | Justice on Trial: The Movie 20/20 | Eclipse: The Rise of Ink",
+  "id": "bw-p-nm7214455",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Arquilla",
+  "type": "task"
+}

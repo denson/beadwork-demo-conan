@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "JB Smoove/Sean Giambrone/Studio C. conan_tbs, S7E43, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6503548/\n_search: JB Smoove/Sean Giambrone/Studio C | 2017 | S7E43",
+  "id": "bw-e-tt6503548",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "JB Smoove/Sean Giambrone/Studio C",
+  "type": "task"
+}

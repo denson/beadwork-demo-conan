@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diana Hart. actress, casting_department, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2686229/\n_search: Diana Hart | The Closer | The Lords of Salem | Beverly Hills Ninja",
+  "id": "bw-p-nm2686229",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diana Hart",
+  "type": "task"
+}

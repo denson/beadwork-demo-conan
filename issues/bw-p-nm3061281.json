@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Steeldrivers. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3061281/\n_search: The Steeldrivers | Palmer | Get Low | The Marty Stuart Show | The Caverns Sessions",
+  "id": "bw-p-nm3061281",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Steeldrivers",
+  "type": "task"
+}

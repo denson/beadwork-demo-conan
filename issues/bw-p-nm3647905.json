@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Duvendeck. b. 1985 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3647905/\n_search: Josh Duvendeck | Ted | The Divergent Series: Allegiant | Second Date | Parks and Recreation",
+  "id": "bw-p-nm3647905",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Duvendeck",
+  "type": "task"
+}

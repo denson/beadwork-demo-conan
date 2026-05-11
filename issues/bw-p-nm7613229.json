@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "EL VY. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7613229/\n_search: EL VY | Acció política | CBS Mornings | The Late Show with Stephen Colbert",
+  "id": "bw-p-nm7613229",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "EL VY",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Duane 'Dog' Chapman. b. 1953 | producer, actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1738062/\n_search: Duane 'Dog' Chapman | Sharknado 4: The 4th Awakens | Hawaii Five-0 | Dog the Bounty Hunter | TNA iMPACT! Wrestling",
+  "id": "bw-p-nm1738062",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Duane 'Dog' Chapman",
+  "type": "task"
+}

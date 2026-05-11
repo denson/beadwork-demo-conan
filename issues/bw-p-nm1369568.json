@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenny Smith. b. 1965 | producer, actor, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1369568/\n_search: Kenny Smith | Hustle | The Pathway | S.W.A.T. | Ready for the League",
+  "id": "bw-p-nm1369568",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenny Smith",
+  "type": "task"
+}

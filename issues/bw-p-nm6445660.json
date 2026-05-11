@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Moxy Früvous. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6445660/\n_search: Moxy Früvous | Some Jerk with a Camera | Friday Night with Ralph Benmergui",
+  "id": "bw-p-nm6445660",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Moxy Früvous",
+  "type": "task"
+}

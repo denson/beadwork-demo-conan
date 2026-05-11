@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Howie Mandel/Lil Rel Howery/Chris Cope. conan_tbs, S8E91, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8676938/\n_search: Howie Mandel/Lil Rel Howery/Chris Cope | 2018 | S8E91",
+  "id": "bw-e-tt8676938",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Howie Mandel/Lil Rel Howery/Chris Cope",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Farrah Fawcett. 1947–2009 | actress, producer, miscellaneous.\nDECEASED (1947–2009). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000396/\n_search: Farrah Fawcett | Logan's Run | Saturn 3 | The Cannonball Run | Extremities",
+  "id": "bw-p-nm0000396",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Farrah Fawcett",
+  "type": "task"
+}

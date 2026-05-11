@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Travis Ford. b. 1969 | actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0285912/\n_search: Travis Ford | The Sixth Man | ESPN College Basketball | Beyond the Glory",
+  "id": "bw-p-nm0285912",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Travis Ford",
+  "type": "task"
+}

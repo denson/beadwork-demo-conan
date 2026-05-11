@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Franken/Buddy Ebsen/Nick Heyward. late_night, S1E110, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2618384/\n_search: Al Franken/Buddy Ebsen/Nick Heyward | 1994 | S1E110",
+  "id": "bw-e-tt2618384",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Franken/Buddy Ebsen/Nick Heyward",
+  "type": "task"
+}

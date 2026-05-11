@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Trent. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6108318/\n_search: Michael Trent | Playing for Keeps | A Walk in the Woods | The Ballad of Shovels and Rope",
+  "id": "bw-p-nm6108318",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Trent",
+  "type": "task"
+}

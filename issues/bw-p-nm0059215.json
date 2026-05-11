@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mischa Barton. b. 1986 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0059215/\n_search: Mischa Barton | The O.C. | The Sixth Sense | Notting Hill | Lost and Delirious",
+  "id": "bw-p-nm0059215",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mischa Barton",
+  "type": "task"
+}

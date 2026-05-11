@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Benjamin/Pat Finn/The Band. late_night, S2E114, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2805962/\n_search: Richard Benjamin/Pat Finn/The Band | 1995 | S2E114",
+  "id": "bw-e-tt2805962",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Benjamin/Pat Finn/The Band",
+  "type": "task"
+}

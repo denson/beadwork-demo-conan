@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Damon. b. 1970 | producer, actor, writer.\nConan-show appearances: 4 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0000354/\n_search: Matt Damon | Good Will Hunting | The Martian | The Departed | The Talented Mr. Ripley",
+  "id": "bw-p-nm0000354",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Damon",
+  "type": "task"
+}

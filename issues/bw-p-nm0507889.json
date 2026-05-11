@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Lewisohn. b. 1958 | miscellaneous, camera_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0507889/\n_search: Mark Lewisohn | Great Performances | The Beatles Anthology | Evolver 62 | The Beatles in 'Help!'",
+  "id": "bw-p-nm0507889",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:jibber_jabber",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Lewisohn",
+  "type": "task"
+}

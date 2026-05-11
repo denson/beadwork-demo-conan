@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lester Holt. b. 1959 | actor, editorial_department, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0392473/\n_search: Lester Holt | The Fugitive | Primal Fear | Warehouse 13 | Miracle on 34th Street",
+  "id": "bw-p-nm0392473",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lester Holt",
+  "type": "task"
+}

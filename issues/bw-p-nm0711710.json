@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Rather. b. 1931 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0711710/\n_search: Dan Rather | CBS Evening News with Walter Cronkite | Human Nature | Dan Rather Reports | Birth, Wedding, Funeral",
+  "id": "bw-p-nm0711710",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Rather",
+  "type": "task"
+}

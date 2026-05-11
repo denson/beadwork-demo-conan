@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jukebox the Ghost. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4059317/\n_search: Jukebox the Ghost | Diary of a Wimpy Kid | Breakthrough | Real Rob",
+  "id": "bw-p-nm4059317",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jukebox the Ghost",
+  "type": "task"
+}

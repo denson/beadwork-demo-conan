@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Iris DeMent. b. 1961 | actress, music_department, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0218304/\n_search: Iris DeMent | True Grit | Songcatcher | Materialists | Die My Love",
+  "id": "bw-p-nm0218304",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Iris DeMent",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Breckin Meyer. b. 1974 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0005227/\n_search: Breckin Meyer | Road Trip | Rat Race | Freddy's Dead: The Final Nightmare | Clueless",
+  "id": "bw-p-nm0005227",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Breckin Meyer",
+  "type": "task"
+}

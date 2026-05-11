@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norm Crosby. 1927–2020 | actor, writer, producer.\nDECEASED (1927–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0189030/\n_search: Norm Crosby | Eight Crazy Nights | Grown Ups 2 | Cougar Club | Alright Already",
+  "id": "bw-p-nm0189030",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norm Crosby",
+  "type": "task"
+}

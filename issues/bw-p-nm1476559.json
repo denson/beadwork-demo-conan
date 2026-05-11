@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Heitz. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1476559/\n_search: Alan Heitz | 1883 | Ant-Man and the Wasp: Quantumania | Quiz Lady | I Think You Should Leave with Tim Robinson",
+  "id": "bw-p-nm1476559",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Heitz",
+  "type": "task"
+}

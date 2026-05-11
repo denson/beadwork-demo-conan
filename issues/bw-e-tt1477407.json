@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Stiller \u0026 Anne Meara/Martin Gross/Gwyneth Paltrow. late_night, S1E37, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1477407/\n_search: Jerry Stiller \u0026 Anne Meara/Martin Gross/Gwyneth Paltrow | 1993 | S1E37",
+  "id": "bw-e-tt1477407",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Stiller \u0026 Anne Meara/Martin Gross/Gwyneth Paltrow",
+  "type": "task"
+}

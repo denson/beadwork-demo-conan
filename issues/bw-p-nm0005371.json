@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robbie Robertson. 1943–2023 | music_artist, music_department, actor.\nDECEASED (1943–2023). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005371/\n_search: Robbie Robertson | Killers of the Flower Moon | The Wolf of Wall Street | The Irishman | Ladder 49",
+  "id": "bw-p-nm0005371",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robbie Robertson",
+  "type": "task"
+}

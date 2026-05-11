@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Brokaw/Jerry O'Connell/Los Straitjackets. late_night, S5E48, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627057/\n_search: Tom Brokaw/Jerry O'Connell/Los Straitjackets | 1997 | S5E48",
+  "id": "bw-e-tt0627057",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Brokaw/Jerry O'Connell/Los Straitjackets",
+  "type": "task"
+}

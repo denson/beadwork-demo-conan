@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Octoparrot vs. Megakitten. conan_tbs, S1E47, 2011.\nRuntime: 60 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt1833921/\n_search: Octoparrot vs. Megakitten | 2011 | S1E47",
+  "id": "bw-e-tt1833921",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Octoparrot vs. Megakitten",
+  "type": "task"
+}

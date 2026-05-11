@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Gould. b. 1963 | actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1064232/\n_search: Billy Gould | Grosse Pointe Blank | Black Hawk Down | In the Fade | Bio-Dome",
+  "id": "bw-p-nm1064232",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Gould",
+  "type": "task"
+}

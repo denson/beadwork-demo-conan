@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jody Seifert. actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9973351/\n_search: Jody Seifert | Lollipopfestivalen 1997",
+  "id": "bw-p-nm9973351",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jody Seifert",
+  "type": "task"
+}

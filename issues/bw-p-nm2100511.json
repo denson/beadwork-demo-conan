@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Isaac Witty. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2100511/\n_search: Isaac Witty | Chillicothe | Dry Bar Comedy | Thou Shalt Laugh 4 | Kids on the Move",
+  "id": "bw-p-nm2100511",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Isaac Witty",
+  "type": "task"
+}

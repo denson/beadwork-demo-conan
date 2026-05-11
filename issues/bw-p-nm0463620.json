@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hideo Kojima. b. 1963 | writer, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0463620/\n_search: Hideo Kojima | Metal Gear Solid V: The Phantom Pain | Metal Gear Solid V: Ground Zeroes | Death Stranding 2: On the Beach | Metal Gear Solid 3: Snake Eater",
+  "id": "bw-p-nm0463620",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hideo Kojima",
+  "type": "task"
+}

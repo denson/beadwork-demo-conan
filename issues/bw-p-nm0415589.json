@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Jagger. b. 1947 | actor, writer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0415589/\n_search: Chris Jagger | Lifeforce | The Stud | The Bitch | Attraction",
+  "id": "bw-p-nm0415589",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Jagger",
+  "type": "task"
+}

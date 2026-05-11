@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathryn Molloy. production_department, miscellaneous, costume_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3917748/\n_search: Kathryn Molloy | Doom Patrol | Stargirl | The Boys | The Contender",
+  "id": "bw-p-nm3917748",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathryn Molloy",
+  "type": "task"
+}

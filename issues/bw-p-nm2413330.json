@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kentucky Headhunters. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2413330/\n_search: Kentucky Headhunters | Harley Davidson and the Marlboro Man | Red Rock West | Dutch | Love Ranch",
+  "id": "bw-p-nm2413330",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kentucky Headhunters",
+  "type": "task"
+}

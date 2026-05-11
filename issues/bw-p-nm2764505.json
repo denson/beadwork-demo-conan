@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Zernow. b. 1987 | stunts, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2764505/\n_search: Michael Zernow | Survivor | 2007 Taurus World Stunt Awards | Jump City: Seattle",
+  "id": "bw-p-nm2764505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Zernow",
+  "type": "task"
+}

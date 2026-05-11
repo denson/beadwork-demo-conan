@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zsa Zsa Gabor. 1917–2016 | actress, soundtrack, archive_footage.\nDECEASED (1917–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001248/\n_search: Zsa Zsa Gabor | The Naked Gun 2½: The Smell of Fear | A Nightmare on Elm Street 3: Dream Warriors | Touch of Evil | Queen of Outer Space",
+  "id": "bw-p-nm0001248",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zsa Zsa Gabor",
+  "type": "task"
+}

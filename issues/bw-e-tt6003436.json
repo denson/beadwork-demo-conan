@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Odenkirk/Flula Borg/Joseph. conan_tbs, S6E127, 2016.\nRuntime: 42 min.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt6003436/\n_search: Bob Odenkirk/Flula Borg/Joseph | 2016 | S6E127",
+  "id": "bw-e-tt6003436",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Odenkirk/Flula Borg/Joseph",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Collins. 1937–2015 | writer, actress, producer.\nDECEASED (1937–2015). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0172360/\n_search: Jackie Collins | Danger Man | The Saint | The Stud | Compact",
+  "id": "bw-p-nm0172360",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Collins",
+  "type": "task"
+}

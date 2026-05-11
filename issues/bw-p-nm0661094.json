@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Pardo. 1918–2014 | actor, soundtrack, archive_footage.\nDECEASED (1918–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0661094/\n_search: Don Pardo | Radio Days | Stay Tuned | 'Weird Al' Yankovic: The Ultimate Video Collection | The Simpsons",
+  "id": "bw-p-nm0661094",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Pardo",
+  "type": "task"
+}

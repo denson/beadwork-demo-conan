@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Levine. b. 1979 | music_artist, actor, composer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1747013/\n_search: Adam Levine | Begin Again | Popstar: Never Stop Never Stopping | Venom: The Last Dance | Sing Street",
+  "id": "bw-p-nm1747013",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Levine",
+  "type": "task"
+}

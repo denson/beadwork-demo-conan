@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Charan. actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2086232/\n_search: Jay Charan | Shooter | Cardboard Boxer | The Night Of | The Brink",
+  "id": "bw-p-nm2086232",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Charan",
+  "type": "task"
+}

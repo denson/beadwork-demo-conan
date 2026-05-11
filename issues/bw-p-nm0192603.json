@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vincent Curatola. b. 1953 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0192603/\n_search: Vincent Curatola | The Sopranos | Killing Them Softly | Patriots Day | Person of Interest",
+  "id": "bw-p-nm0192603",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vincent Curatola",
+  "type": "task"
+}

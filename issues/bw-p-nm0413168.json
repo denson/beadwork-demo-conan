@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Jackman. b. 1968 | actor, producer, executive.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0413168/\n_search: Hugh Jackman | Les Misérables | Logan | X-Men | X-Men Origins: Wolverine",
+  "id": "bw-p-nm0413168",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Jackman",
+  "type": "task"
+}

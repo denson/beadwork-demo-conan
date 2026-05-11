@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Soren McCarthy. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2127809/\n_search: Soren McCarthy | The Sports Bar",
+  "id": "bw-p-nm2127809",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Soren McCarthy",
+  "type": "task"
+}

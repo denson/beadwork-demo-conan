@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Howie Mandel/Deepak Chopra/Bleachers. conan_tbs, S5E3, 2014.\nIMDb: https://www.imdb.com/title/tt4188392/\n_search: Howie Mandel/Deepak Chopra/Bleachers | 2014 | S5E3",
+  "id": "bw-e-tt4188392",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Howie Mandel/Deepak Chopra/Bleachers",
+  "type": "task"
+}

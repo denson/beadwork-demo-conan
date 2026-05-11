@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Thakkar. actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm9455039/\n_search: Tom Thakkar | Sofa So Good | Pro Losers | Unprotected Sets | This Week at the Comedy Cellar",
+  "id": "bw-p-nm9455039",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Thakkar",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nina Gordon. b. 1967 | actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0330485/\n_search: Nina Gordon | Tank Girl | Jawbreaker | Young Adult | Bones",
+  "id": "bw-p-nm0330485",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nina Gordon",
+  "type": "task"
+}

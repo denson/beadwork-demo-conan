@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Oyelowo/Louie Anderson/Angel Olsen. conan_tbs, S7E46, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6523996/\n_search: David Oyelowo/Louie Anderson/Angel Olsen | 2017 | S7E46",
+  "id": "bw-e-tt6523996",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Oyelowo/Louie Anderson/Angel Olsen",
+  "type": "task"
+}

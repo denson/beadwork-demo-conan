@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grizfolk. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6970720/\n_search: Grizfolk | Mr. Peabody \u0026 Sherman | Long Way to the Top | Late Show with David Letterman",
+  "id": "bw-p-nm6970720",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grizfolk",
+  "type": "task"
+}

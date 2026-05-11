@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Sanders. b. 1994 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1813573/\n_search: Sean Sanders | Paper Tigers | Law \u0026 Order: Special Victims Unit | Sesame Street",
+  "id": "bw-p-nm1813573",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Sanders",
+  "type": "task"
+}

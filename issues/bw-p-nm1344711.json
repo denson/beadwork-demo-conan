@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Giulia Rozzi. writer, actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1344711/\n_search: Giulia Rozzi | Girl Code | I Love the 2000s | After Midnight",
+  "id": "bw-p-nm1344711",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Giulia Rozzi",
+  "type": "task"
+}

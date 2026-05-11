@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Rock. b. 1965 | producer, actor, writer.\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm0001674/\n_search: Chris Rock | Top Five | The Longest Yard | Head of State | Madagascar",
+  "id": "bw-p-nm0001674",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Rock",
+  "type": "task"
+}

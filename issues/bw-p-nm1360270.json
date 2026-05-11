@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben McKenzie. b. 1978 | actor, director, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1360270/\n_search: Ben McKenzie | Gotham | The O.C. | 88 Minutes | I Want You Back",
+  "id": "bw-p-nm1360270",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben McKenzie",
+  "type": "task"
+}

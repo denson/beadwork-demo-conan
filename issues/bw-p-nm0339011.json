@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Max Greenfield. b. 1980 | actor, director, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0339011/\n_search: Max Greenfield | New Girl | The Big Short | Promising Young Woman | Ice Age: Collision Course",
+  "id": "bw-p-nm0339011",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Max Greenfield",
+  "type": "task"
+}

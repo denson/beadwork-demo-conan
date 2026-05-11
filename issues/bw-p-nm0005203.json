@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary McCormack. b. 1969 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005203/\n_search: Mary McCormack | Deep Impact | In Plain Sight | Mystery, Alaska | K-PAX",
+  "id": "bw-p-nm0005203",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary McCormack",
+  "type": "task"
+}

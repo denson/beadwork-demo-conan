@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Ray. b. 1964 | actress, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0712736/\n_search: Amy Ray | The Amazing Spider-Man | The Reluctant Fundamentalist | Boys on the Side | The Hollars",
+  "id": "bw-p-nm0712736",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Ray",
+  "type": "task"
+}

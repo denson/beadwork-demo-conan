@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rebecca Gayheart. b. 1971 | actress, director, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001261/\n_search: Rebecca Gayheart | Urban Legend | Jawbreaker | Nothing to Lose | Once Upon a Time... in Hollywood",
+  "id": "bw-p-nm0001261",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rebecca Gayheart",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jordan Temple. producer, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm8281377/\n_search: Jordan Temple | Abbott Elementary | Atlanta | The Marvelous Mrs. Maisel | Teenage Euthanasia",
+  "id": "bw-p-nm8281377",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jordan Temple",
+  "type": "task"
+}

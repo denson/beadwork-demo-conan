@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J.B. Smoove/Walton Goggins/Morgan Saint. conan_tbs, S8E45, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8076028/\n_search: J.B. Smoove/Walton Goggins/Morgan Saint | 2018 | S8E45",
+  "id": "bw-e-tt8076028",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J.B. Smoove/Walton Goggins/Morgan Saint",
+  "type": "task"
+}

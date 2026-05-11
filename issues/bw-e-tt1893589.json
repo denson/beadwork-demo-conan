@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "On This Day, a Chump Was Born. conan_tbs, S1E80, 2011.\nRuntime: 60 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt1893589/\n_search: On This Day, a Chump Was Born | 2011 | S1E80",
+  "id": "bw-e-tt1893589",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "On This Day, a Chump Was Born",
+  "type": "task"
+}

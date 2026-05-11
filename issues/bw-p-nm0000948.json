@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shane Black. b. 1961 | writer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000948/\n_search: Shane Black | The Nice Guys | Predator | Kiss Kiss Bang Bang | Iron Man 3",
+  "id": "bw-p-nm0000948",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shane Black",
+  "type": "task"
+}

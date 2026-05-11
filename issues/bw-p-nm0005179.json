@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Camryn Manheim. b. 1961 | actress, producer, executive.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0005179/\n_search: Camryn Manheim | The Practice | Happiness | Scary Movie 3 | An Unfinished Life",
+  "id": "bw-p-nm0005179",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Camryn Manheim",
+  "type": "task"
+}

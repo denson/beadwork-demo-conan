@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Kattan. b. 1970 | actor, writer, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0441592/\n_search: Chris Kattan | A Night at the Roxbury | House on Haunted Hill | Undercover Brother | The Ridiculous 6",
+  "id": "bw-p-nm0441592",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Kattan",
+  "type": "task"
+}

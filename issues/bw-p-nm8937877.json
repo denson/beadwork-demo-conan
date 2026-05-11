@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ethan Ives. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8937877/\n_search: Ethan Ives | Last Call with Carson Daly | The Late Show with Stephen Colbert | The Tonight Show Starring Jimmy Fallon",
+  "id": "bw-p-nm8937877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ethan Ives",
+  "type": "task"
+}

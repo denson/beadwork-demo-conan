@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Colin Hanks. b. 1977 | actor, director, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0004988/\n_search: Colin Hanks | King Kong | Orange County | The House Bunny | Untraceable",
+  "id": "bw-p-nm0004988",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Colin Hanks",
+  "type": "task"
+}

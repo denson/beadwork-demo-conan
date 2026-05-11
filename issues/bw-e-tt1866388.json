@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ninjas Don't Wear Corduroy. conan_tbs, S1E65, 2011.\nRuntime: 60 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt1866388/\n_search: Ninjas Don't Wear Corduroy | 2011 | S1E65",
+  "id": "bw-e-tt1866388",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ninjas Don't Wear Corduroy",
+  "type": "task"
+}

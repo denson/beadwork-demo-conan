@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eli Roth. director, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0744834/\n_search: Eli Roth | Ice Cream Man | Thanksgiving | Inglourious Basterds | Hostel",
+  "id": "bw-p-nm0744834",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eli Roth",
+  "type": "task"
+}

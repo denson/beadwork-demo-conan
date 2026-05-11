@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Christian Olsen. b. 1977 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0647638/\n_search: Eric Christian Olsen | Dumb and Dumberer: When Harry Met Lloyd | Fired Up! | Not Another Teen Movie | The Thing",
+  "id": "bw-p-nm0647638",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Christian Olsen",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alonza Bevan. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1881603/\n_search: Alonza Bevan | Drift | The Stanfords: Superstar | The Stanfords: Jamie | Kula Shaker: Mystical Machine Gun",
+  "id": "bw-p-nm1881603",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alonza Bevan",
+  "type": "task"
+}

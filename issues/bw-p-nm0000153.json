@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gina Gershon. b. 1962 | actress, producer, writer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0000153/\n_search: Gina Gershon | Killer Joe | Bound | Showgirls | Face/Off",
+  "id": "bw-p-nm0000153",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gina Gershon",
+  "type": "task"
+}

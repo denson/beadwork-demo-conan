@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shaun Cooper. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3701712/\n_search: Shaun Cooper | Lethal Weapon | BMX XXX | Make It or Break It | I Know How Many Runs You Scored Last Summer",
+  "id": "bw-p-nm3701712",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shaun Cooper",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mr. Peanut's Peanut Allergy. conan_tbs, S2E48, 2012.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt2243839/\n_search: Mr. Peanut's Peanut Allergy | 2012 | S2E48",
+  "id": "bw-e-tt2243839",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mr. Peanut's Peanut Allergy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lester Troutman. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4537716/\n_search: Lester Troutman | Life After | Unsung",
+  "id": "bw-p-nm4537716",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lester Troutman",
+  "type": "task"
+}

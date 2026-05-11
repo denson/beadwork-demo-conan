@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nore Davis. conan_tbs, S9E45, 2019.\nRuntime: 21 min.\nIMDb rating: 6.7.\nIMDb: https://www.imdb.com/title/tt10251256/\n_search: Nore Davis | 2019 | S9E45",
+  "id": "bw-e-tt10251256",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nore Davis",
+  "type": "task"
+}

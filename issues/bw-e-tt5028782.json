@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Gaffigan/Chelsea Peretti/Blackberry Smoke. conan_tbs, S5E136, 2015.\nIMDb: https://www.imdb.com/title/tt5028782/\n_search: Jim Gaffigan/Chelsea Peretti/Blackberry Smoke | 2015 | S5E136",
+  "id": "bw-e-tt5028782",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Gaffigan/Chelsea Peretti/Blackberry Smoke",
+  "type": "task"
+}

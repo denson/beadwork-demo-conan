@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth MacFarlane. b. 1973 | writer, producer, actor.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0532235/\n_search: Seth MacFarlane | Family Guy | American Dad! | Ted | A Million Ways to Die in the West",
+  "id": "bw-p-nm0532235",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth MacFarlane",
+  "type": "task"
+}

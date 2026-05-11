@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Evans. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1966683/\n_search: Josh Evans | Jane the Virgin | The Young and the Restless | Anna",
+  "id": "bw-p-nm1966683",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Evans",
+  "type": "task"
+}

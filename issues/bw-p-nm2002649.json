@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Franco. b. 1985 | actor, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm2002649/\n_search: Dave Franco | Neighbors | Warm Bodies | Now You See Me 2 | The Disaster Artist",
+  "id": "bw-p-nm2002649",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Franco",
+  "type": "task"
+}

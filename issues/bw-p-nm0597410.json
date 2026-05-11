@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taylor Momsen. b. 1993 | actress, director, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0597410/\n_search: Taylor Momsen | How the Grinch Stole Christmas | Spy Kids 2: Island of Lost Dreams | Underdog | Gossip Girl",
+  "id": "bw-p-nm0597410",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taylor Momsen",
+  "type": "task"
+}

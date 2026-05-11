@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grace Potter. b. 1983 | music_department, actress, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2728156/\n_search: Grace Potter | The Family Plan | Life in Six Strings",
+  "id": "bw-p-nm2728156",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grace Potter",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leonard Maltin. b. 1950 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0540795/\n_search: Leonard Maltin | Gremlins 2: The New Batch | Cliffhangers! Adventures from the Thrill Factory | Going Hollywood: The '30s | The Lost Stooges",
+  "id": "bw-p-nm0540795",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leonard Maltin",
+  "type": "task"
+}

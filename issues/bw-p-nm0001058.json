@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joan Collins. b. 1933 | actress, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001058/\n_search: Joan Collins | Dynasty | The Flintstones in Viva Rock Vegas | Esther and the King | Empire of the Ants",
+  "id": "bw-p-nm0001058",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joan Collins",
+  "type": "task"
+}

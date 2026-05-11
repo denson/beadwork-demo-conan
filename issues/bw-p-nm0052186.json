@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Banks. b. 1947 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0052186/\n_search: Jonathan Banks | Mudbound | Breaking Bad | Gremlins | The Adventures of Buckaroo Banzai Across the 8th Dimension",
+  "id": "bw-p-nm0052186",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Banks",
+  "type": "task"
+}

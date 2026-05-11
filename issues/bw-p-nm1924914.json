@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brendan Benson. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1924914/\n_search: Brendan Benson | Wicker Park | Power Rangers | Zombieland | Premium Rush",
+  "id": "bw-p-nm1924914",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brendan Benson",
+  "type": "task"
+}

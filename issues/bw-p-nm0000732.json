@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Danny Aiello. 1933–2019 | actor, producer, writer.\nDECEASED (1933–2019). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000732/\n_search: Danny Aiello | Do the Right Thing | Léon: The Professional | Moonstruck | Hudson Hawk",
+  "id": "bw-p-nm0000732",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Danny Aiello",
+  "type": "task"
+}

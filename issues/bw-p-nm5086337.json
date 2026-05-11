@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James White. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5086337/\n_search: James White | NFL on Fox | NFL Monday Night Football | The NFL on CBS | NFL Thursday Night Football",
+  "id": "bw-p-nm5086337",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James White",
+  "type": "task"
+}

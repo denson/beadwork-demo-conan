@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Edmunds. b. 1944 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0249585/\n_search: Dave Edmunds | Planes, Trains \u0026 Automobiles | The Lovely Bones | Rush | In the Land of Women",
+  "id": "bw-p-nm0249585",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Edmunds",
+  "type": "task"
+}

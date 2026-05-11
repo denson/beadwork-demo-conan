@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deepak Chopra. b. 1946 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0159149/\n_search: Deepak Chopra | The Love Guru | Little Fockers | Beyond the Circle | Secrets of the Seven Sounds",
+  "id": "bw-p-nm0159149",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deepak Chopra",
+  "type": "task"
+}

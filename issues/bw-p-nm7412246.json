@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Merrill Garbus. composer, director, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7412246/\n_search: Merrill Garbus | Sorry to Bother You | Babyteeth | How to Let Go of the World: and Love All the Things Climate Can't Change | I'm a Virgo",
+  "id": "bw-p-nm7412246",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Merrill Garbus",
+  "type": "task"
+}

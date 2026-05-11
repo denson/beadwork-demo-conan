@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cake Like. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11666285/\n_search: Cake Like | Lollipopfestivalen 1997",
+  "id": "bw-p-nm11666285",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cake Like",
+  "type": "task"
+}

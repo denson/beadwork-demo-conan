@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristi Yamaguchi. b. 1971 | actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0945332/\n_search: Kristi Yamaguchi | D2: The Mighty Ducks | Aladdin on Ice | On Edge | Everybody Loves Raymond",
+  "id": "bw-p-nm0945332",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristi Yamaguchi",
+  "type": "task"
+}

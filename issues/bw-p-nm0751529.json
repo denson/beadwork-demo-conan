@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Russert. 1950–2008 | editorial_department, actor, archive_footage.\nDECEASED (1950–2008). Conan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0751529/\n_search: Tim Russert | Meet the Press | The Tim Russert Show | The American President | NBC Nightly News with Tom Llamas",
+  "id": "bw-p-nm0751529",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Russert",
+  "type": "task"
+}

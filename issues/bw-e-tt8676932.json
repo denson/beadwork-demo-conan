@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "DJ Khaled/Chris Redd/Twin Shadow. conan_tbs, S8E90, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8676932/\n_search: DJ Khaled/Chris Redd/Twin Shadow | 2018 | S8E90",
+  "id": "bw-e-tt8676932",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "DJ Khaled/Chris Redd/Twin Shadow",
+  "type": "task"
+}

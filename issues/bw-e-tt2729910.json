@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Singleton/Norm Crosby/Betty Faber. late_night, S2E73, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2729910/\n_search: John Singleton/Norm Crosby/Betty Faber | 1995 | S2E73",
+  "id": "bw-e-tt2729910",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Singleton/Norm Crosby/Betty Faber",
+  "type": "task"
+}

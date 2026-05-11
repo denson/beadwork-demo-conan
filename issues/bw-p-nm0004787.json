@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Saffron Burrows. b. 1972 | actress, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004787/\n_search: Saffron Burrows | You | Mozart in the Jungle | The Bank Job | Troy",
+  "id": "bw-p-nm0004787",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Saffron Burrows",
+  "type": "task"
+}

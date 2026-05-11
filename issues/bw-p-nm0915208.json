@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Naomi Watts. b. 1968 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0915208/\n_search: Naomi Watts | Mulholland Drive | King Kong | Birdman or (The Unexpected Virtue of Ignorance) | The Impossible",
+  "id": "bw-p-nm0915208",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Naomi Watts",
+  "type": "task"
+}

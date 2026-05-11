@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vendela Kirsebom. b. 1967 | actress, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0456971/\n_search: Vendela Kirsebom | Batman \u0026 Robin | The Parent Trap | Blossom | The Larry Sanders Show",
+  "id": "bw-p-nm0456971",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vendela Kirsebom",
+  "type": "task"
+}

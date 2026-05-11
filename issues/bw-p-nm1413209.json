@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alejandro Rose-Garcia. actor, composer, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1413209/\n_search: Alejandro Rose-Garcia | Spy Kids 3: Game Over | Texas Chainsaw Massacre | Hide | The Inbetweeners 2",
+  "id": "bw-p-nm1413209",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alejandro Rose-Garcia",
+  "type": "task"
+}

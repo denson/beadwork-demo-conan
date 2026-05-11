@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Claire Smith. (no IMDb bio data).\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm3748909/\n_search: Claire Smith | The Marilyn Denis Show | Chelsea Lately",
+  "id": "bw-p-nm3748909",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Claire Smith",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bar Refaeli. b. 1985 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2064685/\n_search: Bar Refaeli | Session | Kidon | The Dreamer III | Pick Up",
+  "id": "bw-p-nm2064685",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bar Refaeli",
+  "type": "task"
+}

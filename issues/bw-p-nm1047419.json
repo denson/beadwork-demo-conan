@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Williams. b. 1959 | actor, writer, producer.\nConan-show appearances: 19\nIMDb: https://www.imdb.com/name/nm1047419/\n_search: Brian Williams | Election Night Live with Brian Williams | The Cage | NBC Nightly News with Tom Llamas | 30 Rock",
+  "id": "bw-p-nm1047419",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Williams",
+  "type": "task"
+}

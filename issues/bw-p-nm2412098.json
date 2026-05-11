@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laurent Brancowitz. b. 1973 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2412098/\n_search: Laurent Brancowitz | Now You See Me | Boyhood | No Strings Attached | Somewhere",
+  "id": "bw-p-nm2412098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laurent Brancowitz",
+  "type": "task"
+}

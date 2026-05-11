@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Victor Garber. b. 1949 | actor, miscellaneous, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001255/\n_search: Victor Garber | Argo | Alias | Titanic | Legally Blonde",
+  "id": "bw-p-nm0001255",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Victor Garber",
+  "type": "task"
+}

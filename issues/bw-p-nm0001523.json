@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natascha McElhone. b. 1969 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001523/\n_search: Natascha McElhone | Solaris | Ronin | The Truman Show | Big Nothing",
+  "id": "bw-p-nm0001523",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natascha McElhone",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Costner. b. 1955 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000126/\n_search: Kevin Costner | The Postman | Dances with Wolves | Robin Hood: Prince of Thieves | The Bodyguard",
+  "id": "bw-p-nm0000126",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Costner",
+  "type": "task"
+}

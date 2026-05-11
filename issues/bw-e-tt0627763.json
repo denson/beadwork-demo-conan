@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adrien Brody/Anthony Anderson/Patti Smith. late_night, S13E48, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627763/\n_search: Adrien Brody/Anthony Anderson/Patti Smith | 2005 | S13E48",
+  "id": "bw-e-tt0627763",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adrien Brody/Anthony Anderson/Patti Smith",
+  "type": "task"
+}

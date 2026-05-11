@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Walken/Joe Montana/Ruth Gerson. late_night, S7E59, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627314/\n_search: Christopher Walken/Joe Montana/Ruth Gerson | 2000 | S7E59",
+  "id": "bw-e-tt0627314",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Walken/Joe Montana/Ruth Gerson",
+  "type": "task"
+}

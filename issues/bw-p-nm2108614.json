@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Antonio Pierce. b. 1978 | actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2108614/\n_search: Antonio Pierce | Who Killed Soul Glow? | Cubed | The NFL on CBS | NFL Monday Night Football",
+  "id": "bw-p-nm2108614",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Antonio Pierce",
+  "type": "task"
+}

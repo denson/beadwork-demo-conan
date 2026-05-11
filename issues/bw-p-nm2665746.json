@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Gatto. b. 1976 | producer, actor, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2665746/\n_search: Joe Gatto | Impractical Jokers | The Misery Index | Impractical Jokers: The Movie | Jokers Wild",
+  "id": "bw-p-nm2665746",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Gatto",
+  "type": "task"
+}

@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Biden. b. 1942 | actor, archive_footage, archive_sound.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0081182/\n_search: Joe Biden | Parks and Recreation | John McCain: For Whom the Bell Tolls | CNN Presidential Debate | 2024 State of the Union",
+  "id": "bw-p-nm0081182",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Biden",
+  "type": "task"
+}

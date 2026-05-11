@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vince Gilligan. b. 1967 | producer, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0319213/\n_search: Vince Gilligan | The X-Files | Breaking Bad | El Camino | Better Call Saul",
+  "id": "bw-p-nm0319213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vince Gilligan",
+  "type": "task"
+}

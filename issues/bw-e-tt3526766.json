@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Scorsese/Vanessa Bayer/Rock Candy Funk Party. conan_tbs, S4E45, 2014.\nIMDb: https://www.imdb.com/title/tt3526766/\n_search: Martin Scorsese/Vanessa Bayer/Rock Candy Funk Party | 2014 | S4E45",
+  "id": "bw-e-tt3526766",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Scorsese/Vanessa Bayer/Rock Candy Funk Party",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Milo Ventimiglia. b. 1977 | actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0893257/\n_search: Milo Ventimiglia | Heroes | Gamer | This Is Us | Pathology",
+  "id": "bw-p-nm0893257",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Milo Ventimiglia",
+  "type": "task"
+}

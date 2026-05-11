@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Veitch. writer, producer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2201409/\n_search: James Veitch | James Veitch: Hot Shot City | James Veitch: Straight to VHS | 8 Out of 10 Cats Does Countdown | Melbourne International Comedy Festival",
+  "id": "bw-p-nm2201409",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Veitch",
+  "type": "task"
+}

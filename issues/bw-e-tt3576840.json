@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Goldblum/Angie Harmon/Isaac Witty. conan_tbs, S4E58, 2014.\nIMDb: https://www.imdb.com/title/tt3576840/\n_search: Jeff Goldblum/Angie Harmon/Isaac Witty | 2014 | S4E58",
+  "id": "bw-e-tt3576840",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Goldblum/Angie Harmon/Isaac Witty",
+  "type": "task"
+}

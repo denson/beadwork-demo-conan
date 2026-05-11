@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sonia Braga. b. 1950 | actress, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000968/\n_search: Sonia Braga | Dona Flor and Her Two Husbands | Kiss of the Spider Woman | Moon Over Parador",
+  "id": "bw-p-nm0000968",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sonia Braga",
+  "type": "task"
+}

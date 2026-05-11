@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joan Rivers/Mark Curry/Patty Loveless. late_night, S2E126, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2822574/\n_search: Joan Rivers/Mark Curry/Patty Loveless | 1995 | S2E126",
+  "id": "bw-e-tt2822574",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joan Rivers/Mark Curry/Patty Loveless",
+  "type": "task"
+}

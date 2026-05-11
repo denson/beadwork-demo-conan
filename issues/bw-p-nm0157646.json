@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alex Chilton. 1950–2010 | music_department, soundtrack, archive_footage.\nDECEASED (1950–2010). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0157646/\n_search: Alex Chilton | Empire Records | Adventureland | Bridget Jones: The Edge of Reason | That '70s Show",
+  "id": "bw-p-nm0157646",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alex Chilton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Colin Croom. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8331913/\n_search: Colin Croom | Somnium | Austin City Limits | Loufest",
+  "id": "bw-p-nm8331913",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Colin Croom",
+  "type": "task"
+}

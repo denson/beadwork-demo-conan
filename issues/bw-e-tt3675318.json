@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke Perry/Joey Lauren Adams/Ian Bagg. late_night, S4E105, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3675318/\n_search: Luke Perry/Joey Lauren Adams/Ian Bagg | 1997 | S4E105",
+  "id": "bw-e-tt3675318",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke Perry/Joey Lauren Adams/Ian Bagg",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jillian Bell. b. 1984 | actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3255459/\n_search: Jillian Bell | 22 Jump Street | Rough Night | Inherent Vice | Office Christmas Party",
+  "id": "bw-p-nm3255459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jillian Bell",
+  "type": "task"
+}

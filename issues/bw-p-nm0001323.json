@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Debbie Harry. b. 1945 | actress, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0001323/\n_search: Debbie Harry | Videodrome | Hairspray | My Life Without Me | Tales from the Darkside: The Movie",
+  "id": "bw-p-nm0001323",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Debbie Harry",
+  "type": "task"
+}

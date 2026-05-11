@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Bays. actor, director, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1923075/\n_search: Steve Bays | John Tucker Must Die | Sex Drive | 22 Jump Street | The Sisterhood of the Traveling Pants 2",
+  "id": "bw-p-nm1923075",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Bays",
+  "type": "task"
+}

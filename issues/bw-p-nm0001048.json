@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Dice Clay. b. 1957 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001048/\n_search: Andrew Dice Clay | The Adventures of Ford Fairlane | Blue Jasmine | A Star Is Born | Entourage",
+  "id": "bw-p-nm0001048",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Dice Clay",
+  "type": "task"
+}

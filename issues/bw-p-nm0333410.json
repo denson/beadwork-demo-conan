@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Topher Grace. b. 1978 | actor, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0333410/\n_search: Topher Grace | In Good Company | Spider-Man 3 | Traffic | That '70s Show",
+  "id": "bw-p-nm0333410",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Topher Grace",
+  "type": "task"
+}

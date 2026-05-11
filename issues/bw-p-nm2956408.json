@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Willard Wigan. b. 1957 | actor, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2956408/\n_search: Willard Wigan | The Great Big Tiny Design Challenge | Willard | Operation Stonehenge: What Lies Beneath | Is It Possible?",
+  "id": "bw-p-nm2956408",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Willard Wigan",
+  "type": "task"
+}

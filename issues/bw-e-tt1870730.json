@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Lion, the Witch, and the IKEA Aspelund Underbed Storage Box. conan_tbs, S1E68, 2011.\nRuntime: 60 min.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt1870730/\n_search: The Lion, the Witch, and the IKEA Aspelund Underbed Storage Box | 2011 | S1E68",
+  "id": "bw-e-tt1870730",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Lion, the Witch, and the IKEA Aspelund Underbed Storage Box",
+  "type": "task"
+}

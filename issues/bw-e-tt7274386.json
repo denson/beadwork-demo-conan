@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathy Bates/Seann William Scott/Jeff Caldwell. conan_tbs, S7E122, 2017.\nRuntime: 42 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt7274386/\n_search: Kathy Bates/Seann William Scott/Jeff Caldwell | 2017 | S7E122",
+  "id": "bw-e-tt7274386",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathy Bates/Seann William Scott/Jeff Caldwell",
+  "type": "task"
+}

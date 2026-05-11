@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Blatch. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0087799/\n_search: Kevin Blatch | Hell on Wheels | White Chicks | Billions | The Blacklist",
+  "id": "bw-p-nm0087799",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Blatch",
+  "type": "task"
+}

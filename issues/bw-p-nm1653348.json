@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "KISS. music_artist, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1653348/\n_search: KISS | The Nice Guys | Knock Knock | Beautiful Girls | I Love You, Beth Cooper",
+  "id": "bw-p-nm1653348",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "KISS",
+  "type": "task"
+}

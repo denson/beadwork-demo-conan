@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jenny Zigrino. b. 1987 | writer, actress, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm4103945/\n_search: Jenny Zigrino | Bad Santa 2 | FabUless | Fifty Shades of Black | The Smartest Dumb Girl",
+  "id": "bw-p-nm4103945",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jenny Zigrino",
+  "type": "task"
+}

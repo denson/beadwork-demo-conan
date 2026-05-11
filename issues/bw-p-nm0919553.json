@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gillian Welch. b. 1967 | actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0919553/\n_search: Gillian Welch | O Brother, Where Art Thou? | The Ballad of Buster Scruggs | Hell or High Water | The Strangers",
+  "id": "bw-p-nm0919553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gillian Welch",
+  "type": "task"
+}

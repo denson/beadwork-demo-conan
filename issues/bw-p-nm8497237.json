@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rebecca Frankel. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm8497237/\n_search: Rebecca Frankel",
+  "id": "bw-p-nm8497237",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rebecca Frankel",
+  "type": "task"
+}

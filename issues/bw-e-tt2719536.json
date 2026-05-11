@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beverly Johnson/Dominick Dunne/Rebecca Pidgeon. late_night, S1E184, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2719536/\n_search: Beverly Johnson/Dominick Dunne/Rebecca Pidgeon | 1994 | S1E184",
+  "id": "bw-e-tt2719536",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beverly Johnson/Dominick Dunne/Rebecca Pidgeon",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Foreman. 1949–2025 | actor, producer, soundtrack.\nDECEASED (1949–2025). Conan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0286040/\n_search: George Foreman | The Fighter | Night at the Museum: Battle of the Smithsonian | Big George Foreman | The Larry Sanders Show",
+  "id": "bw-p-nm0286040",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Foreman",
+  "type": "task"
+}

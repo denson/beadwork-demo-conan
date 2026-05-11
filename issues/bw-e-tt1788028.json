@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zeus Was Framed. conan_tbs, S1E20, 2010.\nRuntime: 60 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt1788028/\n_search: Zeus Was Framed | 2010 | S1E20",
+  "id": "bw-e-tt1788028",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zeus Was Framed",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stelio Savante. b. 1970 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0767445/\n_search: Stelio Savante | Sarah's Oil | S.W.A.T. | Nefarious | The Chosen",
+  "id": "bw-p-nm0767445",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stelio Savante",
+  "type": "task"
+}

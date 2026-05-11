@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stockard Channing. b. 1944 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000330/\n_search: Stockard Channing | Practical Magic | Grease | Six Degrees of Separation | Where the Heart Is",
+  "id": "bw-p-nm0000330",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stockard Channing",
+  "type": "task"
+}

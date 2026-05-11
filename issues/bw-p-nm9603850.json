@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Caroline Sada. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9603850/\n_search: Caroline Sada",
+  "id": "bw-p-nm9603850",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Caroline Sada",
+  "type": "task"
+}

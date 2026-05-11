@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Dome. assistant_director, editor, editorial_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1279138/\n_search: Dan Dome | Saturday Night Live: 40th Anniversary Special | SqueezeBox! | Eagleheart | Saturday Night Live",
+  "id": "bw-p-nm1279138",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Dome",
+  "type": "task"
+}

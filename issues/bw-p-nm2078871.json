@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dirty Dozen Brass Band. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2078871/\n_search: Dirty Dozen Brass Band | Big Trouble | Sgt. Bilko | When the Bough Breaks | The Glasses",
+  "id": "bw-p-nm2078871",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dirty Dozen Brass Band",
+  "type": "task"
+}

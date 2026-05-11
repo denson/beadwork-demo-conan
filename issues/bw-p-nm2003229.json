@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chelsea Peretti. b. 1978 | actress, miscellaneous, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2003229/\n_search: Chelsea Peretti | Parks and Recreation | Brooklyn Nine-Nine | Sing 2 | First Time Female Director",
+  "id": "bw-p-nm2003229",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chelsea Peretti",
+  "type": "task"
+}

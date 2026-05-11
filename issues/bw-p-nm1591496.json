@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Colter. b. 1976 | actor, miscellaneous, visual_effects.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1591496/\n_search: Mike Colter | Luke Cage | Men in Black 3 | Extinction | Jessica Jones",
+  "id": "bw-p-nm1591496",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Colter",
+  "type": "task"
+}

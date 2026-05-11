@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Valentine. b. 1978 | composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1747038/\n_search: James Valentine | Love Actually | He's Just Not That Into You | The Wedding Date | Mindhunters",
+  "id": "bw-p-nm1747038",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Valentine",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Kohler. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3339747/\n_search: James Kohler | WWE Smackdown! | The Young and the Restless | Jacked | Subject 7",
+  "id": "bw-p-nm3339747",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Kohler",
+  "type": "task"
+}

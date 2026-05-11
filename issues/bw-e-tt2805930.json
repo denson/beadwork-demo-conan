@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Brokaw/Norm Macdonald/Angie Everhart. late_night, S2E109, 1995.\nRuntime: 57 min.\nIMDb rating: 8.4.\nIMDb: https://www.imdb.com/title/tt2805930/\n_search: Tom Brokaw/Norm Macdonald/Angie Everhart | 1995 | S2E109",
+  "id": "bw-e-tt2805930",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Brokaw/Norm Macdonald/Angie Everhart",
+  "type": "task"
+}

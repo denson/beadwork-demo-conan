@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Short/Jimmy Blacklock/Cheap Trick. late_night, S6E24, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627168/\n_search: Martin Short/Jimmy Blacklock/Cheap Trick | 1998 | S6E24",
+  "id": "bw-e-tt0627168",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Short/Jimmy Blacklock/Cheap Trick",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Comey/Tig Notaro/Cory Kahaney. conan_tbs, S8E80, 2018.\nRuntime: 42 min.\nIMDb rating: 4.7.\nIMDb: https://www.imdb.com/title/tt8431674/\n_search: James Comey/Tig Notaro/Cory Kahaney | 2018 | S8E80",
+  "id": "bw-e-tt8431674",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Comey/Tig Notaro/Cory Kahaney",
+  "type": "task"
+}

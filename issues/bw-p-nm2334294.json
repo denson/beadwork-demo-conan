@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lil' Ed \u0026 the Blues Imperials. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2334294/\n_search: Lil' Ed \u0026 the Blues Imperials | While You Were Sleeping | Supernatural",
+  "id": "bw-p-nm2334294",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lil' Ed \u0026 the Blues Imperials",
+  "type": "task"
+}

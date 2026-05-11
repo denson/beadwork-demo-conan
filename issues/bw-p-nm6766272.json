@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Girls. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6766272/\n_search: Girls | Man at Bath | Amanda | Miracle Workers | I Want Your Love",
+  "id": "bw-p-nm6766272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Girls",
+  "type": "task"
+}

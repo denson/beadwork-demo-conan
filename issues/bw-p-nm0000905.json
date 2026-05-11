@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roberto Benigni. b. 1952 | actor, writer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000905/\n_search: Roberto Benigni | Life Is Beautiful | The Tiger and the Snow | Down by Law | Johnny Stecchino",
+  "id": "bw-p-nm0000905",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roberto Benigni",
+  "type": "task"
+}

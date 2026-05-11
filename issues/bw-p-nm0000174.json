@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Val Kilmer. 1959–2025 | actor, producer, director.\nDECEASED (1959–2025). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000174/\n_search: Val Kilmer | The Doors | The Saint | Kiss Kiss Bang Bang | Willow",
+  "id": "bw-p-nm0000174",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Val Kilmer",
+  "type": "task"
+}

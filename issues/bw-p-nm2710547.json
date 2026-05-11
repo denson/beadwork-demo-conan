@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Art Brut. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2710547/\n_search: Art Brut | Good Luck Chuck | Inspector Lewis | I Want Candy | Kissing Cousins",
+  "id": "bw-p-nm2710547",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Art Brut",
+  "type": "task"
+}

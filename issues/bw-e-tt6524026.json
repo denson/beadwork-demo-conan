@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Cast of 'Fist Fight'/Katherine Ryan. conan_tbs, S7E48, 2017.\nRuntime: 42 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt6524026/\n_search: The Cast of 'Fist Fight'/Katherine Ryan | 2017 | S7E48",
+  "id": "bw-e-tt6524026",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Cast of 'Fist Fight'/Katherine Ryan",
+  "type": "task"
+}

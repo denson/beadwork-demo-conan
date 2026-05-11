@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mayer Hawthorne. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3790338/\n_search: Mayer Hawthorne | It's Kind of a Funny Story | The Rental | Think Like a Man | How Do You Know",
+  "id": "bw-p-nm3790338",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mayer Hawthorne",
+  "type": "task"
+}

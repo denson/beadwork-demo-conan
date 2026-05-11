@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maria Notaras. miscellaneous, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0636522/\n_search: Maria Notaras | The Rosie O'Donnell Show | Wisecrack | Loud on Logo | The Wayne Brady Show",
+  "id": "bw-p-nm0636522",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maria Notaras",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Pierce. b. 1977 | writer, producer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2319707/\n_search: Paul Pierce | She Ball | Sneakerheads | Stars on Mars | Extended Family",
+  "id": "bw-p-nm2319707",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Pierce",
+  "type": "task"
+}

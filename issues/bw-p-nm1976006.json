@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stewart Copeland. cinematographer, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1976006/\n_search: Stewart Copeland | Jennifer | Mr. Smith's Peach Seeds | Let Your Feet Do the Talkin' | In the Glow",
+  "id": "bw-p-nm1976006",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stewart Copeland",
+  "type": "task"
+}

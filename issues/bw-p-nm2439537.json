@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brann Dailor. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2439537/\n_search: Brann Dailor | The Big Short | Monsters University | Better Living Through Chemistry | Need for Speed: Most Wanted",
+  "id": "bw-p-nm2439537",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brann Dailor",
+  "type": "task"
+}

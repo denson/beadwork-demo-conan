@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmie Vaughan. b. 1951 | actor, sound_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0891055/\n_search: Jimmie Vaughan | From Dusk Till Dawn | Blues Brothers 2000 | Tin Cup | The Dukes of Hazzard",
+  "id": "bw-p-nm0891055",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmie Vaughan",
+  "type": "task"
+}

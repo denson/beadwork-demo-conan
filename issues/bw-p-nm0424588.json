@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beverly Johnson. b. 1952 | actress, producer, production_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0424588/\n_search: Beverly Johnson | Loaded Weapon 1 | Martin | Crossroads | The Meteor Man",
+  "id": "bw-p-nm0424588",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beverly Johnson",
+  "type": "task"
+}

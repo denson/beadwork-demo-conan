@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laci Mosley. b. 1991 | actress, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6591370/\n_search: Laci Mosley | The Out-Laws | Untitled iCarly movie | The Wedding Year | Scroll Wheel of Time",
+  "id": "bw-p-nm6591370",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laci Mosley",
+  "type": "task"
+}

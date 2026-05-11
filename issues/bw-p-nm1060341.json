@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brad Delson. b. 1977 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1060341/\n_search: Brad Delson | Transformers | The Expendables 3 | Miami Vice | S.W.A.T.",
+  "id": "bw-p-nm1060341",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brad Delson",
+  "type": "task"
+}

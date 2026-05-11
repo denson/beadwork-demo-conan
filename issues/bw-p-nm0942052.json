@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Link Wray. 1929–2005 | composer, music_department, soundtrack.\nDECEASED (1929–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0942052/\n_search: Link Wray | Independence Day | 12 Monkeys | Confessions of a Dangerous Mind | Desperado",
+  "id": "bw-p-nm0942052",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Link Wray",
+  "type": "task"
+}

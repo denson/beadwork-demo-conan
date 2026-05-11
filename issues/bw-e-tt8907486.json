@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patton Oswalt/Guy Branum/Punch Brothers. conan_tbs, S8E104, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8907486/\n_search: Patton Oswalt/Guy Branum/Punch Brothers | 2018 | S8E104",
+  "id": "bw-e-tt8907486",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patton Oswalt/Guy Branum/Punch Brothers",
+  "type": "task"
+}

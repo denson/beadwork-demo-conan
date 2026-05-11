@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandi Carlile. b. 1981 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1848488/\n_search: Brandi Carlile | Onward | A Star Is Born | Safe Haven | The Lucky One",
+  "id": "bw-p-nm1848488",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandi Carlile",
+  "type": "task"
+}

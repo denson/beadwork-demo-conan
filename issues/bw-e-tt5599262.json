@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Anderson/Lauren Lapkus/Nick Griffin. conan_tbs, S6E65, 2016.\nRuntime: 41 min.\nIMDb: https://www.imdb.com/title/tt5599262/\n_search: Anthony Anderson/Lauren Lapkus/Nick Griffin | 2016 | S6E65",
+  "id": "bw-e-tt5599262",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Anderson/Lauren Lapkus/Nick Griffin",
+  "type": "task"
+}

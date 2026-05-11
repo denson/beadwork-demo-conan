@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Wilson. b. 1973 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0933940/\n_search: Patrick Wilson | The Phantom of the Opera | Hard Candy | Insidious | Watchmen",
+  "id": "bw-p-nm0933940",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Wilson",
+  "type": "task"
+}

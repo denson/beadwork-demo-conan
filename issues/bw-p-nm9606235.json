@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bryan St. Pere. soundtrack.\nDECEASED (None–2021). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9606235/\n_search: Bryan St. Pere | Jimmy Kimmel Live! | Beavis and Butt-Head",
+  "id": "bw-p-nm9606235",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bryan St. Pere",
+  "type": "task"
+}

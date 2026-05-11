@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Playing for Change. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3542942/\n_search: Playing for Change | El Chicano | Wrong Side of the Tracks | Touch | So You Think You Can Dance",
+  "id": "bw-p-nm3542942",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Playing for Change",
+  "type": "task"
+}

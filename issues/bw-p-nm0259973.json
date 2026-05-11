@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julius Erving. b. 1950 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0259973/\n_search: Julius Erving | Philadelphia | Hustle | The Fish That Saved Pittsburgh | The Doctor",
+  "id": "bw-p-nm0259973",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julius Erving",
+  "type": "task"
+}

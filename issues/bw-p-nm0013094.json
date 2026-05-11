@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Agna. writer, producer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0013094/\n_search: Tom Agna | The Chris Rock Show | The Bad Boys of Comedy | Comedy Central Roasts",
+  "id": "bw-p-nm0013094",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Agna",
+  "type": "task"
+}

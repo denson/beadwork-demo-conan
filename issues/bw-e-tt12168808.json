@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judd Apatow. jibber_jabber, S1E2, 2012.\nIMDb: https://www.imdb.com/title/tt12168808/\n_search: Judd Apatow | 2012 | S1E2",
+  "id": "bw-e-tt12168808",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judd Apatow",
+  "type": "task"
+}

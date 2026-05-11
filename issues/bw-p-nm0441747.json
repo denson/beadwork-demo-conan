@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Katz. b. 1946 | actor, writer, producer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0441747/\n_search: Jonathan Katz | Dr. Katz, Professional Therapist | State and Main | Raising Dad | The Spanish Prisoner",
+  "id": "bw-p-nm0441747",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Katz",
+  "type": "task"
+}

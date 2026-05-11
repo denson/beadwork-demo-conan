@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Daly. actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0198408/\n_search: Andy Daly | Review | Semi-Pro | She's Out of My League | Transformers: Dark of the Moon",
+  "id": "bw-p-nm0198408",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Daly",
+  "type": "task"
+}

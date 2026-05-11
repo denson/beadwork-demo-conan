@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Carell/Mike Schultz. conan_tbs, S6E26, 2016.\nRuntime: 42 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt5327846/\n_search: Steve Carell/Mike Schultz | 2016 | S6E26",
+  "id": "bw-e-tt5327846",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Carell/Mike Schultz",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cynthia Nixon. b. 1966 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0633223/\n_search: Cynthia Nixon | Sex and the City 2 | Sex and the City | James White | Sex and the City",
+  "id": "bw-p-nm0633223",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cynthia Nixon",
+  "type": "task"
+}

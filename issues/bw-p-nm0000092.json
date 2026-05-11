@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Cleese. b. 1939 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000092/\n_search: John Cleese | A Fish Called Wanda | Monty Python and the Holy Grail | Fawlty Towers | Monty Python's Flying Circus",
+  "id": "bw-p-nm0000092",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Cleese",
+  "type": "task"
+}

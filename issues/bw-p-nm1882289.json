@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phil Jordan. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1882289/\n_search: Phil Jordan | D.E.B.S. | How to Deal | The Music, Live at the Blank Canvas | The Music: Live at Club Quattro",
+  "id": "bw-p-nm1882289",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phil Jordan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer A. Flynn. actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2771479/\n_search: Jennifer A. Flynn | The Devil Wears Prada | World Trade Center | I Was a Quality of Life Violation | The Electric Company",
+  "id": "bw-p-nm2771479",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer A. Flynn",
+  "type": "task"
+}

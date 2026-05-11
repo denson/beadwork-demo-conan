@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lenka. b. 1978 | actress, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0471387/\n_search: Lenka | Moneyball | Angus, Thongs and Perfect Snogging | Somersault | Easy A",
+  "id": "bw-p-nm0471387",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lenka",
+  "type": "task"
+}

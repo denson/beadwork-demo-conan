@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ellen Barkin. b. 1954 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000289/\n_search: Ellen Barkin | The Fan | Drop Dead Gorgeous | The Adventures of Buckaroo Banzai Across the 8th Dimension | The Big Easy",
+  "id": "bw-p-nm0000289",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ellen Barkin",
+  "type": "task"
+}

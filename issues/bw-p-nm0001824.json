@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ally Walker. b. 1961 | actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001824/\n_search: Ally Walker | Universal Soldier | Profiler | Kazaam | While You Were Sleeping",
+  "id": "bw-p-nm0001824",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ally Walker",
+  "type": "task"
+}

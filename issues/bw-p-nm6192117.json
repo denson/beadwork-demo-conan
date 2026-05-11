@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doug Smith. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6192117/\n_search: Doug Smith | Mini-Mocks | Lost Wolves of Yellowstone | New York's Funniest | This Is Not Happening",
+  "id": "bw-p-nm6192117",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doug Smith",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nigel Hawthorne. 1929–2001 | actor, producer, archive_footage.\nDECEASED (1929–2001). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001329/\n_search: Nigel Hawthorne | The Madness of King George | Demolition Man | The Object of My Affection | Yes Minister",
+  "id": "bw-p-nm0001329",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nigel Hawthorne",
+  "type": "task"
+}

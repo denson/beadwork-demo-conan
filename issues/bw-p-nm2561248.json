@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rhett McLaughlin. producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2561248/\n_search: Rhett McLaughlin | Good Mythical Morning | The Mythical Show | Looking for Ms. Locklear | Seaborne \u0026 Roach",
+  "id": "bw-p-nm2561248",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rhett McLaughlin",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lionel Hampton. 1908–2002 | actor, music_department, soundtrack.\nDECEASED (1908–2002). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0359019/\n_search: Lionel Hampton | Allied | John Wick | Hollywoodland | Memphis Belle",
+  "id": "bw-p-nm0359019",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lionel Hampton",
+  "type": "task"
+}

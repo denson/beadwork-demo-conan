@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bobby Bare Jr.. b. 1966 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3959648/\n_search: Bobby Bare Jr. | Varsity Blues | Perpetual Grace, LTD | Who Is KK Downey? | Ultra City Smiths",
+  "id": "bw-p-nm3959648",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bobby Bare Jr.",
+  "type": "task"
+}

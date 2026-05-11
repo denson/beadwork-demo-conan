@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Warren Haynes. b. 1960 | actor, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0371567/\n_search: Warren Haynes | The Perfect Storm | 3000 Miles to Graceland | Renegades | Beer League",
+  "id": "bw-p-nm0371567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Warren Haynes",
+  "type": "task"
+}

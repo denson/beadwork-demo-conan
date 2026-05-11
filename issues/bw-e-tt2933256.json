@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Pollak/Jeremy Northam/A Tribe Called Quest. late_night, S3E177, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2933256/\n_search: Kevin Pollak/Jeremy Northam/A Tribe Called Quest | 1996 | S3E177",
+  "id": "bw-e-tt2933256",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Pollak/Jeremy Northam/A Tribe Called Quest",
+  "type": "task"
+}

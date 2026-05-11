@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrzej Golota. b. 1968 | archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2876659/\n_search: Andrzej Golota | HBO Boxing | HBO Boxing After Dark | Legendary Nights | ESPN Friday Night Fights",
+  "id": "bw-p-nm2876659",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrzej Golota",
+  "type": "task"
+}

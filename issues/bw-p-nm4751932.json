@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt O'Brien. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4751932/\n_search: Matt O'Brien | Population Zero | Odd Squad | Fail Center | The Beaverton",
+  "id": "bw-p-nm4751932",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt O'Brien",
+  "type": "task"
+}

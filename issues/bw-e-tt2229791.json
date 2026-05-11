@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "'High-Four Me!' Said the Woodshop Teacher. conan_tbs, S2E45, 2012.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt2229791/\n_search: 'High-Four Me!' Said the Woodshop Teacher | 2012 | S2E45",
+  "id": "bw-e-tt2229791",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "'High-Four Me!' Said the Woodshop Teacher",
+  "type": "task"
+}

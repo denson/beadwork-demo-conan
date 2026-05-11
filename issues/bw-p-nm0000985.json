@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James L. Brooks. b. 1940 | writer, producer, miscellaneous.\nConan-show appearances: 1 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0000985/\n_search: James L. Brooks | Broadcast News | As Good as It Gets | Terms of Endearment | Spanglish",
+  "id": "bw-p-nm0000985",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James L. Brooks",
+  "type": "task"
+}

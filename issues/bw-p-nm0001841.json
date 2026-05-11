@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Wendt. 1948–2025 | actor, director, producer.\nDECEASED (1948–2025). Conan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0001841/\n_search: George Wendt | Cheers | Fletch | House | Forever Young",
+  "id": "bw-p-nm0001841",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Wendt",
+  "type": "task"
+}

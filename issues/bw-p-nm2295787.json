@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dan Cummins. writer, producer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2295787/\n_search: Dan Cummins | Trunk'd | Raising Expectations | Games of Strange | American Wiseass",
+  "id": "bw-p-nm2295787",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dan Cummins",
+  "type": "task"
+}

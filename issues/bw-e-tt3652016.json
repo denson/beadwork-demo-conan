@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barry Manilow/Neve Campbell. late_night, S4E47, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3652016/\n_search: Barry Manilow/Neve Campbell | 1996 | S4E47",
+  "id": "bw-e-tt3652016",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barry Manilow/Neve Campbell",
+  "type": "task"
+}

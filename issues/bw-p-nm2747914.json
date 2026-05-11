@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nana Ama McBrown. actress, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2747914/\n_search: Nana Ama McBrown | Coming to Africa | Na me nnim | Yellow Cece | Dee Adee Wo No",
+  "id": "bw-p-nm2747914",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nana Ama McBrown",
+  "type": "task"
+}

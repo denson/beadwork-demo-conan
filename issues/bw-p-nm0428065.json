@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Felicity Jones. b. 1983 | actress, producer, executive.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0428065/\n_search: Felicity Jones | Rogue One: A Star Wars Story | The Theory of Everything | Like Crazy | Inferno",
+  "id": "bw-p-nm0428065",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Felicity Jones",
+  "type": "task"
+}

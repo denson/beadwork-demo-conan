@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Reilly. editorial_department, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2197946/\n_search: Tom Reilly | Maternity Ward | The First 48 | Anthony Bourdain's a Cook's Tour | King of Cars",
+  "id": "bw-p-nm2197946",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Reilly",
+  "type": "task"
+}

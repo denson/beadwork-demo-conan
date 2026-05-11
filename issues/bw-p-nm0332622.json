@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Goumas. art_department, production_designer, art_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0332622/\n_search: Christopher Goumas | The Ellen DeGeneres Show | The Pete Holmes Show",
+  "id": "bw-p-nm0332622",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Goumas",
+  "type": "task"
+}

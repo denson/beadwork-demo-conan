@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Branford Marsalis. b. 1960 | music_department, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0550364/\n_search: Branford Marsalis | Ma Rainey's Black Bottom | Throw Momma from the Train | Sea of Love | Sneakers",
+  "id": "bw-p-nm0550364",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Branford Marsalis",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Weinberg. actor, music_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1942512/\n_search: Jay Weinberg | My Best Friend's Wife | Ouija Craft | Not Fade Away | Slipknot: Day of the Gusano",
+  "id": "bw-p-nm1942512",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Weinberg",
+  "type": "task"
+}

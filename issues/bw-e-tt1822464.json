@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Renaissance Most Foul. conan_tbs, S1E40, 2011.\nRuntime: 60 min.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt1822464/\n_search: A Renaissance Most Foul | 2011 | S1E40",
+  "id": "bw-e-tt1822464",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Renaissance Most Foul",
+  "type": "task"
+}

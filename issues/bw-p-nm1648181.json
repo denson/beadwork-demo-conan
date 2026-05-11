@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beth Hart. b. 1972 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1648181/\n_search: Beth Hart | The Unforgivable | A Castle for Christmas | Manson Girls | Sensation",
+  "id": "bw-p-nm1648181",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beth Hart",
+  "type": "task"
+}

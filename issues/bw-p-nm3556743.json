@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Loeb \u0026 Nine Stories. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3556743/\n_search: Lisa Loeb \u0026 Nine Stories | Twister | Reality Bites | Hot Tub Time Machine 2 | After Midnight",
+  "id": "bw-p-nm3556743",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Loeb \u0026 Nine Stories",
+  "type": "task"
+}

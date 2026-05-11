@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Suzanne Vega. b. 1959 | actress, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0891916/\n_search: Suzanne Vega | Closer | Pretty in Pink | Proof | Keanu",
+  "id": "bw-p-nm0891916",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Suzanne Vega",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Brandis. 1976–2003 | actor, miscellaneous, director.\nDECEASED (1976–2003). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000970/\n_search: Jonathan Brandis | The NeverEnding Story II: The Next Chapter | SeaQuest 2032 | IT | Ladybugs",
+  "id": "bw-p-nm0000970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Brandis",
+  "type": "task"
+}

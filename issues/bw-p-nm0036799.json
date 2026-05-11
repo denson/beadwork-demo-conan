@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Arntson. b. 1952 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0036799/\n_search: Bruce Arntson | Existo | Ernest Goes to School | Ernest Goes to Jail | Hey, Vern, It's Ernest!",
+  "id": "bw-p-nm0036799",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Arntson",
+  "type": "task"
+}

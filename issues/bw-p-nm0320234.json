@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruno Gunn. actor, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0320234/\n_search: Bruno Gunn | Westworld | The Hunger Games: Catching Fire | The Rainmaker | The Office",
+  "id": "bw-p-nm0320234",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruno Gunn",
+  "type": "task"
+}

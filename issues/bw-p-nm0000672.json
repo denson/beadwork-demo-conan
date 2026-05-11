@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Meg Tilly. b. 1960 | actress, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000672/\n_search: Meg Tilly | The Big Chill | Agnes of God | Psycho II | Body Snatchers",
+  "id": "bw-p-nm0000672",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Meg Tilly",
+  "type": "task"
+}

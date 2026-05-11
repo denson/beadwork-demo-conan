@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Cast and Director of 'Aquaman'. conan_tbs, S8E96, 2018.\nRuntime: 42 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt8704730/\n_search: The Cast and Director of 'Aquaman' | 2018 | S8E96",
+  "id": "bw-e-tt8704730",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Cast and Director of 'Aquaman'",
+  "type": "task"
+}

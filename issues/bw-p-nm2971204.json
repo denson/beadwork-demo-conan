@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dulcé Sloan. b. 1983 | actress, archive_footage, archive_sound.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2971204/\n_search: Dulcé Sloan | Chick Fight | Baby Mama's Club | The Long Shot | The Ignored",
+  "id": "bw-p-nm2971204",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dulcé Sloan",
+  "type": "task"
+}

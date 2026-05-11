@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Benji Blakeway. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8430053/\n_search: Benji Blakeway | Lollapalooza Berlin",
+  "id": "bw-p-nm8430053",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Benji Blakeway",
+  "type": "task"
+}

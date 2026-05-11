@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lepty Lambert. miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9603750/\n_search: Lepty Lambert",
+  "id": "bw-p-nm9603750",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lepty Lambert",
+  "type": "task"
+}

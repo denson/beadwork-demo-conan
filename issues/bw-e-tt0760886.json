@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianna Margulies/D.L. Hughley/Sleater-Kinney. late_night, S10E26, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0760886/\n_search: Julianna Margulies/D.L. Hughley/Sleater-Kinney | 2002 | S10E26",
+  "id": "bw-e-tt0760886",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianna Margulies/D.L. Hughley/Sleater-Kinney",
+  "type": "task"
+}

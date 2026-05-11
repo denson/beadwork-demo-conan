@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gerard Way. b. 1977 | writer, producer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2007553/\n_search: Gerard Way | The Umbrella Academy | Premium Rush | Never Back Down | The Man with the Iron Fists",
+  "id": "bw-p-nm2007553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gerard Way",
+  "type": "task"
+}

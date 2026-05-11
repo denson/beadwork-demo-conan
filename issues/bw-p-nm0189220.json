@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marcia Cross. b. 1962 | actress, archive_footage.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0189220/\n_search: Marcia Cross | Desperate Housewives | Everwood | Quantico | This Close",
+  "id": "bw-p-nm0189220",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marcia Cross",
+  "type": "task"
+}

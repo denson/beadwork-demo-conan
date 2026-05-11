@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Hyde Pierce. b. 1959 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001383/\n_search: David Hyde Pierce | Frasier | A Bug's Life | Treasure Planet | Down with Love",
+  "id": "bw-p-nm0001383",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Hyde Pierce",
+  "type": "task"
+}

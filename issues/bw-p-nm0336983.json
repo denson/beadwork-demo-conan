@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Gray. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0336983/\n_search: Tom Gray | Gone in 60 Seconds | American Beauty | The Hitcher | Forces of Nature",
+  "id": "bw-p-nm0336983",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Gray",
+  "type": "task"
+}

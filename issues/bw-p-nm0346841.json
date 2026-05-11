@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Guigui. b. 1965 | producer, music_department, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0346841/\n_search: Martin Guigui | Sweetwater | The Bronx Bull | The Unhealer | 9/11",
+  "id": "bw-p-nm0346841",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Guigui",
+  "type": "task"
+}

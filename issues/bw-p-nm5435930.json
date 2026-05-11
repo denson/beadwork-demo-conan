@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neyla Pekarek. actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5435930/\n_search: Neyla Pekarek | The Hunger Games: Catching Fire | Saturday Night Live | Austin City Limits | VH1 You Oughta Know in Concert",
+  "id": "bw-p-nm5435930",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neyla Pekarek",
+  "type": "task"
+}

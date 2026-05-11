@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brooke Smith. actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0807548/\n_search: Brooke Smith | The Silence of the Lambs | Bad Company | Fair Game | Labor Day",
+  "id": "bw-p-nm0807548",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brooke Smith",
+  "type": "task"
+}

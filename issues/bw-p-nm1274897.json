@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Blues Traveler. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1274897/\n_search: Blues Traveler | Things to Do in Denver When You're Dead | The Truth About Cats \u0026 Dogs | Kicking \u0026 Screaming | Kingpin",
+  "id": "bw-p-nm1274897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Blues Traveler",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Vos. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6239647/\n_search: Chris Vos | Bad Moms | Resident Alien | Orphan Black | Wingman Inc.",
+  "id": "bw-p-nm6239647",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Vos",
+  "type": "task"
+}

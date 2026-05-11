@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sebastien Grainger. music_department, actor, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1863151/\n_search: Sebastien Grainger | Scott Pilgrim vs. the World | Ghost Rider: Spirit of Vengeance | College | The Trotsky",
+  "id": "bw-p-nm1863151",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sebastien Grainger",
+  "type": "task"
+}

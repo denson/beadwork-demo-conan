@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Berman. b. 1965 | miscellaneous, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1470756/\n_search: Jennifer Berman | Meet the Fockers | A Woman's Deeper Journey Into Sex | The Doctors | Berman \u0026 Berman",
+  "id": "bw-p-nm1470756",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Berman",
+  "type": "task"
+}

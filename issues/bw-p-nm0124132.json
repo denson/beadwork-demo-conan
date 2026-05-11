@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George H.W. Bush. 1924–2018 | archive_footage, archive_sound.\nDECEASED (1924–2018). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0124132/\n_search: George H.W. Bush | 41 | ESPN Speedworld | Spartamerika | Feed",
+  "id": "bw-p-nm0124132",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George H.W. Bush",
+  "type": "task"
+}

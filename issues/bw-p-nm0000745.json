@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Alt. b. 1960 | actress, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000745/\n_search: Carol Alt | My Last Best Friend | Private Parts | Deadly Past | To Rome with Love",
+  "id": "bw-p-nm0000745",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Alt",
+  "type": "task"
+}

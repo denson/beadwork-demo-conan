@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristen Bell/Evan Peters/Miike Snow. conan_tbs, S6E141, 2016.\nRuntime: 42 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt6111016/\n_search: Kristen Bell/Evan Peters/Miike Snow | 2016 | S6E141",
+  "id": "bw-e-tt6111016",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristen Bell/Evan Peters/Miike Snow",
+  "type": "task"
+}

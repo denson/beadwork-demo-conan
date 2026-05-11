@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J.W. Newberry. writer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5958635/\n_search: J.W. Newberry | Detroit Cycles | My Best Girl | North",
+  "id": "bw-p-nm5958635",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J.W. Newberry",
+  "type": "task"
+}

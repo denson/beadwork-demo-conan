@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harry Connick Jr.. b. 1967 | actor, music_department, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0001065/\n_search: Harry Connick Jr. | Hope Floats | The Iron Giant | Copycat | Independence Day",
+  "id": "bw-p-nm0001065",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harry Connick Jr.",
+  "type": "task"
+}

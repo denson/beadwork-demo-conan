@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Offerman/Jerrod Carmichael/Pete Correale. conan_tbs, S4E144, 2014.\nIMDb: https://www.imdb.com/title/tt4086678/\n_search: Nick Offerman/Jerrod Carmichael/Pete Correale | 2014 | S4E144",
+  "id": "bw-e-tt4086678",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Offerman/Jerrod Carmichael/Pete Correale",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ike Barinholtz. b. 1977 | actor, producer, writer.\nConan-show appearances: 4 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0054697/\n_search: Ike Barinholtz | Suicide Squad | Disaster Movie | Neighbors | The Mindy Project",
+  "id": "bw-p-nm0054697",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ike Barinholtz",
+  "type": "task"
+}

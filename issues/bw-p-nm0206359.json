@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Day. b. 1976 | producer, actor, writer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0206359/\n_search: Charlie Day | It's Always Sunny in Philadelphia | The Lego Movie | Fist Fight | Horrible Bosses",
+  "id": "bw-p-nm0206359",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Day",
+  "type": "task"
+}

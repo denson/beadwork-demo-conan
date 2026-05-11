@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gillian Anderson. b. 1968 | actress, miscellaneous, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000096/\n_search: Gillian Anderson | The X-Files | The Fall | The Last King of Scotland | Bleak House",
+  "id": "bw-p-nm0000096",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gillian Anderson",
+  "type": "task"
+}

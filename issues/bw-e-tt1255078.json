@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sen. John McCain/The SteelDrivers. late_night, S15E147, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1255078/\n_search: Sen. John McCain/The SteelDrivers | 2008 | S15E147",
+  "id": "bw-e-tt1255078",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sen. John McCain/The SteelDrivers",
+  "type": "task"
+}

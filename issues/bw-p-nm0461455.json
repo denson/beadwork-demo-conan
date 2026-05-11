@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Knotts. 1924–2006 | actor, writer, soundtrack.\nDECEASED (1924–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0461455/\n_search: Don Knotts | The Andy Griffith Show | It's a Mad, Mad, Mad, Mad World | Pleasantville | Three's Company",
+  "id": "bw-p-nm0461455",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Knotts",
+  "type": "task"
+}

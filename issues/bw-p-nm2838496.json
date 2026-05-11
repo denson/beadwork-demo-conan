@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Cain. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2838496/\n_search: Josh Cain | John Tucker Must Die | Bad News Bears | Shaun White Skateboarding | Degrassi: The Next Generation",
+  "id": "bw-p-nm2838496",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Cain",
+  "type": "task"
+}

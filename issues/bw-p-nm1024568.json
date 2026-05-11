@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wynonna Judd. b. 1964 | actress, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1024568/\n_search: Wynonna Judd | Lilo \u0026 Stitch | Touched by an Angel | Leap of Faith | Icon",
+  "id": "bw-p-nm1024568",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wynonna Judd",
+  "type": "task"
+}

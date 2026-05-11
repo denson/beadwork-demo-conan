@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tal Bergman. music_department, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0074866/\n_search: Tal Bergman | Self/less | Knives Out | The Nice Guys | Nobody",
+  "id": "bw-p-nm0074866",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tal Bergman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Antonio Banderas. b. 1960 | actor, producer, writer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0000104/\n_search: Antonio Banderas | The Mask of Zorro | The Skin I Live In | Tie Me Up! Tie Me Down! | The 13th Warrior",
+  "id": "bw-p-nm0000104",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Antonio Banderas",
+  "type": "task"
+}

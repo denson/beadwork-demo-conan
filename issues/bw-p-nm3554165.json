@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nacho Figueras. actor, producer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3554165/\n_search: Nacho Figueras | 13 | The New Americans: Gaming a Revolution | Gossip Girl | The Polo Kid",
+  "id": "bw-p-nm3554165",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nacho Figueras",
+  "type": "task"
+}

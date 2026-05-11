@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Khloé Kardashian. b. 1984 | producer, actress, executive.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2835957/\n_search: Khloé Kardashian | Law \u0026 Order: LA | Keeping Up with the Kardashians | Royal Pains | The Kardashians",
+  "id": "bw-p-nm2835957",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Khloé Kardashian",
+  "type": "task"
+}

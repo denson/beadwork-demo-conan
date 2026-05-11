@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Scott. b. 1973 | actor, producer, director.\nConan-show appearances: 13\nIMDb: https://www.imdb.com/name/nm0004395/\n_search: Adam Scott | Parks and Recreation | Severance | Party Down | Step Brothers",
+  "id": "bw-p-nm0004395",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Scott",
+  "type": "task"
+}

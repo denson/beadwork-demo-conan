@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christian Slater/Andy Daly/Kyle Kinane. conan_tbs, S6E143, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6111120/\n_search: Christian Slater/Andy Daly/Kyle Kinane | 2016 | S6E143",
+  "id": "bw-e-tt6111120",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christian Slater/Andy Daly/Kyle Kinane",
+  "type": "task"
+}

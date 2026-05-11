@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack White. b. 1975 | actor, composer, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1226421/\n_search: Jack White | Quantum of Solace | Walk Hard: The Dewey Cox Story | Cold Mountain | The Great Gatsby",
+  "id": "bw-p-nm1226421",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack White",
+  "type": "task"
+}

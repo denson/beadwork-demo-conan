@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan Without Borders: Italy. conan_tbs, S8E58, 2018.\nRuntime: 42 min.\nIMDb rating: 8.6.\nIMDb: https://www.imdb.com/title/tt8227954/\n_search: Conan Without Borders: Italy | 2018 | S8E58",
+  "id": "bw-e-tt8227954",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan Without Borders: Italy",
+  "type": "task"
+}

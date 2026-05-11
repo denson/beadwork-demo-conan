@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bode Miller. b. 1977 | producer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1301126/\n_search: Bode Miller | The White Circus | The Paradise Paradox | La Roche | Bode Miller: Flying Downhill",
+  "id": "bw-p-nm1301126",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bode Miller",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "God Street Wine. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5675540/\n_search: God Street Wine",
+  "id": "bw-p-nm5675540",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "God Street Wine",
+  "type": "task"
+}

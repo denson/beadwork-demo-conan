@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeremiah Fraites. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5435987/\n_search: Jeremiah Fraites | The Hunger Games: Mockingjay - Part 1 | Springsteen: Deliver Me from Nowhere | The Hunger Games: Catching Fire | The Long Walk",
+  "id": "bw-p-nm5435987",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeremiah Fraites",
+  "type": "task"
+}

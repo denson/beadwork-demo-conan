@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Kweller. b. 1981 | music_department, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1572825/\n_search: Ben Kweller | Wedding Crashers | Up in the Air | Mr. Deeds | Choke",
+  "id": "bw-p-nm1572825",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Kweller",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Of Montreal. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2621408/\n_search: Of Montreal | Cloverfield | This Is the End | The Overnight | The O.C.",
+  "id": "bw-p-nm2621408",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Of Montreal",
+  "type": "task"
+}

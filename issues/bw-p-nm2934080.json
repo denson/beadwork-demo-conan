@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Jackson. 1942–2007.\nDECEASED (1942–2007). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2934080/\n_search: Michael Jackson | Beer Pioneers | Beer Hunter: The Movie | World in Action | Open Air",
+  "id": "bw-p-nm2934080",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Jackson",
+  "type": "task"
+}

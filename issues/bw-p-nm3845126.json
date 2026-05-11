@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vana Dabney. casting_department, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3845126/\n_search: Vana Dabney | Honest Monster | Kick-Ass | How to Train Your Dragon | Puss in Boots",
+  "id": "bw-p-nm3845126",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vana Dabney",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erik Koskinen. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8892507/\n_search: Erik Koskinen",
+  "id": "bw-p-nm8892507",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erik Koskinen",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "DJ Qualls. b. 1978 | actor, producer, executive.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0702809/\n_search: DJ Qualls | The Core | Hustle \u0026 Flow | Road Trip | The New Guy",
+  "id": "bw-p-nm0702809",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "DJ Qualls",
+  "type": "task"
+}

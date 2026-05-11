@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christina Aguilera. b. 1980 | music_artist, actress, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004694/\n_search: Christina Aguilera | The Voice | Burlesque | Moulin Rouge! | The Emoji Movie",
+  "id": "bw-p-nm0004694",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christina Aguilera",
+  "type": "task"
+}

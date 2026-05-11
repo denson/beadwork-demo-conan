@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leslie Nielsen/Kathy Ireland/Paula Cole. late_night, S2E37, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2786722/\n_search: Leslie Nielsen/Kathy Ireland/Paula Cole | 1994 | S2E37",
+  "id": "bw-e-tt2786722",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leslie Nielsen/Kathy Ireland/Paula Cole",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sasha Alexander. b. 1973 | actress, director, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0018734/\n_search: Sasha Alexander | Shameless | Rizzoli \u0026 Isles | NCIS | Mission: Impossible III",
+  "id": "bw-p-nm0018734",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sasha Alexander",
+  "type": "task"
+}

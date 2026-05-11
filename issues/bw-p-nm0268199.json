@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Colin Farrell. b. 1976 | actor, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0268199/\n_search: Colin Farrell | The Lobster | In Bruges | Seven Psychopaths | S.W.A.T.",
+  "id": "bw-p-nm0268199",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Colin Farrell",
+  "type": "task"
+}

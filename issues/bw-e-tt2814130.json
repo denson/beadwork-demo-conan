@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Show Where We Partied Too Much in Atlanta to Think of a Good Episode Title. conan_tbs, S3E69, 2013.\nIMDb: https://www.imdb.com/title/tt2814130/\n_search: The Show Where We Partied Too Much in Atlanta to Think of a Good Episode Title | 2013 | S3E69",
+  "id": "bw-e-tt2814130",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Show Where We Partied Too Much in Atlanta to Think of a Good Episode Title",
+  "type": "task"
+}

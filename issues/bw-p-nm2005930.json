@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allan McLeod. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2005930/\n_search: Allan McLeod | You're the Worst | Drunk History | Pluribus | Parks and Recreation",
+  "id": "bw-p-nm2005930",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allan McLeod",
+  "type": "task"
+}

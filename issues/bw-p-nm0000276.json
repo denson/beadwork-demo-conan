@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Astin. b. 1971 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000276/\n_search: Sean Astin | The Lord of the Rings: The Two Towers | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Fellowship of the Ring | The Goonies",
+  "id": "bw-p-nm0000276",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Astin",
+  "type": "task"
+}

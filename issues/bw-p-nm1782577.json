@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Griffin. writer, actor.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1782577/\n_search: Nick Griffin | World's Dumbest | The Keenen Ivory Wayans Show | Life \u0026 Beth | Bob \u0026 Tom Comedy All-Stars Tour",
+  "id": "bw-p-nm1782577",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Griffin",
+  "type": "task"
+}

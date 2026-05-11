@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Earl Ho. composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4815618/\n_search: Earl Ho | Legion | In Isolation | Cavity | Q with Tom Power",
+  "id": "bw-p-nm4815618",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Earl Ho",
+  "type": "task"
+}

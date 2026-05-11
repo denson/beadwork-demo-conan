@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carmen Salvino. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2956419/\n_search: Carmen Salvino | Late Show with David Letterman | Bowling Time | Pro Bowlers' Tour | CBS Bowling Classic",
+  "id": "bw-p-nm2956419",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carmen Salvino",
+  "type": "task"
+}

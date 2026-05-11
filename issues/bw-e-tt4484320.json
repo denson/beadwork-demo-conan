@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan in Cuba. conan_tbs, S5E56, 2015.\nRuntime: 49 min.\nIMDb rating: 8.8.\nIMDb: https://www.imdb.com/title/tt4484320/\n_search: Conan in Cuba | 2015 | S5E56",
+  "id": "bw-e-tt4484320",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan in Cuba",
+  "type": "task"
+}

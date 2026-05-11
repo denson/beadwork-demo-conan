@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thandiwe Newton. b. 1972 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0628601/\n_search: Thandiwe Newton | Crash | Mission: Impossible II | Westworld | The Pursuit of Happyness",
+  "id": "bw-p-nm0628601",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thandiwe Newton",
+  "type": "task"
+}

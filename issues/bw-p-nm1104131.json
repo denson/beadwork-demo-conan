@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Danny McBride. b. 1976 | writer, producer, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1104131/\n_search: Danny McBride | Pineapple Express | Your Highness | Tropic Thunder | Vice Principals",
+  "id": "bw-p-nm1104131",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Danny McBride",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rita Moreno/Bill Lee/Violent Femmes. late_night, S2E18, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2773352/\n_search: Rita Moreno/Bill Lee/Violent Femmes | 1994 | S2E18",
+  "id": "bw-e-tt2773352",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rita Moreno/Bill Lee/Violent Femmes",
+  "type": "task"
+}

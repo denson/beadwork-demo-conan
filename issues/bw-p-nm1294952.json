@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Speech. b. 1968 | composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1294952/\n_search: Speech | Definitely, Maybe | Boomerang | Warriors of Virtue | Chappelle's Show",
+  "id": "bw-p-nm1294952",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Speech",
+  "type": "task"
+}

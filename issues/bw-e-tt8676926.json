@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Yeun/Van Jones/Nick Hart. conan_tbs, S8E89, 2018.\nRuntime: 42 min.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt8676926/\n_search: Steven Yeun/Van Jones/Nick Hart | 2018 | S8E89",
+  "id": "bw-e-tt8676926",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Yeun/Van Jones/Nick Hart",
+  "type": "task"
+}

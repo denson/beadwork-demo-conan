@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Keith Carradine/Carol Channing/The Charlatans. late_night, S1E146, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2702592/\n_search: Keith Carradine/Carol Channing/The Charlatans | 1994 | S1E146",
+  "id": "bw-e-tt2702592",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Keith Carradine/Carol Channing/The Charlatans",
+  "type": "task"
+}

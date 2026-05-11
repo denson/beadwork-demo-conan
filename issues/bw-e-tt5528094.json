@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Snoop Dogg/Steve Wozniak/The Record Company. conan_tbs, S6E53, 2016.\nRuntime: 43 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt5528094/\n_search: Snoop Dogg/Steve Wozniak/The Record Company | 2016 | S6E53",
+  "id": "bw-e-tt5528094",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Snoop Dogg/Steve Wozniak/The Record Company",
+  "type": "task"
+}

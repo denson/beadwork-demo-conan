@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christian Finnegan. b. 1973 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1326880/\n_search: Christian Finnegan | Knight and Day | Indigo Wisemen: In Their Own Words | Eden Court | Chappelle's Show",
+  "id": "bw-p-nm1326880",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christian Finnegan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "k.d. lang. b. 1961 | actress, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0485807/\n_search: k.d. lang | Twister | Salmonberries | Dick Tracy | The Black Dahlia",
+  "id": "bw-p-nm0485807",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "k.d. lang",
+  "type": "task"
+}

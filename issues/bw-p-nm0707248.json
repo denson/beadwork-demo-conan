@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bonnie Raitt. b. 1949 | actress, composer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0707248/\n_search: Bonnie Raitt | Sgt. Pepper's Lonely Hearts Club Band | Nick of Time | Ladder 49 | Air America",
+  "id": "bw-p-nm0707248",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bonnie Raitt",
+  "type": "task"
+}

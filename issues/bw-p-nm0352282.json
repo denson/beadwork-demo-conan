@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Habicht. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0352282/\n_search: Brian Habicht | Dennis the Menace Strikes Again! | City of Industry | Closing Escrow",
+  "id": "bw-p-nm0352282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Habicht",
+  "type": "task"
+}

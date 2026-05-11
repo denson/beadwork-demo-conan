@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doris Roberts. 1925–2016 | actress, director, miscellaneous.\nDECEASED (1925–2016). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005368/\n_search: Doris Roberts | Everybody Loves Raymond | Grandma's Boy | National Lampoon's Christmas Vacation | Remington Steele",
+  "id": "bw-p-nm0005368",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doris Roberts",
+  "type": "task"
+}

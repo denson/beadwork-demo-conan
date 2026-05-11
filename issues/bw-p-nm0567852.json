@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin McDonald. b. 1961 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0567852/\n_search: Kevin McDonald | The Kids in the Hall | Lilo \u0026 Stitch | Sky High | Galaxy Quest",
+  "id": "bw-p-nm0567852",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin McDonald",
+  "type": "task"
+}

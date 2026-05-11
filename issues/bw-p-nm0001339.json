@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marg Helgenberger. b. 1958 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001339/\n_search: Marg Helgenberger | CSI: Crime Scene Investigation | Erin Brockovich | Species | In Good Company",
+  "id": "bw-p-nm0001339",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marg Helgenberger",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Divine Fits. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5360597/\n_search: Divine Fits | The Devil's Hand | Sneaky Pete | Time Out of Mind | Person Woman Man Camera TV",
+  "id": "bw-p-nm5360597",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Divine Fits",
+  "type": "task"
+}

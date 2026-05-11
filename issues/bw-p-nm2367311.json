@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Lynn Warren. actress, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2367311/\n_search: Jennifer Lynn Warren | American Horror Story | The Burial | The Black Mass | Cursed Waters",
+  "id": "bw-p-nm2367311",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Lynn Warren",
+  "type": "task"
+}

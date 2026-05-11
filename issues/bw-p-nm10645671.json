@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Veda Cienfuegos. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10645671/\n_search: Veda Cienfuegos | Circuit Breakers | Undone | Aporia | American Horror Stories",
+  "id": "bw-p-nm10645671",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Veda Cienfuegos",
+  "type": "task"
+}

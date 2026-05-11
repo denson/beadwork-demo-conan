@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Remy K. Selma. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1478911/\n_search: Remy K. Selma | What Just Happened | School for Scoundrels | Hitch | Arranged",
+  "id": "bw-p-nm1478911",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Remy K. Selma",
+  "type": "task"
+}

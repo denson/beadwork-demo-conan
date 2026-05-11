@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Landecker. b. 1969 | actress, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0484541/\n_search: Amy Landecker | For Worse | Dan in Real Life | A Serious Man | Transparent",
+  "id": "bw-p-nm0484541",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Landecker",
+  "type": "task"
+}

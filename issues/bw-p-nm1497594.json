@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ian Brown. b. 1963 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1497594/\n_search: Ian Brown | Lock, Stock and Two Smoking Barrels | Death to Smoochy | The World's End | Vera Drake",
+  "id": "bw-p-nm1497594",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ian Brown",
+  "type": "task"
+}

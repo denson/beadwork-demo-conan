@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sonny Burgess. 1929–2017 | music_department, soundtrack, archive_footage.\nDECEASED (1929–2017). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1906836/\n_search: Sonny Burgess | A Dirty Shame | Rockabilly Weekends: 21 Years of Viva Las Vegas | American Masters | Lone Star Roads",
+  "id": "bw-p-nm1906836",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sonny Burgess",
+  "type": "task"
+}

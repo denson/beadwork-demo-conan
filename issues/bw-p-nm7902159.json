@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Taylor. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7902159/\n_search: Lisa Taylor | The Meteor Man | Class Act | Secrets of the Heart",
+  "id": "bw-p-nm7902159",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Taylor",
+  "type": "task"
+}

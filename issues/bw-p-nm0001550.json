@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cathy Moriarty. b. 1960 | actress, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001550/\n_search: Cathy Moriarty | Raging Bull | Soapdish | The Bounty Hunter | But I'm a Cheerleader",
+  "id": "bw-p-nm0001550",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cathy Moriarty",
+  "type": "task"
+}

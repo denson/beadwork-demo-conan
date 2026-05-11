@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mario Van Peebles. b. 1957 | actor, director, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005522/\n_search: Mario Van Peebles | Baadasssss! | Heartbreak Ridge | Jaws: The Revenge | Panther",
+  "id": "bw-p-nm0005522",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mario Van Peebles",
+  "type": "task"
+}

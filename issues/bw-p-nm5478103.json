@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aparna Nancherla. b. 1982 | actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm5478103/\n_search: Aparna Nancherla | A Simple Favor | Another Simple Favor | Unfrosted | Hoppers",
+  "id": "bw-p-nm5478103",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aparna Nancherla",
+  "type": "task"
+}

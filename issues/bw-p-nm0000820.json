@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Burt Bacharach. 1928–2023 | composer, music_department, actor.\nDECEASED (1928–2023). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0000820/\n_search: Burt Bacharach | Butch Cassidy and the Sundance Kid | Arthur | My Best Friend's Wedding | Austin Powers: The Spy Who Shagged Me",
+  "id": "bw-p-nm0000820",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Burt Bacharach",
+  "type": "task"
+}

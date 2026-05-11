@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Raynor. b. 1978 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0962370/\n_search: Scott Raynor | Bubble Boy | Can't Hardly Wait | 9-1-1 | Dickie Roberts: Former Child Star",
+  "id": "bw-p-nm0962370",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Raynor",
+  "type": "task"
+}

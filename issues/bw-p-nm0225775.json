@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bo Diddley. 1928–2008 | actor, composer, music_department.\nDECEASED (1928–2008). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0225775/\n_search: Bo Diddley | Blues Brothers 2000 | Trading Places | The Long Kiss Goodnight | Men in Black 3",
+  "id": "bw-p-nm0225775",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bo Diddley",
+  "type": "task"
+}

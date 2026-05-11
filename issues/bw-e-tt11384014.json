@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Scott. conan_tbs, S9E112, 2019.\nRuntime: 21 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt11384014/\n_search: Adam Scott | 2019 | S9E112",
+  "id": "bw-e-tt11384014",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Scott",
+  "type": "task"
+}

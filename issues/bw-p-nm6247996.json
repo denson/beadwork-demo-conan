@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wild Cub. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6247996/\n_search: Wild Cub | Project Almanac | This Is Martin Bonner | Late Night with Jimmy Fallon",
+  "id": "bw-p-nm6247996",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wild Cub",
+  "type": "task"
+}

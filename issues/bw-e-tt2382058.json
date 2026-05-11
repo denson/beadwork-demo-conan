@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Then the Clock Struck 12, 11 Central Time, 10 Mountain Time. conan_tbs, S2E134, 2012.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt2382058/\n_search: Then the Clock Struck 12, 11 Central Time, 10 Mountain Time | 2012 | S2E134",
+  "id": "bw-e-tt2382058",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Then the Clock Struck 12, 11 Central Time, 10 Mountain Time",
+  "type": "task"
+}

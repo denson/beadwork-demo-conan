@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Piotr Michael. b. 1988 | actor, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3086712/\n_search: Piotr Michael | Zootopia 2 | The Outer Worlds 2 | Dune: Awakening | Young Jedi Adventures",
+  "id": "bw-p-nm3086712",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Piotr Michael",
+  "type": "task"
+}

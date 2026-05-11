@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richie Sambora. b. 1959 | actor, composer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1059359/\n_search: Richie Sambora | Spaceballs | Wild Wild West | Days of Thunder | Wild Hogs",
+  "id": "bw-p-nm1059359",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richie Sambora",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Schumer. b. 1950 | actor, archive_footage, archive_sound.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1528459/\n_search: Chuck Schumer | Law \u0026 Order: Criminal Intent | The Good Wife | Alpha House | IAC My Story",
+  "id": "bw-p-nm1528459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Schumer",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Crotteau. script_department, production_department, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2190096/\n_search: John Crotteau | Conan O'Brien Can't Stop | The Apprentice | The Agency",
+  "id": "bw-p-nm2190096",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Crotteau",
+  "type": "task"
+}

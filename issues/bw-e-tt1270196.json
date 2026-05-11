@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Stewart/Oliver Hudson/A.A. Bondy. late_night, S15E96, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1270196/\n_search: Patrick Stewart/Oliver Hudson/A.A. Bondy | 2008 | S15E96",
+  "id": "bw-e-tt1270196",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Stewart/Oliver Hudson/A.A. Bondy",
+  "type": "task"
+}

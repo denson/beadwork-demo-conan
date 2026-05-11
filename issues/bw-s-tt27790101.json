@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan O'Brien Must Go (2024–present). A show in Conan's career arc.\nIMDb: https://www.imdb.com/title/tt27790101/\n_search: Conan O'Brien Must Go | 2024",
+  "id": "bw-s-tt27790101",
+  "labels": [
+    "kind:show",
+    "era:must_go",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan O'Brien Must Go",
+  "type": "task"
+}

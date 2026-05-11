@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lord Huron. music_artist, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5356769/\n_search: Lord Huron | A Walk in the Woods | Endless Love | Carrie | A Case of You",
+  "id": "bw-p-nm5356769",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lord Huron",
+  "type": "task"
+}

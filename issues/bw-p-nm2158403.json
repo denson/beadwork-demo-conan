@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Suzanne Dengel. b. 1992 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2158403/\n_search: Suzanne Dengel | The Devil Wears Prada | The Devil Wears Prada 2 | Dark Horse",
+  "id": "bw-p-nm2158403",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Suzanne Dengel",
+  "type": "task"
+}

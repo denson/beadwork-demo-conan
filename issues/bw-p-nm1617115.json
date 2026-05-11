@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gene Pompa. actor, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm1617115/\n_search: Gene Pompa | Just Go with It | Bucky Larson: Born to Be a Star | Los Beltrán | Scrubs",
+  "id": "bw-p-nm1617115",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gene Pompa",
+  "type": "task"
+}

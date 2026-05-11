@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Lee Tasjan. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8760557/\n_search: Aaron Lee Tasjan | Serious Moonlight | Off the Record | Staring at the Sun",
+  "id": "bw-p-nm8760557",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Lee Tasjan",
+  "type": "task"
+}

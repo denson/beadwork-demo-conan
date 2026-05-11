@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Wopat. b. 1951 | actor, director, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0941374/\n_search: Tom Wopat | The Dukes of Hazzard | Django Unchained | Jonah Hex | The Dukes of Hazzard: Reunion!",
+  "id": "bw-p-nm0941374",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Wopat",
+  "type": "task"
+}

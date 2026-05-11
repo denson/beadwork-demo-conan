@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Leguizamo/Nicole Richie/Tariq \"Kingflex\" Nasheed. late_night, S12E70, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627619/\n_search: John Leguizamo/Nicole Richie/Tariq \"Kingflex\" Nasheed | 2005 | S12E70",
+  "id": "bw-e-tt0627619",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Leguizamo/Nicole Richie/Tariq \"Kingflex\" Nasheed",
+  "type": "task"
+}

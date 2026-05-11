@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samuel Gilbert. cinematographer, actor, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5377523/\n_search: Samuel Gilbert | New Girl | The Middle | The Babysitter | See Dad Run",
+  "id": "bw-p-nm5377523",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samuel Gilbert",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Sudeikis/Walton Goggins/Lukas Nelson \u0026 Promise of the Real. conan_tbs, S6E55, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5528112/\n_search: Jason Sudeikis/Walton Goggins/Lukas Nelson \u0026 Promise of the Real | 2016 | S6E55",
+  "id": "bw-e-tt5528112",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Sudeikis/Walton Goggins/Lukas Nelson \u0026 Promise of the Real",
+  "type": "task"
+}

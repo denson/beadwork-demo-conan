@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bang Camaro. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2928116/\n_search: Bang Camaro | Deep in the Valley | Madden NFL 2010 | Rock Band | Jimmy Kimmel Live!",
+  "id": "bw-p-nm2928116",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bang Camaro",
+  "type": "task"
+}

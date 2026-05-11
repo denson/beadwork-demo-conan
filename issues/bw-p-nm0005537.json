@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Don Was. b. 1952 | music_department, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005537/\n_search: Don Was | Mad About You | Black Rain | Hope Floats | Assassins",
+  "id": "bw-p-nm0005537",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Don Was",
+  "type": "task"
+}

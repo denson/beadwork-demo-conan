@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Radish. actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4926776/\n_search: Radish | Girl Troop versus Aliens | The Weird Al Show | The Big Breakfast",
+  "id": "bw-p-nm4926776",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Radish",
+  "type": "task"
+}

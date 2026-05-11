@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kai. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm16056518/\n_search: Kai",
+  "id": "bw-p-nm16056518",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kai",
+  "type": "task"
+}

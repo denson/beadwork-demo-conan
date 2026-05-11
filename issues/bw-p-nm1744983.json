@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Del Marquis. b. 1979 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1744983/\n_search: Del Marquis | Seeking a Friend for the End of the World | The Guilt Trip | Uma Aventura | Generation",
+  "id": "bw-p-nm1744983",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Del Marquis",
+  "type": "task"
+}

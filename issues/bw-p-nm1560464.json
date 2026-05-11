@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mercy Malick. actress, stunts, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1560464/\n_search: Mercy Malick | Mr. Mayor | Circle | S.W.A.T.",
+  "id": "bw-p-nm1560464",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mercy Malick",
+  "type": "task"
+}

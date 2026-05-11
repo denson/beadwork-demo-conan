@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Graham Bensinger. actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2172757/\n_search: Graham Bensinger | In Depth with Graham Bensinger | The Tonight Show with Jay Leno | Untold",
+  "id": "bw-p-nm2172757",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Graham Bensinger",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samuel L. Jackson. b. 1948 | actor, producer, miscellaneous.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0000168/\n_search: Samuel L. Jackson | Pulp Fiction | The Hateful Eight | Snakes on a Plane | Captain Marvel",
+  "id": "bw-p-nm0000168",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samuel L. Jackson",
+  "type": "task"
+}

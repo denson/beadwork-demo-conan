@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Sheen. b. 1965 | actor, producer, writer.\nConan-show appearances: 8 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0000221/\n_search: Charlie Sheen | Two and a Half Men | The Three Musketeers | Wall Street | Young Guns",
+  "id": "bw-p-nm0000221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Sheen",
+  "type": "task"
+}

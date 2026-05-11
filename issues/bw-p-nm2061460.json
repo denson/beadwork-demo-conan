@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "DeVotchKa. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2061460/\n_search: DeVotchKa | Little Miss Sunshine | I Love You Phillip Morris | Ruby Sparks | Penelope",
+  "id": "bw-p-nm2061460",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "DeVotchKa",
+  "type": "task"
+}

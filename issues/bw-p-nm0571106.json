@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael McKean. b. 1947 | actor, director, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0571106/\n_search: Michael McKean | This Is Spinal Tap | A Mighty Wind | Clue | Better Call Saul",
+  "id": "bw-p-nm0571106",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael McKean",
+  "type": "task"
+}

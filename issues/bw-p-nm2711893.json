@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Jazz Passengers. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2711893/\n_search: The Jazz Passengers | Let's Go Bowling | Play Normally! | Miss Wisenheimer and the Aliens | Talkin' Jazz: The Jazz Passengers",
+  "id": "bw-p-nm2711893",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Jazz Passengers",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robin Wright. b. 1966 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000705/\n_search: Robin Wright | Forrest Gump | Beowulf | Unbreakable | The Princess Bride",
+  "id": "bw-p-nm0000705",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robin Wright",
+  "type": "task"
+}

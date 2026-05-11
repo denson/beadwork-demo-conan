@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Holly Cole Trio. actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3921909/\n_search: Holly Cole Trio | And We Knew How to Dance: Women in World War I | Paternal Instinct | Due South | Friday Night with Ralph Benmergui",
+  "id": "bw-p-nm3921909",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Holly Cole Trio",
+  "type": "task"
+}

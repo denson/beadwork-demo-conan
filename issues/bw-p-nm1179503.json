@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandon Boyd. b. 1976 | actor, director, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1179503/\n_search: Brandon Boyd | Stealth | Spawn | Little Nicky | Final Destination 2",
+  "id": "bw-p-nm1179503",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandon Boyd",
+  "type": "task"
+}

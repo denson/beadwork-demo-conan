@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Estes. b. 1963 | actor, director, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004900/\n_search: Rob Estes | Silk Stalkings | Melrose Place | 90210 | After We Collided",
+  "id": "bw-p-nm0004900",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Estes",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timothy Dalton. b. 1946 | actor, miscellaneous, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001096/\n_search: Timothy Dalton | The Living Daylights | Licence to Kill | Hot Fuzz | Flash Gordon",
+  "id": "bw-p-nm0001096",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timothy Dalton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Calista Flockhart. b. 1964 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001222/\n_search: Calista Flockhart | Ally McBeal | The Birdcage | Supergirl | A Midsummer Night's Dream",
+  "id": "bw-p-nm0001222",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Calista Flockhart",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vinnie Jones. b. 1965 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005068/\n_search: Vinnie Jones | Snatch | Lock, Stock and Two Smoking Barrels | The Midnight Meat Train | X-Men: The Last Stand",
+  "id": "bw-p-nm0005068",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vinnie Jones",
+  "type": "task"
+}

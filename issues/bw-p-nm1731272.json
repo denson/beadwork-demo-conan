@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wilbur DiTullio. editor, visual_effects, editorial_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1731272/\n_search: Wilbur DiTullio | Atsuko Okatsuka: The Intruder | 2 Dope Queens | Mo Amer: Mohammed in Texas",
+  "id": "bw-p-nm1731272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wilbur DiTullio",
+  "type": "task"
+}

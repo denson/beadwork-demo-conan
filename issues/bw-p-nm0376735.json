@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Hendricks. 1921–2017 | actor, composer, writer.\nDECEASED (1921–2017). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0376735/\n_search: Jon Hendricks | White Men Can't Jump | Crazy Rich Asians | Men of Honor | The Wolf of Wall Street",
+  "id": "bw-p-nm0376735",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Hendricks",
+  "type": "task"
+}

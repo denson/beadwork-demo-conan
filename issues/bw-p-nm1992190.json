@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jillian Michaels. b. 1974 | producer, actress, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1992190/\n_search: Jillian Michaels | Kickin' It | Ninjago | Graves | Sweat INC.",
+  "id": "bw-p-nm1992190",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jillian Michaels",
+  "type": "task"
+}

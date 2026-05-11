@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ernie Charles. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3171390/\n_search: Ernie Charles | Criminal Minds | The Last Ship | Ticketed | The Mean One",
+  "id": "bw-p-nm3171390",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ernie Charles",
+  "type": "task"
+}

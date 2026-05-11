@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Man, a Tan, a Terrible Plan. conan_tbs, S2E158, 2012.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt2480042/\n_search: A Man, a Tan, a Terrible Plan | 2012 | S2E158",
+  "id": "bw-e-tt2480042",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Man, a Tan, a Terrible Plan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Damon Wayans Jr.. b. 1982 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0915458/\n_search: Damon Wayans Jr. | Big Hero 6 | The Other Guys | Let's Be Cops | Dance Flick",
+  "id": "bw-p-nm0915458",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Damon Wayans Jr.",
+  "type": "task"
+}

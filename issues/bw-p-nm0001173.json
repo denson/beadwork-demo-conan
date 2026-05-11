@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Eckhart. b. 1968 | actor, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001173/\n_search: Aaron Eckhart | The Dark Knight | Thank You for Smoking | Rabbit Hole | The Core",
+  "id": "bw-p-nm0001173",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Eckhart",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Fowler/Andrew Golota/Robert Loggia. late_night, S3E167, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4172576/\n_search: Jim Fowler/Andrew Golota/Robert Loggia | 1996 | S3E167",
+  "id": "bw-e-tt4172576",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Fowler/Andrew Golota/Robert Loggia",
+  "type": "task"
+}

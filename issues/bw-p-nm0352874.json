@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beverly Hadley. miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0352874/\n_search: Beverly Hadley | V | The Adventures of Brisco County, Jr. | Scarecrow and Mrs. King | The Flash",
+  "id": "bw-p-nm0352874",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beverly Hadley",
+  "type": "task"
+}

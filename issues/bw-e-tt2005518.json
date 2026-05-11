@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Gentile's Bar Mitzvah. conan_tbs, S1E125, 2011.\nRuntime: 60 min.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt2005518/\n_search: The Gentile's Bar Mitzvah | 2011 | S1E125",
+  "id": "bw-e-tt2005518",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Gentile's Bar Mitzvah",
+  "type": "task"
+}

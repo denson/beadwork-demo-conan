@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Janine Michael. production_department, casting_department, casting_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0584132/\n_search: Janine Michael | Prince of Central Park | Above Freezing | Late Night with Conan O'Brien: 10th Anniversary Special",
+  "id": "bw-p-nm0584132",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Janine Michael",
+  "type": "task"
+}

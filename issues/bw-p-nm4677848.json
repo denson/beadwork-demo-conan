@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Myron McClure. actor, writer, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4677848/\n_search: Myron McClure | Spinning Man | Gym Buddies | Counterpunch",
+  "id": "bw-p-nm4677848",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Myron McClure",
+  "type": "task"
+}

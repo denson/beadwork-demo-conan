@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Oldman/Gabriel Iglesias/The Hold Steady. conan_tbs, S4E112, 2014.\nIMDb: https://www.imdb.com/title/tt3890448/\n_search: Gary Oldman/Gabriel Iglesias/The Hold Steady | 2014 | S4E112",
+  "id": "bw-e-tt3890448",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Oldman/Gabriel Iglesias/The Hold Steady",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elaine Bradley. b. 1978 | producer, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5110912/\n_search: Elaine Bradley | What's Your Number? | Mother's Day | Unexpected Race | Forza Horizon",
+  "id": "bw-p-nm5110912",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elaine Bradley",
+  "type": "task"
+}

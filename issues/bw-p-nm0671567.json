@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Peña. b. 1976 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0671567/\n_search: Michael Peña | American Hustle | Crash | End of Watch | Ant-Man",
+  "id": "bw-p-nm0671567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Peña",
+  "type": "task"
+}

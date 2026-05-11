@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Gardell. b. 1969 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0974080/\n_search: Billy Gardell | Bad Santa | Dragon Wars: D-War | Avenging Angelo | The Electric State",
+  "id": "bw-p-nm0974080",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Gardell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alison Eastwood. b. 1972 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0002055/\n_search: Alison Eastwood | Midnight in the Garden of Good and Evil | The Mule | Absolute Power | Tightrope",
+  "id": "bw-p-nm0002055",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alison Eastwood",
+  "type": "task"
+}

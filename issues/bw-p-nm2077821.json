@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Academy Is. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2077821/\n_search: The Academy Is | P.S. I Love You | The Hills | Degrassi: The Next Generation | Burnout Revenge",
+  "id": "bw-p-nm2077821",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Academy Is",
+  "type": "task"
+}

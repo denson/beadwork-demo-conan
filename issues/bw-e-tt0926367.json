@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carson Daly/Michelle Trachtenberg/Nellie McKay. late_night, S14E64, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0926367/\n_search: Carson Daly/Michelle Trachtenberg/Nellie McKay | 2006 | S14E64",
+  "id": "bw-e-tt0926367",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carson Daly/Michelle Trachtenberg/Nellie McKay",
+  "type": "task"
+}

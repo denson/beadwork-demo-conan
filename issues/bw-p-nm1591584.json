@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Britt Daniel. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1591584/\n_search: Britt Daniel | Spider-Man: Homecoming | Cloverfield | Stranger Than Fiction | Mean Creek",
+  "id": "bw-p-nm1591584",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Britt Daniel",
+  "type": "task"
+}

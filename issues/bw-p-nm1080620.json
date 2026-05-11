@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alessandra Ambrosio. b. 1981 | actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1080620/\n_search: Alessandra Ambrosio | Teenage Mutant Ninja Turtles: Out of the Shadows | Casino Royale | Daddy's Home 2 | Daddy's Home",
+  "id": "bw-p-nm1080620",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alessandra Ambrosio",
+  "type": "task"
+}

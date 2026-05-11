@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Cannon. b. 1980 | producer, writer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0134244/\n_search: Nick Cannon | Drumline | Bobby | Love Don't Cost a Thing | Men in Black II",
+  "id": "bw-p-nm0134244",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Cannon",
+  "type": "task"
+}

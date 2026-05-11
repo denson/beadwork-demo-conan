@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Twiggy. b. 1949 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0493341/\n_search: Twiggy | The Boy Friend | The Blues Brothers | The Nanny | Club Paradise",
+  "id": "bw-p-nm0493341",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Twiggy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Smithereens. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1032784/\n_search: The Smithereens | Timecop | Backdraft | Bull Durham | I Now Pronounce You Chuck \u0026 Larry",
+  "id": "bw-p-nm1032784",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Smithereens",
+  "type": "task"
+}

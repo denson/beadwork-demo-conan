@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Federowicz. producer, production_department, editorial_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3530444/\n_search: Sarah Federowicz | The Pete Holmes Show | Moses Storm: Trash White | Beth Stelling: Girl Daddy",
+  "id": "bw-p-nm3530444",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Federowicz",
+  "type": "task"
+}

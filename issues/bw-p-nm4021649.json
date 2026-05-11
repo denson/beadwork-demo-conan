@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Haley. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4021649/\n_search: Scott Haley | The Optimist | Thirteen",
+  "id": "bw-p-nm4021649",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Haley",
+  "type": "task"
+}

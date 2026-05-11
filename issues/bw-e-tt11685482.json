@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Goldblum. conan_tbs, S10E6, 2020.\nRuntime: 21 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt11685482/\n_search: Jeff Goldblum | 2020 | S10E6",
+  "id": "bw-e-tt11685482",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Goldblum",
+  "type": "task"
+}

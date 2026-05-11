@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank Grillo. actor, producer, executive.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0342029/\n_search: Frank Grillo | The Grey | The Purge: Anarchy | Captain America: The Winter Soldier | Boss Level",
+  "id": "bw-p-nm0342029",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank Grillo",
+  "type": "task"
+}

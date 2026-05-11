@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Gardell/Erin and Sara Foster/Tinashe. conan_tbs, S5E70, 2015.\nIMDb: https://www.imdb.com/title/tt4618738/\n_search: Billy Gardell/Erin and Sara Foster/Tinashe | 2015 | S5E70",
+  "id": "bw-e-tt4618738",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Gardell/Erin and Sara Foster/Tinashe",
+  "type": "task"
+}

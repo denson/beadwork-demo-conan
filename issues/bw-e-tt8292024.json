@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Sudeikis/Malin Akerman/Monrok. conan_tbs, S8E64, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8292024/\n_search: Jason Sudeikis/Malin Akerman/Monrok | 2018 | S8E64",
+  "id": "bw-e-tt8292024",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Sudeikis/Malin Akerman/Monrok",
+  "type": "task"
+}

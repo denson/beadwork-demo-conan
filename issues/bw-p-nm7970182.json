@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rojo Perez. writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7970182/\n_search: Rojo Perez | Drink Masters | Renee Gauthier: High Blood Italian | Cop Show | Survival of the Thickest",
+  "id": "bw-p-nm7970182",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rojo Perez",
+  "type": "task"
+}

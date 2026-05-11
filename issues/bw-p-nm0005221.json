@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Meloni. b. 1961 | actor, producer, director.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0005221/\n_search: Christopher Meloni | Man of Steel | Harold \u0026 Kumar Go to White Castle | Snatched | Fear and Loathing in Las Vegas",
+  "id": "bw-p-nm0005221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Meloni",
+  "type": "task"
+}

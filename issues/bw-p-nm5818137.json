@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnnyswim. music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5818137/\n_search: Johnnyswim | Unconditional | Stages | VH1 You Oughta Know in Concert",
+  "id": "bw-p-nm5818137",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnnyswim",
+  "type": "task"
+}

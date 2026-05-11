@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alec Baldwin/Charlie Rose/The Five Blind Boys of Alabama. late_night, S1E73, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2148255/\n_search: Alec Baldwin/Charlie Rose/The Five Blind Boys of Alabama | 1993 | S1E73",
+  "id": "bw-e-tt2148255",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alec Baldwin/Charlie Rose/The Five Blind Boys of Alabama",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Alan Grier/Tracy Austin/Dom Irrera. late_night, S1E225, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2769274/\n_search: David Alan Grier/Tracy Austin/Dom Irrera | 1994 | S1E225",
+  "id": "bw-e-tt2769274",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Alan Grier/Tracy Austin/Dom Irrera",
+  "type": "task"
+}

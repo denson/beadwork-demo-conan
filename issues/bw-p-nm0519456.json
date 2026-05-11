@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eva Longoria. b. 1975 | actress, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0519456/\n_search: Eva Longoria | Desperate Housewives | Harsh Times | The Sentinel | Dora and the Lost City of Gold",
+  "id": "bw-p-nm0519456",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eva Longoria",
+  "type": "task"
+}

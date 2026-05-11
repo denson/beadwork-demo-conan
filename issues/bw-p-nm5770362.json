@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carissa Bazler. b. 2006 | actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5770362/\n_search: Carissa Bazler | Coming to Terms | The Grim Reaper's Daughter | Mondays | The Voice Within",
+  "id": "bw-p-nm5770362",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carissa Bazler",
+  "type": "task"
+}

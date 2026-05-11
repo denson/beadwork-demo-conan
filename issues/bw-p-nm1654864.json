@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Gulman. b. 1970 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm1654864/\n_search: Gary Gulman | Joker | Swap | Last Comic Standing | Gary Gulman: It's About Time",
+  "id": "bw-p-nm1654864",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Gulman",
+  "type": "task"
+}

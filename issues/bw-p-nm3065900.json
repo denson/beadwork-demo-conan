@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Simmons. actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3065900/\n_search: Sam Simmons | Sam Simmons: Wallstud | The Urban Monkey | The Ronnie Johns Half Hour | Problems",
+  "id": "bw-p-nm3065900",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Simmons",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hi Rhythm Section. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5842973/\n_search: Hi Rhythm Section",
+  "id": "bw-p-nm5842973",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hi Rhythm Section",
+  "type": "task"
+}

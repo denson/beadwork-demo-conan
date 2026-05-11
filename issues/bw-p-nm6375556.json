@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kirstin Maldonado. b. 1992 | actress, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6375556/\n_search: Kirstin Maldonado | Pitch Perfect 2 | The Grinch | Bones | Meet Me Next Christmas",
+  "id": "bw-p-nm6375556",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kirstin Maldonado",
+  "type": "task"
+}

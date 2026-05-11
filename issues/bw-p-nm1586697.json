@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Prevost. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1586697/\n_search: Greg Prevost | Christmas with the Kranks | Where Is the Chesterfield King?!?! | The Sopranos | Rolling Stone: Life and Death of Brian Jones",
+  "id": "bw-p-nm1586697",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Prevost",
+  "type": "task"
+}

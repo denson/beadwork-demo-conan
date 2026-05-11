@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Randy Houser. b. 1975 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3111951/\n_search: Randy Houser | Crank: High Voltage | Killers of the Flower Moon | The X-Files | The Hill",
+  "id": "bw-p-nm3111951",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Randy Houser",
+  "type": "task"
+}

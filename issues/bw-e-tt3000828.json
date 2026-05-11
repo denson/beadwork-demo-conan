@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Whoopi Goldberg/Jack Palance/Simply Red. late_night, S4E46, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3000828/\n_search: Whoopi Goldberg/Jack Palance/Simply Red | 1996 | S4E46",
+  "id": "bw-e-tt3000828",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Whoopi Goldberg/Jack Palance/Simply Red",
+  "type": "task"
+}

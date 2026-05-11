@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zach Galifianakis. b. 1969 | actor, producer, writer.\nConan-show appearances: 12 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0302108/\n_search: Zach Galifianakis | The Hangover | Birdman or (The Unexpected Virtue of Ignorance) | Due Date | The Lego Batman Movie",
+  "id": "bw-p-nm0302108",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zach Galifianakis",
+  "type": "task"
+}

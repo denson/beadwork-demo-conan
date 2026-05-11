@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Lapkus. b. 1985 | actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1944055/\n_search: Lauren Lapkus | The Wrong Missy | Good Girls | Orange Is the New Black | Jurassic World",
+  "id": "bw-p-nm1944055",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Lapkus",
+  "type": "task"
+}

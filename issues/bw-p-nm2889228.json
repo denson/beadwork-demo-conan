@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "MGMT. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2889228/\n_search: MGMT | The Amazing Spider-Man 2 | The Kids Are All Right | 21 | The Kings of Summer",
+  "id": "bw-p-nm2889228",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "MGMT",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Faris/Nathan Fielder/Dhani Harrison. conan_tbs, S8E1, 2017.\nRuntime: 42 min.\nIMDb rating: 6.7.\nIMDb: https://www.imdb.com/title/tt7560012/\n_search: Anna Faris/Nathan Fielder/Dhani Harrison | 2017 | S8E1",
+  "id": "bw-e-tt7560012",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Faris/Nathan Fielder/Dhani Harrison",
+  "type": "task"
+}

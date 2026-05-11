@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leonard Nimoy. 1931–2015 | actor, producer, director.\nDECEASED (1931–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000559/\n_search: Leonard Nimoy | Star Trek IV: The Voyage Home | Star Trek VI: The Undiscovered Country | Star Trek | Star Trek III: The Search for Spock",
+  "id": "bw-p-nm0000559",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leonard Nimoy",
+  "type": "task"
+}

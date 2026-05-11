@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Integrity Episode, Brought to You by Pall Mall Cigarettes. conan_tbs, S2E30, 2012.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt2180855/\n_search: The Integrity Episode, Brought to You by Pall Mall Cigarettes | 2012 | S2E30",
+  "id": "bw-e-tt2180855",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Integrity Episode, Brought to You by Pall Mall Cigarettes",
+  "type": "task"
+}

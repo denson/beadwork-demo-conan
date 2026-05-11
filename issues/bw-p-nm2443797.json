@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lior Raz. b. 1971 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2443797/\n_search: Lior Raz | Fauda | Hit \u0026 Run | 6 Underground | Operation Finale",
+  "id": "bw-p-nm2443797",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lior Raz",
+  "type": "task"
+}

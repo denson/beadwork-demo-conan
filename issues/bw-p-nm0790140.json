@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Shaya. b. 1969 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0790140/\n_search: Carol Shaya | Silent Predator | New York Undercover | Secrets of Playboy | Howard Stern",
+  "id": "bw-p-nm0790140",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Shaya",
+  "type": "task"
+}

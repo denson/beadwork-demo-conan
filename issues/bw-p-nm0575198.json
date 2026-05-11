@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anne Meara. 1929–2015 | actress, producer, writer.\nDECEASED (1929–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0575198/\n_search: Anne Meara | Fame | Heavyweights | Night at the Museum | Awakenings",
+  "id": "bw-p-nm0575198",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anne Meara",
+  "type": "task"
+}

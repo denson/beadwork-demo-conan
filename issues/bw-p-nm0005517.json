@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabrielle Union. b. 1972 | actress, producer, soundtrack.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0005517/\n_search: Gabrielle Union | Bring It On | Bad Boys II | Deliver Us from Eva | 10 Things I Hate About You",
+  "id": "bw-p-nm0005517",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabrielle Union",
+  "type": "task"
+}

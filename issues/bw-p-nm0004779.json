@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Garth Brooks. b. 1962 | music_artist, actor, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0004779/\n_search: Garth Brooks | Frequency | For Love of the Game | Hope Floats | Garth Live from Central Park",
+  "id": "bw-p-nm0004779",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Garth Brooks",
+  "type": "task"
+}

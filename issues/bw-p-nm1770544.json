@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Catherine Russell. actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1770544/\n_search: Catherine Russell | Kill Your Darlings | Basket Case | Bolden | Night and the City",
+  "id": "bw-p-nm1770544",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Catherine Russell",
+  "type": "task"
+}

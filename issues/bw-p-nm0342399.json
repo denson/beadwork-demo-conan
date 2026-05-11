@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Greg Grunberg. b. 1966 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0342399/\n_search: Greg Grunberg | Hollow Man | Alias | Star Wars: Episode IX - The Rise of Skywalker | Star Trek",
+  "id": "bw-p-nm0342399",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Greg Grunberg",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vinny Pazienza. b. 1962 | actor, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0668615/\n_search: Vinny Pazienza | Bleed for This | The Tournament | The Good Life | Police Academy: The Series",
+  "id": "bw-p-nm0668615",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vinny Pazienza",
+  "type": "task"
+}

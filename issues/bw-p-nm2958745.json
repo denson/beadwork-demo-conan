@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rosemary Ellis. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2958745/\n_search: Rosemary Ellis | The Next Food Network Star | The Biggest Loser | Rachael Ray | Today",
+  "id": "bw-p-nm2958745",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rosemary Ellis",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stacey Harkey. actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5315503/\n_search: Stacey Harkey | Studio C | Go West | Bring the Funny | Freelancers",
+  "id": "bw-p-nm5315503",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stacey Harkey",
+  "type": "task"
+}

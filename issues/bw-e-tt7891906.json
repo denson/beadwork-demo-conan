@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathy Bates/Louie Anderson/Tune-Yards. conan_tbs, S8E26, 2018.\nRuntime: 42 min.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt7891906/\n_search: Kathy Bates/Louie Anderson/Tune-Yards | 2018 | S8E26",
+  "id": "bw-e-tt7891906",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathy Bates/Louie Anderson/Tune-Yards",
+  "type": "task"
+}

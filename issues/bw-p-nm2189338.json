@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Lambert. b. 1982 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2189338/\n_search: Adam Lambert | 2012 | Captain Underpants: The First Epic Movie | The Ten Commandments: The Musical | The Rocky Horror Picture Show: Let's Do the Time Warp Again",
+  "id": "bw-p-nm2189338",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Lambert",
+  "type": "task"
+}

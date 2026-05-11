@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Damon Dash. b. 1971 | producer, director, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0201965/\n_search: Damon Dash | State Property: Blood on the Streets | Honor Up | The Woodsman | Chronicles Of The Anunnaki",
+  "id": "bw-p-nm0201965",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Damon Dash",
+  "type": "task"
+}

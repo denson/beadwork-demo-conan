@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Linda Hamilton. b. 1956 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000157/\n_search: Linda Hamilton | Terminator 2: Judgment Day | Terminator: Dark Fate | The Terminator | Dante's Peak",
+  "id": "bw-p-nm0000157",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Linda Hamilton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Duchovny/Bill Bellamy/Robert Bradley's Blackwater Surprise. late_night, S5E20, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627031/\n_search: David Duchovny/Bill Bellamy/Robert Bradley's Blackwater Surprise | 1997 | S5E20",
+  "id": "bw-e-tt0627031",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Duchovny/Bill Bellamy/Robert Bradley's Blackwater Surprise",
+  "type": "task"
+}

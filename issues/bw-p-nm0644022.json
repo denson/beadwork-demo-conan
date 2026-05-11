@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Odenkirk. b. 1962 | writer, actor, producer.\nConan-show appearances: 14 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0644022/\n_search: Bob Odenkirk | Nobody | Better Call Saul | Mr. Show with Bob and David | Nebraska",
+  "id": "bw-p-nm0644022",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Odenkirk",
+  "type": "task"
+}

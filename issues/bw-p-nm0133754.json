@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Candido. 1972–2005 | actor, archive_footage.\nDECEASED (1972–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0133754/\n_search: Chris Candido | WCW Thunder | WrestleMania XII | WWE Monday Night RAW | WWF Superstars",
+  "id": "bw-p-nm0133754",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Candido",
+  "type": "task"
+}

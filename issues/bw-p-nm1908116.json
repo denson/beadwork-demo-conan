@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erran Baron Cohen. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1908116/\n_search: Erran Baron Cohen | The Dictator | Borat Subsequent Moviefilm | Borat | Brüno",
+  "id": "bw-p-nm1908116",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erran Baron Cohen",
+  "type": "task"
+}

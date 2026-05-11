@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elizabeth Banks. b. 1974 | actress, producer, director.\nConan-show appearances: 3 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0006969/\n_search: Elizabeth Banks | The Hunger Games | The Hunger Games: Mockingjay - Part 1 | The Lego Movie | Love \u0026 Mercy",
+  "id": "bw-p-nm0006969",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elizabeth Banks",
+  "type": "task"
+}

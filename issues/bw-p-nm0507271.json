@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Huey Lewis. b. 1950 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0507271/\n_search: Huey Lewis | Back to the Future | Short Cuts | Duets | Wag the Dog",
+  "id": "bw-p-nm0507271",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Huey Lewis",
+  "type": "task"
+}

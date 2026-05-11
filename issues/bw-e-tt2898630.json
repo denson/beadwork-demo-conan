@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Dennehy/Veronica Webb/Cracker. late_night, S2E15, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2898630/\n_search: Brian Dennehy/Veronica Webb/Cracker | 1994 | S2E15",
+  "id": "bw-e-tt2898630",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Dennehy/Veronica Webb/Cracker",
+  "type": "task"
+}

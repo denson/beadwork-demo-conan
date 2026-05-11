@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Buddy Lazier. b. 1967.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5699156/\n_search: Buddy Lazier | ABC Sports | ABC's Wide World of Sports | IndyCar | NASCAR on Speed",
+  "id": "bw-p-nm5699156",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Buddy Lazier",
+  "type": "task"
+}

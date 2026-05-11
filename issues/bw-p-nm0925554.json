@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Verdine White. b. 1951 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0925554/\n_search: Verdine White | Think Like a Man | Mr. Church | Be Cool | Cold Case",
+  "id": "bw-p-nm0925554",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Verdine White",
+  "type": "task"
+}

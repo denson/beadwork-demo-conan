@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Strahan/Sarah Bolger/Sheryl Crow. late_night, S15E58, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1181540/\n_search: Michael Strahan/Sarah Bolger/Sheryl Crow | 2008 | S15E58",
+  "id": "bw-e-tt1181540",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Strahan/Sarah Bolger/Sheryl Crow",
+  "type": "task"
+}

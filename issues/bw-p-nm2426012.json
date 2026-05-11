@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bear Grylls. b. 1974 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2426012/\n_search: Bear Grylls | You vs. Wild | Arthur the King | You vs. Wild: Out Cold | The Count of Monte Cristo",
+  "id": "bw-p-nm2426012",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bear Grylls",
+  "type": "task"
+}

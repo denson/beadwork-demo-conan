@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tommy Lasorda. 1927–2021 | actor, archive_footage, archive_sound.\nDECEASED (1927–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0489749/\n_search: Tommy Lasorda | Homeward Bound II: Lost in San Francisco | Ladybugs | Arli$$ | Hart to Hart",
+  "id": "bw-p-nm0489749",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tommy Lasorda",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Norton/Alan Tudyk/The Revivalists. conan_tbs, S7E23, 2016.\nRuntime: 42 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt6343692/\n_search: Edward Norton/Alan Tudyk/The Revivalists | 2016 | S7E23",
+  "id": "bw-e-tt6343692",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Norton/Alan Tudyk/The Revivalists",
+  "type": "task"
+}

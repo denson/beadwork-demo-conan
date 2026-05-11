@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lorraine Bracco. b. 1954 | actress, producer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000966/\n_search: Lorraine Bracco | GoodFellas | Medicine Man | The Sopranos | The Basketball Diaries",
+  "id": "bw-p-nm0000966",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lorraine Bracco",
+  "type": "task"
+}

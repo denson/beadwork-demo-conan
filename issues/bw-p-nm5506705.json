@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shovels \u0026 Rope. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5506705/\n_search: Shovels \u0026 Rope | A Walk in the Woods | Death in Texas | Nashville | Anthony Bourdain: Parts Unknown",
+  "id": "bw-p-nm5506705",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shovels \u0026 Rope",
+  "type": "task"
+}

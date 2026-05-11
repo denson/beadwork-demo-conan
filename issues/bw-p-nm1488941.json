@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrés du Bouchet. writer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1488941/\n_search: Andrés du Bouchet | I'll Believe You",
+  "id": "bw-p-nm1488941",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrés du Bouchet",
+  "type": "task"
+}

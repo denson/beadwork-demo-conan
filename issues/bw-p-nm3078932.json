@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lady Gaga. b. 1986 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3078932/\n_search: Lady Gaga | A Star Is Born | Joker: Folie à Deux | House of Gucci | Machete Kills",
+  "id": "bw-p-nm3078932",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lady Gaga",
+  "type": "task"
+}

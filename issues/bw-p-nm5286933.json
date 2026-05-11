@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Broussard. actor, writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5286933/\n_search: Matthew Broussard | Presidents Day | Harvester of Terror 2: Redneck's Revenge | All I Wish | Bedrooms",
+  "id": "bw-p-nm5286933",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Broussard",
+  "type": "task"
+}

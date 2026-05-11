@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brent Hinds. 1974–2025 | actor, music_department, composer.\nDECEASED (1974–2025). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2440495/\n_search: Brent Hinds | The Big Short | Metal Lords | Monsters University | Better Living Through Chemistry",
+  "id": "bw-p-nm2440495",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brent Hinds",
+  "type": "task"
+}

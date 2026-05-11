@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Georg Holm. b. 1976 | composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1743730/\n_search: Georg Holm | Vanilla Sky | The Life Aquatic with Steve Zissou | Aquaman | Remember Me",
+  "id": "bw-p-nm1743730",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Georg Holm",
+  "type": "task"
+}

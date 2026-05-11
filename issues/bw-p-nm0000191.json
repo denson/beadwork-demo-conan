@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ewan McGregor. b. 1971 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000191/\n_search: Ewan McGregor | Moulin Rouge! | Trainspotting | August: Osage County | Star Wars: Episode I - The Phantom Menace",
+  "id": "bw-p-nm0000191",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ewan McGregor",
+  "type": "task"
+}

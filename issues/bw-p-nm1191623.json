@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Abts. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1191623/\n_search: Matt Abts | Gov't Mule: Bring On The Music - Live at The Capitol Theatre | Gov't Mule - Dark Side of the Mule | Rising Low | Gov't Mule: Dub Side of the Mule",
+  "id": "bw-p-nm1191623",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Abts",
+  "type": "task"
+}

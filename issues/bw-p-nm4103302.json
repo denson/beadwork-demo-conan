@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Marie Summerscales. actress, assistant_director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4103302/\n_search: Lisa Marie Summerscales | The Real Housewives of Westeros | Far Off | Destroy the Alpha Gammas | Zola",
+  "id": "bw-p-nm4103302",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Marie Summerscales",
+  "type": "task"
+}

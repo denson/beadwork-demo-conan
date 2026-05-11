@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yevgeniy Kartashov. actor, miscellaneous, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3351128/\n_search: Yevgeniy Kartashov | American Horror Story | The Rookie: Feds | True Detective | CSI: Miami",
+  "id": "bw-p-nm3351128",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yevgeniy Kartashov",
+  "type": "task"
+}

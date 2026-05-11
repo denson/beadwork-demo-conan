@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neve Campbell. b. 1973 | actress, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000117/\n_search: Neve Campbell | Scream | Scream 2 | Scream 3 | Wild Things",
+  "id": "bw-p-nm0000117",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neve Campbell",
+  "type": "task"
+}

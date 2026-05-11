@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dustin Diamond. 1977–2021 | actor, director, producer.\nDECEASED (1977–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0224616/\n_search: Dustin Diamond | Saved by the Bell | Saved by the Bell: The College Years | Dickie Roberts: Former Child Star | Good Morning, Miss Bliss",
+  "id": "bw-p-nm0224616",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dustin Diamond",
+  "type": "task"
+}

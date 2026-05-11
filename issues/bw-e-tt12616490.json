@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Lauren Lapkus. conan_tbs, S10E71, 2020.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt12616490/\n_search: From Largo Theatre Lauren Lapkus | 2020 | S10E71",
+  "id": "bw-e-tt12616490",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Lauren Lapkus",
+  "type": "task"
+}

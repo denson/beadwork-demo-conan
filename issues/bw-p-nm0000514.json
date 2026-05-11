@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Madsen. 1957–2025 | actor, producer, writer.\nDECEASED (1957–2025). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000514/\n_search: Michael Madsen | The Hateful Eight | Kill Bill: Vol. 1 | Species | WarGames",
+  "id": "bw-p-nm0000514",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Madsen",
+  "type": "task"
+}

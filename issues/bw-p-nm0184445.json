@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allen Covert. b. 1964 | actor, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0184445/\n_search: Allen Covert | Grandma's Boy | Jack and Jill | 50 First Dates | The Wedding Singer",
+  "id": "bw-p-nm0184445",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allen Covert",
+  "type": "task"
+}

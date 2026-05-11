@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Hudson/Dale Earnhardt Jr./O.A.R.. late_night, S10E135, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1199074/\n_search: Kate Hudson/Dale Earnhardt Jr./O.A.R. | 2003 | S10E135",
+  "id": "bw-e-tt1199074",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Hudson/Dale Earnhardt Jr./O.A.R.",
+  "type": "task"
+}

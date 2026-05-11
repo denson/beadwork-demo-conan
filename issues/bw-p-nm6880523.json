@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Run the Jewels. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6880523/\n_search: Run the Jewels | Venom | Baby Driver | Deadpool 2 | Sleepless",
+  "id": "bw-p-nm6880523",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Run the Jewels",
+  "type": "task"
+}

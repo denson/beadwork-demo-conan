@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Johannsen. b. 1960 | actor, writer, producer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0423750/\n_search: Jake Johannsen | Loaded Weapon 1 | Jake Johannsen: This'll Take About an Hour | Suckers | Stars in Shorts: No Ordinary Love",
+  "id": "bw-p-nm0423750",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Johannsen",
+  "type": "task"
+}

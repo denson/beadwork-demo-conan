@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nycole Abelarde. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5508531/\n_search: Nycole Abelarde",
+  "id": "bw-p-nm5508531",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nycole Abelarde",
+  "type": "task"
+}

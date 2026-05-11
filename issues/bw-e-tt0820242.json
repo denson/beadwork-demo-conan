@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sandra Oh/Gordon Ramsay/Chris Isaak. late_night, S13E136, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0820242/\n_search: Sandra Oh/Gordon Ramsay/Chris Isaak | 2006 | S13E136",
+  "id": "bw-e-tt0820242",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sandra Oh/Gordon Ramsay/Chris Isaak",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rulon Gardner. b. 1971 | actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1279404/\n_search: Rulon Gardner | Sydney 2000: Games of the XXVII Olympiad | Nash Bridges | The R.M. | Top Chef Masters",
+  "id": "bw-p-nm1279404",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rulon Gardner",
+  "type": "task"
+}

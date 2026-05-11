@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jared Leto. b. 1971 | actor, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001467/\n_search: Jared Leto | Dallas Buyers Club | Mr. Nobody | Suicide Squad | Morbius",
+  "id": "bw-p-nm0001467",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jared Leto",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conor McGregor/Brian Posehn/The Kills. conan_tbs, S8E115, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt9064168/\n_search: Conor McGregor/Brian Posehn/The Kills | 2018 | S8E115",
+  "id": "bw-e-tt9064168",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conor McGregor/Brian Posehn/The Kills",
+  "type": "task"
+}

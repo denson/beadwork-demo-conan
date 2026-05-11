@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Americus Abesamis. b. 1971 | actor, stunts, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1820951/\n_search: Americus Abesamis | Dok Sauvage: Man of Copper | Attack of the Doc! | The Book of Boba Fett | Lumpia with a Vengeance",
+  "id": "bw-p-nm1820951",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Americus Abesamis",
+  "type": "task"
+}

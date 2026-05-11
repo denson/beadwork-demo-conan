@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Swayze/Daniela Pestova. late_night, S5E118, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627111/\n_search: Patrick Swayze/Daniela Pestova | 1998 | S5E118",
+  "id": "bw-e-tt0627111",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Swayze/Daniela Pestova",
+  "type": "task"
+}

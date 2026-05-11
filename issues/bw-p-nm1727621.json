@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Mantzoukas. b. 1972 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1727621/\n_search: Jason Mantzoukas | The Dictator | They Came Together | The Lego Batman Movie | The House",
+  "id": "bw-p-nm1727621",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Mantzoukas",
+  "type": "task"
+}

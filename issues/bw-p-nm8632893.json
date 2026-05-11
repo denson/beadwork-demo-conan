@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Casey Benjamin. 1978–2024 | actor, soundtrack.\nDECEASED (1978–2024). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8632893/\n_search: Casey Benjamin | Robert Glasper Experiment: Live | Digging for Weldon Irvine | The Tonight Show with Jay Leno",
+  "id": "bw-p-nm8632893",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Casey Benjamin",
+  "type": "task"
+}

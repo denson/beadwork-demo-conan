@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Bell. b. 1968 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1914631/\n_search: Brian Bell | Factory Girl | Family Switch | Permission to Exist | Brother Verses Brother",
+  "id": "bw-p-nm1914631",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Bell",
+  "type": "task"
+}

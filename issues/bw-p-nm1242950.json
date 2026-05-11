@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rebecca Mader. b. 1977 | actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1242950/\n_search: Rebecca Mader | The Devil Wears Prada | Iron Man 3 | Once Upon a Time | Lost",
+  "id": "bw-p-nm1242950",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rebecca Mader",
+  "type": "task"
+}

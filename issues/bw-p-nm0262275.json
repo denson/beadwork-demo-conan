@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Eubanks. b. 1938 | producer, actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0262275/\n_search: Bob Eubanks | Home Alone 2: Lost in New York | Payback | Roger \u0026 Me | Johnny Dangerously",
+  "id": "bw-p-nm0262275",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Eubanks",
+  "type": "task"
+}

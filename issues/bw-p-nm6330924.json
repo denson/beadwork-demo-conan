@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael McDermott. composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6330924/\n_search: Michael McDermott | WGN Morning News | Writing Songs by Number",
+  "id": "bw-p-nm6330924",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael McDermott",
+  "type": "task"
+}

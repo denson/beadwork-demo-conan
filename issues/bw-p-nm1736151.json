@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Breaking Benjamin. music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1736151/\n_search: Breaking Benjamin | National Treasure | Surrogates | Hellboy | Wrong Turn",
+  "id": "bw-p-nm1736151",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Breaking Benjamin",
+  "type": "task"
+}

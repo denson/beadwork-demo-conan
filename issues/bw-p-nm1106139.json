@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Manny Puig. b. 1954 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1106139/\n_search: Manny Puig | Jackass 3D | Jackass: The Movie | Jackass Number Two | TV: The Movie",
+  "id": "bw-p-nm1106139",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Manny Puig",
+  "type": "task"
+}

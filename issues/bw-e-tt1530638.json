@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cory Booker/Max Records/Dashboard Confessional. tonight_show, S1E88, 2009.\nRuntime: 60 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt1530638/\n_search: Cory Booker/Max Records/Dashboard Confessional | 2009 | S1E88",
+  "id": "bw-e-tt1530638",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cory Booker/Max Records/Dashboard Confessional",
+  "type": "task"
+}

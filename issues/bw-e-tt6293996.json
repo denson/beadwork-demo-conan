@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jake Gyllenhaal/Ronda Rousey/Robert Glasper Experiment. conan_tbs, S7E18, 2016.\nRuntime: 42 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt6293996/\n_search: Jake Gyllenhaal/Ronda Rousey/Robert Glasper Experiment | 2016 | S7E18",
+  "id": "bw-e-tt6293996",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jake Gyllenhaal/Ronda Rousey/Robert Glasper Experiment",
+  "type": "task"
+}

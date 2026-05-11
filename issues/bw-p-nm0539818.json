@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen Malkmus. b. 1966 | composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0539818/\n_search: Stephen Malkmus | The Perks of Being a Wallflower | You, Me and Dupree | The Art of Getting By | The To-Do List",
+  "id": "bw-p-nm0539818",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen Malkmus",
+  "type": "task"
+}

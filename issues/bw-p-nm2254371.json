@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hawthorne Heights. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2254371/\n_search: Hawthorne Heights | Hawthorne Heights Make a Video: Niki FM | Meet the Bands | Props | Los Angeles Benefit: Hawthorne Heights + Friends",
+  "id": "bw-p-nm2254371",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hawthorne Heights",
+  "type": "task"
+}

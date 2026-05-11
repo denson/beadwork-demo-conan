@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taylor Hawkins. 1972–2022 | music_artist, actor, composer.\nDECEASED (1972–2022). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1011269/\n_search: Taylor Hawkins | Real Steel | CBGB | Life or Something Like It | Boyhood",
+  "id": "bw-p-nm1011269",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taylor Hawkins",
+  "type": "task"
+}

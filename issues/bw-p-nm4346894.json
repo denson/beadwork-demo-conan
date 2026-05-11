@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Ford-Dunker. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4346894/\n_search: John Ford-Dunker | Daredevil: Born Again | Blue Bloods | Zero Day | The Gilded Age",
+  "id": "bw-p-nm4346894",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Ford-Dunker",
+  "type": "task"
+}

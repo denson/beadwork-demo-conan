@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neil Finn. b. 1958 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0278154/\n_search: Neil Finn | The Hobbit: An Unexpected Journey | Everest | The Perks of Being a Wallflower | Ruby Sparks",
+  "id": "bw-p-nm0278154",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neil Finn",
+  "type": "task"
+}

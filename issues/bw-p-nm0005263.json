@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Navarro. b. 1967 | music_department, producer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005263/\n_search: Dave Navarro | Twister | Southland Tales | S.W.A.T. | End of Days",
+  "id": "bw-p-nm0005263",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Navarro",
+  "type": "task"
+}

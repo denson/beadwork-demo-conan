@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Timothy Olyphant. b. 1968 | actor, producer, soundtrack.\nConan-show appearances: 15 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0648249/\n_search: Timothy Olyphant | Justified | Go | A Perfect Getaway | The Crazies",
+  "id": "bw-p-nm0648249",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Timothy Olyphant",
+  "type": "task"
+}

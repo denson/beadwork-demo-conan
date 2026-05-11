@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Dornan/Jenna Fischer/Jena Friedman. conan_tbs, S8E37, 2018.\nRuntime: 42 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt7961770/\n_search: Jamie Dornan/Jenna Fischer/Jena Friedman | 2018 | S8E37",
+  "id": "bw-e-tt7961770",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Dornan/Jenna Fischer/Jena Friedman",
+  "type": "task"
+}

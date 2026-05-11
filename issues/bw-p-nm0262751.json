@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Faith Evans. b. 1973 | music_artist, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0262751/\n_search: Faith Evans | Girls Trip | The Fast and the Furious | Luke Cage | The Wackness",
+  "id": "bw-p-nm0262751",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Faith Evans",
+  "type": "task"
+}

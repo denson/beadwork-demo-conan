@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paula Lauzon. director, talent_agent, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6340022/\n_search: Paula Lauzon | Love and Lust | American Odyssey | Horror Anthology: Hickville | Kesler",
+  "id": "bw-p-nm6340022",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paula Lauzon",
+  "type": "task"
+}

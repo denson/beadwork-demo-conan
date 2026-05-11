@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beau Jocque. 1953–1999 | soundtrack.\nDECEASED (1953–1999). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0423495/\n_search: Beau Jocque | Texas Chainsaw Massacre: The Next Generation | Louisiana Blues | The Kingdom of Zydeco",
+  "id": "bw-p-nm0423495",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beau Jocque",
+  "type": "task"
+}

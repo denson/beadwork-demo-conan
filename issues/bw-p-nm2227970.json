@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shaun W. Loeser. actor, stunts, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2227970/\n_search: Shaun W. Loeser | Step Brothers | Resident Evil | NCIS: Los Angeles | 9 Shades",
+  "id": "bw-p-nm2227970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shaun W. Loeser",
+  "type": "task"
+}

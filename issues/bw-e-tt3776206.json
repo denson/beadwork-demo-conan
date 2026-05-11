@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenny Rogers/Dweezil and Ahmet Zappa/Primus. late_night, S4E140, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3776206/\n_search: Kenny Rogers/Dweezil and Ahmet Zappa/Primus | 1997 | S4E140",
+  "id": "bw-e-tt3776206",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenny Rogers/Dweezil and Ahmet Zappa/Primus",
+  "type": "task"
+}

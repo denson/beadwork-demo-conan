@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Osama bin Laden. 1957–2011 | archive_footage, archive_sound.\nDECEASED (1957–2011). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1136915/\n_search: Osama bin Laden | Aktuellt",
+  "id": "bw-p-nm1136915",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Osama bin Laden",
+  "type": "task"
+}

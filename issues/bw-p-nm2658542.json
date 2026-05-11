@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Nash. b. 1987 | actress, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2658542/\n_search: Kate Nash | GLOW | Love, Rosie | Wild Bitch | Bridesmaids",
+  "id": "bw-p-nm2658542",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Nash",
+  "type": "task"
+}

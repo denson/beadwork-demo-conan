@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hunter Pence. b. 1983 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2782510/\n_search: Hunter Pence | Fuller House | Quick Question | Braves TBS Baseball | Sunday Night Baseball",
+  "id": "bw-p-nm2782510",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hunter Pence",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Dillon. b. 1964 | actor, director, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000369/\n_search: Matt Dillon | There's Something About Mary | Crash | Drugstore Cowboy | The House That Jack Built",
+  "id": "bw-p-nm0000369",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Dillon",
+  "type": "task"
+}

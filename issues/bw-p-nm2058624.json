@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alison Mosshart. b. 1978 | actress, camera_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2058624/\n_search: Alison Mosshart | Children of Men | Push | The Losers | Titane",
+  "id": "bw-p-nm2058624",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alison Mosshart",
+  "type": "task"
+}

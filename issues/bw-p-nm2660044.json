@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Segura. b. 1979 | writer, actor, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm2660044/\n_search: Tom Segura | Countdown | Bad Thoughts | Instant Family | 9 Inches",
+  "id": "bw-p-nm2660044",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Segura",
+  "type": "task"
+}

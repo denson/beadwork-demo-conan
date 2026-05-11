@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Trynin. soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2278766/\n_search: Jennifer Trynin | The Misadventures of Margaret | Raising Buchanan | Beavis and Butt-Head | Payoff",
+  "id": "bw-p-nm2278766",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Trynin",
+  "type": "task"
+}

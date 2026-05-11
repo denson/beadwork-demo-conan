@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenneth 'Babyface' Edmonds. b. 1959 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004892/\n_search: Kenneth 'Babyface' Edmonds | Ghostbusters II | Bad Boys | Boomerang | Waiting to Exhale",
+  "id": "bw-p-nm0004892",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenneth 'Babyface' Edmonds",
+  "type": "task"
+}

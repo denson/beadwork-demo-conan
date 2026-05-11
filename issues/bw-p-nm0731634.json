@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Roberts. 1939–2025 | actor, soundtrack, archive_footage.\nDECEASED (1939–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0731634/\n_search: Tony Roberts | Play It Again, Sam | Annie Hall | The Taking of Pelham One Two Three | Serpico",
+  "id": "bw-p-nm0731634",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Roberts",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kareem Abdul-Jabbar. b. 1947 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000717/\n_search: Kareem Abdul-Jabbar | Airplane! | Glass Onion | Fletch | Forget Paris",
+  "id": "bw-p-nm0000717",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kareem Abdul-Jabbar",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Harris. 1930–2002 | actor, producer, director.\nDECEASED (1930–2002). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001321/\n_search: Richard Harris | Unforgiven | Gladiator | Camelot | The Count of Monte Cristo",
+  "id": "bw-p-nm0001321",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Harris",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vernon Chatman. producer, writer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0154074/\n_search: Vernon Chatman | South Park | The Shivering Truth | The Heart, She Holler | Wonder Showzen",
+  "id": "bw-p-nm0154074",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vernon Chatman",
+  "type": "task"
+}

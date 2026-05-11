@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zach Braff/Alia Shawkat/Andrew W.K.. conan_tbs, S8E66, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8312574/\n_search: Zach Braff/Alia Shawkat/Andrew W.K. | 2018 | S8E66",
+  "id": "bw-e-tt8312574",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zach Braff/Alia Shawkat/Andrew W.K.",
+  "type": "task"
+}

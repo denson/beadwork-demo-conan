@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sandra Bernhard/Wes Craven. late_night, S2E23, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2776180/\n_search: Sandra Bernhard/Wes Craven | 1994 | S2E23",
+  "id": "bw-e-tt2776180",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sandra Bernhard/Wes Craven",
+  "type": "task"
+}

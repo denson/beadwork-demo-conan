@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christian Slater/Kristen Bell/Duran Duran. late_night, S12E107, 2005.\nRuntime: 57 min.\nIMDb rating: 1.8.\nIMDb: https://www.imdb.com/title/tt0627655/\n_search: Christian Slater/Kristen Bell/Duran Duran | 2005 | S12E107",
+  "id": "bw-e-tt0627655",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christian Slater/Kristen Bell/Duran Duran",
+  "type": "task"
+}

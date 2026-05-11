@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nikki Glaser. b. 1984 | writer, producer, actress.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm3218751/\n_search: Nikki Glaser | Trainwreck | I Feel Pretty | Untitled Nikki Glaser/Judd Apatow Romantic Comedy Project | Punching the Clown",
+  "id": "bw-p-nm3218751",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nikki Glaser",
+  "type": "task"
+}

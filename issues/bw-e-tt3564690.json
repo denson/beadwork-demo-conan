@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonah Hill/Lupita Nyong'o/John Butler Trio. conan_tbs, S4E52, 2014.\nIMDb: https://www.imdb.com/title/tt3564690/\n_search: Jonah Hill/Lupita Nyong'o/John Butler Trio | 2014 | S4E52",
+  "id": "bw-e-tt3564690",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonah Hill/Lupita Nyong'o/John Butler Trio",
+  "type": "task"
+}

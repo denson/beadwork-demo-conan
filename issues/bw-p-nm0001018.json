@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Keith Carradine. b. 1949 | actor, music_department, composer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001018/\n_search: Keith Carradine | Nashville | Cowboys \u0026 Aliens | Dexter | Deadwood",
+  "id": "bw-p-nm0001018",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Keith Carradine",
+  "type": "task"
+}

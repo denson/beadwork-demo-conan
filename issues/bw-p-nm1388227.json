@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ryan Adams. b. 1974 | composer, director, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1388227/\n_search: Ryan Adams | The Secret Life of Walter Mitty | Behind Enemy Lines | The Condemned | Dear John",
+  "id": "bw-p-nm1388227",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ryan Adams",
+  "type": "task"
+}

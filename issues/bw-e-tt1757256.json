@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Sorvino/Russell Baker/Jeff Garlin/Martina McBride. late_night, S1E67, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1757256/\n_search: Paul Sorvino/Russell Baker/Jeff Garlin/Martina McBride | 1993 | S1E67",
+  "id": "bw-e-tt1757256",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Sorvino/Russell Baker/Jeff Garlin/Martina McBride",
+  "type": "task"
+}

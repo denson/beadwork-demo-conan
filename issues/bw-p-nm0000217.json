@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Scorsese. b. 1942 | producer, director, actor.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000217/\n_search: Martin Scorsese | Taxi Driver | Killers of the Flower Moon | GoodFellas | Mean Streets",
+  "id": "bw-p-nm0000217",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Scorsese",
+  "type": "task"
+}

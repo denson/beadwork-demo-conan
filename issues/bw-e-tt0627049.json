@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Wendt/Julie Foudy/Terry Jones. late_night, S5E38, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627049/\n_search: George Wendt/Julie Foudy/Terry Jones | 1997 | S5E38",
+  "id": "bw-e-tt0627049",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Wendt/Julie Foudy/Terry Jones",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Cruise. conan_tbs, S9E70, 2019.\nRuntime: 42 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt10686616/\n_search: Tom Cruise | 2019 | S9E70",
+  "id": "bw-e-tt10686616",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Cruise",
+  "type": "task"
+}

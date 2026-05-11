@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chad Gall. actor, producer, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4467488/\n_search: Chad Gall | Magic City | NCIS | Wild Oats | Army Wives",
+  "id": "bw-p-nm4467488",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chad Gall",
+  "type": "task"
+}

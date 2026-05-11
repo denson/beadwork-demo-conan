@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dial T for Misdialed Murder. conan_tbs, S1E81, 2011.\nRuntime: 60 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt1893590/\n_search: Dial T for Misdialed Murder | 2011 | S1E81",
+  "id": "bw-e-tt1893590",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dial T for Misdialed Murder",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Buscemi. b. 1957 | actor, director, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000114/\n_search: Steve Buscemi | Fargo | Ghost World | Reservoir Dogs | The Death of Stalin",
+  "id": "bw-p-nm0000114",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Buscemi",
+  "type": "task"
+}

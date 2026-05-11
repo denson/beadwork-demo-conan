@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Old Crow Medicine Show. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2449923/\n_search: Old Crow Medicine Show | Boyhood | Transamerica | Dumplin' | Big Easy Express",
+  "id": "bw-p-nm2449923",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Old Crow Medicine Show",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brady Barr. b. 1963 | miscellaneous, director, cinematographer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1578720/\n_search: Brady Barr | Reptile Wild | Dangerous Encounters | Brain Games | National Geographic Explorer",
+  "id": "bw-p-nm1578720",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brady Barr",
+  "type": "task"
+}

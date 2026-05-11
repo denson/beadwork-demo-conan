@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Dessner. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3039520/\n_search: Aaron Dessner | Cyrano | C'mon C'mon | Where the Crawdads Sing | Warrior",
+  "id": "bw-p-nm3039520",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Dessner",
+  "type": "task"
+}

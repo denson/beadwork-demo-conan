@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Return to Devil's Condo. conan_tbs, S1E30, 2011.\nRuntime: 60 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt1808752/\n_search: Return to Devil's Condo | 2011 | S1E30",
+  "id": "bw-e-tt1808752",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Return to Devil's Condo",
+  "type": "task"
+}

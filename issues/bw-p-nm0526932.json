@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Lupica. b. 1952 | writer, actor, archive_footage.\nConan-show appearances: 16\nIMDb: https://www.imdb.com/name/nm0526932/\n_search: Mike Lupica | Heat | Jane Smith | Money, Power, Murder. | Spin City",
+  "id": "bw-p-nm0526932",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Lupica",
+  "type": "task"
+}

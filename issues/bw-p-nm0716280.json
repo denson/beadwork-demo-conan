@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Reeves. 1936–2020 | actor, writer, archive_footage.\nDECEASED (1936–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0716280/\n_search: Richard Reeves | Seabiscuit | Dave | An American Journey | Searching for Camelot",
+  "id": "bw-p-nm0716280",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Reeves",
+  "type": "task"
+}

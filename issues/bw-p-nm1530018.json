@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Brady. b. 1977 | producer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1530018/\n_search: Tom Brady | Entourage | Ted 2 | Stuck on You | Entourage",
+  "id": "bw-p-nm1530018",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Brady",
+  "type": "task"
+}

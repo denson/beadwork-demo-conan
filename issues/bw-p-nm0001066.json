@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Conrad. 1935–2020 | actor, director, writer.\nDECEASED (1935–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001066/\n_search: Robert Conrad | Black Sheep Squadron | Jingle All the Way | Centennial | The Wild Wild West Revisited",
+  "id": "bw-p-nm0001066",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Conrad",
+  "type": "task"
+}

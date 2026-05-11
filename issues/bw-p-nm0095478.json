@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Boone Junior. b. 1955 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0095478/\n_search: Mark Boone Junior | Memento | Batman Begins | 30 Days of Night | 2 Fast 2 Furious",
+  "id": "bw-p-nm0095478",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Boone Junior",
+  "type": "task"
+}

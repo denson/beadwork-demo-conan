@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Blake Griffin/Max Greenfield/Bear Hands. conan_tbs, S4E154, 2014.\nIMDb: https://www.imdb.com/title/tt4400000/\n_search: Blake Griffin/Max Greenfield/Bear Hands | 2014 | S4E154",
+  "id": "bw-e-tt4400000",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Blake Griffin/Max Greenfield/Bear Hands",
+  "type": "task"
+}

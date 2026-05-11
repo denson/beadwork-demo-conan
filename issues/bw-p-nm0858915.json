@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Helen Thomas. 1920–2013 | actress, archive_footage, archive_sound.\nDECEASED (1920–2013). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0858915/\n_search: Helen Thomas | Dave | Broadcast Blues | 1992 Presidential Debates | Orwell Rolls in His Grave",
+  "id": "bw-p-nm0858915",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Helen Thomas",
+  "type": "task"
+}

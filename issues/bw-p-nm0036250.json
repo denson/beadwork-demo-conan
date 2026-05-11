@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Arnett. 1934–2025 | writer, producer, actor.\nDECEASED (1934–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0036250/\n_search: Peter Arnett | 15 Minutes | CNN Special Reports | Bunch of Five | Poisoning for Profit",
+  "id": "bw-p-nm0036250",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Arnett",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alanis Morissette. b. 1974 | music_artist, actress, composer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001551/\n_search: Alanis Morissette | Dogma | City of Angels | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | The Devil Wears Prada",
+  "id": "bw-p-nm0001551",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alanis Morissette",
+  "type": "task"
+}

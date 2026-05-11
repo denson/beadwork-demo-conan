@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Heavy Hangs the Fannypack. conan_tbs, S1E8, 2010.\nRuntime: 60 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt1759845/\n_search: Heavy Hangs the Fannypack | 2010 | S1E8",
+  "id": "bw-e-tt1759845",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Heavy Hangs the Fannypack",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Juliette Binoche. b. 1964 | actress, miscellaneous, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000300/\n_search: Juliette Binoche | The English Patient | Clouds of Sils Maria | Certified Copy | Three Colors: Blue",
+  "id": "bw-p-nm0000300",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Juliette Binoche",
+  "type": "task"
+}

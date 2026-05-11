@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Angelo Moore. b. 1965 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0600900/\n_search: Angelo Moore | Tommy Boy | I'm Gonna Git You Sucka | Fled | Karen",
+  "id": "bw-p-nm0600900",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Angelo Moore",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chad McQueen. 1960–2024 | actor, producer, casting_director.\nDECEASED (1960–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0574337/\n_search: Chad McQueen | The Karate Kid | The Karate Kid Part II | Firepower | Yucatan",
+  "id": "bw-p-nm0574337",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chad McQueen",
+  "type": "task"
+}

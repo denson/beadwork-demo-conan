@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mr. Smith Goes to Hades. conan_tbs, S1E96, 2011.\nRuntime: 60 min.\nIMDb rating: 7.5.\nIMDb: https://www.imdb.com/title/tt1936234/\n_search: Mr. Smith Goes to Hades | 2011 | S1E96",
+  "id": "bw-e-tt1936234",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mr. Smith Goes to Hades",
+  "type": "task"
+}

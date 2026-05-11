@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ice Cube. b. 1969 | executive, director, producer.\nConan-show appearances: 16\nIMDb: https://www.imdb.com/name/nm0001084/\n_search: Ice Cube | War of the Worlds | Last Friday | The Bernie Mac Show | New Jack City",
+  "id": "bw-p-nm0001084",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ice Cube",
+  "type": "task"
+}

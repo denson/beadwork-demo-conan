@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Lithgow. b. 1945 | actor, producer, writer.\nConan-show appearances: 17\nIMDb: https://www.imdb.com/name/nm0001475/\n_search: John Lithgow | The World According to Garp | Cliffhanger | The Adventures of Buckaroo Banzai Across the 8th Dimension | Terms of Endearment",
+  "id": "bw-p-nm0001475",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Lithgow",
+  "type": "task"
+}

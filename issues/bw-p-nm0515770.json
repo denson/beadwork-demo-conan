@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doug Llewelyn. b. 1938 | actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0515770/\n_search: Doug Llewelyn | Money Talks | All the President's Men | National Lampoon's Christmas Vacation | A View to a Kill: Featurette",
+  "id": "bw-p-nm0515770",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doug Llewelyn",
+  "type": "task"
+}

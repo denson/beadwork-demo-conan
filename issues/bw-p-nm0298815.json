@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robin Fuqua. make_up_department, actress, special_effects.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0298815/\n_search: Robin Fuqua | Shazam! Fury of the Gods | Rebel Moon - Part One: A Child of Fire | Insidious: The Red Door | Speaking",
+  "id": "bw-p-nm0298815",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robin Fuqua",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roger Moore. 1927–2017 | actor, miscellaneous, producer.\nDECEASED (1927–2017). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000549/\n_search: Roger Moore | Moonraker | The Spy Who Loved Me | For Your Eyes Only | Octopussy",
+  "id": "bw-p-nm0000549",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roger Moore",
+  "type": "task"
+}

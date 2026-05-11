@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom DeLonge. b. 1975 | director, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0217691/\n_search: Tom DeLonge | Monsters of California | Breaking Bear | Unidentified: Inside America's UFO Investigation | Momentum Generation",
+  "id": "bw-p-nm0217691",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom DeLonge",
+  "type": "task"
+}

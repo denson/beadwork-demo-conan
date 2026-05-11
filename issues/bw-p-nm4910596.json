@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniyar. actor, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4910596/\n_search: Daniyar | Two Tulips | The Laundromat | Visitor | 8:05am Late Fall",
+  "id": "bw-p-nm4910596",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniyar",
+  "type": "task"
+}

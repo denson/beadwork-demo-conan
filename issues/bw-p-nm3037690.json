@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emmy the Great. music_department, actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3037690/\n_search: Emmy the Great | Austenland | Free Rein | Out of Her Mind | O Black Hole!",
+  "id": "bw-p-nm3037690",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emmy the Great",
+  "type": "task"
+}

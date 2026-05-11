@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianne Moore. b. 1960 | actress, producer, soundtrack.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000194/\n_search: Julianne Moore | Far from Heaven | Boogie Nights | Magnolia | Still Alice",
+  "id": "bw-p-nm0000194",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianne Moore",
+  "type": "task"
+}

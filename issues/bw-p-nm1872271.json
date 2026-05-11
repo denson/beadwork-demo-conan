@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jared Followill. b. 1986 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1872271/\n_search: Jared Followill | I Am Number Four | Cloverfield | August: Osage County | The Uninvited",
+  "id": "bw-p-nm1872271",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jared Followill",
+  "type": "task"
+}

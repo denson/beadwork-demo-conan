@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christophe Zajac-Denek. actor, editor, sound_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1324705/\n_search: Christophe Zajac-Denek | Twin Peaks | Fresh Off the Boat | Oz the Great and Powerful | Tales of Halloween",
+  "id": "bw-p-nm1324705",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christophe Zajac-Denek",
+  "type": "task"
+}

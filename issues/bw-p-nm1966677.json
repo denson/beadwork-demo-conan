@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paris Yates. actress, music_artist, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1966677/\n_search: Paris Yates | Multiple Sarcasms | Surviving Family | iCarly | Guiding Light",
+  "id": "bw-p-nm1966677",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paris Yates",
+  "type": "task"
+}

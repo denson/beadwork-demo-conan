@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carol Mack. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1939413/\n_search: Carol Mack | Mr. \u0026 Mrs. Smith | Covert Activity | You're Not You | The Thundermans",
+  "id": "bw-p-nm1939413",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carol Mack",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Rachins/Nicholas Turturro/Richard Marcinko. late_night, S1E131, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2671944/\n_search: Alan Rachins/Nicholas Turturro/Richard Marcinko | 1994 | S1E131",
+  "id": "bw-e-tt2671944",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Rachins/Nicholas Turturro/Richard Marcinko",
+  "type": "task"
+}

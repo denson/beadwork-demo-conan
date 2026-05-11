@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tracee Ellis Ross. b. 1972 | actress, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0743896/\n_search: Tracee Ellis Ross | Black-ish | Black Mirror | American Fiction | Girlfriends",
+  "id": "bw-p-nm0743896",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tracee Ellis Ross",
+  "type": "task"
+}

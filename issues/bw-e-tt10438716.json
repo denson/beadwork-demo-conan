@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chelsea Handler/Rhys Nicholson. conan_tbs, S9E58, 2019.\nRuntime: 21 min.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt10438716/\n_search: Chelsea Handler/Rhys Nicholson | 2019 | S9E58",
+  "id": "bw-e-tt10438716",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chelsea Handler/Rhys Nicholson",
+  "type": "task"
+}

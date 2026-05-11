@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Reeves. b. 1983 | producer, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2474723/\n_search: Lauren Reeves | Dropout | Fear Town, USA | Musicals in Real Life | Ex on the Beach",
+  "id": "bw-p-nm2474723",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Reeves",
+  "type": "task"
+}

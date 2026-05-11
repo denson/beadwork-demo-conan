@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Reese Witherspoon/Nick Swardson. conan_tbs, S7E62, 2017.\nRuntime: 42 min.\nIMDb rating: 5.1.\nIMDb: https://www.imdb.com/title/tt6662976/\n_search: Reese Witherspoon/Nick Swardson | 2017 | S7E62",
+  "id": "bw-e-tt6662976",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Reese Witherspoon/Nick Swardson",
+  "type": "task"
+}

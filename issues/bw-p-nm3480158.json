@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Greenfield. b. 1951 | archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3480158/\n_search: Jerry Greenfield | Late Night with Seth Meyers: Corrections | The States | The World According to Jeff Goldblum | The '80s Greatest",
+  "id": "bw-p-nm3480158",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Greenfield",
+  "type": "task"
+}

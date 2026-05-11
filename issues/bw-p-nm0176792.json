@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Conway. 1933–2019 | actor, writer, producer.\nDECEASED (1933–2019). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0176792/\n_search: Tim Conway | The Carol Burnett Show | The Private Eyes | 30 Rock | Coach",
+  "id": "bw-p-nm0176792",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Conway",
+  "type": "task"
+}

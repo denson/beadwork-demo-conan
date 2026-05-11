@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Brody. b. 1979 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0111013/\n_search: Adam Brody | The O.C. | Ready or Not | Mr. \u0026 Mrs. Smith | In the Land of Women",
+  "id": "bw-p-nm0111013",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Brody",
+  "type": "task"
+}

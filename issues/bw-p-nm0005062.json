@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Jones. 1912–2002 | animation_department, director, writer.\nDECEASED (1912–2002). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005062/\n_search: Chuck Jones | Gremlins | The Bugs Bunny/Road-Runner Movie | Innerspace | Horton Hears a Who!",
+  "id": "bw-p-nm0005062",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Jones",
+  "type": "task"
+}

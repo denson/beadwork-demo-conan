@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Sweeney. writer, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0842173/\n_search: Mike Sweeney | The Oscars",
+  "id": "bw-p-nm0842173",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Sweeney",
+  "type": "task"
+}

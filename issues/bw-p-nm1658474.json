@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jarod Miller. b. 1978.\nConan-show appearances: 15\nIMDb: https://www.imdb.com/name/nm1658474/\n_search: Jarod Miller | Animal Exploration with Jarod Miller | Greatest American Dog | The Conservation Game | CBS Saturday Morning",
+  "id": "bw-p-nm1658474",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jarod Miller",
+  "type": "task"
+}

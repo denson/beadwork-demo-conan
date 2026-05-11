@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Buck. b. 1969 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0118374/\n_search: Joe Buck | Fever Pitch | Tour de Pharmacy | Deconstructing Harry | Tom \u0026 Jerry",
+  "id": "bw-p-nm0118374",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Buck",
+  "type": "task"
+}

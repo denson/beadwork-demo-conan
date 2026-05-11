@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Morgan Freeman. b. 1937 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000151/\n_search: Morgan Freeman | Seven | Driving Miss Daisy | Million Dollar Baby | The Dark Knight",
+  "id": "bw-p-nm0000151",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Morgan Freeman",
+  "type": "task"
+}

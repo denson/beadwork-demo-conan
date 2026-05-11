@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ruby Wax. b. 1953 | actress, script_department, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0915375/\n_search: Ruby Wax | Girls on Top | Shock Treatment | Chariots of Fire | The Borrowers",
+  "id": "bw-p-nm0915375",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ruby Wax",
+  "type": "task"
+}

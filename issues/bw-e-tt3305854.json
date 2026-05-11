@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sinbad/Kennedy/Faith No More. late_night, S2E159, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3305854/\n_search: Sinbad/Kennedy/Faith No More | 1995 | S2E159",
+  "id": "bw-e-tt3305854",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sinbad/Kennedy/Faith No More",
+  "type": "task"
+}

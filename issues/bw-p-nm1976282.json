@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mitchell Jarvis. actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1976282/\n_search: Mitchell Jarvis | It Could Be Worse | Billy Green | Law \u0026 Order: Special Victims Unit | Opening Night",
+  "id": "bw-p-nm1976282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mitchell Jarvis",
+  "type": "task"
+}

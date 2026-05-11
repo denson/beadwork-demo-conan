@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Do You Want Lies with That?. conan_tbs, S1E19, 2010.\nRuntime: 60 min.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt1788027/\n_search: Do You Want Lies with That? | 2010 | S1E19",
+  "id": "bw-e-tt1788027",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Do You Want Lies with That?",
+  "type": "task"
+}

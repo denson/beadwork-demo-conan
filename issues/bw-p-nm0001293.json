@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Green. b. 1974 | actor, writer, producer.\nConan-show appearances: 25\nIMDb: https://www.imdb.com/name/nm0001293/\n_search: Seth Green | Robot Chicken | The Italian Job | Austin Powers: International Man of Mystery | Party Monster",
+  "id": "bw-p-nm0001293",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Green",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gil Ozeri. actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2503479/\n_search: Gil Ozeri | #BlackAF | Big Mouth | Uncorked | Search Party",
+  "id": "bw-p-nm2503479",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gil Ozeri",
+  "type": "task"
+}

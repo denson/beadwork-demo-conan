@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mason Jennings. composer, actor, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2557999/\n_search: Mason Jennings | Ghost Town | I'm Not There | The Oh in Ohio | 180° South",
+  "id": "bw-p-nm2557999",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mason Jennings",
+  "type": "task"
+}

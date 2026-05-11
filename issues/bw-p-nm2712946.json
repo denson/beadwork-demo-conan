@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "T. Berry Brazelton. 1918–2018 | writer.\nDECEASED (1918–2018). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2712946/\n_search: T. Berry Brazelton | What Every Baby Knows | A World of Ideas | Betty Hughes and Friends | The Lee Phillip Show",
+  "id": "bw-p-nm2712946",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "T. Berry Brazelton",
+  "type": "task"
+}

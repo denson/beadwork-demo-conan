@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Mac. b. 1977 | writer, producer, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0568390/\n_search: Rob Mac | It's Always Sunny in Philadelphia | Mythic Quest | Latter Days | The Devil's Own",
+  "id": "bw-p-nm0568390",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Mac",
+  "type": "task"
+}

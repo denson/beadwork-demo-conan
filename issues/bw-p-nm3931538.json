@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Richardson. b. 1984 | actor, writer, producer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm3931538/\n_search: Sam Richardson | Veep | Detroiters | Mike and Dave Need Wedding Dates | We're the Millers",
+  "id": "bw-p-nm3931538",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Richardson",
+  "type": "task"
+}

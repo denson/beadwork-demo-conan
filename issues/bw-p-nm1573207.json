@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Los Lonely Boys. composer, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1573207/\n_search: Los Lonely Boys | Delta Farce | Beverly Hills Chihuahua | Criminal Minds | The Inner Circle",
+  "id": "bw-p-nm1573207",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Los Lonely Boys",
+  "type": "task"
+}

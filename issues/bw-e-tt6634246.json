@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sandler/Dana White. conan_tbs, S7E60, 2017.\nRuntime: 42 min.\nIMDb rating: 6.9.\nIMDb: https://www.imdb.com/title/tt6634246/\n_search: Adam Sandler/Dana White | 2017 | S7E60",
+  "id": "bw-e-tt6634246",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sandler/Dana White",
+  "type": "task"
+}

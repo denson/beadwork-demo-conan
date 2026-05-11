@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Stoltz. actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000655/\n_search: Eric Stoltz | Pulp Fiction | Mask | The Butterfly Effect | Little Women",
+  "id": "bw-p-nm0000655",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Stoltz",
+  "type": "task"
+}

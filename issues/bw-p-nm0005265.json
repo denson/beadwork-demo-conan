@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Nealon. b. 1953 | actor, writer, producer.\nConan-show appearances: 39 (incl. 2 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0005265/\n_search: Kevin Nealon | Saturday Night Live | Weeds | Happy Gilmore | Grandma's Boy",
+  "id": "bw-p-nm0005265",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:posse",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Nealon",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Alan Grier/Moira Kelly/Blessed Union of Souls. late_night, S2E226, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3471054/\n_search: David Alan Grier/Moira Kelly/Blessed Union of Souls | 1995 | S2E226",
+  "id": "bw-e-tt3471054",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Alan Grier/Moira Kelly/Blessed Union of Souls",
+  "type": "task"
+}

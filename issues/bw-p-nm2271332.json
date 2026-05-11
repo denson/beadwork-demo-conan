@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Aldean. b. 1977 | music_artist, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2271332/\n_search: Jason Aldean | Patriots Day | Saturday Night Live | King of the Golden Sun | Top 20 Country Countdown",
+  "id": "bw-p-nm2271332",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Aldean",
+  "type": "task"
+}

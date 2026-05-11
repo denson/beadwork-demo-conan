@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessica Kinni. actress, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2960913/\n_search: Jessica Kinni | Rock of Love with Bret Michaels | Charm School | KTLA Morning News | E! News",
+  "id": "bw-p-nm2960913",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessica Kinni",
+  "type": "task"
+}

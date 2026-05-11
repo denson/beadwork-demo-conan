@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tiffani Thiessen. b. 1974 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005485/\n_search: Tiffani Thiessen | Alexa \u0026 Katie | White Collar | Deliciousness | Saved by the Bell",
+  "id": "bw-p-nm0005485",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tiffani Thiessen",
+  "type": "task"
+}

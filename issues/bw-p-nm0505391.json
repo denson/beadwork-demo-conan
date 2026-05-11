@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Levesque. b. 1969 | actor, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0505391/\n_search: Paul Levesque | WWE Monday Night RAW | WrestleMania 32 | WWE NXT | WrestleMania 35",
+  "id": "bw-p-nm0505391",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Levesque",
+  "type": "task"
+}

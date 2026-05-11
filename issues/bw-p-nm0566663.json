@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Malachy McCourt. 1931–2024 | actor, writer, producer.\nDECEASED (1931–2024). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0566663/\n_search: Malachy McCourt | The Devil's Own | The Other Guys | After.Life | Righteous Kill",
+  "id": "bw-p-nm0566663",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Malachy McCourt",
+  "type": "task"
+}

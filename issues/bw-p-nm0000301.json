@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thora Birch. b. 1982 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000301/\n_search: Thora Birch | Ghost World | American Beauty | Now and Then | Hocus Pocus",
+  "id": "bw-p-nm0000301",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thora Birch",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Klugman. 1922–2012 | actor, writer, director.\nDECEASED (1922–2012). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001430/\n_search: Jack Klugman | 12 Angry Men | The Odd Couple | Quincy, M.E. | Days of Wine and Roses",
+  "id": "bw-p-nm0001430",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Klugman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Dinklage. b. 1969 | actor, producer, stunts.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0227759/\n_search: Peter Dinklage | Game of Thrones | The Station Agent | X-Men: Days of Future Past | Three Billboards Outside Ebbing, Missouri",
+  "id": "bw-p-nm0227759",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Dinklage",
+  "type": "task"
+}

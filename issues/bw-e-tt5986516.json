@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jane Lynch/Jeffrey Toobin/Wolf Parade. conan_tbs, S6E123, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5986516/\n_search: Jane Lynch/Jeffrey Toobin/Wolf Parade | 2016 | S6E123",
+  "id": "bw-e-tt5986516",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jane Lynch/Jeffrey Toobin/Wolf Parade",
+  "type": "task"
+}

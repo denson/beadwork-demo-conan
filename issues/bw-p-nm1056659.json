@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Oliver. b. 1977 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1056659/\n_search: John Oliver | Last Week Tonight with John Oliver | The Lion King | The Smurfs | The Love Guru",
+  "id": "bw-p-nm1056659",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Oliver",
+  "type": "task"
+}

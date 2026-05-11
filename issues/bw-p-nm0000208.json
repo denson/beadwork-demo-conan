@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Molly Ringwald. b. 1968 | actress, music_department, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000208/\n_search: Molly Ringwald | Sixteen Candles | The Breakfast Club | Pretty in Pink | Not Another Teen Movie",
+  "id": "bw-p-nm0000208",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Molly Ringwald",
+  "type": "task"
+}

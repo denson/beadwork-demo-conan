@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Sloss. writer, producer, director.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm3742536/\n_search: Daniel Sloss | Daniel Sloss: HUBRIS | Daniel Sloss: X | Daniel Sloss: SOCIO | Daniel Sloss: Live Shows",
+  "id": "bw-p-nm3742536",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Sloss",
+  "type": "task"
+}

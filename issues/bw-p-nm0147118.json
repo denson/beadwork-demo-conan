@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dick Cavett. b. 1936 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0147118/\n_search: Dick Cavett | Beetlejuice | Forrest Gump | A Nightmare on Elm Street 3: Dream Warriors | Annie Hall",
+  "id": "bw-p-nm0147118",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dick Cavett",
+  "type": "task"
+}

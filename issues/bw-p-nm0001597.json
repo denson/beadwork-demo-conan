@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mandy Patinkin. b. 1952 | actor, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001597/\n_search: Mandy Patinkin | Homeland | Alien Nation | The Princess Bride | Dick Tracy",
+  "id": "bw-p-nm0001597",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mandy Patinkin",
+  "type": "task"
+}

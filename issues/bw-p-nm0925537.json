@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Toni Elizabeth White. actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0925537/\n_search: Toni Elizabeth White | Chicago P.D. | Based on an Untrue Story | Chicago Fire | Soul Doctor",
+  "id": "bw-p-nm0925537",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Toni Elizabeth White",
+  "type": "task"
+}

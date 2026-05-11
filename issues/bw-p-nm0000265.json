@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Altman. 1925–2006 | director, producer, writer.\nDECEASED (1925–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000265/\n_search: Robert Altman | Gosford Park | Nashville | Short Cuts | The Player",
+  "id": "bw-p-nm0000265",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Altman",
+  "type": "task"
+}

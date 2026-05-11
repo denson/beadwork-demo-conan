@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Wendt/Howard Bach/Hot Chip. late_night, S15E92, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1260254/\n_search: George Wendt/Howard Bach/Hot Chip | 2008 | S15E92",
+  "id": "bw-e-tt1260254",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Wendt/Howard Bach/Hot Chip",
+  "type": "task"
+}

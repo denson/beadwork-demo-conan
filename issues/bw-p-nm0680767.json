@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Phillips. b. 1962 | composer, music_department, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0680767/\n_search: Sam Phillips | Die Hard: With a Vengeance | Ladder 49 | Crazy Heart | Stealing Beauty",
+  "id": "bw-p-nm0680767",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Phillips",
+  "type": "task"
+}

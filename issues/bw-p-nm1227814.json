@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vanessa Hudgens. b. 1988 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1227814/\n_search: Vanessa Hudgens | High School Musical 3: Senior Year | Spring Breakers | Beastly | Journey 2: The Mysterious Island",
+  "id": "bw-p-nm1227814",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vanessa Hudgens",
+  "type": "task"
+}

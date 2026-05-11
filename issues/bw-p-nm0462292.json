@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ed Koch. 1924–2013 | actor, soundtrack, archive_footage.\nDECEASED (1924–2013). Conan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0462292/\n_search: Ed Koch | We Own the Night | The Muppets Take Manhattan | The First Wives Club | Spin City",
+  "id": "bw-p-nm0462292",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ed Koch",
+  "type": "task"
+}

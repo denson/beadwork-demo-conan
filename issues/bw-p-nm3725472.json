@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nicole Polizzi. b. 1987 | producer, actress, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm3725472/\n_search: Nicole Polizzi | The Three Stooges | Movie 43 | Supernatural | Cribmates",
+  "id": "bw-p-nm3725472",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nicole Polizzi",
+  "type": "task"
+}

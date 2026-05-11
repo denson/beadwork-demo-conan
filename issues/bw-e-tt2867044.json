@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Copperfield/Jill Goodacre/The Smithereens. late_night, S2E149, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2867044/\n_search: David Copperfield/Jill Goodacre/The Smithereens | 1995 | S2E149",
+  "id": "bw-e-tt2867044",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Copperfield/Jill Goodacre/The Smithereens",
+  "type": "task"
+}

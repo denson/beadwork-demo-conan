@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Myles Kennedy. b. 1969 | actor, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1042872/\n_search: Myles Kennedy | Rock Star | Rurouni Kenshin Part I: Origins | Movie 43 | Rurouni Kenshin Part II: Kyoto Inferno",
+  "id": "bw-p-nm1042872",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Myles Kennedy",
+  "type": "task"
+}

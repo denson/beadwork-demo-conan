@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Newmark. actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0628331/\n_search: Charlie Newmark | Lord of the Flies | In \u0026 Out | Surveillance | Trees Lounge",
+  "id": "bw-p-nm0628331",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Newmark",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chuck Liddell. b. 1969 | actor, transportation_department, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1101910/\n_search: Chuck Liddell | Drillbit Taylor | Kick-Ass 2 | Hawaii Five-0 | How High",
+  "id": "bw-p-nm1101910",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chuck Liddell",
+  "type": "task"
+}

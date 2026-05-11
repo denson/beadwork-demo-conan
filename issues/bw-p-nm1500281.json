@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rage Against the Machine. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1500281/\n_search: Rage Against the Machine | The Matrix | The Matrix Reloaded | Godzilla | Natural Born Killers",
+  "id": "bw-p-nm1500281",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rage Against the Machine",
+  "type": "task"
+}

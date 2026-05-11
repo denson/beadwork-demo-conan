@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Pemberton. b. 1981 | actor, miscellaneous, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2922572/\n_search: Johnny Pemberton | Fallout | 21 Jump Street | Superstore | Trevor Moore: High in Church",
+  "id": "bw-p-nm2922572",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Pemberton",
+  "type": "task"
+}

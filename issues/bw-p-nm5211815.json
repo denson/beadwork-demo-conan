@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tyler Mazzei. b. 2004 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5211815/\n_search: Tyler Mazzei | Fun Size Horror: Volume One | Outcast | Spin Cycle | Death After Pancakes",
+  "id": "bw-p-nm5211815",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tyler Mazzei",
+  "type": "task"
+}

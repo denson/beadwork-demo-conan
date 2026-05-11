@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Silversun Pickups. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2481117/\n_search: Silversun Pickups | Jennifer's Body | Prom Night | Under the Silver Lake | Dread",
+  "id": "bw-p-nm2481117",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Silversun Pickups",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emilia Clarke. b. 1986 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3592338/\n_search: Emilia Clarke | Game of Thrones | Terminator Genisys | Me Before You | Solo: A Star Wars Story",
+  "id": "bw-p-nm3592338",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emilia Clarke",
+  "type": "task"
+}

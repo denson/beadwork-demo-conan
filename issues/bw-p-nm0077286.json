@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yogi Berra. 1925–2015 | actor, miscellaneous, archive_footage.\nDECEASED (1925–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0077286/\n_search: Yogi Berra | The Phil Silvers Show | Arli$$ | 1949 World Series | 61*",
+  "id": "bw-p-nm0077286",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yogi Berra",
+  "type": "task"
+}

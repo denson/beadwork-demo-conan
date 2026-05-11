@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Drew Lynch. b. 1991 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6756559/\n_search: Drew Lynch | Drew Lynch: Did I Stutter | Maron | Secret Santa | Drew Lynch: Intervention",
+  "id": "bw-p-nm6756559",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Drew Lynch",
+  "type": "task"
+}

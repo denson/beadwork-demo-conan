@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rose McGowan/Huffamoose. late_night, S5E66, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt12591670/\n_search: Rose McGowan/Huffamoose | 1998 | S5E66",
+  "id": "bw-e-tt12591670",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rose McGowan/Huffamoose",
+  "type": "task"
+}

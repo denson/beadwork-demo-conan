@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Louis XIV. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1925558/\n_search: Louis XIV | I Hope They Serve Beer in Hell | Driver: Parallel Lines | Skate 2 | Subterranean",
+  "id": "bw-p-nm1925558",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Louis XIV",
+  "type": "task"
+}

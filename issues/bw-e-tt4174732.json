@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gary Hall Jr./Dr. Joyce Brothers. late_night, S3E172, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4174732/\n_search: Gary Hall Jr./Dr. Joyce Brothers | 1996 | S3E172",
+  "id": "bw-e-tt4174732",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gary Hall Jr./Dr. Joyce Brothers",
+  "type": "task"
+}

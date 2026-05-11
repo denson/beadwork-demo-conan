@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Drennon Davis. actor, music_department, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm3195600/\n_search: Drennon Davis | Rehearsal | The Whizz | A Girl, a Guy, a Space Helmet | The Rookery",
+  "id": "bw-p-nm3195600",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Drennon Davis",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Virginia Is for Lovers, But So Is My Van. conan_tbs, S2E60, 2012.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt2293533/\n_search: Virginia Is for Lovers, But So Is My Van | 2012 | S2E60",
+  "id": "bw-e-tt2293533",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Virginia Is for Lovers, But So Is My Van",
+  "type": "task"
+}

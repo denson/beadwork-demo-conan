@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Diaz-Infante. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7448356/\n_search: David Diaz-Infante | ESPN College Football | The NFL on CBS | The NFL on NBC | 2014 Gildan New Mexico Bowl",
+  "id": "bw-p-nm7448356",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Diaz-Infante",
+  "type": "task"
+}

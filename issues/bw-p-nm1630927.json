@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Criss Angel. b. 1967 | producer, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1630927/\n_search: Criss Angel | CSI: NY | Criss Angel Mindfreak | Criss Angel Believe | Las Vegas",
+  "id": "bw-p-nm1630927",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Criss Angel",
+  "type": "task"
+}

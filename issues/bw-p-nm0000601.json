@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harold Ramis. 1944–2014 | writer, actor, producer.\nDECEASED (1944–2014). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000601/\n_search: Harold Ramis | Ghostbusters | Groundhog Day | Stripes | Knocked Up",
+  "id": "bw-p-nm0000601",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harold Ramis",
+  "type": "task"
+}

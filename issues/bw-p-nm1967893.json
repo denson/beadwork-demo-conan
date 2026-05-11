@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leslie Feist. b. 1976 | actress, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1967893/\n_search: Leslie Feist | Paris, Je T'aime | Warm Bodies | 500 Days of Summer | The Twilight Saga: Breaking Dawn - Part 2",
+  "id": "bw-p-nm1967893",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leslie Feist",
+  "type": "task"
+}

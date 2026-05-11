@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ricky Schroder. b. 1970 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005401/\n_search: Ricky Schroder | Black Cloud | The Earthling | The Champ | NYPD Blue",
+  "id": "bw-p-nm0005401",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ricky Schroder",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alexander Chaplin. b. 1971 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0300040/\n_search: Alexander Chaplin | Wish I Was Here | Spin City | The Basketball Diaries | The Report",
+  "id": "bw-p-nm0300040",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alexander Chaplin",
+  "type": "task"
+}

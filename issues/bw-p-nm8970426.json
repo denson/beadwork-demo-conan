@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trond Bersu. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8970426/\n_search: Trond Bersu | The Tunnel | Made in Chelsea | Trygdekontoret | Lindmo",
+  "id": "bw-p-nm8970426",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trond Bersu",
+  "type": "task"
+}

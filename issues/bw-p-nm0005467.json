@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Stiller. 1927–2020 | actor, producer, writer.\nDECEASED (1927–2020). Conan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0005467/\n_search: Jerry Stiller | Seinfeld | Hairspray | The Heartbreak Kid | Zoolander",
+  "id": "bw-p-nm0005467",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Stiller",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Bean. b. 1984 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2811167/\n_search: Andy Bean | Here and Now | Power | It: Chapter Two | Poor Boy",
+  "id": "bw-p-nm2811167",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Bean",
+  "type": "task"
+}

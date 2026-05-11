@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Shepard. 1923–1998 | writer, archive_footage.\nDECEASED (1923–1998). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0791593/\n_search: Alan Shepard | The Magical World of Disney | International Pro-Celebrity Golf | Romfart | CBS News Extra: Project Mercury flight of Frienship 7",
+  "id": "bw-p-nm0791593",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Shepard",
+  "type": "task"
+}

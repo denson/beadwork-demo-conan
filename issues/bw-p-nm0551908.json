@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrea Martin. b. 1947 | actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0551908/\n_search: Andrea Martin | My Big Fat Greek Wedding | Black Christmas | My Big Fat Greek Wedding 2 | Hedwig and the Angry Inch",
+  "id": "bw-p-nm0551908",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrea Martin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jacob Nitter Sørensen. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7288736/\n_search: Jacob Nitter Sørensen | Gintberg på kanten",
+  "id": "bw-p-nm7288736",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jacob Nitter Sørensen",
+  "type": "task"
+}

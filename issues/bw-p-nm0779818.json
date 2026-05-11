@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stuart Scott. 1965–2015 | actor, archive_footage, archive_sound.\nDECEASED (1965–2015). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0779818/\n_search: Stuart Scott | The Kid | The Game Plan | Drumline | He Got Game",
+  "id": "bw-p-nm0779818",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stuart Scott",
+  "type": "task"
+}

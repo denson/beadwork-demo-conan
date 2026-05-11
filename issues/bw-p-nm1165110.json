@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hemsworth. b. 1983 | actor, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1165110/\n_search: Chris Hemsworth | The Avengers | Thor: Ragnarok | Snow White and the Huntsman | Thor: Love and Thunder",
+  "id": "bw-p-nm1165110",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hemsworth",
+  "type": "task"
+}

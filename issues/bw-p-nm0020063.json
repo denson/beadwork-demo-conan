@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Allard. special_effects, assistant_director, visual_effects.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0020063/\n_search: Eric Allard | Stuart Little | Alien: Resurrection | Short Circuit | Class of 1999",
+  "id": "bw-p-nm0020063",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Allard",
+  "type": "task"
+}

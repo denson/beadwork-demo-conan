@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristian Matsson. miscellaneous, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4412763/\n_search: Kristian Matsson | Like Crazy | Aloha | Endless Love | Criminal Minds: Suspect Behavior",
+  "id": "bw-p-nm4412763",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristian Matsson",
+  "type": "task"
+}

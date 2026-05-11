@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roberta Mancino. actress, camera_department, stunts.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0541527/\n_search: Roberta Mancino | xXx: Return of Xander Cage | Iron Man 3 | Isolated | Elisa di Rivombrosa",
+  "id": "bw-p-nm0541527",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roberta Mancino",
+  "type": "task"
+}

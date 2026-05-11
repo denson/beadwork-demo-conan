@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ariel Winter. b. 1998 | actress, music_department, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1736769/\n_search: Ariel Winter | Sofia the First | Mr. Peabody \u0026 Sherman | Kiss Kiss Bang Bang | Modern Family",
+  "id": "bw-p-nm1736769",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ariel Winter",
+  "type": "task"
+}

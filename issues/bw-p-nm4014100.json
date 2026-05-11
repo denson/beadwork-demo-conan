@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Shirley. b. 1980.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4014100/\n_search: Amy Shirley | Lizard Lick Towing | Ronnie's Redneck Road Trip | All Worked Up",
+  "id": "bw-p-nm4014100",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Shirley",
+  "type": "task"
+}

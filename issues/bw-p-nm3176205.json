@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlotte Kemp Muhl. b. 1987 | actress, music_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3176205/\n_search: Charlotte Kemp Muhl | The Dead Don't Die | No! You're Wrong. or: Spooky Action at A Distance | Zombeavers | Cuddly Toys",
+  "id": "bw-p-nm3176205",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlotte Kemp Muhl",
+  "type": "task"
+}

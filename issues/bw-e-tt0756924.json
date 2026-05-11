@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Hopkins/David Alan Grier/The Naked Trucker. late_night, S10E13, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0756924/\n_search: Anthony Hopkins/David Alan Grier/The Naked Trucker | 2002 | S10E13",
+  "id": "bw-e-tt0756924",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Hopkins/David Alan Grier/The Naked Trucker",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Naked and Famous. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4900803/\n_search: The Naked and Famous | Pitch Perfect | The First Time | 21 \u0026 Over | Carrie",
+  "id": "bw-p-nm4900803",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Naked and Famous",
+  "type": "task"
+}

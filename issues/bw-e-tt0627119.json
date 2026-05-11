@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fabio/Vicki Lewis/Deftones. late_night, S5E128, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627119/\n_search: Fabio/Vicki Lewis/Deftones | 1998 | S5E128",
+  "id": "bw-e-tt0627119",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fabio/Vicki Lewis/Deftones",
+  "type": "task"
+}

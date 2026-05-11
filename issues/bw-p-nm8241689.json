@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "School of Rock. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8241689/\n_search: School of Rock | Un, dos, tres... responda otra vez | The X Factor UK",
+  "id": "bw-p-nm8241689",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "School of Rock",
+  "type": "task"
+}

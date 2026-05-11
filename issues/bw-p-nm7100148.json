@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Max Ouweleen. editorial_department, production_manager, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7100148/\n_search: Max Ouweleen | The Purge | One of Us Is Lying | Those Who Can't | New Girl",
+  "id": "bw-p-nm7100148",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Max Ouweleen",
+  "type": "task"
+}

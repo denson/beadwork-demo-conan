@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Was. b. 1952 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0913282/\n_search: David Was | See No Evil, Hear No Evil | The X Files | Super Mario Bros. | Pump Up the Volume",
+  "id": "bw-p-nm0913282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Was",
+  "type": "task"
+}

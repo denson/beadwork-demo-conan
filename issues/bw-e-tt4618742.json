@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ricky Gervais/Elizabeth Warren/Awolnation. conan_tbs, S5E71, 2015.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt4618742/\n_search: Ricky Gervais/Elizabeth Warren/Awolnation | 2015 | S5E71",
+  "id": "bw-e-tt4618742",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ricky Gervais/Elizabeth Warren/Awolnation",
+  "type": "task"
+}

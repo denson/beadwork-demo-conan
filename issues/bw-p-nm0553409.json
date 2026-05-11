@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charles Martinet. b. 1955 | actor, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0553409/\n_search: Charles Martinet | Nine Months | The Game | The Super Mario Bros. Movie | The Elder Scrolls V: Skyrim",
+  "id": "bw-p-nm0553409",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charles Martinet",
+  "type": "task"
+}

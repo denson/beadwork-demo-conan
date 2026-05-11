@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Macy Gray. b. 1967 | actress, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004975/\n_search: Macy Gray | The Paperboy | Domino | Training Day | Spider-Man",
+  "id": "bw-p-nm0004975",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Macy Gray",
+  "type": "task"
+}

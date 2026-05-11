@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seann William Scott/Jena Friedman. conan_tbs, S9E84, 2019.\nRuntime: 21 min.\nIMDb rating: 6.9.\nIMDb: https://www.imdb.com/title/tt11075152/\n_search: Seann William Scott/Jena Friedman | 2019 | S9E84",
+  "id": "bw-e-tt11075152",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seann William Scott/Jena Friedman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Neal Brennan. writer, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0107366/\n_search: Neal Brennan | Chappelle's Show | Half Baked | Get Him to the Greek | Saturday Night Live",
+  "id": "bw-p-nm0107366",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Neal Brennan",
+  "type": "task"
+}

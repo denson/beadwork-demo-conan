@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Ritter. b. 1980 | actor, producer, stunts.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0728762/\n_search: Jason Ritter | Matlock | Accused | A Million Little Things | Raising Dion",
+  "id": "bw-p-nm0728762",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Ritter",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allan Havey. b. 1954 | actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0369838/\n_search: Allan Havey | Hail, Caesar! | Hancock | Knockaround Guys | Rounders",
+  "id": "bw-p-nm0369838",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allan Havey",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Hudson/Robert Patrick/Lake Street Dive. conan_tbs, S6E48, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5502298/\n_search: Kate Hudson/Robert Patrick/Lake Street Dive | 2016 | S6E48",
+  "id": "bw-e-tt5502298",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Hudson/Robert Patrick/Lake Street Dive",
+  "type": "task"
+}

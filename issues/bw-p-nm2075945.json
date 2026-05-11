@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "We Are Scientists. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2075945/\n_search: We Are Scientists | Nick and Norah's Infinite Playlist | Dread | CSI: NY | I'll Believe You",
+  "id": "bw-p-nm2075945",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "We Are Scientists",
+  "type": "task"
+}

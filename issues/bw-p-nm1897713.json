@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Katharine McPhee. b. 1984 | actress, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1897713/\n_search: Katharine McPhee | Smash | Shark Night | The House Bunny | Book Club",
+  "id": "bw-p-nm1897713",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Katharine McPhee",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Devine. b. 1983 | actor, writer, producer.\nConan-show appearances: 7 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm2796745/\n_search: Adam Devine | Pitch Perfect | Workaholics | Isn't It Romantic | Game Over, Man!",
+  "id": "bw-p-nm2796745",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Devine",
+  "type": "task"
+}

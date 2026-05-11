@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Hall. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2553849/\n_search: Ken Hall | A Christmas Horror Story | Polar | People of Earth | Patch Town",
+  "id": "bw-p-nm2553849",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Hall",
+  "type": "task"
+}

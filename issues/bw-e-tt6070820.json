@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marshawn Lynch/Brian Posehn/Nick Cody. conan_tbs, S6E133, 2016.\nRuntime: 42 min.\nIMDb rating: 5.2.\nIMDb: https://www.imdb.com/title/tt6070820/\n_search: Marshawn Lynch/Brian Posehn/Nick Cody | 2016 | S6E133",
+  "id": "bw-e-tt6070820",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marshawn Lynch/Brian Posehn/Nick Cody",
+  "type": "task"
+}

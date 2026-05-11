@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alix Bailey. b. 1967 | actress, art_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2436679/\n_search: Alix Bailey | Pootie Tang | Tomorrow Night | Searching for Nixon",
+  "id": "bw-p-nm2436679",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alix Bailey",
+  "type": "task"
+}

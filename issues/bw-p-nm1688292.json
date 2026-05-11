@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Micheline. 1929–1998 | archive_footage.\nDECEASED (1929–1998). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1688292/\n_search: Jack Micheline | The Source | Bukowski: Born into This",
+  "id": "bw-p-nm1688292",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Micheline",
+  "type": "task"
+}

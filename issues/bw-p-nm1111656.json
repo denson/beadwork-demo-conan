@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Huskey. b. 1968 | actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1111656/\n_search: Brian Huskey | Veep | Another Period | Bob's Burgers | Childrens Hospital",
+  "id": "bw-p-nm1111656",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Huskey",
+  "type": "task"
+}

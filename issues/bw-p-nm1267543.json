@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Madeleine Albright. 1937–2022 | actress, archive_footage.\nDECEASED (1937–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1267543/\n_search: Madeleine Albright | Gilmore Girls | Parks and Recreation | Madam Secretary | Walking Without Fear",
+  "id": "bw-p-nm1267543",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Madeleine Albright",
+  "type": "task"
+}

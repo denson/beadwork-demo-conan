@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scarlett Sperduto. b. 1999 | actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1775206/\n_search: Scarlett Sperduto | Wanted | Those Who Walk Away | Lincoln Rhyme: Hunt for the Bone Collector | The Letter",
+  "id": "bw-p-nm1775206",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scarlett Sperduto",
+  "type": "task"
+}

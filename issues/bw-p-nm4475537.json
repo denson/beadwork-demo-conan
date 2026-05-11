@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bridget Kearney. actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4475537/\n_search: Bridget Kearney | Downtown Express | Late Show with David Letterman | The Ellen DeGeneres Show",
+  "id": "bw-p-nm4475537",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bridget Kearney",
+  "type": "task"
+}

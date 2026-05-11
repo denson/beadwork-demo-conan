@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Radcliffe. b. 1989 | actor, producer, soundtrack.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0705356/\n_search: Daniel Radcliffe | Harry Potter and the Deathly Hallows: Part 2 | Harry Potter and the Order of the Phoenix | Harry Potter and the Sorcerer's Stone | Swiss Army Man",
+  "id": "bw-p-nm0705356",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Radcliffe",
+  "type": "task"
+}

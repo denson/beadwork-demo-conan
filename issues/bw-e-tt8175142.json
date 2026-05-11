@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Armie Hammer/Nick Swardson. conan_tbs, S8E53, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8175142/\n_search: Armie Hammer/Nick Swardson | 2018 | S8E53",
+  "id": "bw-e-tt8175142",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Armie Hammer/Nick Swardson",
+  "type": "task"
+}

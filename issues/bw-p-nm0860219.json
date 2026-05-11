@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hunter S. Thompson. 1937–2005 | writer, actor, miscellaneous.\nDECEASED (1937–2005). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0860219/\n_search: Hunter S. Thompson | Fear and Loathing in Las Vegas | The Rum Diary | Gonzo | Where the Buffalo Roam",
+  "id": "bw-p-nm0860219",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hunter S. Thompson",
+  "type": "task"
+}

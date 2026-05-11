@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Balaban. b. 1945 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000837/\n_search: Bob Balaban | Gosford Park | A Mighty Wind | Capote | Close Encounters of the Third Kind",
+  "id": "bw-p-nm0000837",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Balaban",
+  "type": "task"
+}

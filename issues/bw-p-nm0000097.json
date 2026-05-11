@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pamela Anderson. b. 1967 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000097/\n_search: Pamela Anderson | The Last Showgirl | The Naked Gun | Rosebush Pruning | Barb Wire",
+  "id": "bw-p-nm0000097",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pamela Anderson",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ahmet Zappa. b. 1974 | director, producer, writer.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0953257/\n_search: Ahmet Zappa | The Odd Life of Timothy Green | Ready to Rumble | Dodge \u0026 Twist | Pump Up the Volume",
+  "id": "bw-p-nm0953257",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ahmet Zappa",
+  "type": "task"
+}

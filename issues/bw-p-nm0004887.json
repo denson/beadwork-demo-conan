@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nora Dunn. b. 1952 | actress, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004887/\n_search: Nora Dunn | Three Kings | Southland Tales | Pineapple Express | Bruce Almighty",
+  "id": "bw-p-nm0004887",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nora Dunn",
+  "type": "task"
+}

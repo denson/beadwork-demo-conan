@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Mizejewski/Chris D'Elia/Sturgill Simpson. conan_tbs, S5E74, 2015.\nIMDb: https://www.imdb.com/title/tt4604206/\n_search: David Mizejewski/Chris D'Elia/Sturgill Simpson | 2015 | S5E74",
+  "id": "bw-e-tt4604206",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Mizejewski/Chris D'Elia/Sturgill Simpson",
+  "type": "task"
+}

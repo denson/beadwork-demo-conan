@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pierre Bernard Jr.. art_department, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1642993/\n_search: Pierre Bernard Jr. | Stargate SG-1 | Death by Chocolate | 2014 MTV Movie Awards",
+  "id": "bw-p-nm1642993",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pierre Bernard Jr.",
+  "type": "task"
+}

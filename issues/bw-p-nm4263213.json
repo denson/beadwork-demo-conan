@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Bradley. b. 1988 | actor, soundtrack, archive_footage.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm4263213/\n_search: John Bradley | Game of Thrones | Moonfall | Patient Zero | Marry Me",
+  "id": "bw-p-nm4263213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Bradley",
+  "type": "task"
+}

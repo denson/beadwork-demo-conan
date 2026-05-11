@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Radiators. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1871444/\n_search: The Radiators | Two Tickets to Paradise | The Big Easy | Earth vs. The Radiators: The First 25 | Treme",
+  "id": "bw-p-nm1871444",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Radiators",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Malcolm-Jamal Warner. 1970–2025 | actor, music_department, producer.\nDECEASED (1970–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0912528/\n_search: Malcolm-Jamal Warner | The Cosby Show | Reed Between the Lines | Malcolm \u0026 Eddie | Fool's Gold",
+  "id": "bw-p-nm0912528",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Malcolm-Jamal Warner",
+  "type": "task"
+}

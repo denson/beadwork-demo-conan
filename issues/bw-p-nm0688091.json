@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Poe. b. 1968 | actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0688091/\n_search: Poe | X2: X-Men United | Real Steel | Book of Shadows: Blair Witch 2 | Stir of Echoes",
+  "id": "bw-p-nm0688091",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Poe",
+  "type": "task"
+}

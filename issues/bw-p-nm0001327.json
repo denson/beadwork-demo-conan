@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Hasselhoff. b. 1952 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001327/\n_search: David Hasselhoff | Baywatch | Knight Rider | Piranha 3DD | Guardians of the Galaxy: Vol. 2",
+  "id": "bw-p-nm0001327",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Hasselhoff",
+  "type": "task"
+}

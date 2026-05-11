@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Todd Phillips. b. 1970 | producer, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0680846/\n_search: Todd Phillips | Joker | Due Date | Old School | Joker: Folie à Deux",
+  "id": "bw-p-nm0680846",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Todd Phillips",
+  "type": "task"
+}

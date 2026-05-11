@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Magic Numbers. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1947058/\n_search: The Magic Numbers | My Super Ex-Girlfriend | The Twilight Saga: New Moon | Catch and Release | The Ex",
+  "id": "bw-p-nm1947058",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Magic Numbers",
+  "type": "task"
+}

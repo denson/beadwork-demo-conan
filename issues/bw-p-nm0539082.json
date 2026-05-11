@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Romany Malco. b. 1968 | actor, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0539082/\n_search: Romany Malco | Weeds | The 40-Year-Old Virgin | Think Like a Man | Last Vegas",
+  "id": "bw-p-nm0539082",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Romany Malco",
+  "type": "task"
+}

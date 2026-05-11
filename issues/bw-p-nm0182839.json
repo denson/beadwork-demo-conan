@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marion Cotillard. b. 1975 | actress, miscellaneous, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0182839/\n_search: Marion Cotillard | La Vie En Rose | Rust and Bone | Inception | Two Days, One Night",
+  "id": "bw-p-nm0182839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marion Cotillard",
+  "type": "task"
+}

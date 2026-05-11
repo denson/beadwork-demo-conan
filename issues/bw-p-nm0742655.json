@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grant Rosenmeyer. b. 1991 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0742655/\n_search: Grant Rosenmeyer | The Royal Tenenbaums | Crazy Ex-Girlfriend | Come As You Are | Curb Your Enthusiasm",
+  "id": "bw-p-nm0742655",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grant Rosenmeyer",
+  "type": "task"
+}

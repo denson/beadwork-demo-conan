@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "American Authors. composer, actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5930350/\n_search: American Authors | Max | Paul Blart: Mall Cop 2 | The Road Within | Falling Inn Love",
+  "id": "bw-p-nm5930350",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "American Authors",
+  "type": "task"
+}

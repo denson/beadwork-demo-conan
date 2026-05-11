@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Slow \u0026 Steady Wins the Participation Trophy. conan_tbs, S3E116, 2013.\nIMDb: https://www.imdb.com/title/tt3069040/\n_search: Slow \u0026 Steady Wins the Participation Trophy | 2013 | S3E116",
+  "id": "bw-e-tt3069040",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Slow \u0026 Steady Wins the Participation Trophy",
+  "type": "task"
+}

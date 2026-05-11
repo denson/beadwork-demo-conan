@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Pharoah. b. 1987 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3982894/\n_search: Jay Pharoah | Saturday Night Live | Unsane | White Famous | Ride Along",
+  "id": "bw-p-nm3982894",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Pharoah",
+  "type": "task"
+}

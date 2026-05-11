@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Jennings. 1938–2005 | editorial_department, editor, writer.\nDECEASED (1938–2005). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0421233/\n_search: Peter Jennings | World News Tonight with David Muir | FDR | The Century | Peter Jennings Reporting: Bitter Medicine: Pills, Profit and the Public Health",
+  "id": "bw-p-nm0421233",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Jennings",
+  "type": "task"
+}

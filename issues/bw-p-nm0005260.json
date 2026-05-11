@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frankie Muniz. b. 1985 | actor, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0005260/\n_search: Frankie Muniz | Agent Cody Banks | Stay Alive | Big Fat Liar | My Dog Skip",
+  "id": "bw-p-nm0005260",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frankie Muniz",
+  "type": "task"
+}

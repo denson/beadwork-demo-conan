@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Terry Zwigoff. b. 1949 | director, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0959062/\n_search: Terry Zwigoff | Ghost World | Crumb | Bad Santa | Louie Bluie",
+  "id": "bw-p-nm0959062",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Terry Zwigoff",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tig Notaro/Becky Lucas. conan_tbs, S9E66, 2019.\nRuntime: 21 min.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt10607396/\n_search: Tig Notaro/Becky Lucas | 2019 | S9E66",
+  "id": "bw-e-tt10607396",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tig Notaro/Becky Lucas",
+  "type": "task"
+}

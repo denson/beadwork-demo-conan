@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Freeman. b. 1971 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0293509/\n_search: Martin Freeman | Black Panther | The Hobbit: An Unexpected Journey | The Hobbit: The Desolation of Smaug | The World's End",
+  "id": "bw-p-nm0293509",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Freeman",
+  "type": "task"
+}

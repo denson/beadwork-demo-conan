@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathaniel Best. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3816468/\n_search: Nathaniel Best | S.W.A.T. | NCIS | My Dead Friend Zoe | La Migra",
+  "id": "bw-p-nm3816468",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathaniel Best",
+  "type": "task"
+}

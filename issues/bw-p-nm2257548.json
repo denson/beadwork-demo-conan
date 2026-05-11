@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Superchunk. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2257548/\n_search: Superchunk | Yes Man | Aqua Teen Hunger Force Colon Movie Film for Theaters | Tromeo and Juliet | SubUrbia",
+  "id": "bw-p-nm2257548",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Superchunk",
+  "type": "task"
+}

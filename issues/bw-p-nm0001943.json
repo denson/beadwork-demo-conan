@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marisa Berenson. b. 1947 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001943/\n_search: Marisa Berenson | Cabaret | Barry Lyndon | I Am Love | Julie, chevalier de Maupin",
+  "id": "bw-p-nm0001943",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marisa Berenson",
+  "type": "task"
+}

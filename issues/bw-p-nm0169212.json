@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Cohen. b. 1968 | producer, actor, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0169212/\n_search: Andy Cohen | The N Word | Kathy Griffin: My Life on the D-List | Top Chef | Queer Eye",
+  "id": "bw-p-nm0169212",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Cohen",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Good Charlotte. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1458690/\n_search: Good Charlotte | Pixels | Dude, Where's My Car? | The Pacifier | Not Another Teen Movie",
+  "id": "bw-p-nm1458690",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Good Charlotte",
+  "type": "task"
+}

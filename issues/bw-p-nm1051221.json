@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Katie Aselton. b. 1978 | actress, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1051221/\n_search: Katie Aselton | The Freebie | Old Dads | Black Rock | Synchronic",
+  "id": "bw-p-nm1051221",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Katie Aselton",
+  "type": "task"
+}

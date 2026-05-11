@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "I Know Why the Caged Bird Sings: He Made a Deal with the D.A. conan_tbs, S4E5, 2013.\nIMDb: https://www.imdb.com/title/tt3327602/\n_search: I Know Why the Caged Bird Sings: He Made a Deal with the D.A | 2013 | S4E5",
+  "id": "bw-e-tt3327602",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "I Know Why the Caged Bird Sings: He Made a Deal with the D.A",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Mellencamp. b. 1951 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0577908/\n_search: John Mellencamp | The Perfect Storm | Colors | Footloose | Cocktail",
+  "id": "bw-p-nm0577908",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Mellencamp",
+  "type": "task"
+}

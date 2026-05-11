@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Airborne Toxic Event. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3088141/\n_search: The Airborne Toxic Event | Eagle Eye | Going the Distance | NCIS | The Scenesters",
+  "id": "bw-p-nm3088141",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Airborne Toxic Event",
+  "type": "task"
+}

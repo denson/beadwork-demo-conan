@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diedrich Bader. b. 1966 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0046033/\n_search: Diedrich Bader | Napoleon Dynamite | Office Space | Meet the Spartans | Balls of Fury",
+  "id": "bw-p-nm0046033",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diedrich Bader",
+  "type": "task"
+}

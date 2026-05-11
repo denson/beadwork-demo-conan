@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jimmy Carr. b. 1972 | miscellaneous, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0139743/\n_search: Jimmy Carr | 8 Out of 10 Cats Does Countdown | Roast Battle | The Fix | Your Face or Mine?",
+  "id": "bw-p-nm0139743",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jimmy Carr",
+  "type": "task"
+}

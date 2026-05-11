@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Damian. b. 1962 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0198755/\n_search: Michael Damian | Hot Tamale | Moondance Alexander | The Young and the Restless | Paris Christmas Waltz",
+  "id": "bw-p-nm0198755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Damian",
+  "type": "task"
+}

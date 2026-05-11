@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Goodman. b. 1952 | actor, producer, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000422/\n_search: John Goodman | 10 Cloverfield Lane | Argo | Barton Fink | Flight",
+  "id": "bw-p-nm0000422",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Goodman",
+  "type": "task"
+}

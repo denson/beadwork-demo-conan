@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lela Nargi. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5183946/\n_search: Lela Nargi",
+  "id": "bw-p-nm5183946",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lela Nargi",
+  "type": "task"
+}

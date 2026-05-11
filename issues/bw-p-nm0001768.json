@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rod Steiger. 1925–2002 | actor, soundtrack, archive_footage.\nDECEASED (1925–2002). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001768/\n_search: Rod Steiger | In the Heat of the Night | The Pawnbroker | On the Waterfront | End of Days",
+  "id": "bw-p-nm0001768",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rod Steiger",
+  "type": "task"
+}

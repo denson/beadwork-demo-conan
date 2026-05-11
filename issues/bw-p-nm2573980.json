@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Bernanke. b. 1953 | archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2573980/\n_search: Ben Bernanke | American Casino | Panic: The Untold Story of the 2008 Financial Crisis | Arte Journal | 60 Minutes",
+  "id": "bw-p-nm2573980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Bernanke",
+  "type": "task"
+}

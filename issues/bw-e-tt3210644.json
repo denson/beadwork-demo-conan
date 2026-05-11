@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Now Is the Winter of Our Disco Tent. conan_tbs, S3E141, 2013.\nIMDb: https://www.imdb.com/title/tt3210644/\n_search: Now Is the Winter of Our Disco Tent | 2013 | S3E141",
+  "id": "bw-e-tt3210644",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Now Is the Winter of Our Disco Tent",
+  "type": "task"
+}

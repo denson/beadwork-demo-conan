@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Farrar. b. 1967 | composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0268131/\n_search: Jay Farrar | Knocked Up | Boys | Dream with the Fishes | The Slaughter Rule",
+  "id": "bw-p-nm0268131",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Farrar",
+  "type": "task"
+}

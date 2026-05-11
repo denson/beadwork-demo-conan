@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "JR JR. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4880877/\n_search: JR JR | Bad Moms | King Jack | What Other Couples Do | Dorfman in Love",
+  "id": "bw-p-nm4880877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "JR JR",
+  "type": "task"
+}

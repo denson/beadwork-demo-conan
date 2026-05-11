@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alex Winter. b. 1965 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0935664/\n_search: Alex Winter | Adulthood | The YouTube Effect | Bill \u0026 Ted Face the Music | Zappa",
+  "id": "bw-p-nm0935664",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alex Winter",
+  "type": "task"
+}

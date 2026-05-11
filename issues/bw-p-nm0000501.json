@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ray Liotta. 1954–2022 | actor, producer, soundtrack.\nDECEASED (1954–2022). Conan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm0000501/\n_search: Ray Liotta | GoodFellas | Field of Dreams | Narc | Something Wild",
+  "id": "bw-p-nm0000501",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ray Liotta",
+  "type": "task"
+}

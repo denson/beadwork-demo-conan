@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Seth Rogen/Phillip Phillips. conan_tbs, S4E67, 2014.\nIMDb: https://www.imdb.com/title/tt3611094/\n_search: Seth Rogen/Phillip Phillips | 2014 | S4E67",
+  "id": "bw-e-tt3611094",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Seth Rogen/Phillip Phillips",
+  "type": "task"
+}

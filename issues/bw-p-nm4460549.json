@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Børns. b. 1992 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4460549/\n_search: Børns | Flatliners | Nerve | The Space Between Us | Scouts Guide to the Zombie Apocalypse",
+  "id": "bw-p-nm4460549",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Børns",
+  "type": "task"
+}

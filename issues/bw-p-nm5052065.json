@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ansel Elgort. b. 1994 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5052065/\n_search: Ansel Elgort | The Fault in Our Stars | Divergent | Baby Driver | West Side Story",
+  "id": "bw-p-nm5052065",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ansel Elgort",
+  "type": "task"
+}

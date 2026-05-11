@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rizwan Manji. b. 1974 | actor, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0542492/\n_search: Rizwan Manji | The Dictator | Charlie Wilson's War | Transformers | Paterson",
+  "id": "bw-p-nm0542492",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rizwan Manji",
+  "type": "task"
+}

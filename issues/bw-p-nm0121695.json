@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gregory Burke. b. 1981 | writer, director, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0121695/\n_search: Gregory Burke | Clark Holographics | Callback | Guiding Light | Blog of a Pool Boy",
+  "id": "bw-p-nm0121695",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gregory Burke",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Gallagher. actor, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1349130/\n_search: Jack Gallagher | Shakes the Clown | Bringing Up Jack | Curb Your Enthusiasm | The Twilight Zone",
+  "id": "bw-p-nm1349130",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Gallagher",
+  "type": "task"
+}

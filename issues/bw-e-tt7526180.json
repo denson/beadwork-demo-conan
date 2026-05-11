@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sandler/Evan Peters/Jimmy Dunn. conan_tbs, S7E142, 2017.\nRuntime: 42 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt7526180/\n_search: Adam Sandler/Evan Peters/Jimmy Dunn | 2017 | S7E142",
+  "id": "bw-e-tt7526180",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sandler/Evan Peters/Jimmy Dunn",
+  "type": "task"
+}

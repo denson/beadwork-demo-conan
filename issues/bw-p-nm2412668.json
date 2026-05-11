@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Sliwa. actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2412668/\n_search: Lisa Sliwa | Beyond Vaudeville | Howard Stern on Demand | The Wendy Williams Show | Live! On City Line",
+  "id": "bw-p-nm2412668",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Sliwa",
+  "type": "task"
+}

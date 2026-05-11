@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zachary Scott Carothers. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4798447/\n_search: Zachary Scott Carothers | Love, Simon | Peter Rabbit | Lethal Weapon | Father of the Year",
+  "id": "bw-p-nm4798447",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zachary Scott Carothers",
+  "type": "task"
+}

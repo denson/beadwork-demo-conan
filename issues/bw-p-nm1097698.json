@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Allan Kartun. director, assistant_director, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1097698/\n_search: Allan Kartun | Now You See Me | Great Performances | Barbra: The Concert",
+  "id": "bw-p-nm1097698",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Allan Kartun",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lizzy Caplan/D.J. Demers. conan_tbs, S9E105, 2019.\nRuntime: 21 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt11285784/\n_search: Lizzy Caplan/D.J. Demers | 2019 | S9E105",
+  "id": "bw-e-tt11285784",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lizzy Caplan/D.J. Demers",
+  "type": "task"
+}

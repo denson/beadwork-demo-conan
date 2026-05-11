@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Heath Ledger. 1979–2008 | actor, director, cinematographer.\nDECEASED (1979–2008). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005132/\n_search: Heath Ledger | Brokeback Mountain | The Dark Knight | A Knight's Tale | The Brothers Grimm",
+  "id": "bw-p-nm0005132",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Heath Ledger",
+  "type": "task"
+}

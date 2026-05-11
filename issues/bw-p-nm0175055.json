@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Connelly. writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0175055/\n_search: Chris Connelly | Last Action Hero | The Bodyguard | America: A Tribute to Heroes | 1993 MTV Movie Awards",
+  "id": "bw-p-nm0175055",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Connelly",
+  "type": "task"
+}

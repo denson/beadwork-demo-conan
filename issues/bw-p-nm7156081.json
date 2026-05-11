@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tobias Jesso Jr.. composer, director, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7156081/\n_search: Tobias Jesso Jr. | The 5th Wave | Shazam! | Begin Again | The King's Daughter",
+  "id": "bw-p-nm7156081",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tobias Jesso Jr.",
+  "type": "task"
+}

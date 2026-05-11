@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teddy Sears. b. 1977 | actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1146243/\n_search: Teddy Sears | A Single Man | The Flash | Firehouse Dog | Curve",
+  "id": "bw-p-nm1146243",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teddy Sears",
+  "type": "task"
+}

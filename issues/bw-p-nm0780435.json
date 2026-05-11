@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ryan Seacrest. b. 1974 | producer, writer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0780435/\n_search: Ryan Seacrest | American Idol | Shrek Forever After | Shahs of Sunset | Get Smart",
+  "id": "bw-p-nm0780435",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ryan Seacrest",
+  "type": "task"
+}

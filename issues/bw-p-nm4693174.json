@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kurt Vile. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4693174/\n_search: Kurt Vile | The Spectacular Now | Aloha | Before I Fall | 22 Jump Street",
+  "id": "bw-p-nm4693174",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kurt Vile",
+  "type": "task"
+}

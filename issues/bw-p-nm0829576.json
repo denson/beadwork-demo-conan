@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristen Stewart. b. 1990 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0829576/\n_search: Kristen Stewart | The Twilight Saga: Eclipse | Snow White and the Huntsman | Twilight | The Twilight Saga: Breaking Dawn - Part 1",
+  "id": "bw-p-nm0829576",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristen Stewart",
+  "type": "task"
+}

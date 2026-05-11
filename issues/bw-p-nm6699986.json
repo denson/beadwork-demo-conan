@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Francess. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6699986/\n_search: Andy Francess | Iris | Days of Our Lives",
+  "id": "bw-p-nm6699986",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Francess",
+  "type": "task"
+}

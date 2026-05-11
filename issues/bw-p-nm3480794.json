@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yuto Miyazawa. music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3480794/\n_search: Yuto Miyazawa | Dr. Jason II: Lights \u0026 Shadows | The Ellen DeGeneres Show",
+  "id": "bw-p-nm3480794",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yuto Miyazawa",
+  "type": "task"
+}

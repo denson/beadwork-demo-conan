@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ryan Stout. b. 1982 | writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2669075/\n_search: Ryan Stout | Punching the Clown | Hell Den | Small Business | Comedy Central Presents",
+  "id": "bw-p-nm2669075",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ryan Stout",
+  "type": "task"
+}

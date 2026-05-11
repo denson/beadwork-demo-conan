@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Al Goldstein. 1936–2013 | actor, producer, director.\nDECEASED (1936–2013). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0326155/\n_search: Al Goldstein | SOS: Screw on the Screen | Midnight Blue 2 | It Happened in Hollywood | Thrilled to Death",
+  "id": "bw-p-nm0326155",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Al Goldstein",
+  "type": "task"
+}

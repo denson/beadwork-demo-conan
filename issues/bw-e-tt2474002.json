@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "There's Something Suspicious About Professor Murder. conan_tbs, S2E155, 2012.\nIMDb: https://www.imdb.com/title/tt2474002/\n_search: There's Something Suspicious About Professor Murder | 2012 | S2E155",
+  "id": "bw-e-tt2474002",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "There's Something Suspicious About Professor Murder",
+  "type": "task"
+}

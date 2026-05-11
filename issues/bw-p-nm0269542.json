@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nat Faxon. b. 1975 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0269542/\n_search: Nat Faxon | The Way Way Back | The Descendants | Club Dread | Bad Teacher",
+  "id": "bw-p-nm0269542",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nat Faxon",
+  "type": "task"
+}

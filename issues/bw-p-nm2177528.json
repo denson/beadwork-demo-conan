@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Micucci. b. 1980 | actress, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm2177528/\n_search: Kate Micucci | When in Rome | The Lego Batman Movie | DuckTales | Steven Universe",
+  "id": "bw-p-nm2177528",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Micucci",
+  "type": "task"
+}

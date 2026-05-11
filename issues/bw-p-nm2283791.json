@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peeping Tom. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2283791/\n_search: Peeping Tom | The Past Is a Foreign Land | Teenage Dirtbag | A Happy Event | Californication",
+  "id": "bw-p-nm2283791",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peeping Tom",
+  "type": "task"
+}

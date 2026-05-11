@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jada Pinkett Smith. b. 1971 | producer, actress, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000586/\n_search: Jada Pinkett Smith | The Matrix Revolutions | Tales from the Crypt: Demon Knight | Scream 2 | Collateral",
+  "id": "bw-p-nm0000586",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jada Pinkett Smith",
+  "type": "task"
+}

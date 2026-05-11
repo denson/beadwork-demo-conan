@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Scott/John Cena/Larkin Poe. conan_tbs, S6E67, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5599300/\n_search: Adam Scott/John Cena/Larkin Poe | 2016 | S6E67",
+  "id": "bw-e-tt5599300",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Scott/John Cena/Larkin Poe",
+  "type": "task"
+}

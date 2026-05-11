@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabrielle Reece. b. 1970 | actress, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0715246/\n_search: Gabrielle Reece | Gattaca | Cloud 9 | Arli$$ | North Shore",
+  "id": "bw-p-nm0715246",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabrielle Reece",
+  "type": "task"
+}

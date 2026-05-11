@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan Without Borders: Made in Mexico. conan_tbs, S7E51, 2017.\nRuntime: 42 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt6584056/\n_search: Conan Without Borders: Made in Mexico | 2017 | S7E51",
+  "id": "bw-e-tt6584056",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan Without Borders: Made in Mexico",
+  "type": "task"
+}

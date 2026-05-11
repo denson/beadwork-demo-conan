@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lydia Night. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8923027/\n_search: Lydia Night | The Runarounds | The Last Word | Unpregnant | Olivia Rodrigo: Sour Prom",
+  "id": "bw-p-nm8923027",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lydia Night",
+  "type": "task"
+}

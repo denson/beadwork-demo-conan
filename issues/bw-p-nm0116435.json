@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Bruno. actor, composer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0116435/\n_search: Aaron Bruno | Iron Man 3 | 6 Underground | Always Be My Maybe | Disconnect",
+  "id": "bw-p-nm0116435",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Bruno",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michelle Monaghan. b. 1976 | actress, producer, archive_footage.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1157358/\n_search: Michelle Monaghan | Pixels | Gone Baby Gone | Kiss Kiss Bang Bang | Source Code",
+  "id": "bw-p-nm1157358",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michelle Monaghan",
+  "type": "task"
+}

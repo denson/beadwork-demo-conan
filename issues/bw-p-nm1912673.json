@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tribe. composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1912673/\n_search: Tribe | Five Conversations About Soul | Bomb It | Graffiti Verité",
+  "id": "bw-p-nm1912673",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tribe",
+  "type": "task"
+}

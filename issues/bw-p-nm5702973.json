@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Sleighter. actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5702973/\n_search: Andrew Sleighter | Shopping from Your Home | High Land Parking | Dry Bar Comedy | Recycled Babies",
+  "id": "bw-p-nm5702973",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Sleighter",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Catherine Wheel. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3161205/\n_search: Catherine Wheel | Highlander: The Final Dimension | S. Darko | Nowhere | The Darkness II",
+  "id": "bw-p-nm3161205",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Catherine Wheel",
+  "type": "task"
+}

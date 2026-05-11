@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hillary Clinton. b. 1947 | producer, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0166921/\n_search: Hillary Clinton | State of Terror | Madam Secretary | Murphy Brown | Below the Belt",
+  "id": "bw-p-nm0166921",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hillary Clinton",
+  "type": "task"
+}

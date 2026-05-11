@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mickey Gilley. 1936–2022 | actor, producer, writer.\nDECEASED (1936–2022). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0319076/\n_search: Mickey Gilley | Tough Enough | Urban Cowboy | Tabu | Torchlight",
+  "id": "bw-p-nm0319076",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mickey Gilley",
+  "type": "task"
+}

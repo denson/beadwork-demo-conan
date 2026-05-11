@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Willie Robertson. b. 1972 | producer, actor, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3542587/\n_search: Willie Robertson | God's Not Dead | The Blind | Duck Dynasty | Duck Commander",
+  "id": "bw-p-nm3542587",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Willie Robertson",
+  "type": "task"
+}

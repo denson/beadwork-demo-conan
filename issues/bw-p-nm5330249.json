@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brittney Griner. b. 1990 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5330249/\n_search: Brittney Griner | Dem Tinseltown Homiez, the Hollywood Guys | The Brittney Griner Story | WNBA on ESPN | Out to Win",
+  "id": "bw-p-nm5330249",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brittney Griner",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marv Albert. b. 1941 | actor, archive_footage, archive_sound.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0016548/\n_search: Marv Albert | Trainwreck | How to Lose a Guy in 10 Days | Bleed for This | Forget Paris",
+  "id": "bw-p-nm0016548",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marv Albert",
+  "type": "task"
+}

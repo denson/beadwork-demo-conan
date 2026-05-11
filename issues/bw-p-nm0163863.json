@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dick Clark. 1929–2012 | producer, actor, miscellaneous.\nDECEASED (1929–2012). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0163863/\n_search: Dick Clark | Confessions of a Dangerous Mind | The $10,000 Pyramid | ABC Afterschool Specials | Spy Kids",
+  "id": "bw-p-nm0163863",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dick Clark",
+  "type": "task"
+}

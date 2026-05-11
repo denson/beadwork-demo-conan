@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabby Sanalitro. actress, miscellaneous, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0760805/\n_search: Gabby Sanalitro | Euphoria | Bob's Burgers | Baskets | Will \u0026 Grace",
+  "id": "bw-p-nm0760805",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabby Sanalitro",
+  "type": "task"
+}

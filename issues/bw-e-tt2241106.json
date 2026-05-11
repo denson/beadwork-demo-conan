@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The House of Usher, and the Cramped Studio Apartment of Sisqo. conan_tbs, S2E109, 2012.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt2241106/\n_search: The House of Usher, and the Cramped Studio Apartment of Sisqo | 2012 | S2E109",
+  "id": "bw-e-tt2241106",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The House of Usher, and the Cramped Studio Apartment of Sisqo",
+  "type": "task"
+}

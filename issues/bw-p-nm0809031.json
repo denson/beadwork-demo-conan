@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lane Smith. 1936–2005 | actor, soundtrack, archive_footage.\nDECEASED (1936–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0809031/\n_search: Lane Smith | My Cousin Vinny | Red Dawn | The Mighty Ducks | Air America",
+  "id": "bw-p-nm0809031",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lane Smith",
+  "type": "task"
+}

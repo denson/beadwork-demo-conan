@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Proclaimers. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1657969/\n_search: The Proclaimers | Pitch Perfect | Benny \u0026 Joon | Dumb and Dumber | Bachelorette",
+  "id": "bw-p-nm1657969",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Proclaimers",
+  "type": "task"
+}

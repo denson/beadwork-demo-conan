@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Hoffman. writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1895377/\n_search: Ben Hoffman | 82nd Golden Globe Awards | New Girl | The Roast of Tom Brady | Archer",
+  "id": "bw-p-nm1895377",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Hoffman",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Dornan. b. 1982 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1946193/\n_search: Jamie Dornan | Belfast | The Fall | Barb and Star Go to Vista Del Mar | Fifty Shades of Grey",
+  "id": "bw-p-nm1946193",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Dornan",
+  "type": "task"
+}

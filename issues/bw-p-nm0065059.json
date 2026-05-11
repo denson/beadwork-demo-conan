@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Beck. b. 1970 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0065059/\n_search: Beck | Scott Pilgrim vs. the World | A Life Less Ordinary | Lucy | I Am Number Four",
+  "id": "bw-p-nm0065059",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Beck",
+  "type": "task"
+}

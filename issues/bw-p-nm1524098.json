@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Omarosa Manigault Newman. b. 1974 | producer, actress, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1524098/\n_search: Omarosa Manigault Newman | Tiger Run: The Untold Story | Foundling: The Untold Story | Soul Sistahs | The Apprentice",
+  "id": "bw-p-nm1524098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Omarosa Manigault Newman",
+  "type": "task"
+}

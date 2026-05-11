@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laura San Giacomo. b. 1961 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000624/\n_search: Laura San Giacomo | Sex, Lies, and Videotape | Pretty Woman | Quigley Down Under | Just Shoot Me!",
+  "id": "bw-p-nm0000624",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laura San Giacomo",
+  "type": "task"
+}

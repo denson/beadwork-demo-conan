@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cedric the Entertainer. conan_tbs, S9E18, 2019.\nRuntime: 21 min.\nIMDb rating: 6.3.\nIMDb: https://www.imdb.com/title/tt9855636/\n_search: Cedric the Entertainer | 2019 | S9E18",
+  "id": "bw-e-tt9855636",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cedric the Entertainer",
+  "type": "task"
+}

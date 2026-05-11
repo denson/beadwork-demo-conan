@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristian Bush. b. 1970 | actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2628258/\n_search: Kristian Bush | Hall Pass | Basmati Blues | Les Cowboys | Walk. Ride. Rodeo.",
+  "id": "bw-p-nm2628258",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristian Bush",
+  "type": "task"
+}

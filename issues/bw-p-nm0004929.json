@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Foley. b. 1963 | actor, writer, producer.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0004929/\n_search: Dave Foley | The Kids in the Hall | The Wrong Guy | Blast from the Past | A Bug's Life",
+  "id": "bw-p-nm0004929",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Foley",
+  "type": "task"
+}

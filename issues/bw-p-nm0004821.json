@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Chiklis. b. 1963 | actor, director, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0004821/\n_search: Michael Chiklis | The Shield | Fantastic Four | Fantastic Four: Rise of the Silver Surfer | Parker",
+  "id": "bw-p-nm0004821",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Chiklis",
+  "type": "task"
+}

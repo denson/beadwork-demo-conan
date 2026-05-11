@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Whoopi Goldberg. b. 1955 | actress, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000155/\n_search: Whoopi Goldberg | Ghost | Sister Act | The Color Purple | Sister Act 2: Back in the Habit",
+  "id": "bw-p-nm0000155",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Whoopi Goldberg",
+  "type": "task"
+}

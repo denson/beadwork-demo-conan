@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Booker T. Jones. b. 1944 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0427607/\n_search: Booker T. Jones | Repo Men | X-Men: First Class | Rush Hour | Road House",
+  "id": "bw-p-nm0427607",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Booker T. Jones",
+  "type": "task"
+}

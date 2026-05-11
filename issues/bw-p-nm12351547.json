@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin O'Hartigan. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm12351547/\n_search: Kevin O'Hartigan",
+  "id": "bw-p-nm12351547",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin O'Hartigan",
+  "type": "task"
+}

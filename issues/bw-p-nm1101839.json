@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dwayne Kennedy. writer, actor, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1101839/\n_search: Dwayne Kennedy | How High | Seinfeld | Martin | Andover",
+  "id": "bw-p-nm1101839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dwayne Kennedy",
+  "type": "task"
+}

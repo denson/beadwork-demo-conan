@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "January Jones. b. 1978 | actress, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005064/\n_search: January Jones | X-Men: First Class | Unknown | Mad Men | Dirty Dancing: Havana Nights",
+  "id": "bw-p-nm0005064",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "January Jones",
+  "type": "task"
+}

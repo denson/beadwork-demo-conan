@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kari Byron. b. 1974 | actress, producer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1671108/\n_search: Kari Byron | MythBusters | Creature Features | Into the Breach | White Rabbit Project",
+  "id": "bw-p-nm1671108",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kari Byron",
+  "type": "task"
+}

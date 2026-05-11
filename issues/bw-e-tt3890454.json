@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stephen Moyer/Roger Corman/Boy \u0026 Bear. conan_tbs, S4E113, 2014.\nRuntime: 22 min.\nIMDb: https://www.imdb.com/title/tt3890454/\n_search: Stephen Moyer/Roger Corman/Boy \u0026 Bear | 2014 | S4E113",
+  "id": "bw-e-tt3890454",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stephen Moyer/Roger Corman/Boy \u0026 Bear",
+  "type": "task"
+}

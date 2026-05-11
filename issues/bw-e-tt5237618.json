@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Spade/Jenna Dewan-Tatum/Dan Cummins. conan_tbs, S6E9, 2015.\nRuntime: 43 min.\nIMDb: https://www.imdb.com/title/tt5237618/\n_search: David Spade/Jenna Dewan-Tatum/Dan Cummins | 2015 | S6E9",
+  "id": "bw-e-tt5237618",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Spade/Jenna Dewan-Tatum/Dan Cummins",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabriel Oliva. actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3125023/\n_search: Gabriel Oliva | Promising Young Woman | S.W.A.T. | Archer | The Dropout",
+  "id": "bw-p-nm3125023",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabriel Oliva",
+  "type": "task"
+}

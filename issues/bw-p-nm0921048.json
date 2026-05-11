@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jann Wenner. b. 1946 | producer, actor, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0921048/\n_search: Jann Wenner | Jerry Maguire | The 25th Anniversary Rock and Roll Hall of Fame Concert | I'm from Rolling Stone | Perfect",
+  "id": "bw-p-nm0921048",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jann Wenner",
+  "type": "task"
+}

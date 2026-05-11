@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Oyelowo. actor, producer, director.\nConan-show appearances: 4 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0654648/\n_search: David Oyelowo | Lawmen: Bass Reeves | Government Cheese | Queen of Katwe | Selma",
+  "id": "bw-p-nm0654648",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Oyelowo",
+  "type": "task"
+}

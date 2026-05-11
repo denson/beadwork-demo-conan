@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Monica Crowley. b. 1968 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1941565/\n_search: Monica Crowley | 24 | House of Cards | Summoning the Reaper | Varney \u0026 Company",
+  "id": "bw-p-nm1941565",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Monica Crowley",
+  "type": "task"
+}

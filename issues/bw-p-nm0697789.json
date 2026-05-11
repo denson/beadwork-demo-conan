@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Prine. 1946–2020 | music_artist, music_department, actor.\nDECEASED (1946–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0697789/\n_search: John Prine | Courage Under Fire | Leaves of Grass | Into the Wild | Dog",
+  "id": "bw-p-nm0697789",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Prine",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laura Kightlinger. producer, actress, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0452716/\n_search: Laura Kightlinger | Curb Your Enthusiasm | PEN15 | Lucky Louie | Will \u0026 Grace",
+  "id": "bw-p-nm0452716",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laura Kightlinger",
+  "type": "task"
+}

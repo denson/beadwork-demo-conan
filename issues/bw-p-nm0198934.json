@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Damon. b. 1973 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0198934/\n_search: Johnny Damon | Fever Pitch | Arthur | TNA iMPACT! Wrestling | The Bros.",
+  "id": "bw-p-nm0198934",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Damon",
+  "type": "task"
+}

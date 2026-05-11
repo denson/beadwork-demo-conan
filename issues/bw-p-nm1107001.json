@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Mackie. b. 1978 | actor, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm1107001/\n_search: Anthony Mackie | The Hurt Locker | Captain America: The Winter Soldier | The Adjustment Bureau | Captain America: Civil War",
+  "id": "bw-p-nm1107001",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Mackie",
+  "type": "task"
+}

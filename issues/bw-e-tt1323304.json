@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elvis Costello/Madeleine Albright/Lordi. late_night, S16E42, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1323304/\n_search: Elvis Costello/Madeleine Albright/Lordi | 2008 | S16E42",
+  "id": "bw-e-tt1323304",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elvis Costello/Madeleine Albright/Lordi",
+  "type": "task"
+}

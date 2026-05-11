@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Theo Ellis. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7429224/\n_search: Theo Ellis | The Darkest Minds | T2 Trainspotting | Detour | All Together Now",
+  "id": "bw-p-nm7429224",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Theo Ellis",
+  "type": "task"
+}

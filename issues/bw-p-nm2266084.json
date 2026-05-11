@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Curtis Stone. b. 1975 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2266084/\n_search: Curtis Stone | Field Trip with Curtis Stone | Trolls | Surfing the Menu | All-Star Academy",
+  "id": "bw-p-nm2266084",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Curtis Stone",
+  "type": "task"
+}

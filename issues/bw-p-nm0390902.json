@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Hollander. production_department, miscellaneous, production_manager.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0390902/\n_search: Steve Hollander | Now You See Me | The Roast of Tom Brady | Beijing 2008: Games of the XXIX Olympiad | The Price Is Right",
+  "id": "bw-p-nm0390902",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Hollander",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ginnifer Goodwin. b. 1978 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0329481/\n_search: Ginnifer Goodwin | Zootopia 2 | Once Upon a Time | He's Just Not That Into You | Big Love",
+  "id": "bw-p-nm0329481",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ginnifer Goodwin",
+  "type": "task"
+}

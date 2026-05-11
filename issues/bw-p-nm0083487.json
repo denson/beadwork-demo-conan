@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Birdsong. b. 1968 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0083487/\n_search: Mary Birdsong | Succession | The Descendants | Reno 911!: The Hunt for QAnon | The Daily Show",
+  "id": "bw-p-nm0083487",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Birdsong",
+  "type": "task"
+}

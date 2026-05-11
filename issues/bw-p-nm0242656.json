@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Dunn. b. 1955 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0242656/\n_search: Kevin Dunn | Transformers: Dark of the Moon | Chain Reaction | Warrior | Transformers",
+  "id": "bw-p-nm0242656",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Dunn",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Cohan. b. 1982 | actress, producer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm1659348/\n_search: Lauren Cohan | The Boy | Mile 22 | The Walking Dead | The Walking Dead: Dead City",
+  "id": "bw-p-nm1659348",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Cohan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gregg Cash. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8619652/\n_search: Gregg Cash",
+  "id": "bw-p-nm8619652",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gregg Cash",
+  "type": "task"
+}

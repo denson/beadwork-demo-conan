@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Loudon Wainwright III. b. 1946 | actor, music_department, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0906525/\n_search: Loudon Wainwright III | Big Fish | G-Force | Elizabethtown | The Squid and the Whale",
+  "id": "bw-p-nm0906525",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Loudon Wainwright III",
+  "type": "task"
+}

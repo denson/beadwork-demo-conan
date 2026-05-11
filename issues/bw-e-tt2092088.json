@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Zombie Who Preferred Salads. conan_tbs, S1E159, 2011.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt2092088/\n_search: The Zombie Who Preferred Salads | 2011 | S1E159",
+  "id": "bw-e-tt2092088",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Zombie Who Preferred Salads",
+  "type": "task"
+}

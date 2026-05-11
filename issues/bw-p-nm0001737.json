@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Short. b. 1950 | actor, writer, producer.\nConan-show appearances: 24 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0001737/\n_search: Martin Short | Innerspace | The Santa Clause 3: The Escape Clause | Inherent Vice | Father of the Bride",
+  "id": "bw-p-nm0001737",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Short",
+  "type": "task"
+}

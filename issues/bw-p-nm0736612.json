@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gregg Rogell. b. 1967 | actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0736612/\n_search: Gregg Rogell | Half Baked | The Nanny | Louie | The Colin Quinn Show",
+  "id": "bw-p-nm0736612",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gregg Rogell",
+  "type": "task"
+}

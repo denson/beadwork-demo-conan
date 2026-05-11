@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Russ Meyer. 1922–2004 | director, cinematographer, writer.\nDECEASED (1922–2004). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000540/\n_search: Russ Meyer | Beneath the Valley of the Ultra-Vixens | Faster, Pussycat! Kill! Kill! | Up! | Motorpsycho!",
+  "id": "bw-p-nm0000540",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Russ Meyer",
+  "type": "task"
+}

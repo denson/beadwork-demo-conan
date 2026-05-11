@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emma Watson. b. 1990 | actress, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0914612/\n_search: Emma Watson | The Perks of Being a Wallflower | Harry Potter and the Sorcerer's Stone | The Bling Ring | Beauty and the Beast",
+  "id": "bw-p-nm0914612",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emma Watson",
+  "type": "task"
+}

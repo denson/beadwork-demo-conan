@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quentin Tarantino/Paul Bettany/Spoon. tonight_show, S1E142, 2010.\nIMDb rating: 8.6.\nIMDb: https://www.imdb.com/title/tt1587647/\n_search: Quentin Tarantino/Paul Bettany/Spoon | 2010 | S1E142",
+  "id": "bw-e-tt1587647",
+  "labels": [
+    "kind:episode",
+    "era:tonight_show",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quentin Tarantino/Paul Bettany/Spoon",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sean Penn. conan_tbs, S9E34, 2019.\nRuntime: 21 min.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt10140906/\n_search: Sean Penn | 2019 | S9E34",
+  "id": "bw-e-tt10140906",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sean Penn",
+  "type": "task"
+}

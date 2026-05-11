@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Modest Mouse. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1851133/\n_search: Modest Mouse | Nick and Norah's Infinite Playlist | Accepted | Tail Lights Fade | Cold Case",
+  "id": "bw-p-nm1851133",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Modest Mouse",
+  "type": "task"
+}

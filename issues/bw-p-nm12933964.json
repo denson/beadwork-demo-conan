@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robinella. composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm12933964/\n_search: Robinella",
+  "id": "bw-p-nm12933964",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robinella",
+  "type": "task"
+}

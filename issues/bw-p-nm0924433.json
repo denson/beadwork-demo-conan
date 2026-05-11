@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan White. b. 1972 | actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0924433/\n_search: Alan White | Acoustic at the BBC | Oasis: Video Selection from Be Here Now | Top of the Pops",
+  "id": "bw-p-nm0924433",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan White",
+  "type": "task"
+}

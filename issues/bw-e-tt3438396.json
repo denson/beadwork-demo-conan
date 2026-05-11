@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry King/Jeff Garlin/Johnnie Johnson. late_night, S3E27, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3438396/\n_search: Larry King/Jeff Garlin/Johnnie Johnson | 1995 | S3E27",
+  "id": "bw-e-tt3438396",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry King/Jeff Garlin/Johnnie Johnson",
+  "type": "task"
+}

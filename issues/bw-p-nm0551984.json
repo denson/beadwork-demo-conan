@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Martin. composer, music_department, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0551984/\n_search: Billy Martin | 7E | Blue in the Face | Nobody Wants to Shoot a Woman | The Great Seduction",
+  "id": "bw-p-nm0551984",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Martin",
+  "type": "task"
+}

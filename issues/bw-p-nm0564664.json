@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marsh McCall. 1964–2017 | writer, producer, actor.\nDECEASED (1964–2017). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0564664/\n_search: Marsh McCall | Just Shoot Me! | Twenty Good Years | My Big Fat Greek Life | Fuller House",
+  "id": "bw-p-nm0564664",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marsh McCall",
+  "type": "task"
+}

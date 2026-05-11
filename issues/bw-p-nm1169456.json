@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steven Solis. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1169456/\n_search: Steven Solis | Monsterland | The Deuce | The Get Down | Hacks",
+  "id": "bw-p-nm1169456",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steven Solis",
+  "type": "task"
+}

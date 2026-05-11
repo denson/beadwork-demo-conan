@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Angie Everhart. b. 1969 | actress, producer, archive_footage.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0004904/\n_search: Angie Everhart | Last Action Hero | Take Me Home Tonight | Bandido | Bordello of Blood",
+  "id": "bw-p-nm0004904",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Angie Everhart",
+  "type": "task"
+}

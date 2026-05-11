@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pamela Anderson/Michael T. Weiss/Ricky Scaggs. late_night, S6E68, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627203/\n_search: Pamela Anderson/Michael T. Weiss/Ricky Scaggs | 1999 | S6E68",
+  "id": "bw-e-tt0627203",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pamela Anderson/Michael T. Weiss/Ricky Scaggs",
+  "type": "task"
+}

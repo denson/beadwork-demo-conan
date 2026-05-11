@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Victoria Silvstedt. b. 1974 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005429/\n_search: Victoria Silvstedt | Out Cold | Heartbreaker | BASEketball | Boat Trip",
+  "id": "bw-p-nm0005429",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Victoria Silvstedt",
+  "type": "task"
+}

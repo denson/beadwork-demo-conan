@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jana Marie Hupp/Jimmy Blaylock. late_night, S9E27, 2001.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3804610/\n_search: Jana Marie Hupp/Jimmy Blaylock | 2001 | S9E27",
+  "id": "bw-e-tt3804610",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jana Marie Hupp/Jimmy Blaylock",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lolita Davidovich. b. 1961 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000357/\n_search: Lolita Davidovich | Hollywood Homicide | Blaze | Adventures in Babysitting | Intersection",
+  "id": "bw-p-nm0000357",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lolita Davidovich",
+  "type": "task"
+}

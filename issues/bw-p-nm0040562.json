@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chet Atkins. 1924–2001 | actor, composer, writer.\nDECEASED (1924–2001). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0040562/\n_search: Chet Atkins | Michael | Wild | Stroszek | The Dark at the Top of the Stairs",
+  "id": "bw-p-nm0040562",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chet Atkins",
+  "type": "task"
+}

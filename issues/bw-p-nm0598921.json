@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Montana. b. 1956 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0598921/\n_search: Joe Montana | Joe Montana's NFL Football | The Simpsons | Frito-Lay: 'Twas the Night Before the Superbowl | ESPN Speedworld",
+  "id": "bw-p-nm0598921",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Montana",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Peet/Ellar Coltrane/Jukebox the Ghost. conan_tbs, S5E37, 2015.\nIMDb: https://www.imdb.com/title/tt4419320/\n_search: Amanda Peet/Ellar Coltrane/Jukebox the Ghost | 2015 | S5E37",
+  "id": "bw-e-tt4419320",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Peet/Ellar Coltrane/Jukebox the Ghost",
+  "type": "task"
+}

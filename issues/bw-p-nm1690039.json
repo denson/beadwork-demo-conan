@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tiina Klemettilä. producer, production_manager, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1690039/\n_search: Tiina Klemettilä | Yle Olohuone | Paluumuuttajat | Elävät puut | Käärijä LIVE",
+  "id": "bw-p-nm1690039",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tiina Klemettilä",
+  "type": "task"
+}

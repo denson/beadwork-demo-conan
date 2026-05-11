@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Wilson. b. 1969 | actor, music_department, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2004100/\n_search: Patrick Wilson | Factory Girl | Family Switch | The Key of Awesome | The Simpsons",
+  "id": "bw-p-nm2004100",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Wilson",
+  "type": "task"
+}

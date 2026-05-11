@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Wombats. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3079354/\n_search: The Wombats | Chalet Girl | The Inbetweeners | Made in Chelsea | January 2009 in 6 Minutes",
+  "id": "bw-p-nm3079354",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Wombats",
+  "type": "task"
+}

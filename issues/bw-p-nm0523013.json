@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Lowe. b. 1949 | actor, composer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0523013/\n_search: Nick Lowe | The Bodyguard | 10 Things I Hate About You | Adventureland | Planes, Trains \u0026 Automobiles",
+  "id": "bw-p-nm0523013",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Lowe",
+  "type": "task"
+}

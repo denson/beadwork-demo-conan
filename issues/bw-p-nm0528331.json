@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jane Lynch. b. 1960 | actress, producer, soundtrack.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0528331/\n_search: Jane Lynch | Wreck-It Ralph | Glee | A Mighty Wind | Paul",
+  "id": "bw-p-nm0528331",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jane Lynch",
+  "type": "task"
+}

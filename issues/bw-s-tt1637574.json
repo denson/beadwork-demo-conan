@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan (2010–2021). A show in Conan's career arc.\nIMDb: https://www.imdb.com/title/tt1637574/\n_search: Conan | 2010",
+  "id": "bw-s-tt1637574",
+  "labels": [
+    "kind:show",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan",
+  "type": "task"
+}

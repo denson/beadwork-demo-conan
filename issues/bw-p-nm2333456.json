@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Loughlin. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2333456/\n_search: Jim Loughlin | Live at Moog | Moe: Live at the Fillmore",
+  "id": "bw-p-nm2333456",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Loughlin",
+  "type": "task"
+}

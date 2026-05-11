@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lily Allen. b. 1985 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0020770/\n_search: Lily Allen | Elizabeth | Challengers | Greenberg | He's Just Not That Into You",
+  "id": "bw-p-nm0020770",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lily Allen",
+  "type": "task"
+}

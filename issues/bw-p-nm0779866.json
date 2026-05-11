@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Everett Scott. b. 1970 | actor, producer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0779866/\n_search: Tom Everett Scott | That Thing You Do! | An American Werewolf in Paris | Boiler Room | Because I Said So",
+  "id": "bw-p-nm0779866",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Everett Scott",
+  "type": "task"
+}

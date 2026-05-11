@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Wendt/Ed Koch/David Broza. late_night, S2E34, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2784442/\n_search: George Wendt/Ed Koch/David Broza | 1994 | S2E34",
+  "id": "bw-e-tt2784442",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Wendt/Ed Koch/David Broza",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Schiltz. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5571213/\n_search: Steve Schiltz | The Twilight Saga: New Moon | I Now Pronounce You Chuck \u0026 Larry | Bliss | Donnybrook",
+  "id": "bw-p-nm5571213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Schiltz",
+  "type": "task"
+}

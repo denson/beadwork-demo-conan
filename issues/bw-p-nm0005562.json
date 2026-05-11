@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Owen Wilson. b. 1968 | actor, producer, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0005562/\n_search: Owen Wilson | The Royal Tenenbaums | Bottle Rocket | Wedding Crashers | No Escape",
+  "id": "bw-p-nm0005562",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Owen Wilson",
+  "type": "task"
+}

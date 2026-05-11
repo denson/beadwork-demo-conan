@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Against Me!. soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2713130/\n_search: Against Me! | I Love You, Beth Cooper | The Sisterhood of the Traveling Pants 2 | NHL 12 | Guitar Hero Live",
+  "id": "bw-p-nm2713130",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Against Me!",
+  "type": "task"
+}

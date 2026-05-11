@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Valenti. 1921–2007 | actor, archive_footage, archive_sound.\nDECEASED (1921–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0884122/\n_search: Jack Valenti | Freakazoid! | The 57th Annual Directors Guild Awards | LBJ | Bicentennial Minutes",
+  "id": "bw-p-nm0884122",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Valenti",
+  "type": "task"
+}

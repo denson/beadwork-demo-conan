@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Geraldine Ferraro/Peter Horton/Vinny Pazienza. late_night, S1E81, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2402353/\n_search: Geraldine Ferraro/Peter Horton/Vinny Pazienza | 1994 | S1E81",
+  "id": "bw-e-tt2402353",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Geraldine Ferraro/Peter Horton/Vinny Pazienza",
+  "type": "task"
+}

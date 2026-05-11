@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ruben Studdard. b. 1978 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1335861/\n_search: Ruben Studdard | American Idol | Obsessed | Scooby-Doo 2: Monsters Unleashed | The Second Chance",
+  "id": "bw-p-nm1335861",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ruben Studdard",
+  "type": "task"
+}

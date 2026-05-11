@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Odenkirk/Dr. Jennifer Berman/Carmen Lynch. conan_tbs, S6E50, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5502306/\n_search: Bob Odenkirk/Dr. Jennifer Berman/Carmen Lynch | 2016 | S6E50",
+  "id": "bw-e-tt5502306",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Odenkirk/Dr. Jennifer Berman/Carmen Lynch",
+  "type": "task"
+}

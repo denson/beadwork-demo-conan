@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Linda McCartney. 1941–1998 | actress, composer, music_department.\nDECEASED (1941–1998). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0565371/\n_search: Linda McCartney | Live and Let Die | Super 8 | Grosse Pointe Blank | Moulin Rouge!",
+  "id": "bw-p-nm0565371",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Linda McCartney",
+  "type": "task"
+}

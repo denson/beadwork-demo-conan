@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dominic Dierkes. b. 1984 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2257388/\n_search: Dominic Dierkes | Workaholics | The Mick | The Grinder | Mystery Team",
+  "id": "bw-p-nm2257388",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dominic Dierkes",
+  "type": "task"
+}

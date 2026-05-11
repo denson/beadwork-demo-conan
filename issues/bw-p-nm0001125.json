@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Benicio Del Toro. b. 1967 | actor, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001125/\n_search: Benicio Del Toro | Sicario | The Usual Suspects | Traffic | Guardians of the Galaxy",
+  "id": "bw-p-nm0001125",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Benicio Del Toro",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kris Kristofferson. 1936–2024 | music_artist, actor, composer.\nDECEASED (1936–2024). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0001434/\n_search: Kris Kristofferson | Blade | Blade II | A Star Is Born | Payback",
+  "id": "bw-p-nm0001434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kris Kristofferson",
+  "type": "task"
+}

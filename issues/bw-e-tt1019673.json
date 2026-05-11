@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sandler/Vince McMahon. late_night, S6E135, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1019673/\n_search: Adam Sandler/Vince McMahon | 1999 | S6E135",
+  "id": "bw-e-tt1019673",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sandler/Vince McMahon",
+  "type": "task"
+}

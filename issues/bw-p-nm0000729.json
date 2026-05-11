@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Casey Affleck. b. 1975 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000729/\n_search: Casey Affleck | Manchester by the Sea | Light of My Life | A Ghost Story | The Assassination of Jesse James by the Coward Robert Ford",
+  "id": "bw-p-nm0000729",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Casey Affleck",
+  "type": "task"
+}

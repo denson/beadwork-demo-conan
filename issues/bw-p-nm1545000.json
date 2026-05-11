@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alison Flierl. writer, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1545000/\n_search: Alison Flierl | BoJack Horseman | School of Rock | Random Tropical Paradise | Jason Statham Stole My Bike",
+  "id": "bw-p-nm1545000",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alison Flierl",
+  "type": "task"
+}

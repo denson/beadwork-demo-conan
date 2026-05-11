@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fishbone. actor, music_department, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0279329/\n_search: Fishbone | Last Action Hero | The Mask | Say Anything | Fled",
+  "id": "bw-p-nm0279329",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fishbone",
+  "type": "task"
+}

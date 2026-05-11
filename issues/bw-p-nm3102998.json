@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bo Burnham. b. 1990 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm3102998/\n_search: Bo Burnham | Bo Burnham: Inside | Eighth Grade | Promising Young Woman | The Big Sick",
+  "id": "bw-p-nm3102998",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bo Burnham",
+  "type": "task"
+}

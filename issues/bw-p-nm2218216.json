@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judith Martin. b. 1938.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2218216/\n_search: Judith Martin | Washington Post | Fuck | The Ethical Edge | The Bob Braun Show",
+  "id": "bw-p-nm2218216",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judith Martin",
+  "type": "task"
+}

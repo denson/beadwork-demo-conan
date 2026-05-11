@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rae Sremmurd. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6953052/\n_search: Rae Sremmurd | The First Purge | Suicide Squad | American Honey | Succession",
+  "id": "bw-p-nm6953052",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rae Sremmurd",
+  "type": "task"
+}

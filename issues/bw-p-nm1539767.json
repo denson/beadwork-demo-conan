@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carolyn Kepcher. b. 1969.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1539767/\n_search: Carolyn Kepcher | The Apprentice | 17th Annual American Century Championship | The View | The Big Idea with Donny Deutsch",
+  "id": "bw-p-nm1539767",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carolyn Kepcher",
+  "type": "task"
+}

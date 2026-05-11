@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kaleti Williams. actor, stunts, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2307223/\n_search: Kaleti Williams | Fallout | Agents of S.H.I.E.L.D. | House | Hawaii Five-0",
+  "id": "bw-p-nm2307223",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kaleti Williams",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lea Michele. b. 1986 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0584951/\n_search: Lea Michele | Glee | Legends of Oz: Dorothy's Return | New Year's Eve | Scream Queens",
+  "id": "bw-p-nm0584951",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lea Michele",
+  "type": "task"
+}

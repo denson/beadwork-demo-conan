@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Bill Burr. conan_tbs, S11E47, ?.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt14811912/\n_search: From Largo Theatre Bill Burr |  | S11E47",
+  "id": "bw-e-tt14811912",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Bill Burr",
+  "type": "task"
+}

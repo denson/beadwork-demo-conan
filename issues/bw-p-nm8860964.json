@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Noah Gersh. composer, sound_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8860964/\n_search: Noah Gersh",
+  "id": "bw-p-nm8860964",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Noah Gersh",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Black 47. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3370813/\n_search: Black 47 | Into the West | My Not So Irish Bride | The Tonight Show Starring Jimmy Fallon | Late Night with David Letterman",
+  "id": "bw-p-nm3370813",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Black 47",
+  "type": "task"
+}

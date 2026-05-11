@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Blindside. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2675866/\n_search: Blindside | Grind | Need for Speed: Underground | Blindside: All of Us",
+  "id": "bw-p-nm2675866",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Blindside",
+  "type": "task"
+}

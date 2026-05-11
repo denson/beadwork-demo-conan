@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Skipper Bivins. producer, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4113187/\n_search: Skipper Bivins | The Secret of Sarah Pennington | Chasing Monsters | Hillbilly Handfishin' | The Reluctant Outdoorsman",
+  "id": "bw-p-nm4113187",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Skipper Bivins",
+  "type": "task"
+}

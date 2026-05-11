@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wolfmother. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2285755/\n_search: Wolfmother | Tomorrow, When the War Began | Spider-Man 3 | Zoolander 2 | Shoot 'Em Up",
+  "id": "bw-p-nm2285755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wolfmother",
+  "type": "task"
+}

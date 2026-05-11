@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Loeb. b. 1968 | music_artist, actress, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005160/\n_search: Lisa Loeb | House on Haunted Hill | Hot Tub Time Machine 2 | Legally Blonde | Twister",
+  "id": "bw-p-nm0005160",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Loeb",
+  "type": "task"
+}

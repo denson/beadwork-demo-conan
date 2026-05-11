@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bernie Kopell. b. 1933 | actor, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0465728/\n_search: Bernie Kopell | Get Smart | Get Smart | The Love Boat | Get Smart, Again!",
+  "id": "bw-p-nm0465728",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bernie Kopell",
+  "type": "task"
+}

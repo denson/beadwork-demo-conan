@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Braunger. b. 1974 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2286712/\n_search: Matt Braunger | Agent Carter | Our Footloose Remake | Take My Wife | Cautionary Tales of Swords",
+  "id": "bw-p-nm2286712",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Braunger",
+  "type": "task"
+}

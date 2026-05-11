@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Miss America Kimberly Clarice Aiken/Daphne Zuniga/Wade Boggs. late_night, S1E6, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1401967/\n_search: Miss America Kimberly Clarice Aiken/Daphne Zuniga/Wade Boggs | 1993 | S1E6",
+  "id": "bw-e-tt1401967",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Miss America Kimberly Clarice Aiken/Daphne Zuniga/Wade Boggs",
+  "type": "task"
+}

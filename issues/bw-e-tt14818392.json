@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Black. conan_tbs, S11E59, 2021.\nRuntime: 75 min.\nIMDb rating: 8.7.\nIMDb: https://www.imdb.com/title/tt14818392/\n_search: Jack Black | 2021 | S11E59",
+  "id": "bw-e-tt14818392",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Black",
+  "type": "task"
+}

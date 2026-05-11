@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rudy Giuliani. b. 1944 | actor, soundtrack, archive_footage.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0321320/\n_search: Rudy Giuliani | Anger Management | Law \u0026 Order | Cosby | The Simpsons",
+  "id": "bw-p-nm0321320",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rudy Giuliani",
+  "type": "task"
+}

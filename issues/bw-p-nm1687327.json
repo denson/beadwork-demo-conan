@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bone Crusher. b. 1971 | actor, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1687327/\n_search: Bone Crusher | xXx: State of the Union | The Wrestler | Welcome to the A: 50 Years of Hip Hop in Atlanta | Stomp the Yard",
+  "id": "bw-p-nm1687327",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bone Crusher",
+  "type": "task"
+}

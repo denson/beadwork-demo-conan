@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Chicks. music_artist, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1202271/\n_search: The Chicks | Runaway Bride | True Blood | Cold Case | Medium",
+  "id": "bw-p-nm1202271",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Chicks",
+  "type": "task"
+}

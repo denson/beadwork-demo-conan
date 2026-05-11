@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edie Brickell. b. 1966 | actress, composer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0108567/\n_search: Edie Brickell | The Way Way Back | Born on the Fourth of July | Towelhead | Cold Case",
+  "id": "bw-p-nm0108567",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edie Brickell",
+  "type": "task"
+}

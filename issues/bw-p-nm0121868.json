@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Solomon Burke. 1940–2010 | actor, composer, soundtrack.\nDECEASED (1940–2010). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0121868/\n_search: Solomon Burke | Unbreakable | '71 | The Man from U.N.C.L.E. | RED",
+  "id": "bw-p-nm0121868",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Solomon Burke",
+  "type": "task"
+}

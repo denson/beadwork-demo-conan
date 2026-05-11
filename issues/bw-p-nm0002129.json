@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gregory Harrison. b. 1950 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0002129/\n_search: Gregory Harrison | Trapper John, M.D. | Picnic | Razorback | Centennial",
+  "id": "bw-p-nm0002129",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gregory Harrison",
+  "type": "task"
+}

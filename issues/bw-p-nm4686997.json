@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cory Chisel. music_department, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4686997/\n_search: Cory Chisel | Cleaner | Kaleo: Viva Roma - in The Shadow of The Colosseum | House | I Saw the Light",
+  "id": "bw-p-nm4686997",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cory Chisel",
+  "type": "task"
+}

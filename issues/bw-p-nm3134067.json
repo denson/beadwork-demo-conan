@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Letters to Cleo. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3134067/\n_search: Letters to Cleo | 10 Things I Hate About You | The Craft | Jawbreaker | Buffy the Vampire Slayer",
+  "id": "bw-p-nm3134067",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Letters to Cleo",
+  "type": "task"
+}

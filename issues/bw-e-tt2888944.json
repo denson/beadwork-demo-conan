@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Green Eggs \u0026 Ham \u0026 Trichinosis. conan_tbs, S3E80, 2013.\nIMDb: https://www.imdb.com/title/tt2888944/\n_search: Green Eggs \u0026 Ham \u0026 Trichinosis | 2013 | S3E80",
+  "id": "bw-e-tt2888944",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Green Eggs \u0026 Ham \u0026 Trichinosis",
+  "type": "task"
+}

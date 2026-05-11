@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wheat. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3162506/\n_search: Wheat | Win a Date with Tad Hamilton! | Elizabethtown | A Cinderella Story | Standing Still",
+  "id": "bw-p-nm3162506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wheat",
+  "type": "task"
+}

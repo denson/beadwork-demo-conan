@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Anthony. b. 1954 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0030959/\n_search: Michael Anthony | Mission to Mars | Twister | Lethal Weapon 4 | Zombieland",
+  "id": "bw-p-nm0030959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Anthony",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Stilson. b. 1959 | writer, producer, miscellaneous.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0830352/\n_search: Jeff Stilson | Good Hair | The Chris Rock Show | The Osbournes | Da Ali G Show",
+  "id": "bw-p-nm0830352",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Stilson",
+  "type": "task"
+}

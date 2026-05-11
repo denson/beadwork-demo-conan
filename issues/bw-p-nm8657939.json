@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Campanelli. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8657939/\n_search: Andrew Campanelli | Animal Kingdom | Treme | Hollywood Today Live",
+  "id": "bw-p-nm8657939",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Campanelli",
+  "type": "task"
+}

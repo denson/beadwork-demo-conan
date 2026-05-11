@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Farber. music_department, composer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1732877/\n_search: Andy Farber | Carriers | Book Club | Evening | Indignation",
+  "id": "bw-p-nm1732877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Farber",
+  "type": "task"
+}

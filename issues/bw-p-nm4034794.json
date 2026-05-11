@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hadfield. b. 1959 | actor, miscellaneous, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4034794/\n_search: Chris Hadfield | Atop the Fourth Wall | Trailer Park Boys: Out of the Park | Playing Space with Bubbles | Murdoch Mysteries",
+  "id": "bw-p-nm4034794",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hadfield",
+  "type": "task"
+}

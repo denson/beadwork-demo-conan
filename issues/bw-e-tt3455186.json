@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "In France They Call the Show a \"Conan with Cheese\". conan_tbs, S4E27, 2014.\nIMDb: https://www.imdb.com/title/tt3455186/\n_search: In France They Call the Show a \"Conan with Cheese\" | 2014 | S4E27",
+  "id": "bw-e-tt3455186",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "In France They Call the Show a \"Conan with Cheese\"",
+  "type": "task"
+}

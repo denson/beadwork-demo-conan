@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harry Hamlin. b. 1951 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0002122/\n_search: Harry Hamlin | Clash of the Titans | L.A. Law | Movie Movie | Mad Men",
+  "id": "bw-p-nm0002122",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harry Hamlin",
+  "type": "task"
+}

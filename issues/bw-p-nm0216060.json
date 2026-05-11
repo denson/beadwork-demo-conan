@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Delabarre. actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0216060/\n_search: Mark Delabarre | Bull | The Blacklist | Late Show with David Letterman | Friends from College",
+  "id": "bw-p-nm0216060",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Delabarre",
+  "type": "task"
+}

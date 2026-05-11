@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grant Gustin. b. 1990 | actor, music_department, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2652716/\n_search: Grant Gustin | The Flash | Rescued by Ruby | Supergirl | Superhero Fight Club",
+  "id": "bw-p-nm2652716",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grant Gustin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chelsea Handler/Jason Mantzoukas/Lianne La Havas. conan_tbs, S6E43, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5445564/\n_search: Chelsea Handler/Jason Mantzoukas/Lianne La Havas | 2016 | S6E43",
+  "id": "bw-e-tt5445564",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chelsea Handler/Jason Mantzoukas/Lianne La Havas",
+  "type": "task"
+}

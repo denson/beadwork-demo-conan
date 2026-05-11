@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Phyllis Applegate. 1930–2023 | actress.\nDECEASED (1930–2023). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0032399/\n_search: Phyllis Applegate | Big Momma's House | Insidious: Chapter 3 | Black Dynamite | Ruthless People",
+  "id": "bw-p-nm0032399",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Phyllis Applegate",
+  "type": "task"
+}

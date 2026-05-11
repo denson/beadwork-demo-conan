@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Craig Northey. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0636103/\n_search: Craig Northey | The Recruit | Kids in the Hall: Brain Candy | Stealing Harvard | Corner Gas Animated",
+  "id": "bw-p-nm0636103",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Craig Northey",
+  "type": "task"
+}

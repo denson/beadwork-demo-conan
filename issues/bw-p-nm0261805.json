@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erik Estrada. b. 1949 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0261805/\n_search: Erik Estrada | CHiPs | Loaded Weapon 1 | Van Wilder | Sealab 2021",
+  "id": "bw-p-nm0261805",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erik Estrada",
+  "type": "task"
+}

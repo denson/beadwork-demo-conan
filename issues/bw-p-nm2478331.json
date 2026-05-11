@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Army of Anyone. actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2478331/\n_search: Army of Anyone | SBC Blue Room | The Late Late Show with Craig Ferguson",
+  "id": "bw-p-nm2478331",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Army of Anyone",
+  "type": "task"
+}

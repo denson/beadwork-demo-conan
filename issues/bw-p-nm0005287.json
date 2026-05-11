@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Donny Osmond. b. 1957 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0005287/\n_search: Donny Osmond | Mulan | Joseph and the Amazing Technicolor Dreamcoat | Donny and Marie | Goin' Coconuts",
+  "id": "bw-p-nm0005287",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Donny Osmond",
+  "type": "task"
+}

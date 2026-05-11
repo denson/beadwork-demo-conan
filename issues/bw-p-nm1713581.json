@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Ortiz. b. 1975 | producer, actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1713581/\n_search: David Ortiz | Patriots Day | Nere | American Masters | Check Mate",
+  "id": "bw-p-nm1713581",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Ortiz",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fast Times at Ridgemont Retirement Home. conan_tbs, S3E145, 2013.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt3215080/\n_search: Fast Times at Ridgemont Retirement Home | 2013 | S3E145",
+  "id": "bw-e-tt3215080",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fast Times at Ridgemont Retirement Home",
+  "type": "task"
+}

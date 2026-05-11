@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daniel Anum Jasper. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm11165569/\n_search: Daniel Anum Jasper",
+  "id": "bw-p-nm11165569",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daniel Anum Jasper",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Monsters of Folk. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3609343/\n_search: Monsters of Folk | Three Billboards Outside Ebbing, Missouri | Bridge School News | Late Night with Jimmy Fallon",
+  "id": "bw-p-nm3609343",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Monsters of Folk",
+  "type": "task"
+}

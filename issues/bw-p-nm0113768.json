@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Brown. 1933–2006 | music_artist, actor, music_department.\nDECEASED (1933–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0113768/\n_search: James Brown | The Blues Brothers | Mr. Dynamite: The Rise of James Brown | Django Unchained | Safe House",
+  "id": "bw-p-nm0113768",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Brown",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "North Mississippi Allstars. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2169323/\n_search: North Mississippi Allstars | Barnyard | The Mechanic | Black Snake Moan | Holes",
+  "id": "bw-p-nm2169323",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "North Mississippi Allstars",
+  "type": "task"
+}

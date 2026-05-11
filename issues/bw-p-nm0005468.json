@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Stipe. b. 1960 | actor, composer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005468/\n_search: Michael Stipe | Being John Malkovich | Man on the Moon | Independence Day | Vanilla Sky",
+  "id": "bw-p-nm0005468",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Stipe",
+  "type": "task"
+}

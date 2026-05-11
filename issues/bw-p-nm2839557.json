@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt Taylor. actor, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2839557/\n_search: Matt Taylor | John Tucker Must Die | Bad News Bears | Shaun White Skateboarding | Degrassi: The Next Generation",
+  "id": "bw-p-nm2839557",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt Taylor",
+  "type": "task"
+}

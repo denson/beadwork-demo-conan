@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sari Locker. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1878167/\n_search: Sari Locker | Late Date with Sari | People Icons | CNN Daybreak | American Journal",
+  "id": "bw-p-nm1878167",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sari Locker",
+  "type": "task"
+}

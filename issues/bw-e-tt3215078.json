@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Microphone That Suddenly Went Off in the Middle Of. conan_tbs, S3E144, 2013.\nIMDb: https://www.imdb.com/title/tt3215078/\n_search: The Microphone That Suddenly Went Off in the Middle Of | 2013 | S3E144",
+  "id": "bw-e-tt3215078",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Microphone That Suddenly Went Off in the Middle Of",
+  "type": "task"
+}

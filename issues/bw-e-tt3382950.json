@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Stoltz/Wayne Newton/Everclear. late_night, S2E221, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3382950/\n_search: Eric Stoltz/Wayne Newton/Everclear | 1995 | S2E221",
+  "id": "bw-e-tt3382950",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Stoltz/Wayne Newton/Everclear",
+  "type": "task"
+}

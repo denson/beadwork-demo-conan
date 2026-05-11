@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Holloway. b. 1969 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0391326/\n_search: Josh Holloway | Lost | Mission: Impossible - Ghost Protocol | Sabotage | Paranoia",
+  "id": "bw-p-nm0391326",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Holloway",
+  "type": "task"
+}

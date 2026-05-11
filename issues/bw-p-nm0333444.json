@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carlos Gracia. b. 1966 | assistant_director, actor, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0333444/\n_search: Carlos Gracia | Mi mujer tiene un amante | Alma de hierro | Llena de amor | Como dice el dicho",
+  "id": "bw-p-nm0333444",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carlos Gracia",
+  "type": "task"
+}

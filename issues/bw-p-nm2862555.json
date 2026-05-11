@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Del Amitri. actor, writer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2862555/\n_search: Del Amitri | One Day | Boys | Jack \u0026 Sarah | The Revengers' Comedies",
+  "id": "bw-p-nm2862555",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Del Amitri",
+  "type": "task"
+}

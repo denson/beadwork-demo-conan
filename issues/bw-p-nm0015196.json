@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Malin Akerman. b. 1978 | actress, producer, soundtrack.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0015196/\n_search: Malin Akerman | Watchmen | The Final Girls | Rock of Ages | 27 Dresses",
+  "id": "bw-p-nm0015196",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Malin Akerman",
+  "type": "task"
+}

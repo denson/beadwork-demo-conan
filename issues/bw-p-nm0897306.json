@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Vila. b. 1946 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0897306/\n_search: Bob Vila | Hot Shots! Part Deux | Home Again with Bob Vila | Sabrina the Teenage Witch | This Old House",
+  "id": "bw-p-nm0897306",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Vila",
+  "type": "task"
+}

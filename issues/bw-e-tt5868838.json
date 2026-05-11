@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Curtis '50 Cent' Jackson/Annie Mumolo/Gary Gulman. conan_tbs, S6E110, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5868838/\n_search: Curtis '50 Cent' Jackson/Annie Mumolo/Gary Gulman | 2016 | S6E110",
+  "id": "bw-e-tt5868838",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Curtis '50 Cent' Jackson/Annie Mumolo/Gary Gulman",
+  "type": "task"
+}

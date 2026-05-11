@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Matt Savage Trio. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2908349/\n_search: The Matt Savage Trio | Expedition ins Gehirn | Late Show with David Letterman",
+  "id": "bw-p-nm2908349",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Matt Savage Trio",
+  "type": "task"
+}

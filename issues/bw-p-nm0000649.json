@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Sorvino. 1939–2022 | actor, director, producer.\nDECEASED (1939–2022). Conan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000649/\n_search: Paul Sorvino | The Rocketeer | Nixon | Repo! The Genetic Opera | GoodFellas",
+  "id": "bw-p-nm0000649",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Sorvino",
+  "type": "task"
+}

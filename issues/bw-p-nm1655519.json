@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "4 Non Blondes. music_artist, actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1655519/\n_search: 4 Non Blondes | Resident Evil: Welcome to Raccoon City | Young Adult | Airheads | Wayne's World 2",
+  "id": "bw-p-nm1655519",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "4 Non Blondes",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Fields. actress, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1951655/\n_search: Amanda Fields | Project Runway | All's Fair | La La Land | A Star Is Born",
+  "id": "bw-p-nm1951655",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Fields",
+  "type": "task"
+}

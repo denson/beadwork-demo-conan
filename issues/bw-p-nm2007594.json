@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Noonan. soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2007594/\n_search: Paul Noonan | Rory O'Shea Was Here | The Late Late Show with Craig Ferguson | The 2nd Meteor Ireland Music Awards | Saturday Night with Miriam",
+  "id": "bw-p-nm2007594",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Noonan",
+  "type": "task"
+}

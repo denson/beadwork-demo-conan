@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amy Poehler/Steve Schirripa/She Wants Revenge. late_night, S13E100, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0792293/\n_search: Amy Poehler/Steve Schirripa/She Wants Revenge | 2006 | S13E100",
+  "id": "bw-e-tt0792293",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amy Poehler/Steve Schirripa/She Wants Revenge",
+  "type": "task"
+}

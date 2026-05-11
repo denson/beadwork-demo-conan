@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Stoller. b. 1933 | composer, music_department, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005469/\n_search: Mike Stoller | Love and Monsters | Cloverfield | Grease | The Long Kiss Goodnight",
+  "id": "bw-p-nm0005469",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Stoller",
+  "type": "task"
+}

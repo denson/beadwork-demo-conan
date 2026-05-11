@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alan Zweibel. b. 1950 | writer, producer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0958993/\n_search: Alan Zweibel | It's Garry Shandling's Show. | Saturday Night Live | North | Dragnet",
+  "id": "bw-p-nm0958993",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alan Zweibel",
+  "type": "task"
+}

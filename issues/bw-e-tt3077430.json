@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Littering in London: Jack the Ripper's Lesser Crimes. conan_tbs, S3E117, 2013.\nIMDb: https://www.imdb.com/title/tt3077430/\n_search: Littering in London: Jack the Ripper's Lesser Crimes | 2013 | S3E117",
+  "id": "bw-e-tt3077430",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Littering in London: Jack the Ripper's Lesser Crimes",
+  "type": "task"
+}

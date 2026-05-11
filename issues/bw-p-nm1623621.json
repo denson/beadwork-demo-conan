@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roy Rogers. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1623621/\n_search: Roy Rogers | John Lee Hooker: Come and See About Me | Sierra Center Stage | Roy Rogers and the Delta Rhythm Kings | Austin City Limits",
+  "id": "bw-p-nm1623621",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roy Rogers",
+  "type": "task"
+}

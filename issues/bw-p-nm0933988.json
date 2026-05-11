@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rainn Wilson. b. 1966 | actor, producer, writer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0933988/\n_search: Rainn Wilson | The Office | Cooties | Super | Juno",
+  "id": "bw-p-nm0933988",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rainn Wilson",
+  "type": "task"
+}

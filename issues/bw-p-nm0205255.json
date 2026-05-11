@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patti Davis. b. 1952 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0205255/\n_search: Patti Davis | Tango \u0026 Cash | Curse of the Pink Panther | Hart to Hart | Simon \u0026 Simon",
+  "id": "bw-p-nm0205255",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patti Davis",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Caroline Rhea. b. 1964 | actress, producer, writer.\nConan-show appearances: 24\nIMDb: https://www.imdb.com/name/nm0005352/\n_search: Caroline Rhea | Sabrina the Teenage Witch | The Perfect Man | Christmas with the Kranks | Sordid Lives: The Series",
+  "id": "bw-p-nm0005352",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Caroline Rhea",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spencer Rice. producer, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0723551/\n_search: Spencer Rice | Kenny vs. Spenny | Confessions of a Porn Addict | Single White Spenny | Ninja Turtles: The Next Mutation",
+  "id": "bw-p-nm0723551",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spencer Rice",
+  "type": "task"
+}

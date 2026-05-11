@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim MacPherson. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0534223/\n_search: Jim MacPherson | Dean Quixote | MTV Live 'n' Loud | 120 Minutes | The Breeders - Live in Big Sur",
+  "id": "bw-p-nm0534223",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim MacPherson",
+  "type": "task"
+}

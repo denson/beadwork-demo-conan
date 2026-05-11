@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Hawley. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1920984/\n_search: Paul Hawley | John Tucker Must Die | Sex Drive | The Sisterhood of the Traveling Pants 2 | Psych",
+  "id": "bw-p-nm1920984",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Hawley",
+  "type": "task"
+}

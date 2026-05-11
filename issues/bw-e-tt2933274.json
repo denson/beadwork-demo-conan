@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kyra Sedgwick/Robert Altman/Soul Coughing. late_night, S3E179, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2933274/\n_search: Kyra Sedgwick/Robert Altman/Soul Coughing | 1996 | S3E179",
+  "id": "bw-e-tt2933274",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kyra Sedgwick/Robert Altman/Soul Coughing",
+  "type": "task"
+}

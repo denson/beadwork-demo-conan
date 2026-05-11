@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Author Erik Larson. jibber_jabber, S1E12, 2015.\nIMDb: https://www.imdb.com/title/tt12168858/\n_search: Author Erik Larson | 2015 | S1E12",
+  "id": "bw-e-tt12168858",
+  "labels": [
+    "kind:episode",
+    "era:jibber_jabber",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Author Erik Larson",
+  "type": "task"
+}

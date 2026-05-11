@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Guillermo del Toro. b. 1964 | writer, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0868219/\n_search: Guillermo del Toro | Pan's Labyrinth | Hellboy | Guillermo del Toro's Pinocchio | The Shape of Water",
+  "id": "bw-p-nm0868219",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Guillermo del Toro",
+  "type": "task"
+}

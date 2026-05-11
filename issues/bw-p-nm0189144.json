@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Cross. b. 1964 | actor, writer, producer.\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm0189144/\n_search: David Cross | Arrested Development | Eternal Sunshine of the Spotless Mind | Kung Fu Panda 2 | Megamind",
+  "id": "bw-p-nm0189144",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Cross",
+  "type": "task"
+}

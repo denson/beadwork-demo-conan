@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Tesh/Horatio Sanz/Velvet Revolver. late_night, S12E45, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627601/\n_search: John Tesh/Horatio Sanz/Velvet Revolver | 2004 | S12E45",
+  "id": "bw-e-tt0627601",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Tesh/Horatio Sanz/Velvet Revolver",
+  "type": "task"
+}

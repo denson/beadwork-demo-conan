@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Strange. b. 1988 | actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2185365/\n_search: Johnny Strange | The Still Unknown | Silence Is Golden | Officially Amazing | Galileo",
+  "id": "bw-p-nm2185365",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Strange",
+  "type": "task"
+}

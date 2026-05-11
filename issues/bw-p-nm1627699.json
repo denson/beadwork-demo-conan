@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dierks Bentley. b. 1975 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1627699/\n_search: Dierks Bentley | Only the Brave | The Wire | Hot Country Knights | GCB",
+  "id": "bw-p-nm1627699",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dierks Bentley",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Janet Weiss. b. 1965 | location_management, actress, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0919028/\n_search: Janet Weiss | Pig | The Rental | The Horse Whisperer | A Pocket Filled with Dreams",
+  "id": "bw-p-nm0919028",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Janet Weiss",
+  "type": "task"
+}

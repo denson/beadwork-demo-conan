@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Lemonheads. actor, soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2173478/\n_search: The Lemonheads | There's Something About Mary | The Wolf of Wall Street | Just Friends | Young Adult",
+  "id": "bw-p-nm2173478",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Lemonheads",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clemens Rehbein. b. 1992 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7244029/\n_search: Clemens Rehbein | Junk Space Berlin | Center of My World | The Voice",
+  "id": "bw-p-nm7244029",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clemens Rehbein",
+  "type": "task"
+}

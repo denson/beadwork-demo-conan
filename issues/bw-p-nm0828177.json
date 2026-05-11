@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve-O. b. 1974 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0828177/\n_search: Steve-O | Jackass: The Movie | Jackass 3D | Jackass Forever | Game Over, Man!",
+  "id": "bw-p-nm0828177",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve-O",
+  "type": "task"
+}

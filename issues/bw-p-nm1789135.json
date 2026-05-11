@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rachel Leah Cohen. actress, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1789135/\n_search: Rachel Leah Cohen | This Is Us | Shameless | The Sex Lives of College Girls | My Best Friend's Exorcism",
+  "id": "bw-p-nm1789135",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rachel Leah Cohen",
+  "type": "task"
+}

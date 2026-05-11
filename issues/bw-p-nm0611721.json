@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Karen Mulder. b. 1970 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0611721/\n_search: Karen Mulder | Wie die Karnickel | A Theft, One Night | Le journal de 20 heures | Les Enfoirés",
+  "id": "bw-p-nm0611721",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Karen Mulder",
+  "type": "task"
+}

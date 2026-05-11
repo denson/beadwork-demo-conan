@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Meat Loaf. 1947–2022 | music_artist, actor, producer.\nDECEASED (1947–2022). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001533/\n_search: Meat Loaf | The Rocky Horror Picture Show | Wayne's World | Fight Club | Formula 51",
+  "id": "bw-p-nm0001533",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Meat Loaf",
+  "type": "task"
+}

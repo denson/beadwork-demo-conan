@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gail O'Grady. b. 1963 | actress, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0641097/\n_search: Gail O'Grady | Deuce Bigalow: Male Gigolo | NYPD Blue | Hawaii Five-0 | Deadly Draw",
+  "id": "bw-p-nm0641097",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gail O'Grady",
+  "type": "task"
+}

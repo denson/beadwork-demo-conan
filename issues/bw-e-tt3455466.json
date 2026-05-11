@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Spalding Gray/Louis Gossett Jr./Buffalo Tom. late_night, S1E34, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3455466/\n_search: Spalding Gray/Louis Gossett Jr./Buffalo Tom | 1993 | S1E34",
+  "id": "bw-e-tt3455466",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Spalding Gray/Louis Gossett Jr./Buffalo Tom",
+  "type": "task"
+}

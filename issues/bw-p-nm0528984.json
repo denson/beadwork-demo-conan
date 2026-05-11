@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Southside Johnny Lyon. b. 1948 | actor, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0528984/\n_search: Southside Johnny Lyon | Home Alone | Adventures in Babysitting | The Karate Kid Part II | The Mighty Ducks",
+  "id": "bw-p-nm0528984",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Southside Johnny Lyon",
+  "type": "task"
+}

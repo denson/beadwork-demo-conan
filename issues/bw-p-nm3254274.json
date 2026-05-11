@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Manny Jacinto. b. 1987 | actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3254274/\n_search: Manny Jacinto | The Good Place | Nine Perfect Strangers | I Want You Back | Top Gun: Maverick",
+  "id": "bw-p-nm3254274",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Manny Jacinto",
+  "type": "task"
+}

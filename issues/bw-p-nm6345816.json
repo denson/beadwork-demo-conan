@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Omar Gonzalez. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm6345816/\n_search: Omar Gonzalez | Sports Jeopardy! | Access Sportsnet: Los Angeles | Be a Pro | 2014 FIFA World Cup Brazil",
+  "id": "bw-p-nm6345816",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Omar Gonzalez",
+  "type": "task"
+}

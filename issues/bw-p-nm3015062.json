@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Strausman. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3015062/\n_search: Mark Strausman | Late Show with David Letterman | Late Night with David Letterman | Tamron Hall | Martha",
+  "id": "bw-p-nm3015062",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Strausman",
+  "type": "task"
+}

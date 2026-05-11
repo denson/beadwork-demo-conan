@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Springer/Christina Ricci/Louis C.K.. late_night, S7E40, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627296/\n_search: Jerry Springer/Christina Ricci/Louis C.K. | 1999 | S7E40",
+  "id": "bw-e-tt0627296",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Springer/Christina Ricci/Louis C.K.",
+  "type": "task"
+}

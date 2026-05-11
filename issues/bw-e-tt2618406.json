@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Brokaw/Ann Magnuson/Michael Damian. late_night, S1E112, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2618406/\n_search: Tom Brokaw/Ann Magnuson/Michael Damian | 1994 | S1E112",
+  "id": "bw-e-tt2618406",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Brokaw/Ann Magnuson/Michael Damian",
+  "type": "task"
+}

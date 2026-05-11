@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Warner. b. 1965 | actress, director, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000689/\n_search: Julie Warner | Tommy Boy | Doc Hollywood | Stick It | Flatliners",
+  "id": "bw-p-nm0000689",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Warner",
+  "type": "task"
+}

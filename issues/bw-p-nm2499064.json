@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Uzo Aduba. b. 1981 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2499064/\n_search: Uzo Aduba | Orange Is the New Black | Lightyear | Tallulah | American Pastoral",
+  "id": "bw-p-nm2499064",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Uzo Aduba",
+  "type": "task"
+}

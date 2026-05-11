@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Yahtzee at the Ok Corral. conan_tbs, S3E42, 2013.\nIMDb: https://www.imdb.com/title/tt2690660/\n_search: Yahtzee at the Ok Corral | 2013 | S3E42",
+  "id": "bw-e-tt2690660",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Yahtzee at the Ok Corral",
+  "type": "task"
+}

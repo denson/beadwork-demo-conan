@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ted Koppel. b. 1940 | editorial_department, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0465901/\n_search: Ted Koppel | Koppel on Discovery | ABC News Nightline | CBS News Sunday Morning with Jane Pauley | Nightline Up Close",
+  "id": "bw-p-nm0465901",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ted Koppel",
+  "type": "task"
+}

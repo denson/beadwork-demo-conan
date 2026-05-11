@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Murray/Jon Stewart/Natalie Merchant/Bruce Springsteen. late_night, S6E80, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627215/\n_search: Bill Murray/Jon Stewart/Natalie Merchant/Bruce Springsteen | 1999 | S6E80",
+  "id": "bw-e-tt0627215",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Murray/Jon Stewart/Natalie Merchant/Bruce Springsteen",
+  "type": "task"
+}

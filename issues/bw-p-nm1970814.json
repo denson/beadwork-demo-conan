@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bouncing Souls. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1970814/\n_search: Bouncing Souls | Ken Park | No Vacancy | Glory Daze | Terror Firmer",
+  "id": "bw-p-nm1970814",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bouncing Souls",
+  "type": "task"
+}

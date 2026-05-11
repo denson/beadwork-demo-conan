@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chi McBride. b. 1961 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0564277/\n_search: Chi McBride | I, Robot | Pushing Daisies | Gone in 60 Seconds | The Terminal",
+  "id": "bw-p-nm0564277",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chi McBride",
+  "type": "task"
+}

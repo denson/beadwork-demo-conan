@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gabrielle Rogers. miscellaneous, actress, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1317460/\n_search: Gabrielle Rogers | Voltron | Thirteen Lives | The Nightingale",
+  "id": "bw-p-nm1317460",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gabrielle Rogers",
+  "type": "task"
+}

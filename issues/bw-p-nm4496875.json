@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mackenzie Davis. actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4496875/\n_search: Mackenzie Davis | Terminator: Dark Fate | Black Mirror | Blade Runner 2049 | Tully",
+  "id": "bw-p-nm4496875",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mackenzie Davis",
+  "type": "task"
+}

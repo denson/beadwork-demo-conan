@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Highly Suspect. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7601283/\n_search: Highly Suspect | Highly Suspect: These Days | The Playboy Morning Show | Late Night with Seth Meyers",
+  "id": "bw-p-nm7601283",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Highly Suspect",
+  "type": "task"
+}

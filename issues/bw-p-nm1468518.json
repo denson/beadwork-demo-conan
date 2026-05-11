@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Schoenbeck. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1468518/\n_search: Scott Schoenbeck | White Oleander | All the Real Girls | House Band | Dashboard Confessional: Live at Madison Square Garden",
+  "id": "bw-p-nm1468518",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Schoenbeck",
+  "type": "task"
+}

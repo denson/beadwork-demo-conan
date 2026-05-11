@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natalie Morales. b. 1972 | producer, actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1293847/\n_search: Natalie Morales | Zoolander 2 | Rio 2 | Sharknado 3: Oh Hell No! | Sharknado 4: The 4th Awakens",
+  "id": "bw-p-nm1293847",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natalie Morales",
+  "type": "task"
+}

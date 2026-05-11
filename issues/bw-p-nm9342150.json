@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Britt. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9342150/\n_search: Bruce Britt",
+  "id": "bw-p-nm9342150",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Britt",
+  "type": "task"
+}

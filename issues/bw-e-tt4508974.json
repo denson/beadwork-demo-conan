@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sandler/Jonathan Banks/Broods. conan_tbs, S5E57, 2015.\nRuntime: 41 min.\nIMDb: https://www.imdb.com/title/tt4508974/\n_search: Adam Sandler/Jonathan Banks/Broods | 2015 | S5E57",
+  "id": "bw-e-tt4508974",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sandler/Jonathan Banks/Broods",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric McCormack/Allen Covert/Blur. late_night, S8E27, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3713198/\n_search: Eric McCormack/Allen Covert/Blur | 2000 | S8E27",
+  "id": "bw-e-tt3713198",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric McCormack/Allen Covert/Blur",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Brokaw/Gary Sheffield/John Mayer with Buddy Guy and Double Trouble. late_night, S11E51, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627495/\n_search: Tom Brokaw/Gary Sheffield/John Mayer with Buddy Guy and Double Trouble | 2003 | S11E51",
+  "id": "bw-e-tt0627495",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Brokaw/Gary Sheffield/John Mayer with Buddy Guy and Double Trouble",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristen Schaal. b. 1978 | actress, miscellaneous, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm1102891/\n_search: Kristen Schaal | Dinner for Schmucks | Cloudy with a Chance of Meatballs 2 | BoJack Horseman | Norbit",
+  "id": "bw-p-nm1102891",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristen Schaal",
+  "type": "task"
+}

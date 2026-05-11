@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Green Eggs \u0026 Jon Hamm. conan_tbs, S2E137, 2012.\nIMDb: https://www.imdb.com/title/tt2391308/\n_search: Green Eggs \u0026 Jon Hamm | 2012 | S2E137",
+  "id": "bw-e-tt2391308",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Green Eggs \u0026 Jon Hamm",
+  "type": "task"
+}

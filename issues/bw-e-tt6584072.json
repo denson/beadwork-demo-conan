@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mandy Moore/Jimmy Pardo/Chris Lane. conan_tbs, S7E52, 2017.\nRuntime: 42 min.\nIMDb rating: 5.6.\nIMDb: https://www.imdb.com/title/tt6584072/\n_search: Mandy Moore/Jimmy Pardo/Chris Lane | 2017 | S7E52",
+  "id": "bw-e-tt6584072",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mandy Moore/Jimmy Pardo/Chris Lane",
+  "type": "task"
+}

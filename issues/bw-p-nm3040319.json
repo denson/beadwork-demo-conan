@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lykke Li. b. 1986 | actress, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3040319/\n_search: Lykke Li | The Divergent Series: Insurgent | Possessor | The Fault in Our Stars | Premium Rush",
+  "id": "bw-p-nm3040319",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lykke Li",
+  "type": "task"
+}

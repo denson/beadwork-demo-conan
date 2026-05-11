@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "3 Doors Down. music_artist, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1498350/\n_search: 3 Doors Down | Goal II: Living the Dream | American Pie 2 | Corky Romano | Skin Wars: Naked Truth",
+  "id": "bw-p-nm1498350",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "3 Doors Down",
+  "type": "task"
+}

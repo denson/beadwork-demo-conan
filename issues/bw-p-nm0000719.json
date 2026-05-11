@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "F. Murray Abraham. b. 1939 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000719/\n_search: F. Murray Abraham | Amadeus | The Grand Budapest Hotel | Mighty Aphrodite | Star Trek: Insurrection",
+  "id": "bw-p-nm0000719",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "F. Murray Abraham",
+  "type": "task"
+}

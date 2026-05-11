@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lit. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4545736/\n_search: Lit | Titan A.E. | Mr. Deeds | Crossroads | Central Intelligence",
+  "id": "bw-p-nm4545736",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lit",
+  "type": "task"
+}

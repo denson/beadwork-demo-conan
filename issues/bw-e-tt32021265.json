@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Argentina. must_go, S1E2, 2024.\nRuntime: 45 min.\nIMDb rating: 8.5.\nIMDb: https://www.imdb.com/title/tt32021265/\n_search: Argentina | 2024 | S1E2",
+  "id": "bw-e-tt32021265",
+  "labels": [
+    "kind:episode",
+    "era:must_go",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Argentina",
+  "type": "task"
+}

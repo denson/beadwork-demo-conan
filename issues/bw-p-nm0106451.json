@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Breashears. 1955–2024 | cinematographer, producer, camera_department.\nDECEASED (1955–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0106451/\n_search: David Breashears | Everest | Seven Years in Tibet | Nova | Great Wonders of the World",
+  "id": "bw-p-nm0106451",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Breashears",
+  "type": "task"
+}

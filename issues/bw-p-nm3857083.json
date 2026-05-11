@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Kilstein. b. 1982 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3857083/\n_search: Jamie Kilstein | Blue Belts | The World Stands Up | Red Light Comedy: Live from Amsterdam | Occupy Wall Street: Undercover Occupation",
+  "id": "bw-p-nm3857083",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Kilstein",
+  "type": "task"
+}

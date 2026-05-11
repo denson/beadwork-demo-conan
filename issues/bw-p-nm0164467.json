@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ryan Clark. b. 1983 | actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0164467/\n_search: Ryan Clark | Our Lips Are Sealed | The Black Balloon | Home and Away | Kangaroo",
+  "id": "bw-p-nm0164467",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ryan Clark",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ronnie Khalil. writer, producer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0451098/\n_search: Ronnie Khalil | With a Kiss I Die | You Can't Kill Stephen King | Bathroomies | STDemons",
+  "id": "bw-p-nm0451098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ronnie Khalil",
+  "type": "task"
+}

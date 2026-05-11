@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Lehrer. 1934–2020 | producer, writer, actor.\nDECEASED (1934–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0499871/\n_search: Jim Lehrer | Zoolander 2 | Viva Max | The Last Debate | PBS News Hour",
+  "id": "bw-p-nm0499871",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Lehrer",
+  "type": "task"
+}

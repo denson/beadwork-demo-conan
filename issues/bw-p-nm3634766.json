@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Quinn Dahle. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm3634766/\n_search: Quinn Dahle | Chopper | Jon Lovitz Presents | BPM: Beats Per Mnet | Last Call with Carson Daly",
+  "id": "bw-p-nm3634766",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Quinn Dahle",
+  "type": "task"
+}

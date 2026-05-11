@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kip Moore. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5049178/\n_search: Kip Moore | Nashville | CMT Hot 20 Countdown | Hand in Hand: A Benefit for Hurricane Relief",
+  "id": "bw-p-nm5049178",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kip Moore",
+  "type": "task"
+}

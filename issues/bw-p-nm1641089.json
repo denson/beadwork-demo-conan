@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natasha Leggero. b. 1974 | actress, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1641089/\n_search: Natasha Leggero | Let's Be Cops | He's Just Not That Into You | Another Period | The Do-Over",
+  "id": "bw-p-nm1641089",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natasha Leggero",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Finley Quaye. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3161441/\n_search: Finley Quaye | Deadpool | Definitely, Maybe | Forces of Nature | In God's Hands",
+  "id": "bw-p-nm3161441",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Finley Quaye",
+  "type": "task"
+}

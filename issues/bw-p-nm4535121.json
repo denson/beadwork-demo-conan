@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Les Savy Fav. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4535121/\n_search: Les Savy Fav | All Tomorrow's Parties | Dinner with the Band | From ATP: From Ghosts | Late Night with Seth Meyers",
+  "id": "bw-p-nm4535121",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Les Savy Fav",
+  "type": "task"
+}

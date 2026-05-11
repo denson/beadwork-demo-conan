@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Lawrence. b. 1965 | actor, writer, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0001454/\n_search: Martin Lawrence | Martin | Bad Boys II | Bad Boys: Ride or Die | Bad Boys",
+  "id": "bw-p-nm0001454",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Lawrence",
+  "type": "task"
+}

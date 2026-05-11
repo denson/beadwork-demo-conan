@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shaelen Burroughs. b. 1985 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3129201/\n_search: Shaelen Burroughs | You Could Be Mine | The Dinner Guest | 12 Miles of Bad Road | Greek",
+  "id": "bw-p-nm3129201",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shaelen Burroughs",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anna Chlumsky. b. 1980 | actress, soundtrack, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001043/\n_search: Anna Chlumsky | My Girl | Veep | My Girl 2 | Gold Diggers: The Secret of Bear Mountain",
+  "id": "bw-p-nm0001043",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anna Chlumsky",
+  "type": "task"
+}

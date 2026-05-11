@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Flogging Molly. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1919929/\n_search: Flogging Molly | The Siege of Jadotville | Mr. \u0026 Mrs. Smith | P.S. I Love You | Leap Year",
+  "id": "bw-p-nm1919929",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Flogging Molly",
+  "type": "task"
+}

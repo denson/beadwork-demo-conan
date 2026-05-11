@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mahmoud Ahmadinejad. 1956–2026 | archive_footage.\nDECEASED (1956–2026). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2258253/\n_search: Mahmoud Ahmadinejad | Channel 4 News | Deh Namaki-ha | Letters to the President | News Every",
+  "id": "bw-p-nm2258253",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mahmoud Ahmadinejad",
+  "type": "task"
+}

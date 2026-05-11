@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sonja Ann Jones. actress, producer, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2219534/\n_search: Sonja Ann Jones | Finishing the Game | Cherubs: They Are with Us! | Into the Game | General Hospital",
+  "id": "bw-p-nm2219534",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sonja Ann Jones",
+  "type": "task"
+}

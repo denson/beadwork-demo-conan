@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tina Fey/Jack and Kelly Osbourne/The Chieftains with Earl Scruggs. late_night, S10E82, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0785494/\n_search: Tina Fey/Jack and Kelly Osbourne/The Chieftains with Earl Scruggs | 2003 | S10E82",
+  "id": "bw-e-tt0785494",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tina Fey/Jack and Kelly Osbourne/The Chieftains with Earl Scruggs",
+  "type": "task"
+}

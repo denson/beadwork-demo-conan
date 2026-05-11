@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Connie Britton. b. 1967 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0110168/\n_search: Connie Britton | Seeking a Friend for the End of the World | American Ultra | Nashville | This Is Where I Leave You",
+  "id": "bw-p-nm0110168",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Connie Britton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grayson Hunter Goss. b. 1998 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4348829/\n_search: Grayson Hunter Goss | Raising Hope | Sofia the First | Main Street Meats | Head Over Heels",
+  "id": "bw-p-nm4348829",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grayson Hunter Goss",
+  "type": "task"
+}

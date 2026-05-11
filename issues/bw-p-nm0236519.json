@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian Doyle-Murray. b. 1945 | actor, writer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0236519/\n_search: Brian Doyle-Murray | Caddyshack | JFK | Groundhog Day | Wayne's World",
+  "id": "bw-p-nm0236519",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian Doyle-Murray",
+  "type": "task"
+}

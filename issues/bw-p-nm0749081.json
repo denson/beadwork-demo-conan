@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sara Rue. b. 1979 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0749081/\n_search: Sara Rue | Pearl Harbor | A Slipping-Down Life | Can't Hardly Wait | My Future Boyfriend",
+  "id": "bw-p-nm0749081",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sara Rue",
+  "type": "task"
+}

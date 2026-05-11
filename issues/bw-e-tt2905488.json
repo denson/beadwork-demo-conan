@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Parker Posey/Richard Jeni/David Fisher. late_night, S2E172, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2905488/\n_search: Parker Posey/Richard Jeni/David Fisher | 1995 | S2E172",
+  "id": "bw-e-tt2905488",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Parker Posey/Richard Jeni/David Fisher",
+  "type": "task"
+}

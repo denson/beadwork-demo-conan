@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John McEnroe. b. 1959 | actor, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0568501/\n_search: John McEnroe | Mr. Deeds | Jack and Jill | You Don't Mess with the Zohan | Anger Management",
+  "id": "bw-p-nm0568501",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John McEnroe",
+  "type": "task"
+}

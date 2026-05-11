@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jesse Johnson. b. 1982 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2835136/\n_search: Jesse Johnson | John Tucker Must Die | Bad News Bears | One Last Thing... | Shaun White Skateboarding",
+  "id": "bw-p-nm2835136",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jesse Johnson",
+  "type": "task"
+}

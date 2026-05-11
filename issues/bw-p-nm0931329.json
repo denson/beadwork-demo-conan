@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michelle Williams. b. 1980 | actress, producer, music_department.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0931329/\n_search: Michelle Williams | Blue Valentine | My Week with Marilyn | Manchester by the Sea | Brokeback Mountain",
+  "id": "bw-p-nm0931329",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michelle Williams",
+  "type": "task"
+}

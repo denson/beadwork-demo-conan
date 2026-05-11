@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "50,000,000 Connie Selleca Fans Can't Be Wrong. conan_tbs, S1E114, 2011.\nRuntime: 60 min.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt1974544/\n_search: 50,000,000 Connie Selleca Fans Can't Be Wrong | 2011 | S1E114",
+  "id": "bw-e-tt1974544",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "50,000,000 Connie Selleca Fans Can't Be Wrong",
+  "type": "task"
+}

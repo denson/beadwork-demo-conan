@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Takei. b. 1937 | actor, miscellaneous, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0001786/\n_search: George Takei | Star Trek | Star Trek VI: The Undiscovered Country | Star Trek II: The Wrath of Khan | Star Trek III: The Search for Spock",
+  "id": "bw-p-nm0001786",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Takei",
+  "type": "task"
+}

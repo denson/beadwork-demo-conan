@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Columbus Short. b. 1982 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1551922/\n_search: Columbus Short | The Losers | Stomp the Yard | Whiteout | Death at a Funeral",
+  "id": "bw-p-nm1551922",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Columbus Short",
+  "type": "task"
+}

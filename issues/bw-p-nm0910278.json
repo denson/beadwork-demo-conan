@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Walters. b. 1950 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0910278/\n_search: Julie Walters | Billy Elliot | Mamma Mia! | Brooklyn | Harry Potter and the Deathly Hallows: Part 2",
+  "id": "bw-p-nm0910278",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Walters",
+  "type": "task"
+}

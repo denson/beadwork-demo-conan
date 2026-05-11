@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Judith Light. b. 1949 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0509937/\n_search: Judith Light | Who's the Boss? | The Menu | Transparent | tick, tick... BOOM!",
+  "id": "bw-p-nm0509937",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Judith Light",
+  "type": "task"
+}

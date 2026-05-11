@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leon Bridges. b. 1989 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5910736/\n_search: Leon Bridges | Concussion | Love and Monsters | Pacific Rim: Uprising | What Men Want",
+  "id": "bw-p-nm5910736",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leon Bridges",
+  "type": "task"
+}

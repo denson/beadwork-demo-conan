@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Kazinsky. b. 1983 | actor, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2059117/\n_search: Robert Kazinsky | Pacific Rim | Hot Pursuit | Captain Marvel | EastEnders",
+  "id": "bw-p-nm2059117",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Kazinsky",
+  "type": "task"
+}

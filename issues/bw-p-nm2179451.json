@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Miguel Ángel Cabrera. soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2179451/\n_search: Miguel Ángel Cabrera | Mujeres | Tu cara me suena mini - España | De todo corazón | Esto es espectáculo",
+  "id": "bw-p-nm2179451",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Miguel Ángel Cabrera",
+  "type": "task"
+}

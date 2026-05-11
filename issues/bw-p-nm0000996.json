@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "LeVar Burton. b. 1957 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000996/\n_search: LeVar Burton | Star Trek: Generations | Star Trek: First Contact | Star Trek: Insurrection | Star Trek: Nemesis",
+  "id": "bw-p-nm0000996",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "LeVar Burton",
+  "type": "task"
+}

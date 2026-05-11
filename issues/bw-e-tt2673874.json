@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Occupy Conan: When Outsourcing Goes Too Far. conan_tbs, S3E39, 2013.\nIMDb rating: 8.4.\nIMDb: https://www.imdb.com/title/tt2673874/\n_search: Occupy Conan: When Outsourcing Goes Too Far | 2013 | S3E39",
+  "id": "bw-e-tt2673874",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Occupy Conan: When Outsourcing Goes Too Far",
+  "type": "task"
+}

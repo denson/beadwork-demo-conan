@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Adam Sandler/Al Franken/Badly Drawn Boy. late_night, S8E26, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3713182/\n_search: Adam Sandler/Al Franken/Badly Drawn Boy | 2000 | S8E26",
+  "id": "bw-e-tt3713182",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Adam Sandler/Al Franken/Badly Drawn Boy",
+  "type": "task"
+}

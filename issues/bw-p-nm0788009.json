@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Garry Shandling. 1949–2016 | writer, actor, producer.\nDECEASED (1949–2016). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0788009/\n_search: Garry Shandling | The Larry Sanders Show | It's Garry Shandling's Show. | Captain America: The Winter Soldier | Iron Man 2",
+  "id": "bw-p-nm0788009",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Garry Shandling",
+  "type": "task"
+}

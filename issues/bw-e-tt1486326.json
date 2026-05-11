@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Leguizamo/Wink Martindale/Graham Parker. late_night, S1E46, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1486326/\n_search: John Leguizamo/Wink Martindale/Graham Parker | 1993 | S1E46",
+  "id": "bw-e-tt1486326",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Leguizamo/Wink Martindale/Graham Parker",
+  "type": "task"
+}

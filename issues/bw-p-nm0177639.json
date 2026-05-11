@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Coolidge. b. 1961 | actress, writer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0177639/\n_search: Jennifer Coolidge | A Mighty Wind | A Cinderella Story | Legally Blonde | Shotgun Wedding",
+  "id": "bw-p-nm0177639",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Coolidge",
+  "type": "task"
+}

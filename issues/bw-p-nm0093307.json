@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Bolster. writer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0093307/\n_search: Joe Bolster | Girls Nite Out | Everybody Loves Raymond | You Don't Know Jack | The Conspiracy Zone",
+  "id": "bw-p-nm0093307",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Bolster",
+  "type": "task"
+}

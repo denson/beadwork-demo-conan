@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hank Aaron. 1934–2021 | actor, miscellaneous, archive_footage.\nDECEASED (1934–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0007459/\n_search: Hank Aaron | Summer Catch | MacGyver | Futurama | Mr. Belvedere",
+  "id": "bw-p-nm0007459",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hank Aaron",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tatiana Maslany. b. 1985 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1137209/\n_search: Tatiana Maslany | Perry Mason | Orphan Black | Stronger | Destroyer",
+  "id": "bw-p-nm1137209",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tatiana Maslany",
+  "type": "task"
+}

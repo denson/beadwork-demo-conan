@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Flula Borg/Cameron Esposito. conan_tbs, S10E25, 2020.\nRuntime: 21 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt11971198/\n_search: Flula Borg/Cameron Esposito | 2020 | S10E25",
+  "id": "bw-e-tt11971198",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Flula Borg/Cameron Esposito",
+  "type": "task"
+}

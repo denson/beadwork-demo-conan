@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Howard/RuPaul. late_night, S2E188, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2910310/\n_search: Ron Howard/RuPaul | 1995 | S2E188",
+  "id": "bw-e-tt2910310",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Howard/RuPaul",
+  "type": "task"
+}

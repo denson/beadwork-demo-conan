@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ioan Gruffudd. b. 1973 | actor, director, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0344435/\n_search: Ioan Gruffudd | Fantastic Four | Bad Boys: Ride or Die | Harrow | Liar",
+  "id": "bw-p-nm0344435",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ioan Gruffudd",
+  "type": "task"
+}

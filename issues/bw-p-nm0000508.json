@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carey Lowell. b. 1961 | actress, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000508/\n_search: Carey Lowell | Licence to Kill | Sleepless in Seattle | Fierce Creatures | Law \u0026 Order",
+  "id": "bw-p-nm0000508",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carey Lowell",
+  "type": "task"
+}

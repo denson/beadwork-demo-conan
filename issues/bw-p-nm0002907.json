@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alexander Skarsgård. b. 1976 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0002907/\n_search: Alexander Skarsgård | The Legend of Tarzan | Big Little Lies | True Blood | The Little Drummer Girl",
+  "id": "bw-p-nm0002907",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alexander Skarsgård",
+  "type": "task"
+}

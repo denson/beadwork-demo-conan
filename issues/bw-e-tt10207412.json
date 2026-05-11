@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Howie Mandel. conan_tbs, S9E43, 2019.\nRuntime: 21 min.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt10207412/\n_search: Howie Mandel | 2019 | S9E43",
+  "id": "bw-e-tt10207412",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Howie Mandel",
+  "type": "task"
+}

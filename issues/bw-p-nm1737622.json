@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grant Wilson. producer, actor, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1737622/\n_search: Grant Wilson | Ghost Hunters | Spirit Hunters-the Series | Haunt ME | The Glowing",
+  "id": "bw-p-nm1737622",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grant Wilson",
+  "type": "task"
+}

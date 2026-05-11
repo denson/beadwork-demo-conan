@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steel Train. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3064954/\n_search: Steel Train | Bart Got a Room | Girls | Drive-Thru and Rushmore Records DVD Vol. III | Drive-Thru Records DVD Vol.1",
+  "id": "bw-p-nm3064954",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steel Train",
+  "type": "task"
+}

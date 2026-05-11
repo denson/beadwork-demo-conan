@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Woods/Joy Bryant/Shawn King. late_night, S13E26, 2005.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627734/\n_search: James Woods/Joy Bryant/Shawn King | 2005 | S13E26",
+  "id": "bw-e-tt0627734",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Woods/Joy Bryant/Shawn King",
+  "type": "task"
+}

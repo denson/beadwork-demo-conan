@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Simon Amstell. b. 1979 | writer, actor, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0025435/\n_search: Simon Amstell | Benjamin | Never Mind the Buzzcocks | Maria | Carnage",
+  "id": "bw-p-nm0025435",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Simon Amstell",
+  "type": "task"
+}

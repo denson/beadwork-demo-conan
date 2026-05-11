@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Nathanson. actress, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0622291/\n_search: Julie Nathanson | Call of Duty: Black Ops Cold War | Bayonetta 3 | Hot Wheels Let's Race | League of Legends",
+  "id": "bw-p-nm0622291",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Nathanson",
+  "type": "task"
+}

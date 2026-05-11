@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Feldman. writer, producer, miscellaneous.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0271017/\n_search: David Feldman | Dennis Miller Live | Triumph's Election Watch 2016 | Real Time with Bill Maher | The Jack and Triumph Show",
+  "id": "bw-p-nm0271017",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Feldman",
+  "type": "task"
+}

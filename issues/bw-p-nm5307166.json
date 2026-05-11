@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Claudia O'Doherty. b. 1983 | actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm5307166/\n_search: Claudia O'Doherty | Extra Ordinary | Long Shot | Trainwreck | Love",
+  "id": "bw-p-nm5307166",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Claudia O'Doherty",
+  "type": "task"
+}

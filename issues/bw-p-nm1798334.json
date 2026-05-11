@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thrice. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1798334/\n_search: Thrice | My Super Psycho Sweet 16 | Forza Horizon 3 | SSX 3 | Tony Hawk's American Wasteland",
+  "id": "bw-p-nm1798334",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thrice",
+  "type": "task"
+}

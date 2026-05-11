@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Evel Knievel. 1938–2007 | actor, stunts, archive_footage.\nDECEASED (1938–2007). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0460773/\n_search: Evel Knievel | The Bionic Woman | Viva Knievel! | The Last of the Gladiators | ABC's Wide World of Sports",
+  "id": "bw-p-nm0460773",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Evel Knievel",
+  "type": "task"
+}

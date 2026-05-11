@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Earth Wind \u0026 Fire. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0247451/\n_search: Earth Wind \u0026 Fire | Ready Player One | Doctor Strange | Polar | The Nice Guys",
+  "id": "bw-p-nm0247451",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Earth Wind \u0026 Fire",
+  "type": "task"
+}

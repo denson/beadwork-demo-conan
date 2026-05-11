@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Chapin Carpenter. b. 1958 | actress, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0139414/\n_search: Mary Chapin Carpenter | Tin Cup | It Could Happen to You | Fly Away Home | Bye Bye Love",
+  "id": "bw-p-nm0139414",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Chapin Carpenter",
+  "type": "task"
+}

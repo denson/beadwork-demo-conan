@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stuart Townsend. b. 1972 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0870204/\n_search: Stuart Townsend | The League of Extraordinary Gentlemen | Queen of the Damned | Battle in Seattle | Chaos Theory",
+  "id": "bw-p-nm0870204",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stuart Townsend",
+  "type": "task"
+}

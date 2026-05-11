@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary-Louise Parker. b. 1964 | actress, miscellaneous, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000571/\n_search: Mary-Louise Parker | RED | Weeds | Angels in America | RED 2",
+  "id": "bw-p-nm0000571",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary-Louise Parker",
+  "type": "task"
+}

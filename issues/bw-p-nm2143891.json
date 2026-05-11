@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elizabeth Warren. b. 1949 | actress, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2143891/\n_search: Elizabeth Warren | Alpha House | Maxed Out | Capitalism: A Love Story | PBS News Hour",
+  "id": "bw-p-nm2143891",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elizabeth Warren",
+  "type": "task"
+}

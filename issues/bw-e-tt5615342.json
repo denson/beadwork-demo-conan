@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Nealon/Sophie Turner/Quincy Jones. conan_tbs, S6E70, 2016.\nRuntime: 43 min.\nIMDb: https://www.imdb.com/title/tt5615342/\n_search: Kevin Nealon/Sophie Turner/Quincy Jones | 2016 | S6E70",
+  "id": "bw-e-tt5615342",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Nealon/Sophie Turner/Quincy Jones",
+  "type": "task"
+}

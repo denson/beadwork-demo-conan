@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "What Happens in Vegas Is Typically Pretty Sad. conan_tbs, S2E10, 2011.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt2121445/\n_search: What Happens in Vegas Is Typically Pretty Sad | 2011 | S2E10",
+  "id": "bw-e-tt2121445",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "What Happens in Vegas Is Typically Pretty Sad",
+  "type": "task"
+}

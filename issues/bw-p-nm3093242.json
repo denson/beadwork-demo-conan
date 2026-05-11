@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shonen Knife. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3093242/\n_search: Shonen Knife | Blade | The Fast and the Furious: Tokyo Drift | The Parent Trap | Blood: The Last Vampire",
+  "id": "bw-p-nm3093242",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shonen Knife",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeremy Piven. b. 1965 | actor, producer, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0005315/\n_search: Jeremy Piven | Serendipity | Entourage | Grosse Pointe Blank | Spy Kids 4: All the Time in the World",
+  "id": "bw-p-nm0005315",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeremy Piven",
+  "type": "task"
+}

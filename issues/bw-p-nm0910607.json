@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christoph Waltz. b. 1956 | actor, producer, miscellaneous.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0910607/\n_search: Christoph Waltz | Inglourious Basterds | Django Unchained | The Zero Theorem | Carnage",
+  "id": "bw-p-nm0910607",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christoph Waltz",
+  "type": "task"
+}

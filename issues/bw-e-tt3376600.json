@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Earl Jones/Josie Bissett/The Amps. late_night, S3E58, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3376600/\n_search: James Earl Jones/Josie Bissett/The Amps | 1995 | S3E58",
+  "id": "bw-e-tt3376600",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Earl Jones/Josie Bissett/The Amps",
+  "type": "task"
+}

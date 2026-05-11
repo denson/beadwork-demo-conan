@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emo Philips. b. 1956 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0680073/\n_search: Emo Philips | UHF | Meet the Parents | Weird: The Al Yankovic Story | Miami Vice",
+  "id": "bw-p-nm0680073",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emo Philips",
+  "type": "task"
+}

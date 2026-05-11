@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Dimino. actress, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1809329/\n_search: Mary Dimino | Celebrities | The Daily Show | The Honeyzoomers | Night Club",
+  "id": "bw-p-nm1809329",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Dimino",
+  "type": "task"
+}

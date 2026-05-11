@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Geraghty. composer, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2004383/\n_search: David Geraghty | Rory O'Shea Was Here | You're Ugly Too | The Crush | Kevin Roche: The Quiet Architect",
+  "id": "bw-p-nm2004383",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Geraghty",
+  "type": "task"
+}

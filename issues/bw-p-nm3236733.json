@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ron Funches. b. 1983 | actor, writer, producer.\nConan-show appearances: 12\nIMDb: https://www.imdb.com/name/nm3236733/\n_search: Ron Funches | Trolls | Jexi | 6 Underground | Inside Out 2",
+  "id": "bw-p-nm3236733",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ron Funches",
+  "type": "task"
+}

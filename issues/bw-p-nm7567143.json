@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nathaniel Rateliff \u0026 The Night Sweats. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7567143/\n_search: Nathaniel Rateliff \u0026 The Night Sweats | Deadpool 2 | NCIS: New Orleans | Fargo | Youth in Oregon",
+  "id": "bw-p-nm7567143",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nathaniel Rateliff \u0026 The Night Sweats",
+  "type": "task"
+}

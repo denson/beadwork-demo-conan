@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Gordon. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9324475/\n_search: Billy Gordon | Austin City Limits | Late Show with David Letterman | Big Morning Buzz Live",
+  "id": "bw-p-nm9324475",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Gordon",
+  "type": "task"
+}

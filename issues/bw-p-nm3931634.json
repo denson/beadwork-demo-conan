@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Bryant. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3931634/\n_search: Anthony Bryant | Theme Song Rebel | Hearts \u0026 Arrows | I'll Eat You Alive | Can't Stop Staring at the Sun",
+  "id": "bw-p-nm3931634",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Bryant",
+  "type": "task"
+}

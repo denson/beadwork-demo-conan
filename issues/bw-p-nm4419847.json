@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ivan Decker. writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4419847/\n_search: Ivan Decker | The Stand Up Comedians | White Ninja | Corner Gas Animated | This Hour Has 22 Minutes",
+  "id": "bw-p-nm4419847",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ivan Decker",
+  "type": "task"
+}

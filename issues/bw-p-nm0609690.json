@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Mould. b. 1961 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0609690/\n_search: Bob Mould | Hedwig and the Angry Inch | Tag | Hot Tub Time Machine 2 | Six Feet Under",
+  "id": "bw-p-nm0609690",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Mould",
+  "type": "task"
+}

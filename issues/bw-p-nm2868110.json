@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hannibal Buress. b. 1983 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm2868110/\n_search: Hannibal Buress | Tag | Neighbors | Spider-Man: Homecoming | The Secret Life of Pets",
+  "id": "bw-p-nm2868110",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hannibal Buress",
+  "type": "task"
+}

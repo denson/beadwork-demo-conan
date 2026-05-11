@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julianne Moore/Rob Schneider/Michael Stipe. late_night, S7E50, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627306/\n_search: Julianne Moore/Rob Schneider/Michael Stipe | 1999 | S7E50",
+  "id": "bw-e-tt0627306",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julianne Moore/Rob Schneider/Michael Stipe",
+  "type": "task"
+}

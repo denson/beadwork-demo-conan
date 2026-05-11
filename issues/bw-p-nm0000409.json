@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brendan Fraser. b. 1968 | actor, producer, art_department.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000409/\n_search: Brendan Fraser | The Mummy | Crash | The Mummy Returns | George of the Jungle",
+  "id": "bw-p-nm0000409",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brendan Fraser",
+  "type": "task"
+}

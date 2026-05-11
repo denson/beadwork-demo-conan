@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Barry. b. 1947 | writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0057970/\n_search: Dave Barry | Big Trouble | Complete Guide to Guys | The 75th Annual Academy Awards | The 82nd Annual Academy Awards",
+  "id": "bw-p-nm0057970",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Barry",
+  "type": "task"
+}

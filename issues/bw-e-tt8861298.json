@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Curtis '50 Cent' Jackson/Jimmy O. Yang/Emmy Blotnick. conan_tbs, S8E97, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8861298/\n_search: Curtis '50 Cent' Jackson/Jimmy O. Yang/Emmy Blotnick | 2018 | S8E97",
+  "id": "bw-e-tt8861298",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Curtis '50 Cent' Jackson/Jimmy O. Yang/Emmy Blotnick",
+  "type": "task"
+}

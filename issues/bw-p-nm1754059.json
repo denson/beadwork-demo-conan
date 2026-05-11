@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natalie Dormer. b. 1982 | actress, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1754059/\n_search: Natalie Dormer | Game of Thrones | Audrey's Children | The Tudors | The Hunger Games: Mockingjay - Part 2",
+  "id": "bw-p-nm1754059",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natalie Dormer",
+  "type": "task"
+}

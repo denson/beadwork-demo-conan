@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gene Simmons. b. 1949 | actor, producer, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005430/\n_search: Gene Simmons | Runaway | Extract | Detroit Rock City | Why Him?",
+  "id": "bw-p-nm0005430",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gene Simmons",
+  "type": "task"
+}

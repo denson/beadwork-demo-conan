@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Corin Tucker. b. 1972 | actress, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1324493/\n_search: Corin Tucker | The Horse Whisperer | Some Days Are Better Than Others | All Over Me | Itty Bitty Titty Committee",
+  "id": "bw-p-nm1324493",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Corin Tucker",
+  "type": "task"
+}

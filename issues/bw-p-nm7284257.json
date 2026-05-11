@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "La Santa Cecilia. composer, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7284257/\n_search: La Santa Cecilia | The Book of Life | Altered Carbon | Cantinflas | La Santa Cecilia: Alma Bohemia",
+  "id": "bw-p-nm7284257",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "La Santa Cecilia",
+  "type": "task"
+}

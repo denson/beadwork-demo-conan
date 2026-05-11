@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amanda Crew. actress, director, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1468739/\n_search: Amanda Crew | Silicon Valley | Freaks | Some Other Woman | The Age of Adaline",
+  "id": "bw-p-nm1468739",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amanda Crew",
+  "type": "task"
+}

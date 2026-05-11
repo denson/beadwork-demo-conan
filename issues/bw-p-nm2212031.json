@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Abby Elliott. b. 1987 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2212031/\n_search: Abby Elliott | No Strings Attached | Teenage Mutant Ninja Turtles | The Bear | Saturday Night Live",
+  "id": "bw-p-nm2212031",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Abby Elliott",
+  "type": "task"
+}

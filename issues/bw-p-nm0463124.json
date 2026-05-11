@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Kogen. b. 1963 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0463124/\n_search: Jay Kogen | The Simpsons | Frasier | The Wrong Guy | School of Rock",
+  "id": "bw-p-nm0463124",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:jibber_jabber",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Kogen",
+  "type": "task"
+}

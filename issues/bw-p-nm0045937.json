@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Badalucco. b. 1954 | actor, art_department, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0045937/\n_search: Michael Badalucco | The Practice | Léon: The Professional | O Brother, Where Art Thou? | You've Got Mail",
+  "id": "bw-p-nm0045937",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Badalucco",
+  "type": "task"
+}

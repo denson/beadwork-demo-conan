@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Coyote Peterson. b. 1981 | producer, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm8689542/\n_search: Coyote Peterson | Brave Wilderness | Ranger Exchange | Coyote Peterson: Brave the Wild | Coyote Peterson's Wild Field Trip",
+  "id": "bw-p-nm8689542",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Coyote Peterson",
+  "type": "task"
+}

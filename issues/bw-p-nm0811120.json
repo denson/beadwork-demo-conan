@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brandon T. Snider. actor, writer, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0811120/\n_search: Brandon T. Snider | All My Children | Dinner Rush | Count Fagula | Die Bitch Die!",
+  "id": "bw-p-nm0811120",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brandon T. Snider",
+  "type": "task"
+}

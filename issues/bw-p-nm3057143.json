@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Southern Culture on the Skids. composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3057143/\n_search: Southern Culture on the Skids | Miss Congeniality | Without a Paddle | Super Troopers | I Know What You Did Last Summer",
+  "id": "bw-p-nm3057143",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Southern Culture on the Skids",
+  "type": "task"
+}

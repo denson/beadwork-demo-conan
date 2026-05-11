@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Love and Rockets. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2062449/\n_search: Love and Rockets | The Guest | The Perks of Being a Wallflower | The Rules of Attraction | White Bird in a Blizzard",
+  "id": "bw-p-nm2062449",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Love and Rockets",
+  "type": "task"
+}

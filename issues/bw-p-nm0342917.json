@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Groff. writer, producer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0342917/\n_search: Jonathan Groff | Black-ish | Happy Endings | The Jake Effect",
+  "id": "bw-p-nm0342917",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Groff",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mick Foley. b. 1965 | actor, writer, director.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0284201/\n_search: Mick Foley | The Peanut Butter Falcon | Mick Foley's Greatest Hits \u0026 Misses: A Life in Wrestling | ECW One Night Stand | Good vs Evil",
+  "id": "bw-p-nm0284201",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mick Foley",
+  "type": "task"
+}

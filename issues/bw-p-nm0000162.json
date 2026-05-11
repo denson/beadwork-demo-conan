@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anne Heche. 1969–2022 | actress, producer, writer.\nDECEASED (1969–2022). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000162/\n_search: Anne Heche | Six Days Seven Nights | Donnie Brasco | Wag the Dog | Volcano",
+  "id": "bw-p-nm0000162",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anne Heche",
+  "type": "task"
+}

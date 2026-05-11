@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Birnbach. miscellaneous, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1067954/\n_search: Lisa Birnbach | Dead Poets Society | The Spy Magazine Hit List: The 100 Most Annoying and Alarming People and Events of 1992 | Ask E. Jean | The Approval Matrix",
+  "id": "bw-p-nm1067954",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Birnbach",
+  "type": "task"
+}

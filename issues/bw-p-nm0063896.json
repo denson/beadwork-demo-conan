@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank Beard. b. 1949 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0063896/\n_search: Frank Beard | Armageddon | The Perfect Storm | Ghost Rider | Teenage Mutant Ninja Turtles III",
+  "id": "bw-p-nm0063896",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank Beard",
+  "type": "task"
+}

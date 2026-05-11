@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "José Arroyo. writer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0037434/\n_search: José Arroyo | Dennis Miller Live | Leo",
+  "id": "bw-p-nm0037434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:posse",
+    "is:current_team",
+    "privacy:public_work_only"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "José Arroyo",
+  "type": "task"
+}

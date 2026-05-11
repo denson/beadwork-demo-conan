@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Pelovello. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7690065/\n_search: Justin Pelovello | Little Republicans: Presidential Debate Highlights | Good People | Joanne \u0026 Khadi | Password Deals",
+  "id": "bw-p-nm7690065",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Pelovello",
+  "type": "task"
+}

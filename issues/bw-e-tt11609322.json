@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Gaffigan. conan_tbs, S10E1, 2020.\nRuntime: 21 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt11609322/\n_search: Jim Gaffigan | 2020 | S10E1",
+  "id": "bw-e-tt11609322",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Gaffigan",
+  "type": "task"
+}

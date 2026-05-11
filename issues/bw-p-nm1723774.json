@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Burm. miscellaneous, producer, production_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1723774/\n_search: Lisa Burm | Late Night with Conan O'Brien: 10th Anniversary Special",
+  "id": "bw-p-nm1723774",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Burm",
+  "type": "task"
+}

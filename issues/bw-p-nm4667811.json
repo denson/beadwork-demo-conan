@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zach Graves. actor, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4667811/\n_search: Zach Graves | Blackout | The Young and the Restless | Tosh.0 | The BreakUp",
+  "id": "bw-p-nm4667811",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zach Graves",
+  "type": "task"
+}

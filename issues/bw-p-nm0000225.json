@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christian Slater. b. 1969 | actor, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000225/\n_search: Christian Slater | Very Bad Things | True Romance | Robin Hood: Prince of Thieves | Broken Arrow",
+  "id": "bw-p-nm0000225",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christian Slater",
+  "type": "task"
+}

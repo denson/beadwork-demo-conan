@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barrett Leddy. actor, director, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7507557/\n_search: Barrett Leddy | LEGO Disney Princess: The Castle Quest | Octopath Traveler 0 | Serie Pokemon XY | Cookie Run: Kingdom",
+  "id": "bw-p-nm7507557",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barrett Leddy",
+  "type": "task"
+}

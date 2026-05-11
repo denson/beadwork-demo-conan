@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julia Louis-Dreyfus. b. 1961 | actress, producer, writer.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0000506/\n_search: Julia Louis-Dreyfus | Seinfeld | Enough Said | Veep | Thunderbolts*",
+  "id": "bw-p-nm0000506",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julia Louis-Dreyfus",
+  "type": "task"
+}

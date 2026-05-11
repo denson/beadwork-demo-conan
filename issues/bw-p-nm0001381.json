@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lauren Hutton. b. 1943 | producer, actress, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001381/\n_search: Lauren Hutton | American Gigolo | Once Bitten | 54 | Zorro: The Gay Blade",
+  "id": "bw-p-nm0001381",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lauren Hutton",
+  "type": "task"
+}

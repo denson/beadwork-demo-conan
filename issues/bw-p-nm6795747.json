@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Barry. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6795747/\n_search: Mark Barry | Front Row Boston | The Road to ACL",
+  "id": "bw-p-nm6795747",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Barry",
+  "type": "task"
+}

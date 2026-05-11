@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Ting Tings. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3000654/\n_search: The Ting Tings | The House Bunny | I Love You, Beth Cooper | He's Just Not That Into You | The Bélier Family",
+  "id": "bw-p-nm3000654",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Ting Tings",
+  "type": "task"
+}

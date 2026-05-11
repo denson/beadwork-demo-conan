@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Mohr. b. 1970 | actor, writer, producer.\nConan-show appearances: 11\nIMDb: https://www.imdb.com/name/nm0001542/\n_search: Jay Mohr | Go | Jerry Maguire | Pay It Forward | The Adventures of Pluto Nash",
+  "id": "bw-p-nm0001542",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Mohr",
+  "type": "task"
+}

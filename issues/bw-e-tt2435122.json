@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Berenstain Bears Quietly Convert to Judaism. conan_tbs, S2E148, 2012.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt2435122/\n_search: The Berenstain Bears Quietly Convert to Judaism | 2012 | S2E148",
+  "id": "bw-e-tt2435122",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Berenstain Bears Quietly Convert to Judaism",
+  "type": "task"
+}

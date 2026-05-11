@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diane Lane. b. 1965 | actress, soundtrack, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000178/\n_search: Diane Lane | Unfaithful | Under the Tuscan Sun | The Outsiders | Inside Out",
+  "id": "bw-p-nm0000178",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diane Lane",
+  "type": "task"
+}

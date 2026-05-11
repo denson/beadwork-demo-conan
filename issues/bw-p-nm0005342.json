@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norman Reedus. actor, producer, soundtrack.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0005342/\n_search: Norman Reedus | The Walking Dead: Daryl Dixon | Ride with Norman Reedus | The Bikeriders | The Boondock Saints",
+  "id": "bw-p-nm0005342",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norman Reedus",
+  "type": "task"
+}

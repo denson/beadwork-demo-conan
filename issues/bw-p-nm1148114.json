@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julian Casablancas. b. 1978 | actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1148114/\n_search: Julian Casablancas | Spider-Man | Somewhere | Click | Vacation",
+  "id": "bw-p-nm1148114",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julian Casablancas",
+  "type": "task"
+}

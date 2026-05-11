@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Samm Levine. b. 1982 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0505949/\n_search: Samm Levine | Inglourious Basterds | Minx | Wet Hot American Summer: Ten Years Later | Not Another Teen Movie",
+  "id": "bw-p-nm0505949",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Samm Levine",
+  "type": "task"
+}

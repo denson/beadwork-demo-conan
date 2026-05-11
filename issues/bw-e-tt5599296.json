@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wanda Sykes/Sharon Horgan/Aurora. conan_tbs, S6E66, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5599296/\n_search: Wanda Sykes/Sharon Horgan/Aurora | 2016 | S6E66",
+  "id": "bw-e-tt5599296",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wanda Sykes/Sharon Horgan/Aurora",
+  "type": "task"
+}

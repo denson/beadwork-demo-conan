@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brian McCann. b. 1965 | writer, actor, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0564836/\n_search: Brian McCann | Hotel Transylvania | The Who Was? Show",
+  "id": "bw-p-nm0564836",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brian McCann",
+  "type": "task"
+}

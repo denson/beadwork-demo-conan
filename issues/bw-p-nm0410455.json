@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Irwin. 1962–2006 | writer, actor, music_department.\nDECEASED (1962–2006). Conan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0410455/\n_search: Steve Irwin | Dr. Dolittle 2 | The Crocodile Hunter: Collision Course | Happy Feet | The Crocodile Hunter",
+  "id": "bw-p-nm0410455",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Irwin",
+  "type": "task"
+}

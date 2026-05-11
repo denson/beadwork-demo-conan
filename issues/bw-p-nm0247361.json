@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harry Earles. 1902–1985 | actor, soundtrack, archive_footage.\nDECEASED (1902–1985). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0247361/\n_search: Harry Earles | Freaks | The Unholy Three | The Unholy Three | 3-Ring Marriage",
+  "id": "bw-p-nm0247361",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harry Earles",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Reid Scott. b. 1977 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1169428/\n_search: Reid Scott | Veep | The Big C | My Boys | Dean",
+  "id": "bw-p-nm1169428",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Reid Scott",
+  "type": "task"
+}

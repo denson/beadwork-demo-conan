@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Kearns. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2380172/\n_search: Anthony Kearns | Irish Tenors \u0026 Friends | Side Lines | Coulter and Company",
+  "id": "bw-p-nm2380172",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Kearns",
+  "type": "task"
+}

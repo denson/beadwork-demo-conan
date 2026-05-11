@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristen Wiig. b. 1973 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1325419/\n_search: Kristen Wiig | Bridesmaids | The Skeleton Twins | The Secret Life of Walter Mitty | Zoolander 2",
+  "id": "bw-p-nm1325419",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristen Wiig",
+  "type": "task"
+}

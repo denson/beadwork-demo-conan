@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cassandra Wilson. b. 1955 | actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0933147/\n_search: Cassandra Wilson | Junior | The Score | My Blueberry Nights | True Detective",
+  "id": "bw-p-nm0933147",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cassandra Wilson",
+  "type": "task"
+}

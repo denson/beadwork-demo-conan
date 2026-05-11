@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anderson Cooper/Selma Blair/Grizzly Bear. conan_tbs, S8E24, 2018.\nRuntime: 42 min.\nIMDb rating: 6.1.\nIMDb: https://www.imdb.com/title/tt7857344/\n_search: Anderson Cooper/Selma Blair/Grizzly Bear | 2018 | S8E24",
+  "id": "bw-e-tt7857344",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anderson Cooper/Selma Blair/Grizzly Bear",
+  "type": "task"
+}

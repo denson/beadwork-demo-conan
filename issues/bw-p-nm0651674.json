@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joan Osborne. b. 1962 | actress, composer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0651674/\n_search: Joan Osborne | Vanilla Sky | For Love of the Game | Nightcrawler | Where the Heart Is",
+  "id": "bw-p-nm0651674",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joan Osborne",
+  "type": "task"
+}

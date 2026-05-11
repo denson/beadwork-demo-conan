@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shannon Joy Rodgers. writer, producer, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4426373/\n_search: Shannon Joy Rodgers | Jimmy Kimmel Live! | The Ellen DeGeneres Show | Adam Ruins Everything",
+  "id": "bw-p-nm4426373",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shannon Joy Rodgers",
+  "type": "task"
+}

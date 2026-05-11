@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Moody. b. 1981 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1394404/\n_search: Ben Moody | Fantastic Four | Daredevil | Terminator 5: Smert Gollivuda | Enter the Matrix",
+  "id": "bw-p-nm1394404",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Moody",
+  "type": "task"
+}

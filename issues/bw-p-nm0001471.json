@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jerry Lewis. 1926–2017 | actor, writer, director.\nDECEASED (1926–2017). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001471/\n_search: Jerry Lewis | The Nutty Professor | The King of Comedy | Arizona Dream | The Caddy",
+  "id": "bw-p-nm0001471",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jerry Lewis",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elisa Donovan. b. 1971 | actress, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0232975/\n_search: Elisa Donovan | Clueless | A Night at the Roxbury | Sabrina the Teenage Witch | Wake Me When You Leave",
+  "id": "bw-p-nm0232975",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elisa Donovan",
+  "type": "task"
+}

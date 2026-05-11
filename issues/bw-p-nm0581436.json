@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Merritt. b. 1955 | music_department, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0581436/\n_search: Mike Merritt | Messengers | TV Funhouse | Ruckus! | The Mark Twain Prize: Steve Martin",
+  "id": "bw-p-nm0581436",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Merritt",
+  "type": "task"
+}

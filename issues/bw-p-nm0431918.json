@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Judge. b. 1962 | writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0431918/\n_search: Mike Judge | Beavis and Butt-Head Do America | King of the Hill | Office Space | Beavis and Butt-Head",
+  "id": "bw-p-nm0431918",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Judge",
+  "type": "task"
+}

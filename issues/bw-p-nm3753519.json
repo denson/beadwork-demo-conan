@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Temper Trap. soundtrack, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3753519/\n_search: The Temper Trap | Tomorrow, When the War Began | I Am Number Four | 3 Days to Kill | 500 Days of Summer",
+  "id": "bw-p-nm3753519",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Temper Trap",
+  "type": "task"
+}

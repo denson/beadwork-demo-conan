@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristy Swanson. b. 1969 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001785/\n_search: Kristy Swanson | Buffy the Vampire Slayer | Ferris Bueller's Day Off | Flowers in the Attic | Dude, Where's My Car?",
+  "id": "bw-p-nm0001785",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristy Swanson",
+  "type": "task"
+}

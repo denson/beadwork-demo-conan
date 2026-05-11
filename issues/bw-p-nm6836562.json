@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Kerr. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6836562/\n_search: Mike Kerr | Hellboy | The Divergent Series: Insurgent | Entourage | Peaky Blinders",
+  "id": "bw-p-nm6836562",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Kerr",
+  "type": "task"
+}

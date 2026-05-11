@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nikolaj Coster Waldau/Zach Woods/The Lone Bellow. conan_tbs, S5E79, 2015.\nIMDb: https://www.imdb.com/title/tt4833852/\n_search: Nikolaj Coster Waldau/Zach Woods/The Lone Bellow | 2015 | S5E79",
+  "id": "bw-e-tt4833852",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nikolaj Coster Waldau/Zach Woods/The Lone Bellow",
+  "type": "task"
+}

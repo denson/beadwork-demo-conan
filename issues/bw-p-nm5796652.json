@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Narek Margaryan. writer, actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5796652/\n_search: Narek Margaryan | The Armenian Job | The Path of Our Dream | Tech Startup | Khod konem",
+  "id": "bw-p-nm5796652",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Narek Margaryan",
+  "type": "task"
+}

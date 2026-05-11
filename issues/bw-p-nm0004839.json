@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Coolio. 1963–2022 | music_department, actor, composer.\nDECEASED (1963–2022). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004839/\n_search: Coolio | Daredevil | Dangerous Minds | Love and Monsters | Nothing to Lose",
+  "id": "bw-p-nm0004839",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Coolio",
+  "type": "task"
+}

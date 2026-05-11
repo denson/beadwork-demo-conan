@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rashida Jones. b. 1976 | actress, producer, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0429069/\n_search: Rashida Jones | Parks and Recreation | Celeste \u0026 Jesse Forever | The Social Network | I Love You, Man",
+  "id": "bw-p-nm0429069",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rashida Jones",
+  "type": "task"
+}

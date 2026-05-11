@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thom Sonny Green. music_department, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5512046/\n_search: Thom Sonny Green | The Discovery | Captain America: Civil War | Bright | Silver Linings Playbook",
+  "id": "bw-p-nm5512046",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thom Sonny Green",
+  "type": "task"
+}

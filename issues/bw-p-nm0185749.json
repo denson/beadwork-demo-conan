@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shawn Crahan. b. 1969 | actor, director, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0185749/\n_search: Shawn Crahan | Resident Evil | Repo! The Genetic Opera | Rollerball | Officer Downe",
+  "id": "bw-p-nm0185749",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shawn Crahan",
+  "type": "task"
+}

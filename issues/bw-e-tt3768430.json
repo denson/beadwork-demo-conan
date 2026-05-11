@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emily Blunt/Brent Morin/Bob Mould. conan_tbs, S4E93, 2014.\nIMDb: https://www.imdb.com/title/tt3768430/\n_search: Emily Blunt/Brent Morin/Bob Mould | 2014 | S4E93",
+  "id": "bw-e-tt3768430",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emily Blunt/Brent Morin/Bob Mould",
+  "type": "task"
+}

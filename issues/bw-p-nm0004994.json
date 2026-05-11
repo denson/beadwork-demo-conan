@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emmylou Harris. b. 1947 | music_artist, actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0004994/\n_search: Emmylou Harris | Brokeback Mountain | O Brother, Where Art Thou? | Lawless | Planes, Trains \u0026 Automobiles",
+  "id": "bw-p-nm0004994",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emmylou Harris",
+  "type": "task"
+}

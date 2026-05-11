@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "J.J. Abrams. b. 1966 | producer, writer, music_department.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0009190/\n_search: J.J. Abrams | Lost | Star Trek | Star Wars: Episode VII - The Force Awakens | Star Wars: Episode IX - The Rise of Skywalker",
+  "id": "bw-p-nm0009190",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "J.J. Abrams",
+  "type": "task"
+}

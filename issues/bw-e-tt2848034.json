@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maria Conchita Alonso/David Keith/Juliana Hatfield. late_night, S2E136, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2848034/\n_search: Maria Conchita Alonso/David Keith/Juliana Hatfield | 1995 | S2E136",
+  "id": "bw-e-tt2848034",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maria Conchita Alonso/David Keith/Juliana Hatfield",
+  "type": "task"
+}

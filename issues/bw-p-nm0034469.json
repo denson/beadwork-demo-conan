@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rod Argent. b. 1945 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0034469/\n_search: Rod Argent | The Life Aquatic with Steve Zissou | The Long Kiss Goodnight | Titane | Kill Bill: Vol. 2",
+  "id": "bw-p-nm0034469",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rod Argent",
+  "type": "task"
+}

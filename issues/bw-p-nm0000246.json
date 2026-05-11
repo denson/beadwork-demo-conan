@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bruce Willis. b. 1955 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000246/\n_search: Bruce Willis | Die Hard | Pulp Fiction | Moonlighting | The Sixth Sense",
+  "id": "bw-p-nm0000246",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bruce Willis",
+  "type": "task"
+}

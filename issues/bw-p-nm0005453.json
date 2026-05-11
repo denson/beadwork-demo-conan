@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Britney Spears. b. 1981 | music_artist, actress, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005453/\n_search: Britney Spears | Crossroads | Austin Powers in Goldmember | Madame Web | How I Met Your Mother",
+  "id": "bw-p-nm0005453",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Britney Spears",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luke McKenzie. writer, director, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2187568/\n_search: Luke McKenzie | Wentworth | The Flip Side | Home and Away | Jack Irish",
+  "id": "bw-p-nm2187568",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luke McKenzie",
+  "type": "task"
+}

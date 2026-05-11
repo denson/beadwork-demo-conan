@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Arpaio. b. 1932 | actor, director, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1962725/\n_search: Joe Arpaio | Buried Alive: The Clay Killer | The Mis-Adventures of Catboy | The War on Drugs | Dear Jodi",
+  "id": "bw-p-nm1962725",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Arpaio",
+  "type": "task"
+}

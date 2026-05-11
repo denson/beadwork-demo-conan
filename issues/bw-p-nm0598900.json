@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ashley Richardson. b. 1965 | actress, manager.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0598900/\n_search: Ashley Richardson | Late Night with David Letterman | Sports Illustrated 1995 Swimsuit Video | Sports Illustrated: The Making of the Swimsuit Issue",
+  "id": "bw-p-nm0598900",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ashley Richardson",
+  "type": "task"
+}

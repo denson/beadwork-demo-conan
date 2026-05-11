@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bryce Dallas Howard/Deepak Chopra/Orlando Baxter. conan_tbs, S6E144, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6171104/\n_search: Bryce Dallas Howard/Deepak Chopra/Orlando Baxter | 2016 | S6E144",
+  "id": "bw-e-tt6171104",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bryce Dallas Howard/Deepak Chopra/Orlando Baxter",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah Murdoch. b. 1972 | producer, costume_department, actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0641366/\n_search: Sarah Murdoch | Head Over Heels | Friends | Australia's Next Top Model | Ten Pound Poms",
+  "id": "bw-p-nm0641366",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah Murdoch",
+  "type": "task"
+}

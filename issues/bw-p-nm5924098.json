@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cameron Esposito. b. 1981 | actress, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm5924098/\n_search: Cameron Esposito | Take My Wife | Mother's Day | The Hero | Station 19",
+  "id": "bw-p-nm5924098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cameron Esposito",
+  "type": "task"
+}

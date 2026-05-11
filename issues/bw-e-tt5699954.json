@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mindy Kaling/Dr. Lucy Jones/Charles Bradley. conan_tbs, S6E82, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5699954/\n_search: Mindy Kaling/Dr. Lucy Jones/Charles Bradley | 2016 | S6E82",
+  "id": "bw-e-tt5699954",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mindy Kaling/Dr. Lucy Jones/Charles Bradley",
+  "type": "task"
+}

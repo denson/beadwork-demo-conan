@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fran Drescher. b. 1957 | writer, actress, producer.\nConan-show appearances: 12\nIMDb: https://www.imdb.com/name/nm0000376/\n_search: Fran Drescher | The Nanny | The Beautician and the Beast | Hotel Transylvania | UHF",
+  "id": "bw-p-nm0000376",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fran Drescher",
+  "type": "task"
+}

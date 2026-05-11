@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Musselwhite. b. 1944 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0615846/\n_search: Charlie Musselwhite | Blues Brothers 2000 | Into the Wild | Jersey Boys | Black Snake Moan",
+  "id": "bw-p-nm0615846",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Musselwhite",
+  "type": "task"
+}

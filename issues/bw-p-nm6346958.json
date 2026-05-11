@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Moyer. actor, music_department, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6346958/\n_search: John Moyer | Disturbed- The 25th Anniversary of the Sickness Live from London | Bloody \u0026 Bruised: The Untold Story of the Back Room | Decade of Disturbed | Hellfest",
+  "id": "bw-p-nm6346958",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Moyer",
+  "type": "task"
+}

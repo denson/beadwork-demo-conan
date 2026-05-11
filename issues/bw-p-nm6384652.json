@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bleachers. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6384652/\n_search: Bleachers | If I Stay | Love, Simon | Jumanji: Welcome to the Jungle | The Final Girls",
+  "id": "bw-p-nm6384652",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bleachers",
+  "type": "task"
+}

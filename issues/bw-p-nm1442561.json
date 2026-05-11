@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ralph Rieckermann. composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1442561/\n_search: Ralph Rieckermann | The Last Gamble | Dhoom 2 | Initial D | King of the Lost World",
+  "id": "bw-p-nm1442561",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ralph Rieckermann",
+  "type": "task"
+}

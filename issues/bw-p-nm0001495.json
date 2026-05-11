@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Macnee. 1922–2015 | actor, costume_department, producer.\nDECEASED (1922–2015). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001495/\n_search: Patrick Macnee | The Avengers | The Howling | A View to a Kill | This Is Spinal Tap",
+  "id": "bw-p-nm0001495",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Macnee",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Drew Coolidge. assistant_director, actor, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3163024/\n_search: Drew Coolidge | I'm a Psychic | Breast Picture | The Worst Year of My Life | Twentysixmiles",
+  "id": "bw-p-nm3163024",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Drew Coolidge",
+  "type": "task"
+}

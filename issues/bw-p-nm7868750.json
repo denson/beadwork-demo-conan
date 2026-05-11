@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josephine Vander Gucht. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7868750/\n_search: Josephine Vander Gucht | Collide | Unforgotten | Scream: The TV Series",
+  "id": "bw-p-nm7868750",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josephine Vander Gucht",
+  "type": "task"
+}

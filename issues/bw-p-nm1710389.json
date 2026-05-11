@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Teenage Fanclub. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1710389/\n_search: Teenage Fanclub | The World's End | Run Fatboy Run | Young Adult | Velvet Goldmine",
+  "id": "bw-p-nm1710389",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Teenage Fanclub",
+  "type": "task"
+}

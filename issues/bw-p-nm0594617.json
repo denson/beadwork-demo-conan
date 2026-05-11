@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Isaac Mizrahi. b. 1961 | producer, actor, production_manager.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0594617/\n_search: Isaac Mizrahi | Marty Supreme | Celebrity | Small Time Crooks | Fame",
+  "id": "bw-p-nm0594617",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Isaac Mizrahi",
+  "type": "task"
+}

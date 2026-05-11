@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Young. b. 1961 | actor, archive_footage, archive_sound.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0950084/\n_search: Steve Young | The Singles Ward | Lois \u0026 Clark: The New Adventures of Superman | Playa azul | Beverly Hills, 90210",
+  "id": "bw-p-nm0950084",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Young",
+  "type": "task"
+}

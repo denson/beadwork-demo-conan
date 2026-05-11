@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Feuerstein. b. 1971 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0275417/\n_search: Mark Feuerstein | What Women Want | Defiance | In Your Eyes | In Her Shoes",
+  "id": "bw-p-nm0275417",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Feuerstein",
+  "type": "task"
+}

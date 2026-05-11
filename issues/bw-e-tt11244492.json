@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Paul. conan_tbs, S9E96, 2019.\nRuntime: 21 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt11244492/\n_search: Aaron Paul | 2019 | S9E96",
+  "id": "bw-e-tt11244492",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Paul",
+  "type": "task"
+}

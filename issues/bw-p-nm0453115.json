@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taran Killam. b. 1982 | actor, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0453115/\n_search: Taran Killam | Saturday Night Live | High Potential | River Wild | Night School",
+  "id": "bw-p-nm0453115",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taran Killam",
+  "type": "task"
+}

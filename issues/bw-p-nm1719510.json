@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alex Hoffman. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1719510/\n_search: Alex Hoffman | David \u0026 Layla | Late Show with David Letterman | Killing Time",
+  "id": "bw-p-nm1719510",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alex Hoffman",
+  "type": "task"
+}

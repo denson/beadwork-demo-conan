@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Melissa McCarthy. b. 1970 | actress, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0565250/\n_search: Melissa McCarthy | The Heat | Spy | Tammy | Bridesmaids",
+  "id": "bw-p-nm0565250",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Melissa McCarthy",
+  "type": "task"
+}

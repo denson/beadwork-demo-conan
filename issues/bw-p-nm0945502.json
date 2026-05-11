@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert 'Toshi' Kar Yuen Chan. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0945502/\n_search: Robert 'Toshi' Kar Yuen Chan | The Departed | Collateral Beauty | Bad Education | Daredevil",
+  "id": "bw-p-nm0945502",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert 'Toshi' Kar Yuen Chan",
+  "type": "task"
+}

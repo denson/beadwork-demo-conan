@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Stink Fisher. b. 1970 | actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0279390/\n_search: Stink Fisher | The Lovely Bones | Arthur | The Longest Yard | Invincible",
+  "id": "bw-p-nm0279390",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Stink Fisher",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scrapisode 3: A Rehearsal Highlight Show. conan_tbs, S6E105, 2016.\nRuntime: 41 min.\nIMDb rating: 8.5.\nIMDb: https://www.imdb.com/title/tt5852076/\n_search: Scrapisode 3: A Rehearsal Highlight Show | 2016 | S6E105",
+  "id": "bw-e-tt5852076",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scrapisode 3: A Rehearsal Highlight Show",
+  "type": "task"
+}

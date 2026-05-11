@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Low Sauer. casting_director, casting_department, actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0766591/\n_search: Jennifer Low Sauer | The Crow | Benny \u0026 Joon | The Vanishing | Airheads",
+  "id": "bw-p-nm0766591",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Low Sauer",
+  "type": "task"
+}

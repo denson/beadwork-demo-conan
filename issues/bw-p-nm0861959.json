@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Throwing Muses. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0861959/\n_search: Throwing Muses | The Perks of Being a Wallflower | Empire Records | A Matter of Degrees | Anthem",
+  "id": "bw-p-nm0861959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Throwing Muses",
+  "type": "task"
+}

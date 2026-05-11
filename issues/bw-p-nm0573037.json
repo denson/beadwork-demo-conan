@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julian McMahon. 1968–2025 | actor, producer, soundtrack.\nDECEASED (1968–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0573037/\n_search: Julian McMahon | Fantastic Four | Fantastic Four: Rise of the Silver Surfer | Nip/Tuck | The Surfer",
+  "id": "bw-p-nm0573037",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julian McMahon",
+  "type": "task"
+}

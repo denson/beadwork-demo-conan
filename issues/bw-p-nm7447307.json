@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Demetrius Shipp Jr.. actor, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm7447307/\n_search: Demetrius Shipp Jr. | All Eyez on Me | Cut Throat City | Imani | The Twelve Dates of Christmas",
+  "id": "bw-p-nm7447307",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Demetrius Shipp Jr.",
+  "type": "task"
+}

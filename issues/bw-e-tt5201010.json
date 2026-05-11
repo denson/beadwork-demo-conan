@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jennifer Lawrence/Ron Funches/Ian Karmel. conan_tbs, S6E8, 2015.\nRuntime: 42 min.\nIMDb rating: 6.6.\nIMDb: https://www.imdb.com/title/tt5201010/\n_search: Jennifer Lawrence/Ron Funches/Ian Karmel | 2015 | S6E8",
+  "id": "bw-e-tt5201010",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jennifer Lawrence/Ron Funches/Ian Karmel",
+  "type": "task"
+}

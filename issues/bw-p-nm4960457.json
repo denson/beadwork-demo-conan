@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Myron Kandel. (no IMDb bio data).\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4960457/\n_search: Myron Kandel | Moneyline",
+  "id": "bw-p-nm4960457",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Myron Kandel",
+  "type": "task"
+}

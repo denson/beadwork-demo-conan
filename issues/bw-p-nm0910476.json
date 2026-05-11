@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Walton. 1952–2024 | actor, producer, writer.\nDECEASED (1952–2024). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0910476/\n_search: Bill Walton | Little Nicky | He Got Game | Forget Paris | The Sentinel",
+  "id": "bw-p-nm0910476",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Walton",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alice in Chains. music_artist, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2750498/\n_search: Alice in Chains | Singles | Last Action Hero | The Perfect Storm | Terminator Salvation",
+  "id": "bw-p-nm2750498",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alice in Chains",
+  "type": "task"
+}

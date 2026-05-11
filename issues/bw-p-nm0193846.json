@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elisha Cuthbert. b. 1982 | actress, director, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0193846/\n_search: Elisha Cuthbert | The Girl Next Door | 24 | House of Wax | Love Actually",
+  "id": "bw-p-nm0193846",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elisha Cuthbert",
+  "type": "task"
+}

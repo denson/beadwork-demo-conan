@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Freddie Blassie. 1918–2003 | actor, archive_footage.\nDECEASED (1918–2003). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0087773/\n_search: Freddie Blassie | My Breakfast with Blassie | Spectrum Wrestling | WWF Superstars | WWE Monday Night RAW",
+  "id": "bw-p-nm0087773",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Freddie Blassie",
+  "type": "task"
+}

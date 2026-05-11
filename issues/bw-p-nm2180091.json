@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Steve Byrne. b. 1974 | actor, writer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2180091/\n_search: Steve Byrne | The Opening Act | Sullivan \u0026 Son | Always Amazing | Steve Byrne: The Last Late Night",
+  "id": "bw-p-nm2180091",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Steve Byrne",
+  "type": "task"
+}

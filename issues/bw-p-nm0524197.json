@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Lucas. b. 1971 | actor, producer, cinematographer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0524197/\n_search: Josh Lucas | Ford v Ferrari | Sweet Home Alabama | Glory Road | Yellowstone",
+  "id": "bw-p-nm0524197",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Lucas",
+  "type": "task"
+}

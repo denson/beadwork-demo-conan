@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elliott Smith. 1969–2003 | actor, music_department, composer.\nDECEASED (1969–2003). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0808129/\n_search: Elliott Smith | Good Will Hunting | The Royal Tenenbaums | Up in the Air | Antitrust",
+  "id": "bw-p-nm0808129",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elliott Smith",
+  "type": "task"
+}

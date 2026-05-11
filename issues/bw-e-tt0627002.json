@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laura Dern/Ron Rifkin/Tracy Chapman. late_night, S4E41, 1996.\nRuntime: 57 min.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt0627002/\n_search: Laura Dern/Ron Rifkin/Tracy Chapman | 1996 | S4E41",
+  "id": "bw-e-tt0627002",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laura Dern/Ron Rifkin/Tracy Chapman",
+  "type": "task"
+}

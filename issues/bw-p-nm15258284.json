@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Melissa Paltrowitz. script_department, set_decorator, make_up_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm15258284/\n_search: Melissa Paltrowitz | Paltrocast with Darren Paltrowitz",
+  "id": "bw-p-nm15258284",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Melissa Paltrowitz",
+  "type": "task"
+}

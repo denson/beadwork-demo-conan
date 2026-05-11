@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Flula Borg/Mohanad Elshieky. conan_tbs, S9E77, 2019.\nRuntime: 21 min.\nIMDb rating: 6.5.\nIMDb: https://www.imdb.com/title/tt10870306/\n_search: Flula Borg/Mohanad Elshieky | 2019 | S9E77",
+  "id": "bw-e-tt10870306",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Flula Borg/Mohanad Elshieky",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Streetcar Named Dr. Nathan Gluckman. conan_tbs, S1E140, 2011.\nRuntime: 60 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt2049727/\n_search: A Streetcar Named Dr. Nathan Gluckman | 2011 | S1E140",
+  "id": "bw-e-tt2049727",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Streetcar Named Dr. Nathan Gluckman",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Monty Hoffman. 1952–2013 | actor, writer, archive_footage.\nDECEASED (1952–2013). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0389034/\n_search: Monty Hoffman | Howard the Duck | Funny People | Bucky Larson: Born to Be a Star | Married... with Children",
+  "id": "bw-p-nm0389034",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Monty Hoffman",
+  "type": "task"
+}

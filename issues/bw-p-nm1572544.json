@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Laurie Kilmartin. writer, producer, actress.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1572544/\n_search: Laurie Kilmartin | 45 Jokes About My Dead Dad | The Late Late Show with Craig Ferguson | The Bonnie Hunt Show",
+  "id": "bw-p-nm1572544",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Laurie Kilmartin",
+  "type": "task"
+}

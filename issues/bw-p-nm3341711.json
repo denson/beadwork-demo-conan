@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Cameron. writer, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3341711/\n_search: Peter Cameron | WandaVision | Werewolf by Night | Agatha All Along | The Fantastic Four: First Steps",
+  "id": "bw-p-nm3341711",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Cameron",
+  "type": "task"
+}

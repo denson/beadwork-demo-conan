@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Burd. b. 1988 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7336431/\n_search: Dave Burd | Dave | The Lego Batman Movie | Untitled Lil Dicky Original Animated | Hahaha I Love Myself",
+  "id": "bw-p-nm7336431",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Burd",
+  "type": "task"
+}

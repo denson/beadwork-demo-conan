@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hugh Fink. writer, producer, miscellaneous.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0277813/\n_search: Hugh Fink | Saturday Night Live | This Is 40 | Parental Discretion with Stefanie Wilder-Taylor | The Drew Carey Show",
+  "id": "bw-p-nm0277813",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hugh Fink",
+  "type": "task"
+}

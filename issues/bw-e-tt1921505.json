@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Untitled Freddie Prinze Jr. Project. conan_tbs, S1E90, 2011.\nRuntime: 60 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt1921505/\n_search: Untitled Freddie Prinze Jr. Project | 2011 | S1E90",
+  "id": "bw-e-tt1921505",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Untitled Freddie Prinze Jr. Project",
+  "type": "task"
+}

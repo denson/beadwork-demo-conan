@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anderson Cooper/Rob Corddry/Son Volt. late_night, S14E100, 2007.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0994333/\n_search: Anderson Cooper/Rob Corddry/Son Volt | 2007 | S14E100",
+  "id": "bw-e-tt0994333",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anderson Cooper/Rob Corddry/Son Volt",
+  "type": "task"
+}

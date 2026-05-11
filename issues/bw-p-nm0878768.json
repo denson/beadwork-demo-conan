@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aisha Tyler. b. 1970 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0878768/\n_search: Aisha Tyler | Archer | Fear the Walking Dead | Axis | Criminal Minds",
+  "id": "bw-p-nm0878768",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aisha Tyler",
+  "type": "task"
+}

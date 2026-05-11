@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "B. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10160665/\n_search: B | Legion | Q with Tom Power | Last Call with Carson Daly",
+  "id": "bw-p-nm10160665",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "B",
+  "type": "task"
+}

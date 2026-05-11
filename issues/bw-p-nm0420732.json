@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Jeni. 1957–2007 | actor, writer, miscellaneous.\nDECEASED (1957–2007). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0420732/\n_search: Richard Jeni | The Mask | Richard Jeni: Platypus Man | Richard Jeni: Crazy from the Heat | Platypus Man",
+  "id": "bw-p-nm0420732",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Jeni",
+  "type": "task"
+}

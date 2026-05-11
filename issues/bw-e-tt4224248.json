@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clyde Peeling/Connie Britton. late_night, S5E141, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4224248/\n_search: Clyde Peeling/Connie Britton | 1998 | S5E141",
+  "id": "bw-e-tt4224248",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clyde Peeling/Connie Britton",
+  "type": "task"
+}

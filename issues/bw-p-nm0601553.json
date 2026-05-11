@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mandy Moore. b. 1984 | actress, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0601553/\n_search: Mandy Moore | A Walk to Remember | Tangled | Saved! | Chasing Liberty",
+  "id": "bw-p-nm0601553",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mandy Moore",
+  "type": "task"
+}

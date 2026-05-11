@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Miclau. composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9536411/\n_search: Jackie Miclau | City Limits",
+  "id": "bw-p-nm9536411",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Miclau",
+  "type": "task"
+}

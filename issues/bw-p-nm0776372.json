@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Wesley Schultz. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0776372/\n_search: Wesley Schultz | The Hunger Games: Mockingjay - Part 1 | The Hunger Games: Catching Fire | Happy Death Day | Pete's Dragon",
+  "id": "bw-p-nm0776372",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Wesley Schultz",
+  "type": "task"
+}

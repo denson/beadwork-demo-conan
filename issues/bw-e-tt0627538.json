@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brad Pitt/Janet Jackson. late_night, S11E108, 2004.\nRuntime: 57 min.\nIMDb rating: 4.8.\nIMDb: https://www.imdb.com/title/tt0627538/\n_search: Brad Pitt/Janet Jackson | 2004 | S11E108",
+  "id": "bw-e-tt0627538",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brad Pitt/Janet Jackson",
+  "type": "task"
+}

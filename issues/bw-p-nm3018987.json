@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cody Dickinson. actor, producer, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3018987/\n_search: Cody Dickinson | Black Snake Moan | Barnyard | Take Me to the River: New Orleans | Rattle the Hocks",
+  "id": "bw-p-nm3018987",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cody Dickinson",
+  "type": "task"
+}

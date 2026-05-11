@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jars of Clay. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1865955/\n_search: Jars of Clay | The Long Kiss Goodnight | Hard Rain | A Walk to Remember | Crossroads",
+  "id": "bw-p-nm1865955",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jars of Clay",
+  "type": "task"
+}

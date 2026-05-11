@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mick Leroy. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0503780/\n_search: Mick Leroy | Seasons of Love | One Life to Live",
+  "id": "bw-p-nm0503780",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mick Leroy",
+  "type": "task"
+}

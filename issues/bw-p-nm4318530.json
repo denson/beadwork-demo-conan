@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nikki García. actress, miscellaneous, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4318530/\n_search: Nikki García | Metroid Dread | 1992 | American Arcadia | Doblajitis",
+  "id": "bw-p-nm4318530",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nikki García",
+  "type": "task"
+}

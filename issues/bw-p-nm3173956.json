@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Skindred. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3173956/\n_search: Skindred | Sky High | Need for Speed: Underground 2 | Skindred: Sound the Siren | Przystanek Woodstock",
+  "id": "bw-p-nm3173956",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Skindred",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Warren Thomas. 1957–2005 | writer, actor, miscellaneous.\nDECEASED (1957–2005). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0859637/\n_search: Warren Thomas | In Living Color | The Waiter | Martians Go Home | Brain Donors",
+  "id": "bw-p-nm0859637",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Warren Thomas",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Uma Thurman. b. 1970 | actress, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000235/\n_search: Uma Thurman | Kill Bill: Vol. 1 | Kill Bill: Vol. 2 | Pulp Fiction | Batman \u0026 Robin",
+  "id": "bw-p-nm0000235",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Uma Thurman",
+  "type": "task"
+}

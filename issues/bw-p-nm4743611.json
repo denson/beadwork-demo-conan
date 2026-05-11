@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emeli Sandé. b. 1987 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4743611/\n_search: Emeli Sandé | Trance | The Great Gatsby | Black and Blue | Not Another Happy Ending",
+  "id": "bw-p-nm4743611",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emeli Sandé",
+  "type": "task"
+}

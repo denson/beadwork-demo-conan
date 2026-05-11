@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ziggy Marley. b. 1968 | music_artist, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005187/\n_search: Ziggy Marley | Shark Tale | Bob Marley: One Love | Into the Blue | 50 First Dates",
+  "id": "bw-p-nm0005187",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ziggy Marley",
+  "type": "task"
+}

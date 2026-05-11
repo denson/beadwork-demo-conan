@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Freyer. writer, art_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2556522/\n_search: John Freyer | All My Life for Sale | Independent Lens | Second-Hand Stories",
+  "id": "bw-p-nm2556522",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Freyer",
+  "type": "task"
+}

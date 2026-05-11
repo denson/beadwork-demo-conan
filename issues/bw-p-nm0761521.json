@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Deion Sanders. b. 1967 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0761521/\n_search: Deion Sanders | Street Fighter | Draft Day | Deion's Family Playbook | Celtic Pride",
+  "id": "bw-p-nm0761521",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Deion Sanders",
+  "type": "task"
+}

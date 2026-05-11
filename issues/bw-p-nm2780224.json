@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "OneRepublic. music_artist, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2780224/\n_search: OneRepublic | The Giver | Terminator Genisys | Collateral Beauty | Easy A",
+  "id": "bw-p-nm2780224",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "OneRepublic",
+  "type": "task"
+}

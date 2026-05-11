@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Isaiah Mustafa. b. 1974 | actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2248149/\n_search: Isaiah Mustafa | It: Chapter Two | Boy Kills World | Cross | Home Team",
+  "id": "bw-p-nm2248149",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Isaiah Mustafa",
+  "type": "task"
+}

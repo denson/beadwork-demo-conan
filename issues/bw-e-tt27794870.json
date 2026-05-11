@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Norway. must_go, S1E1, 2024.\nRuntime: 47 min.\nIMDb rating: 8.1.\nIMDb: https://www.imdb.com/title/tt27794870/\n_search: Norway | 2024 | S1E1",
+  "id": "bw-e-tt27794870",
+  "labels": [
+    "kind:episode",
+    "era:must_go",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Norway",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fred Armisen/Chrissie Hynde/Circa Waves. conan_tbs, S5E140, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt5028802/\n_search: Fred Armisen/Chrissie Hynde/Circa Waves | 2015 | S5E140",
+  "id": "bw-e-tt5028802",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fred Armisen/Chrissie Hynde/Circa Waves",
+  "type": "task"
+}

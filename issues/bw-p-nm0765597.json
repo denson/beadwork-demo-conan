@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Sarsgaard. b. 1971 | actor, producer, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0765597/\n_search: Peter Sarsgaard | Shattered Glass | Garden State | Kinsey | September 5",
+  "id": "bw-p-nm0765597",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Sarsgaard",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Pena. 1950–2005 | actor, composer, soundtrack.\nDECEASED (1950–2005). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0671571/\n_search: Paul Pena | Greenberg | Rock Concert | Austin City Limits | Canadian Idol",
+  "id": "bw-p-nm0671571",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Pena",
+  "type": "task"
+}

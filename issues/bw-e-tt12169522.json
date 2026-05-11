@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan at Home - Chris O'Dowd/Jon Dore. conan_tbs, S10E52, 2020.\nIMDb rating: 7.0.\nIMDb: https://www.imdb.com/title/tt12169522/\n_search: Conan at Home - Chris O'Dowd/Jon Dore | 2020 | S10E52",
+  "id": "bw-e-tt12169522",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan at Home - Chris O'Dowd/Jon Dore",
+  "type": "task"
+}

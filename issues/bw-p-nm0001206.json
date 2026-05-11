@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Abel Ferrara. b. 1951 | director, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001206/\n_search: Abel Ferrara | Bad Lieutenant | King of New York | New Rose Hotel | Zeros and Ones",
+  "id": "bw-p-nm0001206",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Abel Ferrara",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Valerie Harper. 1939–2019 | actress, writer, producer.\nDECEASED (1939–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001320/\n_search: Valerie Harper | The Mary Tyler Moore Show | Rhoda | Blame It on Rio | Freebie and the Bean",
+  "id": "bw-p-nm0001320",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Valerie Harper",
+  "type": "task"
+}

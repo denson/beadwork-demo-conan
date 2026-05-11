@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tim Daly. b. 1956 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0004857/\n_search: Tim Daly | The Fugitive | Basic | Wings | Justice League: Doom",
+  "id": "bw-p-nm0004857",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tim Daly",
+  "type": "task"
+}

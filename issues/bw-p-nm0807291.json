@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Amber Smith. b. 1971 | actress.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0807291/\n_search: Amber Smith | L.A. Confidential | Dead End | American Beauty | The Rules of Attraction",
+  "id": "bw-p-nm0807291",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Amber Smith",
+  "type": "task"
+}

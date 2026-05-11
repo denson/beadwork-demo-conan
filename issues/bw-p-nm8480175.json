@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zach Chance. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8480175/\n_search: Zach Chance | Bones | The Late Late Show with Craig Ferguson",
+  "id": "bw-p-nm8480175",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zach Chance",
+  "type": "task"
+}

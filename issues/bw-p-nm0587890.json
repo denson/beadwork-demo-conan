@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andrew Elvis Miller. actor, director, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0587890/\n_search: Andrew Elvis Miller | Halston | Mozart in the Jungle | Dexter | One Tree Hill: Always \u0026 Forever",
+  "id": "bw-p-nm0587890",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andrew Elvis Miller",
+  "type": "task"
+}

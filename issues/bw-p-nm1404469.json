@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mary Lou Lord. b. 1970 | actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1404469/\n_search: Mary Lou Lord | Bio-Dome | Zero Effect | Mary Lou Lord Acme Underground | 120 Minutes",
+  "id": "bw-p-nm1404469",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mary Lou Lord",
+  "type": "task"
+}

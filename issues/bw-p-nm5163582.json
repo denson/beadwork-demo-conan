@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vic Fuentes. b. 1983 | actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5163582/\n_search: Vic Fuentes | Tony Hawk's Proving Ground | Rock Band 4 | Guitar Hero Live",
+  "id": "bw-p-nm5163582",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vic Fuentes",
+  "type": "task"
+}

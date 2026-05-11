@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jencarlos Canela. b. 1988 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2808554/\n_search: Jencarlos Canela | The Man from Toronto | A Chance to Love | Telenovela | My Heart Beats for Lola Volcán",
+  "id": "bw-p-nm2808554",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jencarlos Canela",
+  "type": "task"
+}

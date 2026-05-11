@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lil Jon. b. 1972 | soundtrack, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1441760/\n_search: Lil Jon | Scream VI | Logan | Spies in Disguise | Thor: Love and Thunder",
+  "id": "bw-p-nm1441760",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lil Jon",
+  "type": "task"
+}

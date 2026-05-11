@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Giambi. b. 1971 | actor, producer, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1599866/\n_search: Jason Giambi | Dirty Deeds | The Bronx Is Burning | Arli$$ | Sunday Night Baseball",
+  "id": "bw-p-nm1599866",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Giambi",
+  "type": "task"
+}

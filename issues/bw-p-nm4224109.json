@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maya Erskine. b. 1987 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4224109/\n_search: Maya Erskine | PEN15 | Blue Eye Samurai | Wine Country | Mr. \u0026 Mrs. Smith",
+  "id": "bw-p-nm4224109",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maya Erskine",
+  "type": "task"
+}

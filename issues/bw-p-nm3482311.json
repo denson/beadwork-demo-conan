@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kiesza. b. 1989 | actress, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3482311/\n_search: Kiesza | Home | Work It | Waterloo Road | Shellshock",
+  "id": "bw-p-nm3482311",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kiesza",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Derek Fisher. b. 1974 | actor, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1389344/\n_search: Derek Fisher | The Dreamer III | Arli$$ | In the House | Eve",
+  "id": "bw-p-nm1389344",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Derek Fisher",
+  "type": "task"
+}

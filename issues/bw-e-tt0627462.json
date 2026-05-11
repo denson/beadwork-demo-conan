@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Whoopi Goldberg/Rosario Dawson/Eastmountainsouth. late_night, S11E9, 2003.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627462/\n_search: Whoopi Goldberg/Rosario Dawson/Eastmountainsouth | 2003 | S11E9",
+  "id": "bw-e-tt0627462",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Whoopi Goldberg/Rosario Dawson/Eastmountainsouth",
+  "type": "task"
+}

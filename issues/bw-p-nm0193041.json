@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ann Curry. b. 1956 | actress, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0193041/\n_search: Ann Curry | 30 Rock | Law \u0026 Order: Special Victims Unit | House of Cards | Dateline NBC",
+  "id": "bw-p-nm0193041",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ann Curry",
+  "type": "task"
+}

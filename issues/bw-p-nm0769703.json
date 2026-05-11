@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Schaeffer. b. 1962 | actor, writer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0769703/\n_search: Eric Schaeffer | Boy Meets Girl | If Lucy Fell | Fall | After Fall, Winter",
+  "id": "bw-p-nm0769703",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Schaeffer",
+  "type": "task"
+}

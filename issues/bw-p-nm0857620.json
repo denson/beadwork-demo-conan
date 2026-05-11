@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Justin Theroux. b. 1971 | actor, producer, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0857620/\n_search: Justin Theroux | Mulholland Drive | Your Highness | American Psycho | The Lego Ninjago Movie",
+  "id": "bw-p-nm0857620",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Justin Theroux",
+  "type": "task"
+}

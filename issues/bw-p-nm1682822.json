@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Todd Levin. writer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1682822/\n_search: Todd Levin | Let's Be Real | Triumph's Election Watch 2016 | The Jack and Triumph Show",
+  "id": "bw-p-nm1682822",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Todd Levin",
+  "type": "task"
+}

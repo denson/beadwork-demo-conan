@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Better Than Ezra. actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2806656/\n_search: Better Than Ezra | Rat Race | Empire Records | Dirty Work | The Change-Up",
+  "id": "bw-p-nm2806656",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Better Than Ezra",
+  "type": "task"
+}

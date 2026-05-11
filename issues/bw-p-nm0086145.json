@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Blaine. b. 1973 | producer, actor, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0086145/\n_search: David Blaine | The Great Buck Howard | Mister Lonely | David Blaine: Real or Magic | David's Vlog",
+  "id": "bw-p-nm0086145",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Blaine",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ollabelle. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2308597/\n_search: Ollabelle | Mad Money | Unfinished Sky",
+  "id": "bw-p-nm2308597",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ollabelle",
+  "type": "task"
+}

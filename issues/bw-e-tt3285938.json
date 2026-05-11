@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Westboro Baptist Church's Surprisingly Moving Stage Version of \"Brokeback Mountain\". conan_tbs, S3E154, 2013.\nIMDb: https://www.imdb.com/title/tt3285938/\n_search: The Westboro Baptist Church's Surprisingly Moving Stage Version of \"Brokeback Mountain\" | 2013 | S3E154",
+  "id": "bw-e-tt3285938",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Westboro Baptist Church's Surprisingly Moving Stage Version of \"Brokeback Mountain\"",
+  "type": "task"
+}

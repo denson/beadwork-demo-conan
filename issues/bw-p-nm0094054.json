@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tommy Bond. 1926–2005 | art_department, actor, miscellaneous.\nDECEASED (1926–2005). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0094054/\n_search: Tommy Bond | Atom Man vs. Superman | Superman | Fishy Tales | Five Little Peppers and How They Grew",
+  "id": "bw-p-nm0094054",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tommy Bond",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charles Hodges. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5730905/\n_search: Charles Hodges | Syl Johnson: Any Way the Wind Blows | Take Me to the River | Mabon Teenie Hodges: A Portrait of a Memphis Soul Original",
+  "id": "bw-p-nm5730905",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charles Hodges",
+  "type": "task"
+}

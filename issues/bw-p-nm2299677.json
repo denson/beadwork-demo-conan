@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Bad Plus. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2299677/\n_search: The Bad Plus | Every Song Is About Me | The Art of the Steal | Scaffolding | Ànima",
+  "id": "bw-p-nm2299677",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Bad Plus",
+  "type": "task"
+}

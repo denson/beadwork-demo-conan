@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Brennan. b. 1960 | writer, actor, archive_footage.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0996057/\n_search: Kevin Brennan | Saturday Night Live | Half Baked | Number One Son | Turbocharge: The Unauthorized Story of The Cars",
+  "id": "bw-p-nm0996057",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Brennan",
+  "type": "task"
+}

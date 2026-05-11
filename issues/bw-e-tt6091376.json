@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kunal Nayyar/Phoebe Robinson/Jamestown Revival. conan_tbs, S6E138, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6091376/\n_search: Kunal Nayyar/Phoebe Robinson/Jamestown Revival | 2016 | S6E138",
+  "id": "bw-e-tt6091376",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kunal Nayyar/Phoebe Robinson/Jamestown Revival",
+  "type": "task"
+}

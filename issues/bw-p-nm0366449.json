@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mickey Hart. b. 1943 | composer, music_department, sound_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0366449/\n_search: Mickey Hart | Apocalypse Now | The Dreamers | Gang Related | Warriors of Virtue",
+  "id": "bw-p-nm0366449",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mickey Hart",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fyvush Finkel. 1922–2016 | actor, soundtrack, archive_footage.\nDECEASED (1922–2016). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0277882/\n_search: Fyvush Finkel | Picket Fences | Nixon | A Serious Man | Fantasy Island",
+  "id": "bw-p-nm0277882",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fyvush Finkel",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natasha Henstridge. b. 1974 | actress, producer, soundtrack.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000449/\n_search: Natasha Henstridge | Species | Ghosts of Mars | Species II | The Whole Nine Yards",
+  "id": "bw-p-nm0000449",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natasha Henstridge",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fred Savage. b. 1976 | actor, director, producer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000625/\n_search: Fred Savage | The Wonder Years | The Princess Bride | The Boy Who Could Fly | The Grinder",
+  "id": "bw-p-nm0000625",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fred Savage",
+  "type": "task"
+}

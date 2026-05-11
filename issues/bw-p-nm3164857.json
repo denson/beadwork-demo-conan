@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Golden Palominos. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3164857/\n_search: The Golden Palominos | The Allnighter | Keys to Tulsa | Ed and His Dead Mother | Ride",
+  "id": "bw-p-nm3164857",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Golden Palominos",
+  "type": "task"
+}

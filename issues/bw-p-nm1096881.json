@@ -1,0 +1,17 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Newt Gingrich. b. 1943 | producer, actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1096881/\n_search: Newt Gingrich | We Have the Power | Parks and Recreation | Murphy Brown | The First American",
+  "id": "bw-p-nm1096881",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Newt Gingrich",
+  "type": "task"
+}

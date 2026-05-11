@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tom Smothers. 1937–2023 | actor, producer, writer.\nDECEASED (1937–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0810691/\n_search: Tom Smothers | The Smothers Brothers Comedy Hour | Get to Know Your Rabbit | The Informant! | Speed Zone",
+  "id": "bw-p-nm0810691",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tom Smothers",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Norton/Izabel Goulart/Gene Pompa. late_night, S13E115, 2006.\nRuntime: 57 min.\nIMDb rating: 7.9.\nIMDb: https://www.imdb.com/title/tt0802644/\n_search: Edward Norton/Izabel Goulart/Gene Pompa | 2006 | S13E115",
+  "id": "bw-e-tt0802644",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Norton/Izabel Goulart/Gene Pompa",
+  "type": "task"
+}

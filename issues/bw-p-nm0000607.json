@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Reubens. 1952–2023 | actor, writer, director.\nDECEASED (1952–2023). Conan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0000607/\n_search: Paul Reubens | Pee-wee's Playhouse | Pee-wee's Big Adventure | Big Top Pee-wee | Christmas at Pee-wee's Playhouse",
+  "id": "bw-p-nm0000607",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Reubens",
+  "type": "task"
+}

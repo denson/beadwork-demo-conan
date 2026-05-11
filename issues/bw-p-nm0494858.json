@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robin Leach. 1941–2018 | actor, producer, writer.\nDECEASED (1941–2018). Conan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0494858/\n_search: Robin Leach | The Ridiculous 6 | I.M. Caravaggio | Free Money | Hotel",
+  "id": "bw-p-nm0494858",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robin Leach",
+  "type": "task"
+}

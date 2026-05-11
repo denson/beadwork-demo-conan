@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Holly Hunter. b. 1958 | actress, producer, music_department.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000456/\n_search: Holly Hunter | Broadcast News | Thirteen | The Piano | Incredibles 2",
+  "id": "bw-p-nm0000456",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Holly Hunter",
+  "type": "task"
+}

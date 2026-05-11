@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eden Malakouti Wilson. actress, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4507742/\n_search: Eden Malakouti Wilson | You're Gonna Miss Me | This Is How Rumors Start | Brides of Satan | One Life to Live",
+  "id": "bw-p-nm4507742",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eden Malakouti Wilson",
+  "type": "task"
+}

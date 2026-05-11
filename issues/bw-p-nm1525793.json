@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Chauncey. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1525793/\n_search: Chris Chauncey | The Chronicles of Mercury: Episode 1 | The Middle | Best friends forever | Searching for Ron Ficus",
+  "id": "bw-p-nm1525793",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Chauncey",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Linda Hamilton/Arianna Huffington/The Delevantes. late_night, S2E206, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2915466/\n_search: Linda Hamilton/Arianna Huffington/The Delevantes | 1995 | S2E206",
+  "id": "bw-e-tt2915466",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Linda Hamilton/Arianna Huffington/The Delevantes",
+  "type": "task"
+}

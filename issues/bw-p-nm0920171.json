@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dawn Wells. 1938–2020 | actress, producer, costume_department.\nDECEASED (1938–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0920171/\n_search: Dawn Wells | Gilligan's Island | The Town That Dreaded Sundown | Baywatch | Rescue from Gilligan's Island",
+  "id": "bw-p-nm0920171",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dawn Wells",
+  "type": "task"
+}

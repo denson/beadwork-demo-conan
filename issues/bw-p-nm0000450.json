@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Philip Seymour Hoffman. 1967–2014 | actor, producer, director.\nDECEASED (1967–2014). Conan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000450/\n_search: Philip Seymour Hoffman | The Master | Capote | Before the Devil Knows You're Dead | Almost Famous",
+  "id": "bw-p-nm0000450",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Philip Seymour Hoffman",
+  "type": "task"
+}

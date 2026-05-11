@@ -1,0 +1,20 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Arnett. b. 1970 | actor, producer, writer.\nConan-show appearances: 20 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0004715/\n_search: Will Arnett | The Lego Movie | The Lego Batman Movie | Arrested Development | BoJack Horseman",
+  "id": "bw-p-nm0004715",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Arnett",
+  "type": "task"
+}

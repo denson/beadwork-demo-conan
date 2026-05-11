@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Donald Glover. b. 1983 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2255973/\n_search: Donald Glover | Community | Solo: A Star Wars Story | Atlanta | Guava Island",
+  "id": "bw-p-nm2255973",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Donald Glover",
+  "type": "task"
+}

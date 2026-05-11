@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Derek Thompson. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1282029/\n_search: Derek Thompson | SketchCom | Ham \u0026 Cheese | Mom | Kids in the Hall: Death Comes to Town",
+  "id": "bw-p-nm1282029",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Derek Thompson",
+  "type": "task"
+}

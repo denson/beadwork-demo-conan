@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zoe Saldaña. b. 1978 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0757855/\n_search: Zoe Saldaña | Avatar | Guardians of the Galaxy | Star Trek | Colombiana",
+  "id": "bw-p-nm0757855",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zoe Saldaña",
+  "type": "task"
+}

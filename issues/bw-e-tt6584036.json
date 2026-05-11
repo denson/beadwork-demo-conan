@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Martin Short/Natalie Zea/The Pretty Reckless. conan_tbs, S7E50, 2017.\nRuntime: 42 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt6584036/\n_search: Martin Short/Natalie Zea/The Pretty Reckless | 2017 | S7E50",
+  "id": "bw-e-tt6584036",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Martin Short/Natalie Zea/The Pretty Reckless",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dusty Hill. 1949–2021 | actor, composer, writer.\nDECEASED (1949–2021). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0384212/\n_search: Dusty Hill | Armageddon | The Perfect Storm | Ghost Rider | Teenage Mutant Ninja Turtles III",
+  "id": "bw-p-nm0384212",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dusty Hill",
+  "type": "task"
+}

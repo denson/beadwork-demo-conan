@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lisa Kennedy Montgomery. b. 1972 | actress, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0599840/\n_search: Lisa Kennedy Montgomery | The Help | Budweiser Commercial, 'Dale Earnhardt Jr. Switching Numbers' | Friend or Foe | The Kennedy Show",
+  "id": "bw-p-nm0599840",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lisa Kennedy Montgomery",
+  "type": "task"
+}

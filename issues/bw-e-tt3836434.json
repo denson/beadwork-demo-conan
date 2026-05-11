@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Swayze/Patton Oswalt/The Vines. late_night, S9E146, 2002.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3836434/\n_search: Patrick Swayze/Patton Oswalt/The Vines | 2002 | S9E146",
+  "id": "bw-e-tt3836434",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Swayze/Patton Oswalt/The Vines",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dr. John. 1941–2019 | music_department, actor, composer.\nDECEASED (1941–2019). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0236566/\n_search: Dr. John | Blues Brothers 2000 | The Princess and the Frog | Colors | Angel Heart",
+  "id": "bw-p-nm0236566",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dr. John",
+  "type": "task"
+}

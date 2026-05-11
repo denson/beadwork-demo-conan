@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kris Fried. b. 1984 | production_department, miscellaneous, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2745286/\n_search: Kris Fried | The Greg Gutfeld Show | Saturday Night Live | Attack of the Show!",
+  "id": "bw-p-nm2745286",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kris Fried",
+  "type": "task"
+}

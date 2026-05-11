@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Giada De Laurentiis. b. 1970 | producer, actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1373094/\n_search: Giada De Laurentiis | Giada at Home 2.0 | Giada Entertains | Young \u0026 Hungry | Handy Manny",
+  "id": "bw-p-nm1373094",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Giada De Laurentiis",
+  "type": "task"
+}

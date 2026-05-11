@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Freedy Johnston. b. 1961 | composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0426632/\n_search: Freedy Johnston | Things to Do in Denver When You're Dead | Kingpin | Me, Myself \u0026 Irene | Kicking and Screaming",
+  "id": "bw-p-nm0426632",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Freedy Johnston",
+  "type": "task"
+}

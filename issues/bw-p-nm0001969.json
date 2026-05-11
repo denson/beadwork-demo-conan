@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ray Bradbury. 1920–2012 | writer, producer, actor.\nDECEASED (1920–2012). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001969/\n_search: Ray Bradbury | The Ray Bradbury Theater | Fahrenheit 451 | Something Wicked This Way Comes | Fahrenheit 451",
+  "id": "bw-p-nm0001969",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ray Bradbury",
+  "type": "task"
+}

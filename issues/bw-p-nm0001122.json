@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ellen DeGeneres. b. 1958 | producer, writer, actress.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001122/\n_search: Ellen DeGeneres | The Ellen DeGeneres Show | The Oscars | Ellen | Finding Nemo",
+  "id": "bw-p-nm0001122",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ellen DeGeneres",
+  "type": "task"
+}

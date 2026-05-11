@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diana Krall. b. 1964 | music_artist, actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005106/\n_search: Diana Krall | Public Enemies | The Score | Anything Else | At First Sight",
+  "id": "bw-p-nm0005106",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diana Krall",
+  "type": "task"
+}

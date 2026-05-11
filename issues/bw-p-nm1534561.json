@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rhett Miller. b. 1970 | composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1534561/\n_search: Rhett Miller | Guardians of the Galaxy Vol. 3 | The Break-Up | Otherhood | Clay Pigeons",
+  "id": "bw-p-nm1534561",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rhett Miller",
+  "type": "task"
+}

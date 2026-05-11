@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chad Fisher. (no IMDb bio data).\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8596080/\n_search: Chad Fisher | The Late Show with Stephen Colbert",
+  "id": "bw-p-nm8596080",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chad Fisher",
+  "type": "task"
+}

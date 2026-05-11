@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "William Shatner. b. 1931 | actor, producer, writer.\nConan-show appearances: 15\nIMDb: https://www.imdb.com/name/nm0000638/\n_search: William Shatner | Star Trek V: The Final Frontier | Star Trek II: The Wrath of Khan | Star Trek IV: The Voyage Home | Star Trek III: The Search for Spock",
+  "id": "bw-p-nm0000638",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "William Shatner",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Coburn. 1928–2002 | actor, producer, director.\nDECEASED (1928–2002). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000336/\n_search: James Coburn | Affliction | The Great Escape | The Magnificent Seven | Charade",
+  "id": "bw-p-nm0000336",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Coburn",
+  "type": "task"
+}

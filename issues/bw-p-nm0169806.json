@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Taika Waititi. b. 1975 | producer, writer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0169806/\n_search: Taika Waititi | What We Do in the Shadows | Jojo Rabbit | Hunt for the Wilderpeople | Boy",
+  "id": "bw-p-nm0169806",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Taika Waititi",
+  "type": "task"
+}

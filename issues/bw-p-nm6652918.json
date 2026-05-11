@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dougy Mandagi. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6652918/\n_search: Dougy Mandagi | I Am Number Four | 3 Days to Kill | Chalet Girl | I Still Believe",
+  "id": "bw-p-nm6652918",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dougy Mandagi",
+  "type": "task"
+}

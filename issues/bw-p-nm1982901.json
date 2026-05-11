@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eliza Skinner. writer, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1982901/\n_search: Eliza Skinner | Dropout Presents | Earth to Ned | Drop the Mic | SXSW Comedy with Natasha Leggero: Part 2",
+  "id": "bw-p-nm1982901",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eliza Skinner",
+  "type": "task"
+}

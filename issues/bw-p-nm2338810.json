@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alison Whitney. actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2338810/\n_search: Alison Whitney | American Housewife | Black-ish | Jane the Virgin | Jimmy Kimmel Live!",
+  "id": "bw-p-nm2338810",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alison Whitney",
+  "type": "task"
+}

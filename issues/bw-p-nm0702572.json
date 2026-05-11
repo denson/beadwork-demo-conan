@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maggie Q. b. 1979 | actress, producer, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0702572/\n_search: Maggie Q | Divergent | The Protégé | The Divergent Series: Insurgent | Priest",
+  "id": "bw-p-nm0702572",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maggie Q",
+  "type": "task"
+}

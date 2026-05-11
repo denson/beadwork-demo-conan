@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Favreau. b. 1966 | producer, actor, writer.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0269463/\n_search: Jon Favreau | Chef | Iron Man | Swingers | Avengers: Endgame",
+  "id": "bw-p-nm0269463",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Favreau",
+  "type": "task"
+}

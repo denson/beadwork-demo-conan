@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vanessa Lachey. b. 1980 | actress, producer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0591373/\n_search: Vanessa Lachey | Disaster Movie | Fantastic Four: Rise of the Silver Surfer | How I Met Your Mother | NCIS: Los Angeles",
+  "id": "bw-p-nm0591373",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vanessa Lachey",
+  "type": "task"
+}

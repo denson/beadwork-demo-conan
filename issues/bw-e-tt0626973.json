@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Sorvino/Jeff Garlin/Reggie McFadden. late_night, S1E226, 1994.\nRuntime: 57 min.\nIMDb rating: 6.4.\nIMDb: https://www.imdb.com/title/tt0626973/\n_search: Paul Sorvino/Jeff Garlin/Reggie McFadden | 1994 | S1E226",
+  "id": "bw-e-tt0626973",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Sorvino/Jeff Garlin/Reggie McFadden",
+  "type": "task"
+}

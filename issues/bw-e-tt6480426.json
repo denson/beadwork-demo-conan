@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Burr/Lea DeLaria/Melissa Etheridge. conan_tbs, S7E38, 2017.\nRuntime: 42 min.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt6480426/\n_search: Bill Burr/Lea DeLaria/Melissa Etheridge | 2017 | S7E38",
+  "id": "bw-e-tt6480426",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Burr/Lea DeLaria/Melissa Etheridge",
+  "type": "task"
+}

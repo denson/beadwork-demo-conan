@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathleen Doyle. 1947–2021 | actress, miscellaneous.\nDECEASED (1947–2021). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0236410/\n_search: Kathleen Doyle | The Family Man | Body Snatchers | Mighty Aphrodite | A Most Violent Year",
+  "id": "bw-p-nm0236410",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathleen Doyle",
+  "type": "task"
+}

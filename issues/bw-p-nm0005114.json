@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nick Lachey. b. 1973 | music_artist, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0005114/\n_search: Nick Lachey | Newlyweds: Nick \u0026 Jessica | Taking the Stage | Bewitched | Charmed",
+  "id": "bw-p-nm0005114",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nick Lachey",
+  "type": "task"
+}

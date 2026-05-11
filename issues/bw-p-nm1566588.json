@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mötley Crüe. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1566588/\n_search: Mötley Crüe | Hellboy | Shoot 'Em Up | Charlie's Angels | Friday Night Lights",
+  "id": "bw-p-nm1566588",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mötley Crüe",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Radelat. actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7842606/\n_search: Johnny Radelat | 32nd Film Independent Spirit Awards | Naomi Lavender: Something in the Dark | Austin City Limits Celebrates 40 Years | Austin City Limits",
+  "id": "bw-p-nm7842606",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Radelat",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joel Stein. b. 1971 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1461996/\n_search: Joel Stein | Show Your Shelf | The 81st Annual Academy Awards | Crumbs | American Princess",
+  "id": "bw-p-nm1461996",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joel Stein",
+  "type": "task"
+}

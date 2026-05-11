@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kal Penn. actor, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0671980/\n_search: Kal Penn | Harold \u0026 Kumar Go to White Castle | Van Wilder | Harold \u0026 Kumar Escape from Guantanamo Bay | A Very Harold \u0026 Kumar Christmas",
+  "id": "bw-p-nm0671980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kal Penn",
+  "type": "task"
+}

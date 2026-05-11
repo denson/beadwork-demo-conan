@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Culp. 1930–2010 | actor, writer, director.\nDECEASED (1930–2010). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0191685/\n_search: Robert Culp | I Spy | The Greatest American Hero | Hickey \u0026 Boggs | Half-Life 2",
+  "id": "bw-p-nm0191685",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Culp",
+  "type": "task"
+}

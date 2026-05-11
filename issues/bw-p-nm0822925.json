@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Roebuck 'Pops' Staples. 1914–2000 | actor, soundtrack, archive_footage.\nDECEASED (1914–2000). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0822925/\n_search: Roebuck 'Pops' Staples | Wag the Dog | The Peanut Butter Falcon | The Help | Selma",
+  "id": "bw-p-nm0822925",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Roebuck 'Pops' Staples",
+  "type": "task"
+}

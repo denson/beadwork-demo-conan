@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Zelevansky. b. 1976 | actor, writer, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2298389/\n_search: Ben Zelevansky | The Goldbergs | American Crime Story | Brooklyn Nine-Nine | Bosch",
+  "id": "bw-p-nm2298389",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Zelevansky",
+  "type": "task"
+}

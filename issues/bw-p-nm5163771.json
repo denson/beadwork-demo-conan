@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Fuentes. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5163771/\n_search: Mike Fuentes | Rock Band 4 | Tony Hawk's Proving Ground | Guitar Hero Live | This Is a Wasteland",
+  "id": "bw-p-nm5163771",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Fuentes",
+  "type": "task"
+}

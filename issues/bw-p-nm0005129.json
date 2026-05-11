@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joey Lawrence. b. 1976 | actor, music_department, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0005129/\n_search: Joey Lawrence | Blossom | Oliver \u0026 Company | Brotherly Love | Gimme a Break!",
+  "id": "bw-p-nm0005129",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joey Lawrence",
+  "type": "task"
+}

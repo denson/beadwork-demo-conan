@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Zac Efron. b. 1987 | actor, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm1374980/\n_search: Zac Efron | High School Musical 3: Senior Year | 17 Again | Extremely Wicked, Shockingly Evil and Vile | Hairspray",
+  "id": "bw-p-nm1374980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Zac Efron",
+  "type": "task"
+}

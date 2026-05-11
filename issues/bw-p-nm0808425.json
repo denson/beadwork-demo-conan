@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harry Smith. b. 1951 | actor, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0808425/\n_search: Harry Smith | Human Tragedy: The Faces of Kosovo | Rock Center with Brian Williams | Picket Fences | 60 Minutes",
+  "id": "bw-p-nm0808425",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harry Smith",
+  "type": "task"
+}

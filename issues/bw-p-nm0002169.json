@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tori Amos. b. 1963 | actress, composer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0002169/\n_search: Tori Amos | Twister | Escape from L.A. | Mona Lisa Smile | Virtuosity",
+  "id": "bw-p-nm0002169",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tori Amos",
+  "type": "task"
+}

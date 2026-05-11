@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dante DeCaro. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8396615/\n_search: Dante DeCaro | John Tucker Must Die | The Sisterhood of the Traveling Pants 2 | Where the Trail Ends",
+  "id": "bw-p-nm8396615",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dante DeCaro",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Explosions in the Sky. composer, music_department, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1146294/\n_search: Explosions in the Sky | Friday Night Lights | Power Rangers | This Means War | Love Happens",
+  "id": "bw-p-nm1146294",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Explosions in the Sky",
+  "type": "task"
+}

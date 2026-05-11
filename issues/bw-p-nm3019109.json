@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rita Khori. actress, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3019109/\n_search: Rita Khori | Code Black | The Last Ship | This Narrow Place",
+  "id": "bw-p-nm3019109",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rita Khori",
+  "type": "task"
+}

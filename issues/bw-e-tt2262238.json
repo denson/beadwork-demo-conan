@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Puss in Ugg Boots. conan_tbs, S2E111, 2012.\nIMDb rating: 7.4.\nIMDb: https://www.imdb.com/title/tt2262238/\n_search: Puss in Ugg Boots | 2012 | S2E111",
+  "id": "bw-e-tt2262238",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Puss in Ugg Boots",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fred Armisen/Alice Eve/Jonathan Wilson. conan_tbs, S8E107, 2018.\nRuntime: 42 min.\nIMDb rating: 6.4.\nIMDb: https://www.imdb.com/title/tt9014818/\n_search: Fred Armisen/Alice Eve/Jonathan Wilson | 2018 | S8E107",
+  "id": "bw-e-tt9014818",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fred Armisen/Alice Eve/Jonathan Wilson",
+  "type": "task"
+}

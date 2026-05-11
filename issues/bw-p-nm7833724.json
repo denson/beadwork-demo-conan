@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Parker Millsap. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7833724/\n_search: Parker Millsap | One More Time | DittyTV's Eleven | From ONE, to TENN.",
+  "id": "bw-p-nm7833724",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Parker Millsap",
+  "type": "task"
+}

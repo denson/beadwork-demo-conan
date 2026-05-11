@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rendezvous at Meet-Up Point. conan_tbs, S1E43, 2011.\nRuntime: 60 min.\nIMDb rating: 8.0.\nIMDb: https://www.imdb.com/title/tt1827025/\n_search: Rendezvous at Meet-Up Point | 2011 | S1E43",
+  "id": "bw-e-tt1827025",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rendezvous at Meet-Up Point",
+  "type": "task"
+}

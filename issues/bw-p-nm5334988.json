@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessie Ware. music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5334988/\n_search: Jessie Ware | Morbius | Fifty Shades of Grey | Me Before You | I Give It a Year",
+  "id": "bw-p-nm5334988",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessie Ware",
+  "type": "task"
+}

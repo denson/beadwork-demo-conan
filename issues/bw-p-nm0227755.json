@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Dinkins. 1927–2020 | actor, archive_footage.\nDECEASED (1927–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0227755/\n_search: David Dinkins | Law \u0026 Order: Special Victims Unit | Blue Bloods | Shooting Livien | Frame of Mind",
+  "id": "bw-p-nm0227755",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Dinkins",
+  "type": "task"
+}

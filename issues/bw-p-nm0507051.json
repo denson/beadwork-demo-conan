@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Clea Lewis. b. 1965 | actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0507051/\n_search: Clea Lewis | Ice Age: The Meltdown | Perfect Stranger | Pepper Ann | Ice Age: Dawn of the Dinosaurs",
+  "id": "bw-p-nm0507051",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Clea Lewis",
+  "type": "task"
+}

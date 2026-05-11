@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thomas Barbusca. b. 2003 | actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4564958/\n_search: Thomas Barbusca | The Mick | Luckiest Girl Alive | Big Time Adolescence | Black Monday",
+  "id": "bw-p-nm4564958",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thomas Barbusca",
+  "type": "task"
+}

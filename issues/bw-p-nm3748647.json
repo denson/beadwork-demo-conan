@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jess Allen. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3748647/\n_search: Jess Allen | American Horror Story | Castle | Modern Family",
+  "id": "bw-p-nm3748647",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jess Allen",
+  "type": "task"
+}

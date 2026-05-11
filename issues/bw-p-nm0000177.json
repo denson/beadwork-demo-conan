@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Kline. b. 1947 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000177/\n_search: Kevin Kline | Wild Wild West | Dave | A Fish Called Wanda | French Kiss",
+  "id": "bw-p-nm0000177",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Kline",
+  "type": "task"
+}

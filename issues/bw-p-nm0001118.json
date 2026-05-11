@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pam Dawber. b. 1951 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001118/\n_search: Pam Dawber | Mork \u0026 Mindy | Stay Tuned | Swan Lake | Life... and Stuff",
+  "id": "bw-p-nm0001118",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pam Dawber",
+  "type": "task"
+}

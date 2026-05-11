@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Camilla Luddington. actress, director, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2569832/\n_search: Camilla Luddington | Tomb Raider | Rise of the Tomb Raider | Shadow of the Tomb Raider | Justice League Dark",
+  "id": "bw-p-nm2569832",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Camilla Luddington",
+  "type": "task"
+}

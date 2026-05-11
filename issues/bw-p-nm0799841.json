@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matty Simmons. 1926–2020 | producer, writer, miscellaneous.\nDECEASED (1926–2020). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0799841/\n_search: Matty Simmons | National Lampoon's Vacation | National Lampoon's Animal House | National Lampoon's European Vacation | Vegas Vacation",
+  "id": "bw-p-nm0799841",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matty Simmons",
+  "type": "task"
+}

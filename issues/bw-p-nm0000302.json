@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jacqueline Bisset. b. 1944 | actress, producer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000302/\n_search: Jacqueline Bisset | Bullitt | Murder on the Orient Express | Day for Night | Under the Volcano",
+  "id": "bw-p-nm0000302",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jacqueline Bisset",
+  "type": "task"
+}

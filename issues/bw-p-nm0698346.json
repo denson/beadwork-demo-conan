@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Emily Procter. b. 1968 | actress, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0698346/\n_search: Emily Procter | Leaving Las Vegas | CSI: Miami | Big Momma's House 2 | Jerry Maguire",
+  "id": "bw-p-nm0698346",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Emily Procter",
+  "type": "task"
+}

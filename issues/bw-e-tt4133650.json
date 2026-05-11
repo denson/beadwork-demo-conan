@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Anthony Anderson/Jon Lovitz/The New Pornographers. conan_tbs, S4E149, 2014.\nIMDb: https://www.imdb.com/title/tt4133650/\n_search: Anthony Anderson/Jon Lovitz/The New Pornographers | 2014 | S4E149",
+  "id": "bw-e-tt4133650",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Anthony Anderson/Jon Lovitz/The New Pornographers",
+  "type": "task"
+}

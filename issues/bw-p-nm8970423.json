@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ingrid Helene Håvik. actress, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8970423/\n_search: Ingrid Helene Håvik | The Tunnel | Women in Oversized Men's Shirts | Highasakite: Leaving no Traces | Highasakite: Science and Blood Tests",
+  "id": "bw-p-nm8970423",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ingrid Helene Håvik",
+  "type": "task"
+}

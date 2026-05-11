@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chynna Phillips. b. 1968 | actress, composer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0680307/\n_search: Chynna Phillips | Bridesmaids | Say Anything | Striptease | Some Kind of Wonderful",
+  "id": "bw-p-nm0680307",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chynna Phillips",
+  "type": "task"
+}

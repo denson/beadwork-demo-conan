@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mickey Spillane. 1918–2006 | writer, actor, archive_footage.\nDECEASED (1918–2006). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0818765/\n_search: Mickey Spillane | The Girl Hunters | Untitled Matthew McConaughey - Mike Hammer adaptation | Kiss Me Deadly | The New Mike Hammer",
+  "id": "bw-p-nm0818765",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mickey Spillane",
+  "type": "task"
+}

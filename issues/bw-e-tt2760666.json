@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Scott Thompson/Dr. Joyce Brothers/Brian McCann. late_night, S1E213, 1994.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2760666/\n_search: Scott Thompson/Dr. Joyce Brothers/Brian McCann | 1994 | S1E213",
+  "id": "bw-e-tt2760666",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Scott Thompson/Dr. Joyce Brothers/Brian McCann",
+  "type": "task"
+}

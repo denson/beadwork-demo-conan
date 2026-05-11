@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bret McKenzie. b. 1976 | actor, writer, music_department.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1235366/\n_search: Bret McKenzie | Flight of the Conchords | The Muppets | Muppets Most Wanted | Austenland",
+  "id": "bw-p-nm1235366",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bret McKenzie",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rose McGowan. b. 1973 | actress, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000535/\n_search: Rose McGowan | Planet Terror | Jawbreaker | Grindhouse | Charmed",
+  "id": "bw-p-nm0000535",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rose McGowan",
+  "type": "task"
+}

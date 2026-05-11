@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan at Home - Nikki Glaser. conan_tbs, S10E60, 2020.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt12317888/\n_search: Conan at Home - Nikki Glaser | 2020 | S10E60",
+  "id": "bw-e-tt12317888",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan at Home - Nikki Glaser",
+  "type": "task"
+}

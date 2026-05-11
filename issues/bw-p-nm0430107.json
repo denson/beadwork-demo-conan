@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael B. Jordan. b. 1987 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0430107/\n_search: Michael B. Jordan | Black Panther | Creed | Fruitvale Station | Creed II",
+  "id": "bw-p-nm0430107",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael B. Jordan",
+  "type": "task"
+}

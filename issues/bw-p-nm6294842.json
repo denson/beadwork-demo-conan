@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rachael Price. b. 1985 | actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6294842/\n_search: Rachael Price | House of Cards | Andy Frasco's World-Saving Shitshow | Today | Late Show with David Letterman",
+  "id": "bw-p-nm6294842",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rachael Price",
+  "type": "task"
+}

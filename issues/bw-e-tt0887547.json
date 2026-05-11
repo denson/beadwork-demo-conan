@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Regis Philbin/Alessandra Ambrosio/Dierks Bentley. late_night, S14E21, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0887547/\n_search: Regis Philbin/Alessandra Ambrosio/Dierks Bentley | 2006 | S14E21",
+  "id": "bw-e-tt0887547",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Regis Philbin/Alessandra Ambrosio/Dierks Bentley",
+  "type": "task"
+}

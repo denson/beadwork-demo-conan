@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Purity Ring. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6796159/\n_search: Purity Ring | You Get Me | Search Party | Letterkenny | On My Block",
+  "id": "bw-p-nm6796159",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Purity Ring",
+  "type": "task"
+}

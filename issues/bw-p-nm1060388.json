@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Boris Hamilton. writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1060388/\n_search: Boris Hamilton | Alias | The Naked Trucker and T-Bones Show | Cheap Seats: Without Ron Parker | Life with Fiona",
+  "id": "bw-p-nm1060388",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Boris Hamilton",
+  "type": "task"
+}

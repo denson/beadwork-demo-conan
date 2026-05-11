@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Wendt/Michael Rapaport/Blur. late_night, S3E87, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2920414/\n_search: George Wendt/Michael Rapaport/Blur | 1996 | S3E87",
+  "id": "bw-e-tt2920414",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Wendt/Michael Rapaport/Blur",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ed McMahon. 1923–2009 | actor, producer, writer.\nDECEASED (1923–2009). Conan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0573012/\n_search: Ed McMahon | The Tonight Show Starring Johnny Carson | Bewitched | Fun with Dick and Jane | The Weather Man",
+  "id": "bw-p-nm0573012",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ed McMahon",
+  "type": "task"
+}

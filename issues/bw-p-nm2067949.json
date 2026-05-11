@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jasper Redd. b. 1979 | producer, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2067949/\n_search: Jasper Redd | Black Card Revoked | Frankenhood | Daniel Tosh: Happy Thoughts | 420 Friendly Comedy Special",
+  "id": "bw-p-nm2067949",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jasper Redd",
+  "type": "task"
+}

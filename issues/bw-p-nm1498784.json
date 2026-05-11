@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Peter Cincotti. b. 1983 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1498784/\n_search: Peter Cincotti | Spider-Man 2 | Beyond the Sea | December Boys | Body Electric",
+  "id": "bw-p-nm1498784",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Peter Cincotti",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Russell Baker. 1925–2019 | actor.\nDECEASED (1925–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0048897/\n_search: Russell Baker | Masterpiece Contemporary | Masterpiece | Hard Times | Howard K. Smith",
+  "id": "bw-p-nm0048897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Russell Baker",
+  "type": "task"
+}

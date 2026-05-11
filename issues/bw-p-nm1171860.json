@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Cuban. b. 1958 | producer, actor, executive.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1171860/\n_search: Mark Cuban | Shark Tank | Godsend | The Jacket | Deadfall",
+  "id": "bw-p-nm1171860",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Cuban",
+  "type": "task"
+}

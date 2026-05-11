@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark Wahlberg/Wendie Malick. late_night, S6E83, 1999.\nRuntime: 57 min.\nIMDb rating: 5.3.\nIMDb: https://www.imdb.com/title/tt0627216/\n_search: Mark Wahlberg/Wendie Malick | 1999 | S6E83",
+  "id": "bw-e-tt0627216",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark Wahlberg/Wendie Malick",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Louie Bellson. 1924–2009 | music_department, actor, soundtrack.\nDECEASED (1924–2009). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0069245/\n_search: Louie Bellson | Criminal | A Song Is Born | The Pearl Bailey Show | Show Time at the Apollo",
+  "id": "bw-p-nm0069245",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Louie Bellson",
+  "type": "task"
+}

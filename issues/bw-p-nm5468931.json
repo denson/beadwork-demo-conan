@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Uncle Tupelo. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5468931/\n_search: Uncle Tupelo | Knocked Up | A Matter of Degrees | The Slaughter Rule | Heels",
+  "id": "bw-p-nm5468931",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Uncle Tupelo",
+  "type": "task"
+}

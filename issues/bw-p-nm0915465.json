@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shawn Wayans. b. 1971 | actor, writer, music_department.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0915465/\n_search: Shawn Wayans | White Chicks | Don't Be a Menace to South Central While Drinking Your Juice in the Hood | Little Man | Scary Movie",
+  "id": "bw-p-nm0915465",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shawn Wayans",
+  "type": "task"
+}

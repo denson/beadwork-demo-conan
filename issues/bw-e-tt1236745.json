@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kristin Davis/Ira Glass/Ryan Bingham. late_night, S15E121, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1236745/\n_search: Kristin Davis/Ira Glass/Ryan Bingham | 2008 | S15E121",
+  "id": "bw-e-tt1236745",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kristin Davis/Ira Glass/Ryan Bingham",
+  "type": "task"
+}

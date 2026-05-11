@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Luis Guzmán. b. 1956 | actor, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0350079/\n_search: Luis Guzmán | Punch-Drunk Love | Traffic | Boogie Nights | The Count of Monte Cristo",
+  "id": "bw-p-nm0350079",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Luis Guzmán",
+  "type": "task"
+}

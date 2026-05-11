@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Goldblum/Coyote Peterson/Jimmy Eat World. conan_tbs, S7E28, 2017.\nRuntime: 42 min.\nIMDb rating: 6.9.\nIMDb: https://www.imdb.com/title/tt6395210/\n_search: Jeff Goldblum/Coyote Peterson/Jimmy Eat World | 2017 | S7E28",
+  "id": "bw-e-tt6395210",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Goldblum/Coyote Peterson/Jimmy Eat World",
+  "type": "task"
+}

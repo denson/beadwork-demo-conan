@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hug Me, Sighed the Porcupine. conan_tbs, S1E119, 2011.\nRuntime: 60 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt2004509/\n_search: Hug Me, Sighed the Porcupine | 2011 | S1E119",
+  "id": "bw-e-tt2004509",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hug Me, Sighed the Porcupine",
+  "type": "task"
+}

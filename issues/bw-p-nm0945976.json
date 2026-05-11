@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Diane Yang Kirk. actress, stunts, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0945976/\n_search: Diane Yang Kirk | Monster | How I Met Your Father | Grey's Anatomy | Broken Land",
+  "id": "bw-p-nm0945976",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Diane Yang Kirk",
+  "type": "task"
+}

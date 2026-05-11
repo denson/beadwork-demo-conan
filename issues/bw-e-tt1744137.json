@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike Myers/Nicole Eggert/Squeeze. late_night, S1E65, 1993.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1744137/\n_search: Mike Myers/Nicole Eggert/Squeeze | 1993 | S1E65",
+  "id": "bw-e-tt1744137",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike Myers/Nicole Eggert/Squeeze",
+  "type": "task"
+}

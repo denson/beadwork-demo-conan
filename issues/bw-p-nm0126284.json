@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rose Byrne. b. 1979 | actress, producer, soundtrack.\nConan-show appearances: 4 (incl. 1 on-camera CONAF)\nIMDb: https://www.imdb.com/name/nm0126284/\n_search: Rose Byrne | Spy | Insidious | If I Had Legs I'd Kick You | Bridesmaids",
+  "id": "bw-p-nm0126284",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:conaf_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rose Byrne",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Fassbender. b. 1977 | actor, producer, executive.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1055413/\n_search: Michael Fassbender | Shame | Prometheus | X-Men: First Class | Steve Jobs",
+  "id": "bw-p-nm1055413",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Fassbender",
+  "type": "task"
+}

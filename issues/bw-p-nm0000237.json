@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Travolta. b. 1954 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000237/\n_search: John Travolta | Pulp Fiction | Get Shorty | Saturday Night Fever | Grease",
+  "id": "bw-p-nm0000237",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Travolta",
+  "type": "task"
+}

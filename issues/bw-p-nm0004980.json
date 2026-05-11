@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kathy Griffin. b. 1960 | actress, writer, producer.\nConan-show appearances: 8\nIMDb: https://www.imdb.com/name/nm0004980/\n_search: Kathy Griffin | The Cable Guy | Suddenly Susan | Shrek Forever After | Hall Pass",
+  "id": "bw-p-nm0004980",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kathy Griffin",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Terry Crews/Professor Brian Cox/Solomon Georgio. conan_tbs, S5E46, 2015.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt4437790/\n_search: Terry Crews/Professor Brian Cox/Solomon Georgio | 2015 | S5E46",
+  "id": "bw-e-tt4437790",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Terry Crews/Professor Brian Cox/Solomon Georgio",
+  "type": "task"
+}

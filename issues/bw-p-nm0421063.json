@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Caitlyn Jenner. b. 1949 | actress, producer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0421063/\n_search: Caitlyn Jenner | Can't Stop the Music | Jack and Jill | The Hungover Games | The Fall Guy",
+  "id": "bw-p-nm0421063",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Caitlyn Jenner",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Keaton. b. 1951 | actor, production_department, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000474/\n_search: Michael Keaton | Birdman or (The Unexpected Virtue of Ignorance) | Spotlight | The Founder | Batman",
+  "id": "bw-p-nm0000474",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Keaton",
+  "type": "task"
+}

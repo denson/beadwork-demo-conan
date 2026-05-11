@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Hardwick/Leslie Bibb/Nore Davis. conan_tbs, S8E82, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8496062/\n_search: Chris Hardwick/Leslie Bibb/Nore Davis | 2018 | S8E82",
+  "id": "bw-e-tt8496062",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Hardwick/Leslie Bibb/Nore Davis",
+  "type": "task"
+}

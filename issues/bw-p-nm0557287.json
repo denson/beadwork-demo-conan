@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bryan Massey. b. 1971 | actor, stunts, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0557287/\n_search: Bryan Massey | Drive Angry | Year One | Run Hide Fight | W.",
+  "id": "bw-p-nm0557287",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bryan Massey",
+  "type": "task"
+}

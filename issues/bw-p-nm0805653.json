@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bobby Slayton. b. 1955 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0805653/\n_search: Bobby Slayton | Bandits | Dreamgirls | Loser | Get Shorty",
+  "id": "bw-p-nm0805653",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bobby Slayton",
+  "type": "task"
+}

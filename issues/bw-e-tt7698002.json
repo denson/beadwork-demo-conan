@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patton Oswalt/Andy Serkis/Royal Blood. conan_tbs, S8E16, 2017.\nRuntime: 42 min.\nIMDb rating: 6.3.\nIMDb: https://www.imdb.com/title/tt7698002/\n_search: Patton Oswalt/Andy Serkis/Royal Blood | 2017 | S8E16",
+  "id": "bw-e-tt7698002",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patton Oswalt/Andy Serkis/Royal Blood",
+  "type": "task"
+}

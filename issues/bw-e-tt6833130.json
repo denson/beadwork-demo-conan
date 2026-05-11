@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alec Baldwin/Al Madrigal/Joe List. conan_tbs, S7E83, 2017.\nRuntime: 42 min.\nIMDb rating: 6.2.\nIMDb: https://www.imdb.com/title/tt6833130/\n_search: Alec Baldwin/Al Madrigal/Joe List | 2017 | S7E83",
+  "id": "bw-e-tt6833130",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alec Baldwin/Al Madrigal/Joe List",
+  "type": "task"
+}

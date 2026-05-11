@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry Bird. b. 1956 | actor, miscellaneous, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0083399/\n_search: Larry Bird | Space Jam | Celtic Pride | Blue Chips | One-on-One",
+  "id": "bw-p-nm0083399",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry Bird",
+  "type": "task"
+}

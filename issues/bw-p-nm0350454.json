@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Maggie Gyllenhaal. b. 1977 | actress, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0350454/\n_search: Maggie Gyllenhaal | Secretary | The Dark Knight | Crazy Heart | Frank",
+  "id": "bw-p-nm0350454",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Maggie Gyllenhaal",
+  "type": "task"
+}

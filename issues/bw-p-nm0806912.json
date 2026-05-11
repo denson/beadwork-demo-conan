@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Smigel. b. 1960 | writer, producer, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0806912/\n_search: Robert Smigel | Saturday Night Live | Leo | Punch-Drunk Love",
+  "id": "bw-p-nm0806912",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Smigel",
+  "type": "task"
+}

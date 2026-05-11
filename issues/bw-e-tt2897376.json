@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Very Understated Adventures of Captain Beige. conan_tbs, S3E85, 2013.\nIMDb: https://www.imdb.com/title/tt2897376/\n_search: The Very Understated Adventures of Captain Beige | 2013 | S3E85",
+  "id": "bw-e-tt2897376",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Very Understated Adventures of Captain Beige",
+  "type": "task"
+}

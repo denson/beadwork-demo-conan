@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack McBrayer. b. 1973 | actor, producer, writer.\nConan-show appearances: 13\nIMDb: https://www.imdb.com/name/nm1442113/\n_search: Jack McBrayer | Wreck-It Ralph | 30 Rock | Forgetting Sarah Marshall | Talladega Nights: The Ballad of Ricky Bobby",
+  "id": "bw-p-nm1442113",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack McBrayer",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Corbin Bernsen/Rya Kihlstedt/Ken Rogerson. late_night, S5E110, 1998.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627105/\n_search: Corbin Bernsen/Rya Kihlstedt/Ken Rogerson | 1998 | S5E110",
+  "id": "bw-e-tt0627105",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Corbin Bernsen/Rya Kihlstedt/Ken Rogerson",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Counting Crows. music_artist, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1628702/\n_search: Counting Crows | Shrek 2 | Cruel Intentions | Two Weeks Notice | Clueless",
+  "id": "bw-p-nm1628702",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Counting Crows",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank Santorelli. actor, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0763883/\n_search: Frank Santorelli | No Reservations | Meet the Parents | The Sopranos | Providence",
+  "id": "bw-p-nm0763883",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank Santorelli",
+  "type": "task"
+}

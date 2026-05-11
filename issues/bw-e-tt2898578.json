@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "LL Cool/Jeri Ryan/Regena Thomashauer. late_night, S8E102, 2001.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2898578/\n_search: LL Cool/Jeri Ryan/Regena Thomashauer | 2001 | S8E102",
+  "id": "bw-e-tt2898578",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "LL Cool/Jeri Ryan/Regena Thomashauer",
+  "type": "task"
+}

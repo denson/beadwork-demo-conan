@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tracy Chapman. b. 1964 | music_artist, actress, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1102495/\n_search: Tracy Chapman | One Day | A Beautiful Day in the Neighborhood | House of Gucci | Television Theater",
+  "id": "bw-p-nm1102495",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tracy Chapman",
+  "type": "task"
+}

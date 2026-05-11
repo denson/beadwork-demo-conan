@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ray Wylie Hubbard. b. 1946 | actor, writer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2680431/\n_search: Ray Wylie Hubbard | Hell or High Water | The Last Rites of Ransom Pride | Witless Protection | Circle Sessions: At Home",
+  "id": "bw-p-nm2680431",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ray Wylie Hubbard",
+  "type": "task"
+}

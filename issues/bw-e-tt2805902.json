@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin Nealon/Charo/Buddy Guy. late_night, S2E106, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2805902/\n_search: Kevin Nealon/Charo/Buddy Guy | 1995 | S2E106",
+  "id": "bw-e-tt2805902",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin Nealon/Charo/Buddy Guy",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ringo Starr/Rob Corddry/Waters. conan_tbs, S5E68, 2015.\nIMDb: https://www.imdb.com/title/tt4618734/\n_search: Ringo Starr/Rob Corddry/Waters | 2015 | S5E68",
+  "id": "bw-e-tt4618734",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ringo Starr/Rob Corddry/Waters",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Lutes. b. 1962 | actor, art_department, art_director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0527393/\n_search: Eric Lutes | Caroline in the City | So Little Time | Jane White Is Sick \u0026 Twisted | Frasier",
+  "id": "bw-p-nm0527393",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Lutes",
+  "type": "task"
+}

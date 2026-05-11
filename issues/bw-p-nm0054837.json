@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bob Barker. 1923–2023 | producer, actor, archive_footage.\nDECEASED (1923–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0054837/\n_search: Bob Barker | The Price Is Right | Happy Gilmore | How I Met Your Mother | The Nanny",
+  "id": "bw-p-nm0054837",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bob Barker",
+  "type": "task"
+}

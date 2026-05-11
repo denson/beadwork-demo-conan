@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Blitz. b. 1971 | writer, producer, actor.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0088550/\n_search: Andy Blitz | Master of None | Table 19 | Review",
+  "id": "bw-p-nm0088550",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Blitz",
+  "type": "task"
+}

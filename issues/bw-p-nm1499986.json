@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Buzz Moran. music_department, sound_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1499986/\n_search: Buzz Moran | A Scanner Darkly | Hit Man | Before Midnight | Bernie",
+  "id": "bw-p-nm1499986",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Buzz Moran",
+  "type": "task"
+}

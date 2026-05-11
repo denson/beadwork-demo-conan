@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mira Sorvino/Greg Germann/Goo Goo Dolls. late_night, S6E59, 1999.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627194/\n_search: Mira Sorvino/Greg Germann/Goo Goo Dolls | 1999 | S6E59",
+  "id": "bw-e-tt0627194",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mira Sorvino/Greg Germann/Goo Goo Dolls",
+  "type": "task"
+}

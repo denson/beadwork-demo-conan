@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris O'Donnell. b. 1970 | actor, producer, director.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0000563/\n_search: Chris O'Donnell | Batman \u0026 Robin | Scent of a Woman | The Three Musketeers | Vertical Limit",
+  "id": "bw-p-nm0000563",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris O'Donnell",
+  "type": "task"
+}

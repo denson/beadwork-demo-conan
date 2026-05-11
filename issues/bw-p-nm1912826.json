@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Shipley. b. 1979 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1912826/\n_search: Jim Shipley | Superstore | Scorpion | The Odd Couple | Hello Ladies",
+  "id": "bw-p-nm1912826",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Shipley",
+  "type": "task"
+}

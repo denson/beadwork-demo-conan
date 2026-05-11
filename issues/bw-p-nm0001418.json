@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "David Keith. b. 1954 | actor, music_department, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001418/\n_search: David Keith | An Officer and a Gentleman | Behind Enemy Lines | Daredevil | The Indian in the Cupboard",
+  "id": "bw-p-nm0001418",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "David Keith",
+  "type": "task"
+}

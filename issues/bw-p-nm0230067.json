@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Dodd. b. 1944 | actor, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0230067/\n_search: Chris Dodd | Dave | The Capitol | Honk for Peace | Panic: The Untold Story of the 2008 Financial Crisis",
+  "id": "bw-p-nm0230067",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Dodd",
+  "type": "task"
+}

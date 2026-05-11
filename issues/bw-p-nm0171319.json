@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kim Coles. b. 1962 | actress, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0171319/\n_search: Kim Coles | Living Single | Frasier | The Geena Davis Show | Kids in America",
+  "id": "bw-p-nm0171319",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kim Coles",
+  "type": "task"
+}

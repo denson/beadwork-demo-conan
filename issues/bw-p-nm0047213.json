@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cynthia Bailey. b. 1967 | actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0047213/\n_search: Cynthia Bailey | Cruel Instruction | Celebrity Big Brother | Games People Play | The Real Housewives of Atlanta",
+  "id": "bw-p-nm0047213",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cynthia Bailey",
+  "type": "task"
+}

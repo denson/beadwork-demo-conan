@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Dane. 1972–2026 | actor, producer, soundtrack.\nDECEASED (1972–2026). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0199312/\n_search: Eric Dane | X-Men: The Last Stand | Grey's Anatomy | Feast | Burlesque",
+  "id": "bw-p-nm0199312",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Dane",
+  "type": "task"
+}

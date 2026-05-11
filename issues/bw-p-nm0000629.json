@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Claudia Schiffer. b. 1970 | actress, producer, archive_footage.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000629/\n_search: Claudia Schiffer | Love Actually | Kingsman: The Secret Service | Zoolander | Richie Rich",
+  "id": "bw-p-nm0000629",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Claudia Schiffer",
+  "type": "task"
+}

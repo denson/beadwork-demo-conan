@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ralph Johnson. b. 1951 | actor, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0426023/\n_search: Ralph Johnson | Precious | ZOB | Holiday Rush | Earth, Wind \u0026 Fire: To Be Celestial vs. That's the Weight of the World",
+  "id": "bw-p-nm0426023",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ralph Johnson",
+  "type": "task"
+}

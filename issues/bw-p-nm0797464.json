@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Lynn Sigler. b. 1981 | actress, producer, soundtrack.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0797464/\n_search: Jamie Lynn Sigler | The Sopranos | Entourage | I Do | Dark Ride",
+  "id": "bw-p-nm0797464",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Lynn Sigler",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hamilton Leithauser. music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5787969/\n_search: Hamilton Leithauser | Your Friends \u0026 Neighbors | The Manchurian Candidate | In Bruges | Tully",
+  "id": "bw-p-nm5787969",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hamilton Leithauser",
+  "type": "task"
+}

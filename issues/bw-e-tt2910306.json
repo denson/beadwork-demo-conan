@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Claude Lemieux/Chi McBride/Our Lady Peace. late_night, S2E186, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2910306/\n_search: Claude Lemieux/Chi McBride/Our Lady Peace | 1995 | S2E186",
+  "id": "bw-e-tt2910306",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Claude Lemieux/Chi McBride/Our Lady Peace",
+  "type": "task"
+}

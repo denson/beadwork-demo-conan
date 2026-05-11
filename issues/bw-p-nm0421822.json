@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ken Jeong. b. 1969 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0421822/\n_search: Ken Jeong | The Hangover | Crazy Rich Asians | The Hangover Part II | Transformers: Dark of the Moon",
+  "id": "bw-p-nm0421822",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ken Jeong",
+  "type": "task"
+}

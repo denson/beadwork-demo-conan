@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bloc Party. actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2042117/\n_search: Bloc Party | Kill Your Darlings | 27 Dresses | Yes Man | Before We Go",
+  "id": "bw-p-nm2042117",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bloc Party",
+  "type": "task"
+}

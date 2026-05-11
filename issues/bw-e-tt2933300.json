@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Richard Lewis/Angie Everhart/Ralph Harris. late_night, S3E182, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2933300/\n_search: Richard Lewis/Angie Everhart/Ralph Harris | 1996 | S3E182",
+  "id": "bw-e-tt2933300",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Richard Lewis/Angie Everhart/Ralph Harris",
+  "type": "task"
+}

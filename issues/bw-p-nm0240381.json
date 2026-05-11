@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hilary Duff. b. 1987 | actress, music_department, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0240381/\n_search: Hilary Duff | A Cinderella Story | The Perfect Man | Raise Your Voice | The Lizzie McGuire Movie",
+  "id": "bw-p-nm0240381",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hilary Duff",
+  "type": "task"
+}

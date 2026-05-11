@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Ellroy. b. 1948 | writer, producer, actor.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0255278/\n_search: James Ellroy | L.A. Confidential | Street Kings | The Black Dahlia | Rampart",
+  "id": "bw-p-nm0255278",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Ellroy",
+  "type": "task"
+}

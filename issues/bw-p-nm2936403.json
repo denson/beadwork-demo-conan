@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grace Parra. writer, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2936403/\n_search: Grace Parra | Solar Opposites | Superstore | The Nightly Show with Larry Wilmore | BoJack Horseman",
+  "id": "bw-p-nm2936403",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grace Parra",
+  "type": "task"
+}

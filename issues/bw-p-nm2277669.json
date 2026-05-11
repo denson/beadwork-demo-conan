@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rod Man. writer, actor.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm2277669/\n_search: Rod Man | Funny People | The Relationship Experiment | Love Chronicles | Smokeless",
+  "id": "bw-p-nm2277669",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rod Man",
+  "type": "task"
+}

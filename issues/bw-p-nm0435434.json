@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michio Kaku. b. 1947 | miscellaneous, writer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0435434/\n_search: Michio Kaku | Accidental Truth: UFO Revelations | Prophets of Science Fiction | The Real History of Science Fiction | An Open Mind",
+  "id": "bw-p-nm0435434",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michio Kaku",
+  "type": "task"
+}

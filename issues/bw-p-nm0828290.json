@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brody Stevens. 1970–2019 | miscellaneous, actor, writer.\nDECEASED (1970–2019). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0828290/\n_search: Brody Stevens | The Hangover | Due Date | The Hangover Part II | Coffee Shop Squatters",
+  "id": "bw-p-nm0828290",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brody Stevens",
+  "type": "task"
+}

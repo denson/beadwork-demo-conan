@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ed Byrne. b. 1972 | actor, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0126170/\n_search: Ed Byrne | Are You Ready for Love? | Sam's Game | Doctors | The Cassidys",
+  "id": "bw-p-nm0126170",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ed Byrne",
+  "type": "task"
+}

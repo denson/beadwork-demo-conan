@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Foreigner. music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2184112/\n_search: Foreigner | Eternals | The Hitman's Bodyguard | Spenser Confidential | Pacific Rim: Uprising",
+  "id": "bw-p-nm2184112",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Foreigner",
+  "type": "task"
+}

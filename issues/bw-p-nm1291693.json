@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Imani Coppola. music_department, actress, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1291693/\n_search: Imani Coppola | The Final Destination | What's Your Number? | Bowfinger | Virtual Sexuality",
+  "id": "bw-p-nm1291693",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Imani Coppola",
+  "type": "task"
+}

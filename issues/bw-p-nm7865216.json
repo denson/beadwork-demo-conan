@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Natalie Bergman. b. 1989 | actress, director, editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7865216/\n_search: Natalie Bergman | Road House | Pitch Perfect | I Care a Lot | The Way Way Back",
+  "id": "bw-p-nm7865216",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Natalie Bergman",
+  "type": "task"
+}

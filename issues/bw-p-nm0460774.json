@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robbie Knievel. 1962–2023 | stunts, actor, miscellaneous.\nDECEASED (1962–2023). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0460774/\n_search: Robbie Knievel | Hawaii Five-0 | Ninja III: The Domination | Kick Buttowski: Suburban Daredevil | CHiPs",
+  "id": "bw-p-nm0460774",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robbie Knievel",
+  "type": "task"
+}

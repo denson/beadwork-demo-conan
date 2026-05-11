@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jay Thomas/Michael Moore/Laura Kightlinger. late_night, S3E194, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt4162988/\n_search: Jay Thomas/Michael Moore/Laura Kightlinger | 1996 | S3E194",
+  "id": "bw-e-tt4162988",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jay Thomas/Michael Moore/Laura Kightlinger",
+  "type": "task"
+}

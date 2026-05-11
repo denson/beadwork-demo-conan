@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mila Kunis/Will Greenberg/Local Natives. conan_tbs, S6E118, 2016.\nIMDb rating: 5.0.\nIMDb: https://www.imdb.com/title/tt5909564/\n_search: Mila Kunis/Will Greenberg/Local Natives | 2016 | S6E118",
+  "id": "bw-e-tt5909564",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mila Kunis/Will Greenberg/Local Natives",
+  "type": "task"
+}

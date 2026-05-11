@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Lauderdale. b. 1957 | actor, miscellaneous, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0490753/\n_search: Jim Lauderdale | Transamerica | Did You Hear About the Morgans? | Chasers | Sunshine State",
+  "id": "bw-p-nm0490753",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Lauderdale",
+  "type": "task"
+}

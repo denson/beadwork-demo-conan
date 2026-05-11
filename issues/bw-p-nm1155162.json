@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Carlton Fisk. b. 1947 | archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1155162/\n_search: Carlton Fisk | Monday Night Baseball | Sunday Night Baseball | 1975 American League Championship Series | The Top 5 Reasons You Can't Blame...",
+  "id": "bw-p-nm1155162",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Carlton Fisk",
+  "type": "task"
+}

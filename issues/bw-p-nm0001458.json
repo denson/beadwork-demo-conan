@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cloris Leachman. 1926–2021 | actress, miscellaneous, soundtrack.\nDECEASED (1926–2021). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001458/\n_search: Cloris Leachman | The Last Picture Show | Young Frankenstein | Spanglish | The Croods",
+  "id": "bw-p-nm0001458",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cloris Leachman",
+  "type": "task"
+}

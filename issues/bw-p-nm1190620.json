@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lee Roy Parnell. b. 1956 | actor, composer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1190620/\n_search: Lee Roy Parnell | Varsity Blues | Happy, Texas | Dying Young | Swing Vote",
+  "id": "bw-p-nm1190620",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lee Roy Parnell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chevy Chase. b. 1943 | actor, writer, producer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0000331/\n_search: Chevy Chase | Memoirs of an Invisible Man | National Lampoon's Vacation | Caddyshack | Nothing But Trouble",
+  "id": "bw-p-nm0000331",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chevy Chase",
+  "type": "task"
+}

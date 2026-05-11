@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Schoolboy Q. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6150119/\n_search: Schoolboy Q | The Edge of Seventeen | Keeping Up with the Joneses | The Bling Ring | Creed II",
+  "id": "bw-p-nm6150119",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Schoolboy Q",
+  "type": "task"
+}

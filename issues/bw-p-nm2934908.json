@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robert Townsend. composer, soundtrack.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2934908/\n_search: Robert Townsend | Movin' on Up | Never Mind the Buzzcocks | The Pat Sajak Show",
+  "id": "bw-p-nm2934908",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robert Townsend",
+  "type": "task"
+}

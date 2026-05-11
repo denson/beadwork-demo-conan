@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mark McKinney. b. 1959 | actor, writer, producer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0571897/\n_search: Mark McKinney | Slings and Arrows | The Kids in the Hall | Less Than Kind | A Night at the Roxbury",
+  "id": "bw-p-nm0571897",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mark McKinney",
+  "type": "task"
+}

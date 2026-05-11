@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Cavanagh. music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8934503/\n_search: Michael Cavanagh | Christmas Eve Massacre | Boytime",
+  "id": "bw-p-nm8934503",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Cavanagh",
+  "type": "task"
+}

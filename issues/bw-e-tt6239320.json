@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matt LeBlanc/Anthony Bourdain/Dana Gould. conan_tbs, S7E8, 2016.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6239320/\n_search: Matt LeBlanc/Anthony Bourdain/Dana Gould | 2016 | S7E8",
+  "id": "bw-e-tt6239320",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matt LeBlanc/Anthony Bourdain/Dana Gould",
+  "type": "task"
+}

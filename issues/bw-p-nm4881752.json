@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlie Starr. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4881752/\n_search: Charlie Starr | Glastonbury 2016 | Live from Daryl's House | Blackberry Smoke with Bob Weir: An Evening at TRI",
+  "id": "bw-p-nm4881752",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlie Starr",
+  "type": "task"
+}

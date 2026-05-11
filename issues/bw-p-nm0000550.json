@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kate Mulgrew. b. 1955 | actress, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0000550/\n_search: Kate Mulgrew | Star Trek: Voyager | Orange Is the New Black | Star Trek: Nemesis | Remo Williams: The Adventure Begins",
+  "id": "bw-p-nm0000550",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kate Mulgrew",
+  "type": "task"
+}

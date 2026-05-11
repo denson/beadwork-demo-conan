@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ingrid Michaelson. b. 1979 | composer, actress, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2785741/\n_search: Ingrid Michaelson | Concert for America | Grey's Anatomy | The National Christmas Tree Lighting | The Space Between Us",
+  "id": "bw-p-nm2785741",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ingrid Michaelson",
+  "type": "task"
+}

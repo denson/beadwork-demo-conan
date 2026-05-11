@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "José González. b. 1978 | music_department, composer, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1996465/\n_search: José González | The Secret Life of Walter Mitty | The Last Song | Crazy, Stupid, Love. | The Blind Side",
+  "id": "bw-p-nm1996465",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "José González",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nastia Liukin. b. 1989 | actress, archive_footage.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1800471/\n_search: Nastia Liukin | Beijing 2008: Games of the XXIX Olympiad | Stick It | Dancing with the Stars | Olympic Dreams Featuring Jonas Brothers",
+  "id": "bw-p-nm1800471",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nastia Liukin",
+  "type": "task"
+}

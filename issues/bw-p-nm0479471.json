@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shia LaBeouf. actor, writer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0479471/\n_search: Shia LaBeouf | Honey Boy | The Peanut Butter Falcon | Fury | Transformers",
+  "id": "bw-p-nm0479471",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shia LaBeouf",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Blessid Union of Souls. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6223214/\n_search: Blessid Union of Souls | Pokémon: The First Movie - Mewtwo Strikes Back | Top of the Pops | Zona franca",
+  "id": "bw-p-nm6223214",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Blessid Union of Souls",
+  "type": "task"
+}

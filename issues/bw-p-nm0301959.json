@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Johnny Galecki. b. 1975 | actor, producer, writer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0301959/\n_search: Johnny Galecki | The Big Bang Theory | Roseanne | National Lampoon's Christmas Vacation | I Know What You Did Last Summer",
+  "id": "bw-p-nm0301959",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Johnny Galecki",
+  "type": "task"
+}

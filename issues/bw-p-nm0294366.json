@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Doug E. Fresh. b. 1966 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0294366/\n_search: Doug E. Fresh | Face/Off | New Jack City | Girls Trip | Ghostbusters II",
+  "id": "bw-p-nm0294366",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Doug E. Fresh",
+  "type": "task"
+}

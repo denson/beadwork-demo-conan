@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tyler Glenn. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4264546/\n_search: Tyler Glenn | Burlesque | What's Your Number? | American Reunion | Love, Victor",
+  "id": "bw-p-nm4264546",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tyler Glenn",
+  "type": "task"
+}

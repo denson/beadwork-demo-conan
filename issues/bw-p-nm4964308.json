@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tennis. composer, actor, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4964308/\n_search: Tennis | What Other Couples Do | Life Partners | Rick and Morty | Interiors (Yours Conditionally)",
+  "id": "bw-p-nm4964308",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tennis",
+  "type": "task"
+}

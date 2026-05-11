@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Bon Jovi. b. 1962 | music_artist, actor, composer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000954/\n_search: Jon Bon Jovi | Young Guns II | Cry Wolf | U-571 | New Year's Eve",
+  "id": "bw-p-nm0000954",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Bon Jovi",
+  "type": "task"
+}

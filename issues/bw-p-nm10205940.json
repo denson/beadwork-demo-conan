@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Coyle Girelli. composer, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm10205940/\n_search: Coyle Girelli | Late Show with David Letterman | StartUp | Rising: Rebuilding Ground Zero",
+  "id": "bw-p-nm10205940",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Coyle Girelli",
+  "type": "task"
+}

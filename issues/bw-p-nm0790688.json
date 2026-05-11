@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Sheen. b. 1969 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0790688/\n_search: Michael Sheen | Masters of Sex | Frost/Nixon | The Queen | Midnight in Paris",
+  "id": "bw-p-nm0790688",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Sheen",
+  "type": "task"
+}

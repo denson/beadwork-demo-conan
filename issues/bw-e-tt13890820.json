@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "From Largo Theatre Jason Segel. conan_tbs, S11E6, 2021.\nIMDb: https://www.imdb.com/title/tt13890820/\n_search: From Largo Theatre Jason Segel | 2021 | S11E6",
+  "id": "bw-e-tt13890820",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "From Largo Theatre Jason Segel",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bye-Bye, Albino's Alibi. conan_tbs, S2E11, 2011.\nIMDb rating: 7.3.\nIMDb: https://www.imdb.com/title/tt2121446/\n_search: Bye-Bye, Albino's Alibi | 2011 | S2E11",
+  "id": "bw-e-tt2121446",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bye-Bye, Albino's Alibi",
+  "type": "task"
+}

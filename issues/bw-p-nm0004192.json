@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kenny Hotz. b. 1967 | actress, actor, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0004192/\n_search: Kenny Hotz | South Park | Kenny vs. Spenny | Zack and Miri Make a Porno | Ninja Turtles: The Next Mutation",
+  "id": "bw-p-nm0004192",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kenny Hotz",
+  "type": "task"
+}

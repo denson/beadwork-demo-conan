@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Dang. actor, cinematographer, camera_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2835056/\n_search: Tony Dang | Easy Money | Third String Kicker | The Caretaker | The Pumpkin Man",
+  "id": "bw-p-nm2835056",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Dang",
+  "type": "task"
+}

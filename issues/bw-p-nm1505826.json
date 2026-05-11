@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Dandy Warhols. music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1505826/\n_search: The Dandy Warhols | Veronica Mars | Antitrust | If I Stay | Man of the Year",
+  "id": "bw-p-nm1505826",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Dandy Warhols",
+  "type": "task"
+}

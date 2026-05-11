@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gad Elmaleh. b. 1971 | actor, writer, producer.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0255362/\n_search: Gad Elmaleh | Priceless | Midnight in Paris | Jack and Jill | The Adventures of Tintin",
+  "id": "bw-p-nm0255362",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gad Elmaleh",
+  "type": "task"
+}

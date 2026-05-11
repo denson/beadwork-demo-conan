@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Tucker. b. 1982 | actor, soundtrack, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0006958/\n_search: Jonathan Tucker | The Ruins | The Virgin Suicides | Hostage | The Texas Chainsaw Massacre",
+  "id": "bw-p-nm0006958",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Tucker",
+  "type": "task"
+}

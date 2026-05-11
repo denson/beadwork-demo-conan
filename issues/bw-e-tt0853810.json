@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Stewart/Diedrich Bader/Will Shortz. late_night, S1E28, 1993.\nRuntime: 57 min.\nIMDb rating: 5.8.\nIMDb: https://www.imdb.com/title/tt0853810/\n_search: Jon Stewart/Diedrich Bader/Will Shortz | 1993 | S1E28",
+  "id": "bw-e-tt0853810",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Stewart/Diedrich Bader/Will Shortz",
+  "type": "task"
+}

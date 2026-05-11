@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dana Carvey/Nicolle Wallace. conan_tbs, S8E65, 2018.\nRuntime: 42 min.\nIMDb rating: 6.8.\nIMDb: https://www.imdb.com/title/tt8292026/\n_search: Dana Carvey/Nicolle Wallace | 2018 | S8E65",
+  "id": "bw-e-tt8292026",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dana Carvey/Nicolle Wallace",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Brad Pitt. b. 1963 | producer, actor, executive.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0000093/\n_search: Brad Pitt | Fight Club | 12 Monkeys | Mr. \u0026 Mrs. Smith | Moneyball",
+  "id": "bw-p-nm0000093",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Brad Pitt",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Hanni El Khatib. b. 1981 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4861967/\n_search: Hanni El Khatib | Deadpool | Kick-Ass 2 | Carrie | Serial Bad Weddings",
+  "id": "bw-p-nm4861967",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Hanni El Khatib",
+  "type": "task"
+}

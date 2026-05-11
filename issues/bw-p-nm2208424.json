@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jonathan Kehoe. actor, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2208424/\n_search: Jonathan Kehoe | How We Met | The Mindy Project | Welcome to Hollywood... Florida | Modern Family",
+  "id": "bw-p-nm2208424",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jonathan Kehoe",
+  "type": "task"
+}

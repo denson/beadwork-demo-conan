@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shannon Leto. b. 1970 | actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0504720/\n_search: Shannon Leto | Nimona | Tron: Ares | My So-Called Life | Prefontaine",
+  "id": "bw-p-nm0504720",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shannon Leto",
+  "type": "task"
+}

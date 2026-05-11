@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aubrey Plaza/Jason George/Marlon Williams. conan_tbs, S8E71, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8342930/\n_search: Aubrey Plaza/Jason George/Marlon Williams | 2018 | S8E71",
+  "id": "bw-e-tt8342930",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aubrey Plaza/Jason George/Marlon Williams",
+  "type": "task"
+}

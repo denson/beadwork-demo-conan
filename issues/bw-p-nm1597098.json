@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Robin Himmler. b. 1985.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1597098/\n_search: Robin Himmler | The Apprentice",
+  "id": "bw-p-nm1597098",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Robin Himmler",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bill Bellamy. b. 1965 | actor, producer, writer.\nConan-show appearances: 16\nIMDb: https://www.imdb.com/name/nm0004740/\n_search: Bill Bellamy | Bill Bellamy: I Want My Life Back | The Neighborhood",
+  "id": "bw-p-nm0004740",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bill Bellamy",
+  "type": "task"
+}

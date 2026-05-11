@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Grace Brennan. actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8597471/\n_search: Grace Brennan | Roads, Trees and Honey Bees | Skyward",
+  "id": "bw-p-nm8597471",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Grace Brennan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vitali Baganov. b. 1952 | actor, miscellaneous, archive_sound.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0046518/\n_search: Vitali Baganov | Salt | Law \u0026 Order: Special Victims Unit | The Sopranos | Grand Theft Auto IV: The Ballad of Gay Tony",
+  "id": "bw-p-nm0046518",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vitali Baganov",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Gnocchi from Skokie That Sang Karaoke. conan_tbs, S2E102, 2012.\nIMDb rating: 6.4.\nIMDb: https://www.imdb.com/title/tt2207976/\n_search: The Gnocchi from Skokie That Sang Karaoke | 2012 | S2E102",
+  "id": "bw-e-tt2207976",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Gnocchi from Skokie That Sang Karaoke",
+  "type": "task"
+}

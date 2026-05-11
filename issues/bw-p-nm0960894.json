@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Fatale. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0960894/\n_search: Joe Fatale | Late Night with Conan O'Brien: 10th Anniversary Special | The Daily Show",
+  "id": "bw-p-nm0960894",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Fatale",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "D.B. Weiss. b. 1971 | writer, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1888967/\n_search: D.B. Weiss | Game of Thrones | 3 Body Problem | Metal Lords | Dirty White Boys",
+  "id": "bw-p-nm1888967",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "D.B. Weiss",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Marissa Jaret Winokur. actress, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0935441/\n_search: Marissa Jaret Winokur | What We Do in the Shadows | Bupkis | Celebrity Big Brother | Crashing",
+  "id": "bw-p-nm0935441",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Marissa Jaret Winokur",
+  "type": "task"
+}

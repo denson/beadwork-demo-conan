@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billy Idol. b. 1955 | music_artist, actor, composer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0002150/\n_search: Billy Idol | The Wedding Singer | Speed | The Adventures of Ford Fairlane | True Romance",
+  "id": "bw-p-nm0002150",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billy Idol",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tucker Halpern. actor, director, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm8270612/\n_search: Tucker Halpern | Birds of Prey and the Fantabulous Emancipation of One Harley Quinn | The King of Staten Island | Ocean's Eight | Booksmart",
+  "id": "bw-p-nm8270612",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tucker Halpern",
+  "type": "task"
+}

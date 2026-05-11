@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Nanci Griffith. 1953–2021 | actress, composer, soundtrack.\nDECEASED (1953–2021). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0341575/\n_search: Nanci Griffith | The Firm | How to Make an American Quilt | Milk Money | Resident Alien",
+  "id": "bw-p-nm0341575",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Nanci Griffith",
+  "type": "task"
+}

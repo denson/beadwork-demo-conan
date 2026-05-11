@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Jackson. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4880741/\n_search: Paul Jackson | Blackberry Smoke with Bob Weir: An Evening at TRI | Blackberry Smoke: Leave a Scar Live | Blackberry Smoke: Live at the Georgia Theatre",
+  "id": "bw-p-nm4880741",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Jackson",
+  "type": "task"
+}

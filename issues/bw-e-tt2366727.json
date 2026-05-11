@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Extremely Slow Murder on the Orient Local. conan_tbs, S2E81, 2012.\nIMDb rating: 7.8.\nIMDb: https://www.imdb.com/title/tt2366727/\n_search: Extremely Slow Murder on the Orient Local | 2012 | S2E81",
+  "id": "bw-e-tt2366727",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Extremely Slow Murder on the Orient Local",
+  "type": "task"
+}

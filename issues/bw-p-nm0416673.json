@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kevin James. b. 1965 | actor, producer, writer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0416673/\n_search: Kevin James | Here Comes the Boom | Paul Blart: Mall Cop | Paul Blart: Mall Cop 2 | The King of Queens",
+  "id": "bw-p-nm0416673",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kevin James",
+  "type": "task"
+}

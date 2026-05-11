@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shane Smith. producer, writer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2448288/\n_search: Shane Smith | The Bad Batch | Vice | Vice News | The Report",
+  "id": "bw-p-nm2448288",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shane Smith",
+  "type": "task"
+}

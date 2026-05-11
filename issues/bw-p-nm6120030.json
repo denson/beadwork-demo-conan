@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Abby Howells. actress, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6120030/\n_search: Abby Howells | The Royal Treatment | New Zealand Spy | Shortland Street | Double Parked",
+  "id": "bw-p-nm6120030",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Abby Howells",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Erin Elle. actress, miscellaneous, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3887074/\n_search: Erin Elle | A.E.S.O.P. | Can't See You | The Daily Show | Feeling Good",
+  "id": "bw-p-nm3887074",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Erin Elle",
+  "type": "task"
+}

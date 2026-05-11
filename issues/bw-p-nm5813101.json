@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mairéad Campbell. production_manager, casting_department, assistant_director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm5813101/\n_search: Mairéad Campbell | The Rhythm Section | The Gift | Wild Mountain Thyme | The Turning",
+  "id": "bw-p-nm5813101",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:must_go",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mairéad Campbell",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sam Medina. actor, director, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2795989/\n_search: Sam Medina | Venom | Alita: Battle Angel | Reminiscence | Mile 22",
+  "id": "bw-p-nm2795989",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sam Medina",
+  "type": "task"
+}

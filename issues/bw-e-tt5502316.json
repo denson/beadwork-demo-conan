@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conor McGregor/Dave Attell/BJ the Chicago Kid. conan_tbs, S6E52, 2016.\nRuntime: 42 min.\nIMDb rating: 4.6.\nIMDb: https://www.imdb.com/title/tt5502316/\n_search: Conor McGregor/Dave Attell/BJ the Chicago Kid | 2016 | S6E52",
+  "id": "bw-e-tt5502316",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conor McGregor/Dave Attell/BJ the Chicago Kid",
+  "type": "task"
+}

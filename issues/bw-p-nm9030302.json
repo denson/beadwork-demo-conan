@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Rob Shrader. editor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm9030302/\n_search: Rob Shrader",
+  "id": "bw-p-nm9030302",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Rob Shrader",
+  "type": "task"
+}

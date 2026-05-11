@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Harris Mayersohn. writer, producer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6556219/\n_search: Harris Mayersohn | Stand Up Solutions | Schiller Park | Seth's Prayer | Rap World",
+  "id": "bw-p-nm6556219",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Harris Mayersohn",
+  "type": "task"
+}

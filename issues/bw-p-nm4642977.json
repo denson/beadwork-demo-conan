@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Foxygen. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4642977/\n_search: Foxygen | Drinking Buddies | We Are Your Friends | Molly Maxwell | Loudermilk",
+  "id": "bw-p-nm4642977",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Foxygen",
+  "type": "task"
+}

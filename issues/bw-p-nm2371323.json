@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Aaron Beelner. b. 1974 | actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2371323/\n_search: Aaron Beelner | Loki | Boss Level | Monster Hunter | The House with a Clock in Its Walls",
+  "id": "bw-p-nm2371323",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Aaron Beelner",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jack Impellizzeri. b. 1974 | actor, writer, director.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1553640/\n_search: Jack Impellizzeri | Two Guys, a Girl and a Pizza Place | Mad Men | Boston Legal | Bones",
+  "id": "bw-p-nm1553640",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jack Impellizzeri",
+  "type": "task"
+}

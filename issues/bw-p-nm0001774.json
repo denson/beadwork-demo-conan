@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ben Stiller. b. 1965 | producer, actor, director.\nConan-show appearances: 14\nIMDb: https://www.imdb.com/name/nm0001774/\n_search: Ben Stiller | Tropic Thunder | Zoolander | Zoolander 2 | There's Something About Mary",
+  "id": "bw-p-nm0001774",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ben Stiller",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jamie Kennedy. b. 1970 | actor, writer, producer.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0005085/\n_search: Jamie Kennedy | Scream | Scream 2 | Malibu's Most Wanted | Son of the Mask",
+  "id": "bw-p-nm0005085",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jamie Kennedy",
+  "type": "task"
+}

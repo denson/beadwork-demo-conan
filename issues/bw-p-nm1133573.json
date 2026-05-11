@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher Berger. actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1133573/\n_search: Christopher Berger | Little Noises | Kissing Jessica Stein | All My Children | The Olive Tree",
+  "id": "bw-p-nm1133573",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher Berger",
+  "type": "task"
+}

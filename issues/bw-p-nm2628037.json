@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mo Mandel. producer, writer, actor.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2628037/\n_search: Mo Mandel | Love Bites | Comedy Knockout | 2051 | Partners",
+  "id": "bw-p-nm2628037",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mo Mandel",
+  "type": "task"
+}

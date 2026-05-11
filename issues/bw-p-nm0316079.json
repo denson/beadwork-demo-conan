@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Paul Giamatti. b. 1967 | actor, producer, miscellaneous.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0316079/\n_search: Paul Giamatti | Sideways | Cinderella Man | American Splendor | The Holdovers",
+  "id": "bw-p-nm0316079",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Paul Giamatti",
+  "type": "task"
+}

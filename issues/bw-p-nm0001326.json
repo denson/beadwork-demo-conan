@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Josh Hartnett. b. 1978 | actor, producer, archive_footage.\nConan-show appearances: 4\nIMDb: https://www.imdb.com/name/nm0001326/\n_search: Josh Hartnett | Lucky Number Slevin | Black Hawk Down | 30 Days of Night | The Black Dahlia",
+  "id": "bw-p-nm0001326",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Josh Hartnett",
+  "type": "task"
+}

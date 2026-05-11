@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Mistletoe Manifesto. conan_tbs, S1E27, 2010.\nRuntime: 60 min.\nIMDb rating: 8.4.\nIMDb: https://www.imdb.com/title/tt1798746/\n_search: The Mistletoe Manifesto | 2010 | S1E27",
+  "id": "bw-e-tt1798746",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Mistletoe Manifesto",
+  "type": "task"
+}

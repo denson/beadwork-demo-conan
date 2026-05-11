@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Arnold. actor, director, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm5080673/\n_search: Matthew Arnold | Video Game High School | We're All Gonna Die | Anime Crimes Division | Dimension 404",
+  "id": "bw-p-nm5080673",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Arnold",
+  "type": "task"
+}

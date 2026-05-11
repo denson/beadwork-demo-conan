@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Pegi Young. 1952–2019 | actress, producer, soundtrack.\nDECEASED (1952–2019). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1316296/\n_search: Pegi Young | Human Highway | Greendale | The Bridge School Concerts - 25th Anniversary Edition | Neil Young: Heart of Gold",
+  "id": "bw-p-nm1316296",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Pegi Young",
+  "type": "task"
+}

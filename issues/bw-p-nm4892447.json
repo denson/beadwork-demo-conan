@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Alabama Shakes. composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4892447/\n_search: Alabama Shakes | Silver Linings Playbook | Everything, Everything | Just Mercy | Joy",
+  "id": "bw-p-nm4892447",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Alabama Shakes",
+  "type": "task"
+}

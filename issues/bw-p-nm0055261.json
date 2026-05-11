@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Lou Barlow. b. 1966 | composer, music_department, actor.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0055261/\n_search: Lou Barlow | Adaptation. | Kids | Thirteen | A Life Less Ordinary",
+  "id": "bw-p-nm0055261",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Lou Barlow",
+  "type": "task"
+}

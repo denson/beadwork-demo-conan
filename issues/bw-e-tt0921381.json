@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Howard Stern/Jim Gaffigan. late_night, S14E58, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0921381/\n_search: Howard Stern/Jim Gaffigan | 2006 | S14E58",
+  "id": "bw-e-tt0921381",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Howard Stern/Jim Gaffigan",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Vic Chesnutt. 1964–2009 | composer, actor, writer.\nDECEASED (1964–2009). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0156263/\n_search: Vic Chesnutt | Sling Blade | This Must Be the Place | Bringing Rain | Stillwater",
+  "id": "bw-p-nm0156263",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Vic Chesnutt",
+  "type": "task"
+}

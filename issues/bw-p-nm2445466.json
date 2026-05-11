@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Mike DeStefano. 1966–2011 | actor, writer, producer.\nDECEASED (1966–2011). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2445466/\n_search: Mike DeStefano | The Road | Cul de sac of Shattered Hopes... the Movie | Even Steven | Rescue Me",
+  "id": "bw-p-nm2445466",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Mike DeStefano",
+  "type": "task"
+}

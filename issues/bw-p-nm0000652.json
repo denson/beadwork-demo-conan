@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Spader. b. 1960 | actor, producer, soundtrack.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0000652/\n_search: James Spader | The Blacklist | Boston Legal | Sex, Lies, and Videotape | Avengers: Age of Ultron",
+  "id": "bw-p-nm0000652",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Spader",
+  "type": "task"
+}

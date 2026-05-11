@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Katherine Ryan. b. 1983 | actress, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1789329/\n_search: Katherine Ryan | The Duchess | Katherine Ryan in Ireland | Sunny D | Campus",
+  "id": "bw-p-nm1789329",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Katherine Ryan",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Drew Rausch. b. 1977 | actor, writer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3040388/\n_search: Drew Rausch | Battleship | Ford v Ferrari | Pieces of Lilo | Grey's Anatomy",
+  "id": "bw-p-nm3040388",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Drew Rausch",
+  "type": "task"
+}

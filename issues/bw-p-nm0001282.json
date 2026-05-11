@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Goldwyn. b. 1960 | actor, director, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001282/\n_search: Tony Goldwyn | Ghost | The 6th Day | The Last Samurai | The Mechanic",
+  "id": "bw-p-nm0001282",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Goldwyn",
+  "type": "task"
+}

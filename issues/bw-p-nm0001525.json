@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John C. McGinley. b. 1959 | actor, producer, writer.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001525/\n_search: John C. McGinley | Scrubs | Point Break | Seven | On Deadly Ground",
+  "id": "bw-p-nm0001525",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John C. McGinley",
+  "type": "task"
+}

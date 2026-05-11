@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Leslie Jones/Jeffrey Toobin/Mac DeMarco. conan_tbs, S7E102, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt7028226/\n_search: Leslie Jones/Jeffrey Toobin/Mac DeMarco | 2017 | S7E102",
+  "id": "bw-e-tt7028226",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Leslie Jones/Jeffrey Toobin/Mac DeMarco",
+  "type": "task"
+}

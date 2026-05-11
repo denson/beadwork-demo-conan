@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jon Gabrus. b. 1982 | actor, producer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2516690/\n_search: Jon Gabrus | Game Over, Man! | The Little Hours | MoCap, LLC | Bombshell",
+  "id": "bw-p-nm2516690",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jon Gabrus",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Chris Spedding. b. 1944 | music_department, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0817501/\n_search: Chris Spedding | Welcome to the Dollhouse | Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation | Jeff Wayne's Musical Version of 'The War of the Worlds' - Alive on Stage | Hollywood Vice Squad",
+  "id": "bw-p-nm0817501",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Chris Spedding",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "George Ezra. b. 1993 | music_artist, actor, composer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm6522910/\n_search: George Ezra | Time of Our Lives | Scream: The TV Series | The Mysteries of Laura | Alpha and Omega 5: Family Vacation",
+  "id": "bw-p-nm6522910",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "George Ezra",
+  "type": "task"
+}

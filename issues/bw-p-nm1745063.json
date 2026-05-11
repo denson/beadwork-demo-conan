@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Baden. b. 1934 | miscellaneous, writer, archive_footage.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1745063/\n_search: Michael Baden | God's Prayer | America Undercover | JFK: What the Doctors Saw | American Trial: The Eric Garner Story",
+  "id": "bw-p-nm1745063",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Baden",
+  "type": "task"
+}

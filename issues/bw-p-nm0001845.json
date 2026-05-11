@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Forest Whitaker. b. 1961 | actor, producer, director.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001845/\n_search: Forest Whitaker | The Last King of Scotland | The Butler | Battlefield Earth | Black Panther",
+  "id": "bw-p-nm0001845",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Forest Whitaker",
+  "type": "task"
+}

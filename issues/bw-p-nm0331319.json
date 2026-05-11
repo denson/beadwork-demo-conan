@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Frank Gorshin. 1933–2005 | actor, director, writer.\nDECEASED (1933–2005). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0331319/\n_search: Frank Gorshin | 12 Monkeys | Batman: The Movie | Bells Are Ringing | That Darn Cat!",
+  "id": "bw-p-nm0331319",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Frank Gorshin",
+  "type": "task"
+}

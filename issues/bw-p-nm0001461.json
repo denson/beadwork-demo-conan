@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Virginie Ledoyen. b. 1976 | actress, producer, miscellaneous.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001461/\n_search: Virginie Ledoyen | 8 Women | The Beach | Cold Water | Jeanne and the Perfect Guy",
+  "id": "bw-p-nm0001461",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Virginie Ledoyen",
+  "type": "task"
+}

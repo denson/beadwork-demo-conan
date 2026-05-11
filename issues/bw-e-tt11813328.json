@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Elijah Wood/Ty Barnett. conan_tbs, S10E17, 2020.\nRuntime: 21 min.\nIMDb rating: 7.1.\nIMDb: https://www.imdb.com/title/tt11813328/\n_search: Elijah Wood/Ty Barnett | 2020 | S10E17",
+  "id": "bw-e-tt11813328",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Elijah Wood/Ty Barnett",
+  "type": "task"
+}

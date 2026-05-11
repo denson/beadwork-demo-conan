@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daryl Hall. b. 1946 | writer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0355461/\n_search: Daryl Hall | Ready Player One | Game Night | The Fighter | Pixels",
+  "id": "bw-p-nm0355461",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daryl Hall",
+  "type": "task"
+}

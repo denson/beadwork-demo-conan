@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Word Is a Four-Letter Word. conan_tbs, S3E143, 2013.\nIMDb: https://www.imdb.com/title/tt3210648/\n_search: Word Is a Four-Letter Word | 2013 | S3E143",
+  "id": "bw-e-tt3210648",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Word Is a Four-Letter Word",
+  "type": "task"
+}

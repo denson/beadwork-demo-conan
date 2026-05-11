@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Doohan. 1920–2005 | actor, miscellaneous, soundtrack.\nDECEASED (1920–2005). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001150/\n_search: James Doohan | Star Trek | Star Trek IV: The Voyage Home | Star Trek VI: The Undiscovered Country | Star Trek II: The Wrath of Khan",
+  "id": "bw-p-nm0001150",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Doohan",
+  "type": "task"
+}

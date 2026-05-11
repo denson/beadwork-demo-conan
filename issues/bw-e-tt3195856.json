@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ted Nugent \u0026 Quentin Tarantino Present: Django Wango Tango. conan_tbs, S3E136, 2013.\nIMDb rating: 7.6.\nIMDb: https://www.imdb.com/title/tt3195856/\n_search: Ted Nugent \u0026 Quentin Tarantino Present: Django Wango Tango | 2013 | S3E136",
+  "id": "bw-e-tt3195856",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ted Nugent \u0026 Quentin Tarantino Present: Django Wango Tango",
+  "type": "task"
+}

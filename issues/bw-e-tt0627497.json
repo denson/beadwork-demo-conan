@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ethan Hawke/George Wendt/Natalie MacMaster. late_night, S11E53, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627497/\n_search: Ethan Hawke/George Wendt/Natalie MacMaster | 2004 | S11E53",
+  "id": "bw-e-tt0627497",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ethan Hawke/George Wendt/Natalie MacMaster",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jim Jefferies. conan_tbs, S9E39, 2019.\nRuntime: 21 min.\nIMDb rating: 7.2.\nIMDb: https://www.imdb.com/title/tt10183566/\n_search: Jim Jefferies | 2019 | S9E39",
+  "id": "bw-e-tt10183566",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jim Jefferies",
+  "type": "task"
+}

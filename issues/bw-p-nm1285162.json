@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Matthew Morrison. b. 1978 | actor, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm1285162/\n_search: Matthew Morrison | Glee | Dan in Real Life | What to Expect When You're Expecting | Music and Lyrics",
+  "id": "bw-p-nm1285162",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Matthew Morrison",
+  "type": "task"
+}

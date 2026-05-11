@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jackie Kashian. actress, writer.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm2045141/\n_search: Jackie Kashian | Murphy Brown | Looking Forward: 2016 | Bam Bam and Celeste | Maron",
+  "id": "bw-p-nm2045141",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jackie Kashian",
+  "type": "task"
+}

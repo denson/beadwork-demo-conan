@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Corbin Bernsen/Lisa Rinna/Jars of Clay. late_night, S3E190, 1996.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt3625874/\n_search: Corbin Bernsen/Lisa Rinna/Jars of Clay | 1996 | S3E190",
+  "id": "bw-e-tt3625874",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Corbin Bernsen/Lisa Rinna/Jars of Clay",
+  "type": "task"
+}

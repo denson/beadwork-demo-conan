@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Augusto Aguilera. actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm2941877/\n_search: Augusto Aguilera | I Love LA | Too Old to Die Young | The Last Thing He Told Me | IMAX® Presents: The Predator",
+  "id": "bw-p-nm2941877",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Augusto Aguilera",
+  "type": "task"
+}

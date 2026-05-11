@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Russell Crowe. b. 1964 | actor, producer, director.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0000128/\n_search: Russell Crowe | Les Misérables | Gladiator | A Beautiful Mind | L.A. Confidential",
+  "id": "bw-p-nm0000128",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Russell Crowe",
+  "type": "task"
+}

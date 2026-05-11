@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan \u0026 Andy's Laughquest '13 in 3D. conan_tbs, S3E126, 2013.\nIMDb rating: 8.2.\nIMDb: https://www.imdb.com/title/tt3112374/\n_search: Conan \u0026 Andy's Laughquest '13 in 3D | 2013 | S3E126",
+  "id": "bw-e-tt3112374",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan \u0026 Andy's Laughquest '13 in 3D",
+  "type": "task"
+}

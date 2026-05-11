@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Melissa Gilbert. b. 1964 | actress, producer, director.\nConan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001271/\n_search: Melissa Gilbert | Little House on the Prairie | Guest Artist | Batman: The Animated Series | Little House: Bless All the Dear Children",
+  "id": "bw-p-nm0001271",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Melissa Gilbert",
+  "type": "task"
+}

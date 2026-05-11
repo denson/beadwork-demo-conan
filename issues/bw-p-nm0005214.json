@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Sarah McLachlan. b. 1968 | music_artist, actress, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0005214/\n_search: Sarah McLachlan | Charlotte's Web | Toy Story 2 | The Brave One | Forces of Nature",
+  "id": "bw-p-nm0005214",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Sarah McLachlan",
+  "type": "task"
+}

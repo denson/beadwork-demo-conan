@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Joe Manganiello/Natasha Leggero/Benjamin Gibbard. conan_tbs, S8E63, 2018.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt8292020/\n_search: Joe Manganiello/Natasha Leggero/Benjamin Gibbard | 2018 | S8E63",
+  "id": "bw-e-tt8292020",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Joe Manganiello/Natasha Leggero/Benjamin Gibbard",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Billie Joe Armstrong. b. 1972 | actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0035626/\n_search: Billie Joe Armstrong | The Simpsons Movie | Shoot 'Em Up | Transformers: Revenge of the Fallen | Sex Tape",
+  "id": "bw-p-nm0035626",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Billie Joe Armstrong",
+  "type": "task"
+}

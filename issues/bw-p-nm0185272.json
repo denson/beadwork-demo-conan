@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Tony Cox. b. 1958 | actor, stunts, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0185272/\n_search: Tony Cox | Bad Santa | Spaceballs | Bad Santa 2 | Epic Movie",
+  "id": "bw-p-nm0185272",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Tony Cox",
+  "type": "task"
+}

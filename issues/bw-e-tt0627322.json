@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jeff Bridges/Steven Van Zandt/Sarah Silverman. late_night, S7E68, 2000.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627322/\n_search: Jeff Bridges/Steven Van Zandt/Sarah Silverman | 2000 | S7E68",
+  "id": "bw-e-tt0627322",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jeff Bridges/Steven Van Zandt/Sarah Silverman",
+  "type": "task"
+}

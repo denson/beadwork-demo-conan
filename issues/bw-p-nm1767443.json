@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "TV on the Radio. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1767443/\n_search: TV on the Radio | The Manchurian Candidate | Never Back Down | Kill Your Darlings | The Invisible",
+  "id": "bw-p-nm1767443",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "TV on the Radio",
+  "type": "task"
+}

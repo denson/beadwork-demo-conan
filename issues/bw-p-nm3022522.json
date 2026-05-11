@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conor Oberst. b. 1980 | writer, composer, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3022522/\n_search: Conor Oberst | Cloverfield | Stuck in Love. | Knocked Up | The Lucky Ones",
+  "id": "bw-p-nm3022522",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conor Oberst",
+  "type": "task"
+}

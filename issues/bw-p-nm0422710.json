@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Penn Jillette. b. 1955 | writer, producer, actor.\nConan-show appearances: 6\nIMDb: https://www.imdb.com/name/nm0422710/\n_search: Penn Jillette | Penn \u0026 Teller Get Killed | Penn \u0026 Teller: Bullshit! | Hackers | Marty Supreme",
+  "id": "bw-p-nm0422710",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Penn Jillette",
+  "type": "task"
+}

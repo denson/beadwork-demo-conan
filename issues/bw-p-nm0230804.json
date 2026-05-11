@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Julie Dolan. actress, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0230804/\n_search: Julie Dolan | Reasonable Doubt | The Marvelous Mrs. Maisel | Gilmore Girls | Star Wars: Rebels",
+  "id": "bw-p-nm0230804",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Julie Dolan",
+  "type": "task"
+}

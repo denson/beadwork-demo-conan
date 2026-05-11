@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Conan in Korea. conan_tbs, S6E69, 2016.\nRuntime: 45 min.\nIMDb rating: 8.6.\nIMDb: https://www.imdb.com/title/tt5615356/\n_search: Conan in Korea | 2016 | S6E69",
+  "id": "bw-e-tt5615356",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Conan in Korea",
+  "type": "task"
+}

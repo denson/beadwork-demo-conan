@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Larry Hagman. 1931–2012 | actor, producer, director.\nDECEASED (1931–2012). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0001306/\n_search: Larry Hagman | Dallas | Superman | Nixon | Fail Safe",
+  "id": "bw-p-nm0001306",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Larry Hagman",
+  "type": "task"
+}

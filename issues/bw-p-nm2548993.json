@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Daughtry. actor, composer, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2548993/\n_search: Daughtry | Wanderlust | Criminal Minds | NCIS: Los Angeles | Alpha and Omega 4: The Legend of the Saw Tooth Cave",
+  "id": "bw-p-nm2548993",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Daughtry",
+  "type": "task"
+}

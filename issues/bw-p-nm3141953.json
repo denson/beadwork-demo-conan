@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Eric Hutchinson. soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3141953/\n_search: Eric Hutchinson | The Sisterhood of the Traveling Pants 2 | Long Weekend | Growing Up Fisher | American Idol",
+  "id": "bw-p-nm3141953",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Eric Hutchinson",
+  "type": "task"
+}

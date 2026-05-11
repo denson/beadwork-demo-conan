@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cassie Keller. b. 1990 | actress.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4552511/\n_search: Cassie Keller | A Very Harold \u0026 Kumar Christmas | The Wicked | Bruin Lake Aka Hell, Michigan | Beauty Queen",
+  "id": "bw-p-nm4552511",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cassie Keller",
+  "type": "task"
+}

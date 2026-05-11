@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barbara Walters/Wladimir Klitschko/Black Mountain. late_night, S15E70, 2008.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt1191510/\n_search: Barbara Walters/Wladimir Klitschko/Black Mountain | 2008 | S15E70",
+  "id": "bw-e-tt1191510",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barbara Walters/Wladimir Klitschko/Black Mountain",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Dave Goldstein. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm7620807/\n_search: Dave Goldstein | Dave Goldstein: Isn't It Obvious? | Say Yes to the Dress",
+  "id": "bw-p-nm7620807",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Dave Goldstein",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Will Arnett/Rory Scovel/Luis Fonsi. conan_tbs, S7E96, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6983822/\n_search: Will Arnett/Rory Scovel/Luis Fonsi | 2017 | S7E96",
+  "id": "bw-e-tt6983822",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Will Arnett/Rory Scovel/Luis Fonsi",
+  "type": "task"
+}

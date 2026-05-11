@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Lee. b. 1970 | actor, producer, director.\nConan-show appearances: 5\nIMDb: https://www.imdb.com/name/nm0005134/\n_search: Jason Lee | Almost Famous | Chasing Amy | Vanilla Sky | My Name Is Earl",
+  "id": "bw-p-nm0005134",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Lee",
+  "type": "task"
+}

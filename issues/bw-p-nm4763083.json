@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jose James. b. 1978 | actor, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4763083/\n_search: Jose James | Fifty Shades Darker | Our Family Wedding | Jose James \u0026 Taali Live from Levon Helm Studios | The Wild West Bank Sound",
+  "id": "bw-p-nm4763083",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jose James",
+  "type": "task"
+}

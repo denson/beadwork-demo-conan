@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Schwartzman. b. 1980 | actor, music_department, producer.\nConan-show appearances: 10\nIMDb: https://www.imdb.com/name/nm0005403/\n_search: Jason Schwartzman | Rushmore | The Darjeeling Limited | Moonrise Kingdom | Scott Pilgrim vs. the World",
+  "id": "bw-p-nm0005403",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "is:regular_tv_guest",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Schwartzman",
+  "type": "task"
+}

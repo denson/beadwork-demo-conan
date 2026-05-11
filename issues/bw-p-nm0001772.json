@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patrick Stewart. b. 1940 | actor, producer, director.\nConan-show appearances: 9\nIMDb: https://www.imdb.com/name/nm0001772/\n_search: Patrick Stewart | Logan | Star Trek: First Contact | Star Trek: Insurrection | Star Trek: The Next Generation",
+  "id": "bw-p-nm0001772",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patrick Stewart",
+  "type": "task"
+}

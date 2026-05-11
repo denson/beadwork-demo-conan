@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Shiny Toy Guns. actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2479060/\n_search: Shiny Toy Guns | Project X | Wall Street: Money Never Sleeps | The Flash | Welcome to the Rileys",
+  "id": "bw-p-nm2479060",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Shiny Toy Guns",
+  "type": "task"
+}

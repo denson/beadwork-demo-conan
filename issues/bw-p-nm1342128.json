@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Gavin Creel. 1976–2024 | actor, producer, soundtrack.\nDECEASED (1976–2024). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm1342128/\n_search: Gavin Creel | The Delicate Medium | Submissions Only | Eloise at Christmastime | The Ceiling Fan",
+  "id": "bw-p-nm1342128",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:tonight_show",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Gavin Creel",
+  "type": "task"
+}

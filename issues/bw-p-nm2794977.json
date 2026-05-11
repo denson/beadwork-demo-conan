@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Fleet Foxes. composer, actor, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2794977/\n_search: Fleet Foxes | The Way | Due Date | Boy Erased | The Lucky Ones",
+  "id": "bw-p-nm2794977",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Fleet Foxes",
+  "type": "task"
+}

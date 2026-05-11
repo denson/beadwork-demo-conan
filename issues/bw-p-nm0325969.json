@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ned Goldreyer. b. 1960 | producer, writer, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0325969/\n_search: Ned Goldreyer | Grounded for Life | Dilbert | Twins",
+  "id": "bw-p-nm0325969",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ned Goldreyer",
+  "type": "task"
+}

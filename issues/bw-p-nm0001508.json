@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Penny Marshall. 1943–2018 | actress, director, producer.\nDECEASED (1943–2018). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0001508/\n_search: Penny Marshall | Laverne \u0026 Shirley | Big | A League of Their Own | Awakenings",
+  "id": "bw-p-nm0001508",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Penny Marshall",
+  "type": "task"
+}

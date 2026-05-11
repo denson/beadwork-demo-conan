@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bert Kreischer. conan_tbs, S9E24, 2019.\nRuntime: 21 min.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt10023718/\n_search: Bert Kreischer | 2019 | S9E24",
+  "id": "bw-e-tt10023718",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bert Kreischer",
+  "type": "task"
+}

@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ricky Jay. 1946–2018 | actor, miscellaneous, writer.\nDECEASED (1946–2018). Conan-show appearances: 2\nIMDb: https://www.imdb.com/name/nm0419633/\n_search: Ricky Jay | Magnolia | Boogie Nights | Heist | Tomorrow Never Dies",
+  "id": "bw-p-nm0419633",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ricky Jay",
+  "type": "task"
+}

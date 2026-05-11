@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ilana Glazer. b. 1987 | actress, producer, writer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm4477261/\n_search: Ilana Glazer | Broad City | Rough Night | Broad City | Babes",
+  "id": "bw-p-nm4477261",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ilana Glazer",
+  "type": "task"
+}

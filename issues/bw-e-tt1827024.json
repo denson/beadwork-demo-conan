@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "A Finger Un-Pulled. conan_tbs, S1E42, 2011.\nRuntime: 60 min.\nIMDb rating: 7.7.\nIMDb: https://www.imdb.com/title/tt1827024/\n_search: A Finger Un-Pulled | 2011 | S1E42",
+  "id": "bw-e-tt1827024",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "A Finger Un-Pulled",
+  "type": "task"
+}

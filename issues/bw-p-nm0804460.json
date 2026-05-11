@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Randy Sklar. b. 1972 | actor, writer, producer.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0804460/\n_search: Randy Sklar | Bubble Boy | Wild Hogs | The Comebacks | Agent Carter",
+  "id": "bw-p-nm0804460",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Randy Sklar",
+  "type": "task"
+}

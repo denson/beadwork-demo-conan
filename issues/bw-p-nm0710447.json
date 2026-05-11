@@ -1,0 +1,19 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "James Ransone. 1979–2025 | actor, soundtrack, archive_footage.\nDECEASED (1979–2025). Conan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0710447/\n_search: James Ransone | It: Chapter Two | Sinister | Sinister 2 | Generation Kill",
+  "id": "bw-p-nm0710447",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "James Ransone",
+  "type": "task"
+}

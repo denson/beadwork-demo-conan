@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Trey Anastasio. b. 1964 | composer, actor, soundtrack.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0025709/\n_search: Trey Anastasio | 127 Hours | Bank Roll | Condo Painting | Wetlands Preserved: The Story of an Activist Nightclub",
+  "id": "bw-p-nm0025709",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Trey Anastasio",
+  "type": "task"
+}

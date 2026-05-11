@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Edward Droste. actor, composer, music_department.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4546074/\n_search: Edward Droste | The Kids Are All Right | Blue Valentine | The Dictator | Search Party",
+  "id": "bw-p-nm4546074",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Edward Droste",
+  "type": "task"
+}

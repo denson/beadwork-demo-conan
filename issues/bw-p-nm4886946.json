@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Michael Kiwanuka. b. 1987 | composer, actor, producer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm4886946/\n_search: Michael Kiwanuka | A Long Way Down | Big Little Lies | Yesterday | The Get Down",
+  "id": "bw-p-nm4886946",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Michael Kiwanuka",
+  "type": "task"
+}

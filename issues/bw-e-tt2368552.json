@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "The Pimp with the Limp Who Loved to Eat Shrimp. conan_tbs, S2E131, 2012.\nIMDb rating: 6.0.\nIMDb: https://www.imdb.com/title/tt2368552/\n_search: The Pimp with the Limp Who Loved to Eat Shrimp | 2012 | S2E131",
+  "id": "bw-e-tt2368552",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "The Pimp with the Limp Who Loved to Eat Shrimp",
+  "type": "task"
+}

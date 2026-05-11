@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Kurt Andersen. writer, producer, actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm1970785/\n_search: Kurt Andersen | Command Z | Turn of the Century | Spy Magazine Presents How to Be Famous | The Spy Magazine Hit List: The 100 Most Annoying and Alarming People and Events of 1992",
+  "id": "bw-p-nm1970785",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Kurt Andersen",
+  "type": "task"
+}

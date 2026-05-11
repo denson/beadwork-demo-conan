@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Patty Jenkins/Riley Keough/Laurie Kilmartin. conan_tbs, S7E95, 2017.\nRuntime: 42 min.\nIMDb: https://www.imdb.com/title/tt6983818/\n_search: Patty Jenkins/Riley Keough/Laurie Kilmartin | 2017 | S7E95",
+  "id": "bw-e-tt6983818",
+  "labels": [
+    "kind:episode",
+    "era:conan_tbs",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Patty Jenkins/Riley Keough/Laurie Kilmartin",
+  "type": "task"
+}

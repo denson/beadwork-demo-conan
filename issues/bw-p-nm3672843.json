@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Thomas Gibbons. actor, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm3672843/\n_search: Thomas Gibbons | Law \u0026 Order: Special Victims Unit | A Private Act | Gays: The Series | Housewarming",
+  "id": "bw-p-nm3672843",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Thomas Gibbons",
+  "type": "task"
+}

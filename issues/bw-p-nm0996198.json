@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "John Grady. b. 1965 | actor.\nConan-show appearances: 1\nIMDb: https://www.imdb.com/name/nm0996198/\n_search: John Grady | I Am Legend | The Den | Matador | Genau",
+  "id": "bw-p-nm0996198",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "John Grady",
+  "type": "task"
+}

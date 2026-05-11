@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Barbara Walters/Grant Rosenmeyer/Grant-Lee Phillips. late_night, S11E77, 2004.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0883747/\n_search: Barbara Walters/Grant Rosenmeyer/Grant-Lee Phillips | 2004 | S11E77",
+  "id": "bw-e-tt0883747",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Barbara Walters/Grant Rosenmeyer/Grant-Lee Phillips",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Andy Garcia. b. 1956 | actor, producer, director.\nConan-show appearances: 3\nIMDb: https://www.imdb.com/name/nm0000412/\n_search: Andy Garcia | Ocean's Eleven | The Godfather Part III | Ocean's Twelve | Geostorm",
+  "id": "bw-p-nm0000412",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Andy Garcia",
+  "type": "task"
+}

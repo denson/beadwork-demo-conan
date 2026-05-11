@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Ellen Cleghorne/Don Ho/The Rembrandts. late_night, S2E169, 1995.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt2741162/\n_search: Ellen Cleghorne/Don Ho/The Rembrandts | 1995 | S2E169",
+  "id": "bw-e-tt2741162",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Ellen Cleghorne/Don Ho/The Rembrandts",
+  "type": "task"
+}

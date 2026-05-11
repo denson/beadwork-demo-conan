@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Howie Mandel/Jim Gaffigan/Goo Goo Dolls. late_night, S13E110, 2006.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0799177/\n_search: Howie Mandel/Jim Gaffigan/Goo Goo Dolls | 2006 | S13E110",
+  "id": "bw-e-tt0799177",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Howie Mandel/Jim Gaffigan/Goo Goo Dolls",
+  "type": "task"
+}

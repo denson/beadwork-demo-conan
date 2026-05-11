@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Cyndi Lauper/\"Mr. Food\" Art Ginsberg/Ben Stein. late_night, S4E146, 1997.\nRuntime: 57 min.\nIMDb: https://www.imdb.com/title/tt0627006/\n_search: Cyndi Lauper/\"Mr. Food\" Art Ginsberg/Ben Stein | 1997 | S4E146",
+  "id": "bw-e-tt0627006",
+  "labels": [
+    "kind:episode",
+    "era:late_night",
+    "source:imdb_seed",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Cyndi Lauper/\"Mr. Food\" Art Ginsberg/Ben Stein",
+  "type": "task"
+}

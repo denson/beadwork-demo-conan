@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Charlyne Yi. b. 1986 | actress, writer, composer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm2304722/\n_search: Charlyne Yi | Paper Heart | This Is 40 | Knocked Up | Steven Universe",
+  "id": "bw-p-nm2304722",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:multi",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Charlyne Yi",
+  "type": "task"
+}

@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jessen Noviello. stunts, actor, miscellaneous.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0637102/\n_search: Jessen Noviello | Divergent | Scouts Guide to the Zombie Apocalypse | Ava | Bird Box",
+  "id": "bw-p-nm0637102",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jessen Noviello",
+  "type": "task"
+}

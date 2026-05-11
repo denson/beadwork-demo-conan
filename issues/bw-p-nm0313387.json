@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Christopher George. 1931–1983 | actor, archive_footage.\nDECEASED (1931–1983). Conan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm0313387/\n_search: Christopher George | El Dorado | The Rat Patrol | Chisum | Graduation Day",
+  "id": "bw-p-nm0313387",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "is:deceased",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Christopher George",
+  "type": "task"
+}

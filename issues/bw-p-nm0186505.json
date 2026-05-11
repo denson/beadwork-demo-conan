@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Bryan Cranston. b. 1956 | actor, producer, writer.\nConan-show appearances: 7\nIMDb: https://www.imdb.com/name/nm0186505/\n_search: Bryan Cranston | Breaking Bad | Malcolm in the Middle | Argo | Trumbo",
+  "id": "bw-p-nm0186505",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:conan_tbs",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Bryan Cranston",
+  "type": "task"
+}

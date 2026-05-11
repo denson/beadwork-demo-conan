@@ -1,0 +1,18 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "",
+  "description": "Jason Trachtenburg. actor, composer, writer.\nConan-show appearances: 0\nIMDb: https://www.imdb.com/name/nm2102041/\n_search: Jason Trachtenburg | Me \u0026 Lee: The Musical | Hipster Vice | Sometimes Surface | The Promise of New York",
+  "id": "bw-p-nm2102041",
+  "labels": [
+    "kind:person",
+    "source:imdb_seed",
+    "era:late_night",
+    "privacy:public_record"
+  ],
+  "priority": 2,
+  "status": "open",
+  "title": "Jason Trachtenburg",
+  "type": "task"
+}
