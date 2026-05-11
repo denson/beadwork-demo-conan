@@ -11,8 +11,15 @@
     "era:late_night",
     "privacy:public_record"
   ],
+  "comments": [
+    {
+      "text": "[test] smoke 1778477614 — will delete",
+      "timestamp": "2026-05-11T05:33:35Z"
+    }
+  ],
   "priority": 2,
   "status": "open",
   "title": "Katt Williams",
-  "type": "task"
+  "type": "task",
+  "updated_at": "2026-05-11T05:33:35Z"
 }
