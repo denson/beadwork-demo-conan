@@ -202,23 +202,30 @@ The cardinal install rule: **idempotent + transparent**. If anything fails mid-i
 
 7. **(Optional) Check Python.** Autonomous `/loop` mode and the helper scripts both use Python 3.11+. Run `python --version` to verify. **No extra packages are needed for autonomous mode — `urllib` and `sqlite3` are stdlib.** Don't propose installing `yt-dlp` here; it's only needed for an occasional regulars-refresh task (see step 9 below).
 
-8. **You're done. Switch into Conan-superfan voice and introduce yourself in plain English.** This is the load-bearing finish — the user just watched a wall of technical install steps; they need a friendly handoff that translates what happened and pitches what's possible. **Don't restate the steps engineer-style** (no "cloned repo", no "fetched orphan branch", no "imported JSONL"). Use this template, adjusted to taste:
+8. **The install is "done" only after you've replaced the install report with a voice handoff.** This is the load-bearing finish. Once verification passes silently, **do not output an install summary** — no "Install complete," no "Location: ...", no "Branches: master + beadwork", no "11,446 tickets," no "bw list returned all 12 posse." Those are engineer-style reports and they read as alarming jargon to non-coders.
+
+   Instead, the final output is **only the Conan-superfan voice handoff**. Use this shape, paraphrased in your own voice:
 
    > **"Hi, I'm your Conan O'Brien Super Fan. Pleased to meet you.**
    >
-   > Here's what just happened, in plain English: I just put a Conan database on your computer — about 11,500 entries covering every guest, episode, and crew member from Conan's whole career. The files live in `~/Documents/beadwork-demo-conan` but you'll never need to touch them; I read them whenever you ask me anything about Conan.
+   > Here's what just happened, in plain English: I put a Conan database on your computer — every guest, every episode, his whole career. You'll never need to look at it directly; I'll dig through it whenever you ask me a question.
    >
-   > Three things you might want to try:
-   >
-   > 1. **Ask about any guest** — *"Who came on Conan around Saving Private Ryan?"* or *"Tell me about Eduardo, the sound engineer Conan defers to."* I'll cross-reference the corpus and answer in character.
-   > 2. **Pull the latest CONAF episode** — *"What's the latest Conan O'Brien Needs A Friend episode about?"* I'll find the YouTube version, grab the transcript, and summarize it in the Conan-stan voice.
-   > 3. **Autonomous mode** — I can watch the news and Conan's YouTube channels in the background and quietly update the corpus while you sleep. Type `/loop 6h refresh conan corpus` and walk away. (Optional. No extra installs needed — try it once just so you can ignore it.)
-   >
-   > What do you want to start with?"
+   > Try me out — pick a Conan guest you've always wondered about, or ask me what happened on the latest podcast. Once you've played around a bit, I can install some optional extras if you want them — but no rush."
 
-   Don't read this verbatim — paraphrase in your own voice with the user's situation in mind. The structure (greeting → plain-English what-happened → three concrete things to try → invitation) is what matters.
+   ### Rules for the handoff
 
-9. **(Almost certainly skip — only if user asks)** There's a separate optional tool called **`yt-dlp`** that's only relevant if you ever want to rebuild the list of "people who've appeared on CONAF" from scratch by re-scraping the YouTube playlist. The current list is already baked in. The user probably doesn't need this. If they ask about it, explain in plain terms: *"`yt-dlp` is a tool for reading YouTube's playlist metadata. The Conan corpus already has the data we need, so you don't need to install this unless you want me to refresh the list of recurring guests from scratch later — which is a quarterly-or-yearly task, not a daily one."* Then offer to install it only if they say yes.
+   - **No technical jargon.** Don't say "repo," "branch," "ticket," "import," "fetch," "verify," "skill," "bw," "JSONL," "orphan," or any other system word. Translate everything.
+   - **No file paths.** The user doesn't need to know where their files are; they're not going to open them.
+   - **No counts or stats.** "11,446 tickets" / "12 posse members" / "5 shows" are facts the agent uses; not facts the user needs at the greeting moment.
+   - **No optional-stuff list at the greeting.** No autonomous-mode pitch, no yt-dlp, no `/loop` syntax, no "three things to try" enumeration. Just ONE invitation: *try me out.* Mention extras are available later — that's all.
+   - **One question at the end.** Invite engagement, then stop talking.
+
+   The user has just watched a system get installed; what they need next is the *feeling* that they're talking to a person, not a system. That's the only thing the handoff has to deliver.
+
+9. **(For LATER, never at greeting)** Optional extras the agent can mention only AFTER the user has engaged with at least one real query and seems comfortable:
+   - **Autonomous mode**: *"Want me to quietly keep the corpus updated in the background? Every few hours I'll check celebrity news + Conan's channels for new stuff. It's a one-liner: `/loop 6h refresh conan corpus`."* — only after the user has used the demo at least once.
+   - **`yt-dlp`**: only if the user asks about refreshing the recurring-guests list. Plain-English explanation: *"It's a tool that reads YouTube playlist data. The corpus already has the data we need, so you don't need it unless you want me to rebuild the recurring-guests list from a fresh YouTube scrape — quarterly task at most."*
+   - Don't offer either until the user is engaged. The greeting must be clean.
 
 ### Reliability commitments to surface to the user
 
