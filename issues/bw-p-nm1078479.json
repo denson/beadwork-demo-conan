@@ -11,8 +11,15 @@
     "era:multi",
     "privacy:public_record"
   ],
+  "comments": [
+    {
+      "text": "[news-id:3c28c5725e9f] [scout] news match 2026-05-10: \"WWE Announces 'John Cena Classic' For Main Roster, NXT Wrestlers (WWE News) - WhatCulture.com\"\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxPcC1ldFZ1YmQtSDVaOWZ2eXVTcnVMelV2bXhPd1g2QkdUSjl0d1R1TmNGcEZRU2YxZjZYd1NKQ1V1ZDFKczVqN0NQdk5mME5XWlJSY2FfeklaV203TTlDRzN4b2thLUlxb2xabk5CV3ozdHhKSWJFRmo4ZXNvUjY1eFhxWXh6NVZGQWk4LTFTaGtucjQ?oc=5\nSummary: WWE Announces 'John Cena Classic' For Main Roster, NXT Wrestlers (WWE News) WhatCulture.com After John Cena's confusing Backlash announcement, WWE should tone down the constant hype Yahoo Sports Photos: John Cena makes groundbreaking announ",
+      "timestamp": "2026-05-11T05:36:54Z"
+    }
+  ],
   "priority": 2,
   "status": "open",
   "title": "John Cena",
-  "type": "task"
+  "type": "task",
+  "updated_at": "2026-05-11T05:36:54Z"
 }
