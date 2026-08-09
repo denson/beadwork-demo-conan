@@ -1,0 +1,13 @@
+# EditorConfig — stop IDEs/editors from writing CRLF back into the tree.
+# Pairs with .gitattributes (git normalizes on commit/checkout; this keeps the
+# editor from re-introducing CRLF between those points). See u--ug1.
+root = true
+
+[*]
+end_of_line = lf
+charset = utf-8
+insert_final_newline = true
+
+# Windows batch files require CRLF.
+[*.{bat,cmd}]
+end_of_line = crlf

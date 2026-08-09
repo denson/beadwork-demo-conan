@@ -1,0 +1,49 @@
+# Line-ending normalization (u--ug1 standard).
+#
+# .gitattributes is the source of truth for line endings: it is tracked, applies
+# repo-wide, and OVERRIDES every contributor's local core.autocrlf. The repository
+# stores text as LF; the worktree is checked out as LF on every platform.
+#
+# Rationale + rollout standard: user-beadwork ticket u--ug1.
+#
+# IMPORTANT: adding this file does not rewrite files already on disk. After
+# committing it on a clean tree, force a fresh checkout:
+#   git add --renormalize .
+#   git rm --cached -r . && git reset --hard HEAD
+
+# Default: auto-detect text vs binary; store + check out text as LF everywhere.
+* text=auto eol=lf
+
+# POSIX shell + hooks MUST be LF — a CRLF shebang (`#!/bin/sh\r`) is not found by
+# the interpreter and the script fails to execute.
+*.sh   text eol=lf
+
+# Windows batch files MUST be CRLF — cmd.exe requires it.
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+
+# PowerShell 7 runs fine with LF. Keep LF for consistency (these scripts are not
+# Authenticode-signed and do not target Windows PowerShell 5.1, which are the only
+# cases that would require CRLF).
+*.ps1  text eol=lf
+
+# Binary file types: never normalize. git auto-detects most, but mark the known
+# ones explicitly so a misdetection can never corrupt them.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.webp  binary
+*.pdf   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.eot   binary
+*.otf   binary
+*.zip   binary
+*.gz    binary
+*.mp4   binary
+*.mov   binary
+*.mp3   binary
+*.wav   binary
